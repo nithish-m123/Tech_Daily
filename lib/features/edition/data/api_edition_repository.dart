@@ -12,9 +12,10 @@ class ApiEditionRepository implements EditionRepository {
 
   @override
   Future<Edition> getTodayEdition() async {
-    // 1. Try remote static hosting /data/edition_today.json
+    final ts = DateTime.now().millisecondsSinceEpoch;
+    // 1. Try remote static hosting data/edition_today.json with cache-buster
     try {
-      final response = await _apiClient.get<dynamic>('/data/edition_today.json');
+      final response = await _apiClient.get<dynamic>('data/edition_today.json?t=$ts');
       if (response.data != null) {
         final Map<String, dynamic> map = response.data is String
             ? jsonDecode(response.data as String) as Map<String, dynamic>
@@ -27,7 +28,7 @@ class ApiEditionRepository implements EditionRepository {
 
     // 2. Try standard REST API route
     try {
-      final response = await _apiClient.get<Map<String, dynamic>>('/api/v1/edition/today');
+      final response = await _apiClient.get<Map<String, dynamic>>('api/v1/edition/today?t=$ts');
       if (response.data != null) {
         return Edition.fromJson(response.data!);
       }
@@ -48,9 +49,10 @@ class ApiEditionRepository implements EditionRepository {
   @override
   Future<Edition> getEdition(DateTime date) async {
     final dateKey = DateFormatter.formatDateKey(date);
-    // Tries static hosting /data/editions/{date}.json first, then /api/v1/edition/{date}
+    final ts = DateTime.now().millisecondsSinceEpoch;
+    // Tries static hosting data/editions/{date}.json first
     try {
-      final response = await _apiClient.get<dynamic>('/data/editions/$dateKey.json');
+      final response = await _apiClient.get<dynamic>('data/editions/$dateKey.json?t=$ts');
       if (response.data != null) {
         final Map<String, dynamic> map = response.data is String
             ? jsonDecode(response.data as String) as Map<String, dynamic>
@@ -61,7 +63,7 @@ class ApiEditionRepository implements EditionRepository {
       // Fall through to API route
     }
 
-    final response = await _apiClient.get<Map<String, dynamic>>('/api/v1/edition/$dateKey');
+    final response = await _apiClient.get<Map<String, dynamic>>('api/v1/edition/$dateKey?t=$ts');
     if (response.data == null) {
       throw Exception('Empty response received for edition on $dateKey');
     }
@@ -70,9 +72,10 @@ class ApiEditionRepository implements EditionRepository {
 
   @override
   Future<List<DateTime>> getArchiveDates() async {
-    // Tries static hosting /data/archive.json first, then /api/v1/editions/archive
+    final ts = DateTime.now().millisecondsSinceEpoch;
+    // Tries static hosting data/archive.json first
     try {
-      final response = await _apiClient.get<dynamic>('/data/archive.json');
+      final response = await _apiClient.get<dynamic>('data/archive.json?t=$ts');
       if (response.data != null) {
         final List<dynamic> list = response.data is String
             ? jsonDecode(response.data as String) as List<dynamic>
@@ -86,7 +89,7 @@ class ApiEditionRepository implements EditionRepository {
       // Fall through to API route
     }
 
-    final response = await _apiClient.get<List<dynamic>>('/api/v1/editions/archive');
+    final response = await _apiClient.get<List<dynamic>>('api/v1/editions/archive?t=$ts');
     final data = response.data ?? [];
     return data
         .map((item) => DateTime.tryParse(item.toString()))

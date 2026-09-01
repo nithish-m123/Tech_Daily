@@ -256,8 +256,21 @@ class _EditionScreenState extends ConsumerState<EditionScreen> {
                     ),
                   ),
 
-                  // 48px width placeholder to balance the menu button and keep TECH DAILY perfectly centered
-                  const SizedBox(width: 48),
+                  // Refresh button to immediately reload today's live edition from CDN
+                  IconButton(
+                    icon: Icon(Icons.refresh_rounded, color: mutedTextColor, size: 20),
+                    tooltip: 'Refresh today\'s news',
+                    onPressed: () async {
+                      ref.read(todayEditionProvider.notifier).loadTodayEdition();
+                      ScaffoldMessenger.of(context).showSnackBar(
+                        const SnackBar(
+                          content: Text('Checking for today\'s latest briefing...'),
+                          duration: Duration(seconds: 1),
+                          behavior: SnackBarBehavior.floating,
+                        ),
+                      );
+                    },
+                  ),
                 ],
               ),
             ),

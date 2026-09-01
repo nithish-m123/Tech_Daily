@@ -54,7 +54,7 @@ class AppConstants {
   }
 
   // API Config (Raw GitHub CDN endpoint for instant, free dynamic briefing feeds)
-  static const String defaultBaseUrl = 'https://raw.githubusercontent.com/nithish-m123/Tech_Daily/main';
+  static const String defaultBaseUrl = 'https://raw.githubusercontent.com/nithish-m123/Tech_Daily/main/';
   static const int connectTimeoutSeconds = 10;
   static const int receiveTimeoutSeconds = 15;
 
