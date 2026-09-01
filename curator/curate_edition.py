@@ -33,6 +33,8 @@ IST_TZ = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
 def get_today_date_str() -> str:
     """Returns today's date in IST (UTC+5:30) so morning editions match the local calendar date."""
     return datetime.datetime.now(IST_TZ).date().isoformat()
+
+def clean_html(raw_html: str) -> str:
     """Removes HTML tags and unescapes entities."""
     if not raw_html:
         return ""
@@ -125,8 +127,8 @@ def fetch_hacker_news_top(max_items: int = 5):
 
 def synthesize_with_gemini(raw_articles, api_key: str):
     """Uses Google Gemini Flash API to structure raw tech news into Tech Daily format."""
-    print("Synthesizing edition using Gemini 2.5 Flash...")
-    endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
+    print("Synthesizing edition using Gemini 1.5 Flash...")
+    endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
     
     prompt = f"""You are the Chief Technology Editor of 'Tech Daily', a calm, rigorous daily broadsheet newspaper.
 Review the following candidate technology articles from today:
@@ -172,15 +174,20 @@ Only return valid raw JSON without backticks or markdown fences.
         "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"}
     }
     
-    req = urllib.request.Request(
-        endpoint,
-        data=json.dumps(payload).encode('utf-8'),
-        headers={"Content-Type": "application/json"}
-    )
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        res = json.loads(resp.read().decode('utf-8'))
-        text_content = res['candidates'][0]['content']['parts'][0]['text']
-        return json.loads(text_content)
+    try:
+        req = urllib.request.Request(
+            endpoint,
+            data=json.dumps(payload).encode('utf-8'),
+            headers={"Content-Type": "application/json"}
+        )
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            res = json.loads(resp.read().decode('utf-8'))
+            text_content = res['candidates'][0]['content']['parts'][0]['text']
+            return json.loads(text_content)
+    except Exception as e:
+        print(f"  [Warning] Gemini API call encountered error: {e}")
+        print("  Falling back to built-in editorial structuring engine...")
+        return synthesize_locally(raw_articles)
 
 def synthesize_locally(raw_articles):
     """Fallback high-quality heuristic synthesizer when no Gemini API key is configured."""

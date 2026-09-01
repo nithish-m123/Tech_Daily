@@ -1,9 +1,9 @@
-﻿{
+{
   "categories": {
     "AI & MACHINE LEARNING": [
       { "name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/" },
       { "name": "OpenAI News", "url": "https://openai.com/news/rss.xml" },
-      { "name": "Apple ML Research", "url": "https://machinelearning.apple.com/feed.xml" },
+      { "name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml" },
       { "name": "MIT Tech Review AI", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed" }
     ],
     "DEVELOPERS": [
@@ -31,7 +31,7 @@
       { "name": "Microsoft Azure Blog", "url": "https://azure.microsoft.com/en-us/blog/feed/" }
     ],
     "TECHNOLOGY RESEARCH": [
-      { "name": "DeepMind Blog", "url": "https://deepmind.google/discover/blog/rss.xml" },
+      { "name": "MIT Tech Review Computing", "url": "https://www.technologyreview.com/topic/computing/feed" },
       { "name": "arXiv CS AI", "url": "https://rss.arxiv.org/rss/cs.AI" }
     ],
     "TECHNOLOGY AROUND THE WORLD": [

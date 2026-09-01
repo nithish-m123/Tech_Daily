@@ -15,7 +15,7 @@
       "Technical Implementation: Documented and released by Google AI Blog with official benchmarks.",
       "Adoption: Available immediately for engineering teams to evaluate and integrate."
     ],
-    "published_at": "2026-09-01T12:26:42.318564",
+    "published_at": "2026-09-01T12:50:10.668871+05:30",
     "importance": 9,
     "sources": [
       {
@@ -36,7 +36,7 @@
         "Technical Implementation: Documented and released by Google AI Blog with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -56,7 +56,7 @@
         "Technical Implementation: Documented and released by OpenAI News with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -76,7 +76,7 @@
         "Technical Implementation: Documented and released by OpenAI News with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -88,6 +88,46 @@
     {
       "id": "story_live_5",
       "category": "AI & MACHINE LEARNING",
+      "headline": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "summary": "The Open ASR Leaderboard Adds Its First Global South Language.",
+      "why_it_matters": "Represents a significant engineering milestone in ai & machine learning with widespread implications for modern software architecture.",
+      "key_points": [
+        "Focus Area: Addresses key engineering challenges in Ai & Machine Learning.",
+        "Technical Implementation: Documented and released by Hugging Face Blog with official benchmarks.",
+        "Adoption: Available immediately for engineering teams to evaluate and integrate."
+      ],
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
+        }
+      ]
+    },
+    {
+      "id": "story_live_6",
+      "category": "AI & MACHINE LEARNING",
+      "headline": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "summary": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers.",
+      "why_it_matters": "Represents a significant engineering milestone in ai & machine learning with widespread implications for modern software architecture.",
+      "key_points": [
+        "Focus Area: Addresses key engineering challenges in Ai & Machine Learning.",
+        "Technical Implementation: Documented and released by Hugging Face Blog with official benchmarks.",
+        "Adoption: Available immediately for engineering teams to evaluate and integrate."
+      ],
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/train-multi-vector-encoder"
+        }
+      ]
+    },
+    {
+      "id": "story_live_7",
+      "category": "AI & MACHINE LEARNING",
       "headline": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI.",
       "why_it_matters": "To get stories like this in your inbox first, sign up here.",
@@ -96,7 +136,7 @@
         "Technical Implementation: Documented and released by MIT Tech Review AI with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -106,7 +146,7 @@
       ]
     },
     {
-      "id": "story_live_6",
+      "id": "story_live_8",
       "category": "AI & MACHINE LEARNING",
       "headline": "The inside story on why OpenAI agents hacked Hugging Face",
       "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today.",
@@ -116,7 +156,7 @@
         "Technical Implementation: Documented and released by MIT Tech Review AI with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -126,7 +166,7 @@
       ]
     },
     {
-      "id": "story_live_7",
+      "id": "story_live_9",
       "category": "DEVELOPERS",
       "headline": "OpenClaw went viral. Meet the maintainers building and securing it.",
       "summary": "OpenClaw is the fastest-growing project in GitHub history.",
@@ -136,7 +176,7 @@
         "Technical Implementation: Documented and released by GitHub Blog with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -146,7 +186,7 @@
       ]
     },
     {
-      "id": "story_live_8",
+      "id": "story_live_10",
       "category": "DEVELOPERS",
       "headline": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
       "summary": "Managing library updates can be tedious at times.",
@@ -156,7 +196,7 @@
         "Technical Implementation: Documented and released by GitHub Blog with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -166,7 +206,7 @@
       ]
     },
     {
-      "id": "story_live_9",
+      "id": "story_live_11",
       "category": "DEVELOPERS",
       "headline": "The good ol’ days of building Java",
       "summary": "Ryan sits down with Tim Lindholm, an early contributor to the Java language at Sun Microsystems, to chat about what it was like building one of the most popular programming languages ever at its inception, why it was strategically important for the Java team to create a cross-platform ABI to compete with Windows NT, and how applets were initially just an interesting demo.",
@@ -176,7 +216,7 @@
         "Technical Implementation: Documented and released by Stack Overflow Blog with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -186,7 +226,7 @@
       ]
     },
     {
-      "id": "story_live_10",
+      "id": "story_live_12",
       "category": "DEVELOPERS",
       "headline": "When you keep AI Lean, you keep AI correct",
       "summary": "Ryan chats with Leo de Moura, Senior Principal Applied Scientist at AWS and the creator of the Lean language, about proving correctness in AI agents with the Lean language, how automated reasoning complements probabilistic AI models, and the use of AI for continuous code optimization.",
@@ -196,7 +236,7 @@
         "Technical Implementation: Documented and released by Stack Overflow Blog with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -206,7 +246,7 @@
       ]
     },
     {
-      "id": "story_live_11",
+      "id": "story_live_13",
       "category": "DEVELOPERS",
       "headline": "Generic Methods",
       "summary": "Go 1.27 adds generic methods—a highly desired language feature.",
@@ -216,7 +256,7 @@
         "Technical Implementation: Documented and released by The Go Blog with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -226,7 +266,7 @@
       ]
     },
     {
-      "id": "story_live_12",
+      "id": "story_live_14",
       "category": "DEVELOPERS",
       "headline": "Go 1.27 is released",
       "summary": "Go 1.27 adds generic methods, encoding/json/v2 package, uuid package, faster memory allocation, goroutine leak profiles, and more.",
@@ -236,7 +276,7 @@
         "Technical Implementation: Documented and released by The Go Blog with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -246,7 +286,7 @@
       ]
     },
     {
-      "id": "story_live_13",
+      "id": "story_live_15",
       "category": "DEVELOPERS",
       "headline": "Emulator control for adaptive app development",
       "summary": "Posted by Rob Orgiu, Developer Relations Engineer, Adaptive Apps, Android Adaptive app development is fundamental on Android, but making sure everything looks good and every feature works the way it should require multiple tests on multiple devices.",
@@ -256,7 +296,7 @@
         "Technical Implementation: Documented and released by Android Developers Blog with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -266,7 +306,7 @@
       ]
     },
     {
-      "id": "story_live_14",
+      "id": "story_live_16",
       "category": "DEVELOPERS",
       "headline": "How WhatsApp Upgraded to Secure, Seamless Sign-In for 1 Billion Users with Passkeys",
       "summary": "Posted by Niharika Arora, Senior Developer Relations Engineer, Tracy Agyemang, Product Marketing Manager, Google and Mayank Manuja, Android Engineer, Meta WhatsApp is the world's largest messaging platform, serving billions of users globally.",
@@ -276,7 +316,7 @@
         "Technical Implementation: Documented and released by Android Developers Blog with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -286,7 +326,7 @@
       ]
     },
     {
-      "id": "story_live_15",
+      "id": "story_live_17",
       "category": "BIG TECH",
       "headline": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
       "summary": "Training and serving frontier AI models depends on fast, reliable networks that move data between GPUs without wasting compute cycles.",
@@ -296,7 +336,7 @@
         "Technical Implementation: Documented and released by Meta Engineering with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -306,7 +346,7 @@
       ]
     },
     {
-      "id": "story_live_16",
+      "id": "story_live_18",
       "category": "BIG TECH",
       "headline": "MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines",
       "summary": "MTIA 300 is the first of Meta’s family of in-house training and inference accelerators optimized for training ranking and recommendation models.",
@@ -316,7 +356,7 @@
         "Technical Implementation: Documented and released by Meta Engineering with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -326,7 +366,7 @@
       ]
     },
     {
-      "id": "story_live_17",
+      "id": "story_live_19",
       "category": "BIG TECH",
       "headline": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
       "summary": "By Emma Yanyang Kong , Aditya Deshpande , Asad Abbasi , Bowei Yan , David Fagnan , Ashish Rastogi , Dhaval Patel , Ray Zhang Introduction The Netflix experience is a journey of discovery.",
@@ -336,7 +376,7 @@
         "Technical Implementation: Documented and released by Netflix Tech Blog with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -346,7 +386,7 @@
       ]
     },
     {
-      "id": "story_live_18",
+      "id": "story_live_20",
       "category": "BIG TECH",
       "headline": "A Tale of Two Flink Autoscalers",
       "summary": "Samuel Yeboah , Francesco Di Chiara and Mingliang Liu Today, Netflix runs two Flink autoscalers.",
@@ -356,7 +396,7 @@
         "Technical Implementation: Documented and released by Netflix Tech Blog with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -366,7 +406,7 @@
       ]
     },
     {
-      "id": "story_live_19",
+      "id": "story_live_21",
       "category": "BIG TECH",
       "headline": "The Google TV Streamer now costs $50 more",
       "summary": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price.",
@@ -376,7 +416,7 @@
         "Technical Implementation: Documented and released by The Verge Tech with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -386,7 +426,7 @@
       ]
     },
     {
-      "id": "story_live_20",
+      "id": "story_live_22",
       "category": "BIG TECH",
       "headline": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
       "summary": "JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China.",
@@ -396,7 +436,7 @@
         "Technical Implementation: Documented and released by The Verge Tech with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -406,7 +446,7 @@
       ]
     },
     {
-      "id": "story_live_21",
+      "id": "story_live_23",
       "category": "STARTUPS",
       "headline": "Magna increases bet on battery swapping in India with $35M for Yuma",
       "summary": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
@@ -416,7 +456,7 @@
         "Technical Implementation: Documented and released by TechCrunch Startups with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -426,7 +466,7 @@
       ]
     },
     {
-      "id": "story_live_22",
+      "id": "story_live_24",
       "category": "STARTUPS",
       "headline": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
       "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
@@ -436,7 +476,7 @@
         "Technical Implementation: Documented and released by TechCrunch Startups with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -446,7 +486,7 @@
       ]
     },
     {
-      "id": "story_live_23",
+      "id": "story_live_25",
       "category": "CYBERSECURITY",
       "headline": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
       "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever.",
@@ -456,7 +496,7 @@
         "Technical Implementation: Documented and released by Krebs on Security with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -466,7 +506,7 @@
       ]
     },
     {
-      "id": "story_live_24",
+      "id": "story_live_26",
       "category": "CYBERSECURITY",
       "headline": "Who’s Tracking You? Use This New Service to Find Out",
       "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day.",
@@ -476,7 +516,7 @@
         "Technical Implementation: Documented and released by Krebs on Security with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -486,7 +526,7 @@
       ]
     },
     {
-      "id": "story_live_25",
+      "id": "story_live_27",
       "category": "CYBERSECURITY",
       "headline": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
       "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers employed in sales and marketing and the medical profession.",
@@ -496,7 +536,7 @@
         "Technical Implementation: Documented and released by The Hacker News with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -506,7 +546,7 @@
       ]
     },
     {
-      "id": "story_live_26",
+      "id": "story_live_28",
       "category": "CYBERSECURITY",
       "headline": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
       "summary": "The boring parts caused most of the trouble.",
@@ -516,7 +556,7 @@
         "Technical Implementation: Documented and released by The Hacker News with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -526,7 +566,7 @@
       ]
     },
     {
-      "id": "story_live_27",
+      "id": "story_live_29",
       "category": "CYBERSECURITY",
       "headline": "Cronos blockchain restarts after $74 million Tectonic exploit",
       "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million.",
@@ -536,7 +576,7 @@
         "Technical Implementation: Documented and released by BleepingComputer with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -546,7 +586,7 @@
       ]
     },
     {
-      "id": "story_live_28",
+      "id": "story_live_30",
       "category": "CYBERSECURITY",
       "headline": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
       "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal.",
@@ -556,7 +596,7 @@
         "Technical Implementation: Documented and released by BleepingComputer with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -566,7 +606,7 @@
       ]
     },
     {
-      "id": "story_live_29",
+      "id": "story_live_31",
       "category": "CLOUD",
       "headline": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
       "summary": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 are now generally available, delivering up to 25% better compute performance than R8g, ideal for databases, in-memory caches, and real-time analytics.",
@@ -576,7 +616,7 @@
         "Technical Implementation: Documented and released by AWS News Blog with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -586,7 +626,7 @@
       ]
     },
     {
-      "id": "story_live_30",
+      "id": "story_live_32",
       "category": "CLOUD",
       "headline": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
       "summary": "The news that interested me the most last week was the DuckLabs acquisition.",
@@ -596,7 +636,7 @@
         "Technical Implementation: Documented and released by AWS News Blog with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -606,7 +646,7 @@
       ]
     },
     {
-      "id": "story_live_31",
+      "id": "story_live_33",
       "category": "CLOUD",
       "headline": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack",
       "summary": "Bot operators have historically had the economic advantage, bypassing static, deterministic detection rules with cheap proxies and retooling.",
@@ -616,7 +656,7 @@
         "Technical Implementation: Documented and released by Cloudflare Blog with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -626,7 +666,7 @@
       ]
     },
     {
-      "id": "story_live_32",
+      "id": "story_live_34",
       "category": "CLOUD",
       "headline": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
       "summary": "Bot operators now have a home in the Cloudflare dashboard to manage submissions.",
@@ -636,7 +676,7 @@
         "Technical Implementation: Documented and released by Cloudflare Blog with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -646,7 +686,7 @@
       ]
     },
     {
-      "id": "story_live_33",
+      "id": "story_live_35",
       "category": "CLOUD",
       "headline": "The patch window is collapsing: Why security needs a new control plane",
       "summary": "Organizations need protection that operates in the gap between discovery and remediation.",
@@ -656,7 +696,7 @@
         "Technical Implementation: Documented and released by Microsoft Azure Blog with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -666,7 +706,7 @@
       ]
     },
     {
-      "id": "story_live_34",
+      "id": "story_live_36",
       "category": "CLOUD",
       "headline": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
       "summary": "Cloud-native platforms are becoming the foundation for AI transformation.",
@@ -676,7 +716,7 @@
         "Technical Implementation: Documented and released by Microsoft Azure Blog with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -686,7 +726,47 @@
       ]
     },
     {
-      "id": "story_live_35",
+      "id": "story_live_37",
+      "category": "TECHNOLOGY RESEARCH",
+      "headline": "Building a practical path to post-quantum cryptography",
+      "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles.",
+      "why_it_matters": "Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis.",
+      "key_points": [
+        "Focus Area: Addresses key engineering challenges in Technology Research.",
+        "Technical Implementation: Documented and released by MIT Tech Review Computing with official benchmarks.",
+        "Adoption: Available immediately for engineering teams to evaluate and integrate."
+      ],
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "MIT Tech Review Computing",
+          "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_38",
+      "category": "TECHNOLOGY RESEARCH",
+      "headline": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory.",
+      "why_it_matters": "Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.….",
+      "key_points": [
+        "Focus Area: Addresses key engineering challenges in Technology Research.",
+        "Technical Implementation: Documented and released by MIT Tech Review Computing with official benchmarks.",
+        "Adoption: Available immediately for engineering teams to evaluate and integrate."
+      ],
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "MIT Tech Review Computing",
+          "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_39",
       "category": "TECHNOLOGY RESEARCH",
       "headline": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
       "summary": "arXiv:2608.27459v1 Announce Type: new Abstract: In 2011, IBM's Watson was something like a sealed capsule of its era's queryable knowledge.",
@@ -696,7 +776,7 @@
         "Technical Implementation: Documented and released by arXiv CS AI with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -706,7 +786,7 @@
       ]
     },
     {
-      "id": "story_live_36",
+      "id": "story_live_40",
       "category": "TECHNOLOGY RESEARCH",
       "headline": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
       "summary": "arXiv:2608.27463v1 Announce Type: new Abstract: LLMs now sit on every side of evaluation: as examinees scored on benchmarks, judges of other models' outputs, and raters of human-generated content.",
@@ -716,7 +796,7 @@
         "Technical Implementation: Documented and released by arXiv CS AI with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -726,7 +806,7 @@
       ]
     },
     {
-      "id": "story_live_37",
+      "id": "story_live_41",
       "category": "TECHNOLOGY AROUND THE WORLD",
       "headline": "Meta accepts U.S. safety rules while pitching softer tools abroad",
       "summary": "As governments consider banning social media for under-16s, Meta is turning to influencers to argue that parental controls are a better solution.",
@@ -736,7 +816,7 @@
         "Technical Implementation: Documented and released by Rest of World with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -746,7 +826,7 @@
       ]
     },
     {
-      "id": "story_live_38",
+      "id": "story_live_42",
       "category": "TECHNOLOGY AROUND THE WORLD",
       "headline": "I went to China to see a different AI future. It looked familiar",
       "summary": "My trip to China revealed an AI race that looks less like a clash of competing visions, and more like two countries racing toward a similar future.",
@@ -756,7 +836,7 @@
         "Technical Implementation: Documented and released by Rest of World with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -766,17 +846,17 @@
       ]
     },
     {
-      "id": "story_live_39",
+      "id": "story_live_43",
       "category": "STARTUPS",
       "headline": "GPU World",
-      "summary": "Trending discussion on Hacker News with score of 109 points and 43 developer comments.",
+      "summary": "Trending discussion on Hacker News with score of 128 points and 54 developer comments.",
       "why_it_matters": "Represents a significant engineering milestone in startups with widespread implications for modern software architecture.",
       "key_points": [
         "Focus Area: Addresses key engineering challenges in Startups.",
         "Technical Implementation: Documented and released by Hacker News with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -786,17 +866,17 @@
       ]
     },
     {
-      "id": "story_live_40",
+      "id": "story_live_44",
       "category": "STARTUPS",
       "headline": "Fastpotify",
-      "summary": "Trending discussion on Hacker News with score of 224 points and 92 developer comments.",
+      "summary": "Trending discussion on Hacker News with score of 254 points and 111 developer comments.",
       "why_it_matters": "Represents a significant engineering milestone in startups with widespread implications for modern software architecture.",
       "key_points": [
         "Focus Area: Addresses key engineering challenges in Startups.",
         "Technical Implementation: Documented and released by Hacker News with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
@@ -806,22 +886,22 @@
       ]
     },
     {
-      "id": "story_live_41",
+      "id": "story_live_45",
       "category": "STARTUPS",
-      "headline": "AI Can Make You Suck Faster Too",
-      "summary": "Trending discussion on Hacker News with score of 46 points and 29 developer comments.",
+      "headline": "1Password Supports the Ethnic Cleansing of Europe",
+      "summary": "Trending discussion on Hacker News with score of 5 points and 0 developer comments.",
       "why_it_matters": "Represents a significant engineering milestone in startups with widespread implications for modern software architecture.",
       "key_points": [
         "Focus Area: Addresses key engineering challenges in Startups.",
         "Technical Implementation: Documented and released by Hacker News with official benchmarks.",
         "Adoption: Available immediately for engineering teams to evaluate and integrate."
       ],
-      "published_at": "2026-09-01T12:26:42.318564",
+      "published_at": "2026-09-01T12:50:10.668871+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too"
+          "url": "https://www.alilleybrinker.com/blog/1password-funds-ethnic-cleansing/"
         }
       ]
     }
