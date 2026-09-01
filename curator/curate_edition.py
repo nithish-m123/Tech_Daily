@@ -27,7 +27,12 @@ CATEGORIES = [
     "TECHNOLOGY AROUND THE WORLD"
 ]
 
-def clean_html(raw_html: str) -> str:
+# IST Timezone (UTC + 5:30)
+IST_TZ = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
+
+def get_today_date_str() -> str:
+    """Returns today's date in IST (UTC+5:30) so morning editions match the local calendar date."""
+    return datetime.datetime.now(IST_TZ).date().isoformat()
     """Removes HTML tags and unescapes entities."""
     if not raw_html:
         return ""
@@ -130,7 +135,7 @@ Review the following candidate technology articles from today:
 Synthesize a complete daily edition JSON object matching this schema:
 {{
   "title": "Tech Daily",
-  "date": "{datetime.date.today().isoformat()}",
+  "date": "{get_today_date_str()}",
   "hot_topic": "SHORT 2-4 WORD TRENDING TOPIC",
   "hot_topic_description": "2-3 sentences explaining the overarching trend today.",
   "biggest_story": {{
@@ -180,8 +185,8 @@ Only return valid raw JSON without backticks or markdown fences.
 def synthesize_locally(raw_articles):
     """Fallback high-quality heuristic synthesizer when no Gemini API key is configured."""
     print("Synthesizing edition locally from live ingested feeds...")
-    today_str = datetime.date.today().isoformat()
-    now_iso = datetime.datetime.now().isoformat()
+    today_str = get_today_date_str()
+    now_iso = datetime.datetime.now(IST_TZ).isoformat()
     
     stories = []
     story_counter = 1
@@ -281,7 +286,7 @@ def main():
     editions_dir = os.path.join(output_dir, "editions")
     os.makedirs(editions_dir, exist_ok=True)
     
-    today_str = datetime.date.today().isoformat()
+    today_str = get_today_date_str()
     today_file = os.path.join(output_dir, "edition_today.json")
     archived_file = os.path.join(editions_dir, f"{today_str}.json")
     archive_index_file = os.path.join(output_dir, "archive.json")
