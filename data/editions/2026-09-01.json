@@ -15,7 +15,7 @@
       "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
       "Deployment & Impact: Published by Google AI Blog with documentation and production rollout details."
     ],
-    "published_at": "2026-09-01T13:30:51.268293+05:30",
+    "published_at": "2026-09-01T13:39:22.101545+05:30",
     "importance": 9,
     "sources": [
       {
@@ -36,7 +36,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Google AI Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -56,7 +56,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -76,7 +76,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -96,7 +96,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -116,7 +116,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -136,7 +136,7 @@
         "Technical Implementation: Back in May, models in training figured out how to communicate with one another via an improvised message board, and an OpenAI team observed the behavior.",
         "Deployment & Impact: By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on a test."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -156,7 +156,7 @@
         "Technical Implementation: The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’ fears that AI models might take actions that defy human desires and expectations.",
         "Deployment & Impact: But making sure AI models do what we want them to do, or “alignment,” remains a gnarly problem, and some of the root causes of the hack will take much longer than a month to resolve."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -176,7 +176,7 @@
         "Technical Implementation: In this video interview, filmed just six months into the project, creator Peter Steinberger and several OpenClaw maintainers discuss managing a surge of pull requests, rethinking contributor trust and code review, addressing software supply chain risks, and balancing powerful agent capabilities with security.",
         "Deployment & Impact: They also share security lessons from the GitHub Secure Open Source Fund and the value of connecting with maintainers facing similar challenges."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -196,7 +196,7 @@
         "Technical Implementation: Sometimes it’s a major version upgrade.",
         "Deployment & Impact: Follow the steps below to build a daily Dependabot triage automation."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -216,7 +216,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -236,7 +236,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -256,7 +256,7 @@
         "Technical Implementation: // after Go 1.18 type List[E any] struct { elem E next *List[E] } Likewise, sorting different kinds of ordered data could be expressed as a single function: // before Go 1.18 func SortInts(s []int) { /* .",
         "Deployment & Impact: In this post, we’ll explain this change of view and demonstrate some uses of this new feature."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -276,7 +276,7 @@
         "Technical Implementation: First, generic methods are now supported.",
         "Deployment & Impact: Generic functions can now be used without explicit type arguments in composite literals, type conversions, and channel sends: func GenericFormatter[T any](v T) string { return fmt.Sprintf(\"value: %v\", v) } type IntFormatter func(int) string // Go 1.27 infers T = int in composite literals, conversions, and channel sends."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -288,45 +288,85 @@
     {
       "id": "story_live_15",
       "category": "DEVELOPERS",
-      "headline": "Emulator control for adaptive app development",
-      "summary": "Posted by Rob Orgiu, Developer Relations Engineer, Adaptive Apps, Android Adaptive app development is fundamental on Android, but making sure everything looks good and every feature works the way it should require multiple tests on multiple devices. Or does it? Well, yes… and no! While Android Studio is bundled with the Resizable Emulator to let you test layouts manually, there’s a faster, more streamlined way to control form factors directly from your terminal.",
-      "why_it_matters": "By leveraging fire-and-forget console commands using the adb emu shortcut, you can execute commands that immediately return control to your invoking shell. This marks a notable development for engineering teams working in developers.",
+      "headline": "The Bentley Supersports: A stripped-out engineer's indulgence",
+      "summary": "Bentley provided flights from Washington, DC, to Monterey, California, and accommodation so Ars could drive the Supersports, as well as ride in a preproduction Torcal EV, which we wrote about last week. Ars does not accept paid editorial content.",
+      "why_it_matters": "MONTEREY, Calif.—Last week, we brought news of the Bentley Torcal, a new electric vehicle that the luxury automaker has been cooking up at its HQ in Crewe, England. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: Posted by Rob Orgiu, Developer Relations Engineer, Adaptive Apps, Android Adaptive app development is fundamental on Android, but making sure everything looks good and every feature works the way it should require multiple tests on multiple devices.",
-        "Technical Implementation: Or does it? Well, yes… and no! While Android Studio is bundled with the Resizable Emulator to let you test layouts manually, there’s a faster, more streamlined way to control form factors directly from your terminal.",
-        "Deployment & Impact: By leveraging fire-and-forget console commands using the adb emu shortcut, you can execute commands that immediately return control to your invoking shell."
+        "Problem & Context: Ars Technica focuses on solving key constraints regarding the bentley supersports: a stripped-out engineer's indulgence.",
+        "Technical Implementation: Ars does not accept paid editorial content.",
+        "Deployment & Impact: MONTEREY, Calif.—Last week, we brought news of the Bentley Torcal, a new electric vehicle that the luxury automaker has been cooking up at its HQ in Crewe, England."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
-          "name": "Android Developers Blog",
-          "url": "https://android-developers.googleblog.com/2026/08/emulator-adaptive.html"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/"
         }
       ]
     },
     {
       "id": "story_live_16",
       "category": "DEVELOPERS",
-      "headline": "How WhatsApp Upgraded to Secure, Seamless Sign-In for 1 Billion Users with Passkeys",
-      "summary": "Posted by Niharika Arora, Senior Developer Relations Engineer, Tracy Agyemang, Product Marketing Manager, Google and Mayank Manuja, Android Engineer, Meta WhatsApp is the world's largest messaging platform, serving billions of users globally. It is the default communication tool for people across diverse regions, connecting users through private, reliable, and secure messaging.",
-      "why_it_matters": "\"What excites me most is the sheer scale of WhatsApp's impact. This marks a notable development for engineering teams working in developers.",
+      "headline": "Trump admin shelves Cyclospora research despite record-breaking outbreak",
+      "summary": "The Trump administration is halting vital federal research on the foodborne parasite Cyclospora, despite the record-breaking, nationwide outbreak of the diarrheal pathogen, according to Politico. Of the three research programs that represent nearly all of the Cyclospora work at the US Department of Agriculture, two have been defunded, and the third is about to lose every scientist working on it.",
+      "why_it_matters": "The Trump administration is shuttering the USDA's Beltsville Agricultural Research Center near Washington, DC, and moving its work to a location in Iowa. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: Posted by Niharika Arora, Senior Developer Relations Engineer, Tracy Agyemang, Product Marketing Manager, Google and Mayank Manuja, Android Engineer, Meta WhatsApp is the world's largest messaging platform, serving billions of users globally.",
-        "Technical Implementation: It is the default communication tool for people across diverse regions, connecting users through private, reliable, and secure messaging.",
-        "Deployment & Impact: \"What excites me most is the sheer scale of WhatsApp's impact."
+        "Problem & Context: Ars Technica focuses on solving key constraints regarding trump admin shelves cyclospora research despite record-breaking outbreak.",
+        "Technical Implementation: Of the three research programs that represent nearly all of the Cyclospora work at the US Department of Agriculture, two have been defunded, and the third is about to lose every scientist working on it.",
+        "Deployment & Impact: The Trump administration is shuttering the USDA's Beltsville Agricultural Research Center near Washington, DC, and moving its work to a location in Iowa."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
-          "name": "Android Developers Blog",
-          "url": "https://android-developers.googleblog.com/2026/08/whatsapp-passkeys-secure-sign-in.html"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/"
         }
       ]
     },
     {
       "id": "story_live_17",
+      "category": "DEVELOPERS",
+      "headline": "curl: a CVE dispute",
+      "summary": "curl: a CVE dispute announced by Lobste.rs.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: Lobste.rs focuses on solving key constraints regarding curl: a cve dispute.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
+        "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
+      ],
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Lobste.rs",
+          "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_18",
+      "category": "DEVELOPERS",
+      "headline": "VibeCoded AI-Slop License v1.0",
+      "summary": "VibeCoded AI-Slop License v1.0 announced by Lobste.rs.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: Lobste.rs focuses on solving key constraints regarding vibecoded ai-slop license v1.0.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
+        "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
+      ],
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Lobste.rs",
+          "url": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6"
+        }
+      ]
+    },
+    {
+      "id": "story_live_19",
       "category": "BIG TECH",
       "headline": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
       "summary": "Training and serving frontier AI models depends on fast, reliable networks that move data between GPUs without wasting compute cycles. To meet this challenge at scale, Meta designed MetaRoCE – a clean-sheet RDMA transport protocol purpose-built for AI workloads on commodity Ethernet.",
@@ -336,7 +376,7 @@
         "Technical Implementation: To meet this challenge at scale, Meta designed MetaRoCE – a clean-sheet RDMA transport protocol purpose-built for AI workloads on commodity Ethernet.",
         "Deployment & Impact: We’re releasing the MetaRoCE specification, a reference software implementation and a compliance test suite through the Open Compute Project (OCP) to enable the broader industry to adopt, implement, and build on it."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -346,7 +386,7 @@
       ]
     },
     {
-      "id": "story_live_18",
+      "id": "story_live_20",
       "category": "BIG TECH",
       "headline": "MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines",
       "summary": "MTIA 300 is the first of Meta’s family of in-house training and inference accelerators optimized for training ranking and recommendation models. We’re sharing how MTIA 300’s built-in NIC chiplets allow it to meet the communication needs associated with training recommendation models with superior performance over general-purpose GPUs.",
@@ -356,7 +396,7 @@
         "Technical Implementation: We’re sharing how MTIA 300’s built-in NIC chiplets allow it to meet the communication needs associated with training recommendation models with superior performance over general-purpose GPUs.",
         "Deployment & Impact: Deep learning models may deliver personalized content—from short videos to friend posts—to people on apps."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -366,7 +406,7 @@
       ]
     },
     {
-      "id": "story_live_19",
+      "id": "story_live_21",
       "category": "BIG TECH",
       "headline": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
       "summary": "By Emma Yanyang Kong , Aditya Deshpande , Asad Abbasi , Bowei Yan , David Fagnan , Ashish Rastogi , Dhaval Patel , Ray Zhang Introduction The Netflix experience is a journey of discovery. Every visual cue, from the artwork on a title to the video previews that autoplay while you browse, is there to connect you with a story you will love.",
@@ -376,7 +416,7 @@
         "Technical Implementation: Right after a title launched, its assets had no history, so we dialed up exploration on its assets to gather interaction data, and otherwise fell back to popularity heuristics that ignore your taste.",
         "Deployment & Impact: This post shares how multimodal embeddings let our models see and hear the assets they recommend, so personalization can kick in far sooner, close to a title’s launch."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -386,7 +426,7 @@
       ]
     },
     {
-      "id": "story_live_20",
+      "id": "story_live_22",
       "category": "BIG TECH",
       "headline": "A Tale of Two Flink Autoscalers",
       "summary": "Samuel Yeboah , Francesco Di Chiara and Mingliang Liu Today, Netflix runs two Flink autoscalers. That is exactly one more than we want.",
@@ -396,7 +436,7 @@
         "Technical Implementation: The second came from the Apache Flink community, and it can scale workloads our homegrown system was never designed for.",
         "Deployment & Impact: Why autoscaling is not optional at our scale Netflix has run stream processing on Apache Flink since 2017."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -406,7 +446,7 @@
       ]
     },
     {
-      "id": "story_live_21",
+      "id": "story_live_23",
       "category": "BIG TECH",
       "headline": "The Google TV Streamer now costs $50 more",
       "summary": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy , but Amazon appears to still be offering the original price.",
@@ -416,7 +456,7 @@
         "Technical Implementation: The new price is currently live at the Google Store and Best Buy , but Amazon appears to still be offering the original price.",
         "Deployment & Impact: The price hike comes just a couple of weeks after Google launched its new lineup of Pixel 11 phones with a $100 price hike over their Pixel 10 counterparts."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -426,7 +466,7 @@
       ]
     },
     {
-      "id": "story_live_22",
+      "id": "story_live_24",
       "category": "BIG TECH",
       "headline": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
       "summary": "JMGO’s Iris Ultra Max 4K 120Hz Google TV projector. | Image: JMGO JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China.",
@@ -436,7 +476,7 @@
         "Technical Implementation: | Image: JMGO JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China.",
         "Deployment & Impact: It gets its name from a new dual-iris system that lets it produce an impressive 10,000:1 native contrast, according to JMGO."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -446,7 +486,47 @@
       ]
     },
     {
-      "id": "story_live_23",
+      "id": "story_live_25",
+      "category": "BIG TECH",
+      "headline": "TP-Link announces its first consumer Wi-Fi 8 routers — Archer 8 Ultra preorder commences September 30, in select regions",
+      "summary": "Earlier this year, TP-Link announced its intentions to launch the first members of its Wi-Fi 8 (802.11bn) networking family. At the time, the company revealed that it would first launch a standalone Archer 8 consumer router this fall, followed by a Deco 8 mesh router.",
+      "why_it_matters": "And right on cue, TP-Link stated today that the Archer 8 Ultra BN19000 tri-band router will launch on September 30. This marks a notable development for engineering teams working in big tech.",
+      "key_points": [
+        "Problem & Context: Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible TP-Link is going light on the details at this time, but this is what we know so far.",
+        "Technical Implementation: For users who require broader coverage in larger homes or offices, the Deco 8 Ultra BN22000 tri-band mesh router offers aggregate speeds of up to 22 Gbps and includes 10 Gbps wired connectivity.",
+        "Deployment & Impact: TP-Link typically sells its mesh systems in two- or three-pack configurations, and the Deco 8 Ultra BN22000 3-pack covers up to 9,800 square feet."
+      ],
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/networking/routers/tp-link-announces-its-first-consumer-wi-fi-8-routers-archer-8-ultra-preorder-commences-september-30-in-select-regions"
+        }
+      ]
+    },
+    {
+      "id": "story_live_26",
+      "category": "BIG TECH",
+      "headline": "Kingston's NV3 1TB PCIe 4.0 SSD drops to $156.99 at Newegg — 27% off brings it down to just 15.7 cents per GB",
+      "summary": "With the ongoing AI boom triggering worldwide memory shortages, getting a good deal on RAM or storage has become increasingly difficult. If you are on the lookout for a snappy SSD, however, we have spotted a solid deal on Newegg that could help you save some money on your next storage upgrade.",
+      "why_it_matters": "The Kingston NV3 1TB PCIe Gen 4 SSD is currently selling for $156.99 , down from its usual price of $215.99, which is also the lowest price the SSD has seen in the past 30 days. This marks a notable development for engineering teams working in big tech.",
+      "key_points": [
+        "Problem & Context: Check out the Kingston NV3 on Newegg The Kingston NV3 was introduced back in late 2024 as a budget PCIe 4.0 NVMe SSD, with the 1TB model rated for sequential read speeds of up to 6,000 MB/s and sequential write speeds of up to 4,000 MB/s.",
+        "Technical Implementation: It is notably a DRAM-less SSD as it uses Host Memory Buffer (HMB) technology instead, meaning that the performance may vary depending on the workload.",
+        "Deployment & Impact: In 3DMark's Storage Benchmark, the NV3 delivered respectable results, and it performed well in PCMark 10, where it beat the Corsair MP600 Elite and came reasonably close to several more expensive SSDs."
+      ],
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/pc-components/ssds/kingstons-nv3-1tb-pcie-4-0-ssd-drops-to-usd156-99-at-newegg-27-percent-off-brings-it-down-to-just-15-7-cents-per-gb"
+        }
+      ]
+    },
+    {
+      "id": "story_live_27",
       "category": "STARTUPS",
       "headline": "Magna increases bet on battery swapping in India with $35M for Yuma",
       "summary": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
@@ -456,7 +536,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by TechCrunch Startups with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -466,7 +546,7 @@
       ]
     },
     {
-      "id": "story_live_24",
+      "id": "story_live_28",
       "category": "STARTUPS",
       "headline": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
       "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
@@ -476,7 +556,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by TechCrunch Startups with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -486,7 +566,7 @@
       ]
     },
     {
-      "id": "story_live_25",
+      "id": "story_live_29",
       "category": "CYBERSECURITY",
       "headline": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
       "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP , a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real identity in June, and has been communicating with him ever since.",
@@ -496,7 +576,7 @@
         "Technical Implementation: In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real identity in June, and has been communicating with him ever since.",
         "Deployment & Impact: TeamPCP vaulted onto the cybercrime scene in late 2025, embedding malicious code in hundreds of open source software tools and extorting victims for profit."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -506,7 +586,7 @@
       ]
     },
     {
-      "id": "story_live_26",
+      "id": "story_live_30",
       "category": "CYBERSECURITY",
       "headline": "Who’s Tracking You? Use This New Service to Find Out",
       "summary": "It can be daunting to determine who’s responsible for showing ads on the websites we visit, or who’s harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms.",
@@ -516,7 +596,7 @@
         "Technical Implementation: Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you.",
         "Deployment & Impact: The newly launched decryptads.com says it is constantly scraping the files that websites and apps make publicly available to disclose the companies that are permitted to run ads or collect user data."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -526,7 +606,7 @@
       ]
     },
     {
-      "id": "story_live_27",
+      "id": "story_live_31",
       "category": "CYBERSECURITY",
       "headline": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
       "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability that could be exploited to execute arbitrary Python code in the context of the root user.",
@@ -536,7 +616,7 @@
         "Technical Implementation: The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability that could be exploited to execute arbitrary Python code in the context of the root user.",
         "Deployment & Impact: Published by The Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -546,7 +626,7 @@
       ]
     },
     {
-      "id": "story_live_28",
+      "id": "story_live_32",
       "category": "CYBERSECURITY",
       "headline": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
       "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers employed in sales and marketing and the medical profession. The ongoing insider threat is part of what has been described as the IT worker scheme,.",
@@ -556,7 +636,7 @@
         "Technical Implementation: The ongoing insider threat is part of what has been described as the IT worker scheme,.",
         "Deployment & Impact: Published by The Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -566,7 +646,7 @@
       ]
     },
     {
-      "id": "story_live_29",
+      "id": "story_live_33",
       "category": "CYBERSECURITY",
       "headline": "Recently patched PaperCut zero-days used in data theft attacks",
       "summary": "Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks.",
@@ -576,7 +656,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
         "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -586,7 +666,7 @@
       ]
     },
     {
-      "id": "story_live_30",
+      "id": "story_live_34",
       "category": "CYBERSECURITY",
       "headline": "Cronos blockchain restarts after $74 million Tectonic exploit",
       "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million.",
@@ -596,7 +676,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
         "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -606,7 +686,47 @@
       ]
     },
     {
-      "id": "story_live_31",
+      "id": "story_live_35",
+      "category": "CLOUD",
+      "headline": "If hardware price squeezes make you sad, VMware says it will all end in tiers",
+      "summary": "VMware is working to find new roles for its memory tiering technology, in the expectation that memory and hardware prices will remain high for years and users will therefore look for ways to put off server purchases. Memory tiering moves data out of DRAM and onto another storage medium that’s fast enough that CPUs can still access info at speeds that don’t slow application performance.",
+      "why_it_matters": "VMware’s implementation works by looking for “cold pages” in DRAM – chunks of memory containing data that a CPU hasn’t touched and/or won’t need for a while. This marks a notable development for engineering teams working in cloud.",
+      "key_points": [
+        "Problem & Context: VMware is working to find new roles for its memory tiering technology, in the expectation that memory and hardware prices will remain high for years and users will therefore look for ways to put off server purchases.",
+        "Technical Implementation: Memory tiering moves data out of DRAM and onto another storage medium that’s fast enough that CPUs can still access info at speeds that don’t slow application performance.",
+        "Deployment & Impact: VMware’s implementation works by looking for “cold pages” in DRAM – chunks of memory containing data that a CPU hasn’t touched and/or won’t need for a while."
+      ],
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/virtualization/2026/09/01/if-hardware-price-squeezes-make-you-sad-vmware-says-it-will-all-end-in-tiers/5293575"
+        }
+      ]
+    },
+    {
+      "id": "story_live_36",
+      "category": "CLOUD",
+      "headline": "AI adoption at work is broad but shallow",
+      "summary": "Economists have taken another stab at assessing the impact of generative AI adoption on different occupations and have found that adoption is broad but not very deep. While generative AI reaches 80 percent of occupations and more than 40 percent of tasks, in most of these occupations fewer than half of workers adopt it.",
+      "why_it_matters": "Occupational use is high in professions where you'd expect – in management and professional occupations, particularly those that are related to finance, business, and computers. This marks a notable development for engineering teams working in cloud.",
+      "key_points": [
+        "Problem & Context: Schumacher (Vanderbilt), measures how workers actually use generative AI for their jobs by analyzing Real-Time Population Survey (RPS) data.",
+        "Technical Implementation: The measurement discrepancy is the result, the authors say, of chat log classifiers that associate chats with a few tasks that have generic, activity-based descriptions like \"Edit written material or documents.\" The problem with this approach is that when OpenAI data concludes 15 percent of chats involve that sort of editing, those figures don't match up with the US Department of Labor's O*NET database, where only 2.4 percent of workers are in jobs that include that task.",
+        "Deployment & Impact: Occupational use is high in professions where you'd expect – in management and professional occupations, particularly those that are related to finance, business, and computers."
+      ],
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/01/ai-adoption-at-work-is-broad-but-shallow/5293545"
+        }
+      ]
+    },
+    {
+      "id": "story_live_37",
       "category": "CLOUD",
       "headline": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
       "summary": "Today, Amazon EC2 R9g and R9gd instances are generally available, powered by AWS Graviton5 processors. R9g instances are memory-optimized and deliver up to 25% better compute performance compared to Graviton4-based R8g instances, powered by the most energy efficient processor AWS has ever built.",
@@ -616,7 +736,7 @@
         "Technical Implementation: R9g instances are ideal for memory-intensive workloads including databases, in-memory caches (Valkey, Redis, MemCached), real-time big data analytics, Linux-based workloads including containerized and micro-service-based applications (e.g.",
         "Deployment & Impact: R9gd instances include local NVMe-based SSD block-level storage, ideal for memory-intensive workloads requiring fast, low-latency local storage such as open-source databases, distributed real-time big data analytics, large in-memory databases, and large caching workloads."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -626,7 +746,7 @@
       ]
     },
     {
-      "id": "story_live_32",
+      "id": "story_live_38",
       "category": "CLOUD",
       "headline": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
       "summary": "The news that interested me the most last week was the DuckLabs acquisition. AWS has signed a definitive agreement to acquire DuckLabs , the Amsterdam-based company behind DuckDB, the popular open source analytical database that runs in-process and executes SQL directly against files like Parquet, CSV, and JSON.",
@@ -636,7 +756,7 @@
         "Technical Implementation: DuckDB stays open source under its independent foundation and the MIT license, and over time AWS plans to combine its speed at everyday queries with the enterprise scale of services like Amazon S3, Amazon Redshift, and Amazon Athena.",
         "Deployment & Impact: It also happens to pair beautifully with AI agents, which “poke” and experiment their way through data much like humans do."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -646,7 +766,7 @@
       ]
     },
     {
-      "id": "story_live_33",
+      "id": "story_live_39",
       "category": "CLOUD",
       "headline": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack",
       "summary": "Modern bot threats are increasingly driven by determined, sophisticated attackers. Often it is not even one person, but a group trading techniques with each other or a commercial service sold to anyone willing to pay.",
@@ -656,7 +776,7 @@
         "Technical Implementation: Cloudflare analyzes more than a trillion requests a day for signs of automated abuse, so we see how fast attackers change tactics.",
         "Deployment & Impact: For many of them, getting past bot detection is a full-time job they genuinely enjoy."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -666,7 +786,7 @@
       ]
     },
     {
-      "id": "story_live_34",
+      "id": "story_live_40",
       "category": "CLOUD",
       "headline": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
       "summary": "Last month, on our second Content Independence Day, we announced a couple of features designed to give website owners more visibility and control over automated traffic: BotBase added a searchable directory of known bots to the Cloudflare dashboard, while Business Insights helped owners understand how crawlers interact with their content. We know that the ecosystem of bots is vast, making it all the more important for site owners to be able to manage bot traffic sustainably.",
@@ -676,7 +796,7 @@
         "Technical Implementation: We know that the ecosystem of bots is vast, making it all the more important for site owners to be able to manage bot traffic sustainably.",
         "Deployment & Impact: But this ecosystem goes both ways."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -686,47 +806,47 @@
       ]
     },
     {
-      "id": "story_live_35",
+      "id": "story_live_41",
       "category": "CLOUD",
-      "headline": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs",
-      "summary": "Summary This post is for technical decision makers evaluating where to run production PostgreSQL workloads. It compares two valid operating models—self-managed PostgreSQL and a managed database service—through business and operational outcomes: control, engineering capacity, resilience, security, cost predictability, risk tolerance, and access to specialist expertise.",
-      "why_it_matters": "The right choice depends on which responsibilities the organization needs to retain and which it is prepared to transfer to a service provider. This marks a notable development for engineering teams working in cloud.",
+      "headline": "The patch window is collapsing: Why security needs a new control plane",
+      "summary": "For decades, cybersecurity defenders have relied on a relatively straightforward model: a vulnerability is disclosed, security teams assess exposure, test available fixes, deploy patches into production, and ultimately close the risk before attackers can exploit it at scale. That model increasingly reflects a world that no longer exists.",
+      "why_it_matters": "Today’s enterprises operate thousands of interconnected workloads across hybrid and multicloud environments. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: It compares two valid operating models—self-managed PostgreSQL and a managed database service—through business and operational outcomes: control, engineering capacity, resilience, security, cost predictability, risk tolerance, and access to specialist expertise.",
-        "Technical Implementation: Why organizations choose PostgreSQL PostgreSQL is a powerful, versatile open-source relational database used for workloads ranging from small applications to enterprise systems.",
-        "Deployment & Impact: It is a natural choice for teams that need a standards-based database with a broad ecosystem and extensive extensibility."
+        "Problem & Context: For decades, cybersecurity defenders have relied on a relatively straightforward model: a vulnerability is disclosed, security teams assess exposure, test available fixes, deploy patches into production, and ultimately close the risk before attackers can exploit it at scale.",
+        "Technical Implementation: That model increasingly reflects a world that no longer exists.",
+        "Deployment & Impact: Today’s enterprises operate thousands of interconnected workloads across hybrid and multicloud environments."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Microsoft Azure Blog",
-          "url": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/"
+          "url": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/"
         }
       ]
     },
     {
-      "id": "story_live_36",
+      "id": "story_live_42",
       "category": "CLOUD",
-      "headline": "The Economics of Agent Optimization: Four ways to lower the cost",
-      "summary": "This blog post is the second of a four-part series called The Economics of Agent Optimization which shares the strategies, capabilities, and proof points to help you optimize agent costs and run AI as a managed investment system on Microsoft Foundry. The first post set out the three decisions that system rests on: optimize each request at runtime, optimize each workflow over time, and govern spend continuously.",
-      "why_it_matters": "This post takes the first, the one that touches every dollar you will ever spend on AI. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
+      "summary": "Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms , which we believe recognizes the platforms organizations rely on to build, deploy, and operate cloud-native applications at scale. This is our third consecutive year positioned as a Leader in this report.",
+      "why_it_matters": "Read the report We are proud of this recognition. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: This blog post is the second of a four-part series called The Economics of Agent Optimization which shares the strategies, capabilities, and proof points to help you optimize agent costs and run AI as a managed investment system on Microsoft Foundry.",
-        "Technical Implementation: The first post set out the three decisions that system rests on: optimize each request at runtime, optimize each workflow over time, and govern spend continuously.",
-        "Deployment & Impact: An agent is a loop around a model."
+        "Problem & Context: Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms , which we believe recognizes the platforms organizations rely on to build, deploy, and operate cloud-native applications at scale.",
+        "Technical Implementation: Cloud-native application platforms are no longer where organizations build and run modern applications.",
+        "Deployment & Impact: It is turning those ideas into production systems that can connect to existing applications and data, perform reliably at global scale, and meet the security and governance standards the business already expects."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Microsoft Azure Blog",
-          "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/"
+          "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/"
         }
       ]
     },
     {
-      "id": "story_live_37",
+      "id": "story_live_43",
       "category": "TECHNOLOGY RESEARCH",
       "headline": "Building a practical path to post-quantum cryptography",
       "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis.",
@@ -736,7 +856,7 @@
         "Technical Implementation: An average of optimistic and pessimistic estimates from the experts gave it an even 50-50 probability of reaching this code-breaking milestone by 2040.",
         "Deployment & Impact: The near-term focus should be on “harvest now, decrypt later” scenarios, where adversaries collect encrypted data today and then hold it for fut."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -746,7 +866,7 @@
       ]
     },
     {
-      "id": "story_live_38",
+      "id": "story_live_44",
       "category": "TECHNOLOGY RESEARCH",
       "headline": "PsiQuantum has a plan to make a massive quantum computer out of light",
       "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.",
@@ -756,7 +876,7 @@
         "Technical Implementation: Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.",
         "Deployment & Impact: Inside those cabinets will be hundreds of chips, and on those, thousands of particles of light flying through a maze of optical switches and beam splitters."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -766,7 +886,7 @@
       ]
     },
     {
-      "id": "story_live_39",
+      "id": "story_live_45",
       "category": "TECHNOLOGY RESEARCH",
       "headline": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
       "summary": "arXiv:2608.27459v1 Announce Type: new Abstract: In 2011, IBM's Watson was something like a sealed capsule of its era's queryable knowledge. Its DeepQA system defeated the strongest human Jeopardy! champions, but the knowledge that let it do so lived in a curated billion-document corpus running on a cluster of POWER7 servers, frozen at build time and impossible to move or copy.",
@@ -776,7 +896,7 @@
         "Technical Implementation: We evaluate a single 9 GB open-weight model (Qwen2.5-14B, 4-bit) against the complete open Jeopardy! clue dataset, 529,939 clues across all 41 broadcast seasons from 1984 to 2025.",
         "Deployment & Impact: To our knowledge this is the first time a model has been run over the full corpus."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -786,7 +906,7 @@
       ]
     },
     {
-      "id": "story_live_40",
+      "id": "story_live_46",
       "category": "TECHNOLOGY RESEARCH",
       "headline": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
       "summary": "arXiv:2608.27463v1 Announce Type: new Abstract: LLMs now sit on every side of evaluation: as examinees scored on benchmarks, judges of other models' outputs, and raters of human-generated content. Each paradigm can be viewed as a measurement problem, where a latent property of an object is probed with items from an instrument (e.g., benchmark) by raters.",
@@ -796,7 +916,7 @@
         "Technical Implementation: Each paradigm can be viewed as a measurement problem, where a latent property of an object is probed with items from an instrument (e.g., benchmark) by raters.",
         "Deployment & Impact: RMT decomposes ordinal ratings into separable facets on a common scale."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -806,7 +926,7 @@
       ]
     },
     {
-      "id": "story_live_41",
+      "id": "story_live_47",
       "category": "TECHNOLOGY AROUND THE WORLD",
       "headline": "Meta accepts U.S. safety rules while pitching softer tools abroad",
       "summary": "In June, Indian actor Hiten Tejwani told his 732,000 followers that “Instagram is okay” in a reel promoting Meta’s Teen Accounts. Ironically, Tejwani had barred his 17-year-old twin son and.",
@@ -816,7 +936,7 @@
         "Technical Implementation: Ironically, Tejwani had barred his 17-year-old twin son and.",
         "Deployment & Impact: Published by Rest of World with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -826,7 +946,7 @@
       ]
     },
     {
-      "id": "story_live_42",
+      "id": "story_live_48",
       "category": "TECHNOLOGY AROUND THE WORLD",
       "headline": "I went to China to see a different AI future. It looked familiar",
       "summary": "Gordon Saft is the Publisher of Rest of World. Last week, he returned to New York from a trip to China with a delegation of leaders from across media, technology,.",
@@ -836,7 +956,7 @@
         "Technical Implementation: Last week, he returned to New York from a trip to China with a delegation of leaders from across media, technology,.",
         "Deployment & Impact: Published by Rest of World with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -846,17 +966,17 @@
       ]
     },
     {
-      "id": "story_live_43",
+      "id": "story_live_49",
       "category": "STARTUPS",
       "headline": "GPU World",
-      "summary": "Trending discussion on Hacker News with score of 156 points and 68 developer comments.",
+      "summary": "Trending discussion on Hacker News with score of 163 points and 72 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
         "Problem & Context: Hacker News focuses on solving key constraints regarding gpu world.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -866,17 +986,17 @@
       ]
     },
     {
-      "id": "story_live_44",
+      "id": "story_live_50",
       "category": "STARTUPS",
       "headline": "Fastpotify",
-      "summary": "Trending discussion on Hacker News with score of 297 points and 134 developer comments.",
+      "summary": "Trending discussion on Hacker News with score of 303 points and 137 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
         "Problem & Context: Hacker News focuses on solving key constraints regarding fastpotify.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
@@ -886,22 +1006,82 @@
       ]
     },
     {
-      "id": "story_live_45",
+      "id": "story_live_51",
       "category": "STARTUPS",
       "headline": "Tmp.0ut Volume 5",
-      "summary": "Trending discussion on Hacker News with score of 21 points and 16 developer comments.",
+      "summary": "Trending discussion on Hacker News with score of 24 points and 16 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
         "Problem & Context: Hacker News focuses on solving key constraints regarding tmp.0ut volume 5.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:30:51.268293+05:30",
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hacker News",
           "url": "https://tmpout.sh/5/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_52",
+      "category": "DEVELOPERS",
+      "headline": "How long does it take for you to write a dev.to article?",
+      "summary": "Usually, I don't have it \"planned\" before I started to.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: DEV Community focuses on solving key constraints regarding how long does it take for you to write a dev.to article?.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
+        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
+      ],
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "DEV Community",
+          "url": "https://dev.to/francistrdev/how-long-does-it-take-for-you-to-write-a-devto-article-49m1"
+        }
+      ]
+    },
+    {
+      "id": "story_live_53",
+      "category": "DEVELOPERS",
+      "headline": "Fixing Delicate Cache Mismatches in a Brownfield SPA: A Pragmatic Solution",
+      "summary": "How we eliminated subtle stylesheet caching glitches during deployments on DEV without a massive rewrite.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: DEV Community focuses on solving key constraints regarding fixing delicate cache mismatches in a brownfield spa: a pragmatic solution.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
+        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
+      ],
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "DEV Community",
+          "url": "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9"
+        }
+      ]
+    },
+    {
+      "id": "story_live_54",
+      "category": "DEVELOPERS",
+      "headline": "I Tried to Beat Peter Norvig and Accidentally Became Ryan Gosling",
+      "summary": "A few days ago, I posted my submission for the DEV Frontend Challenge: Khachapuri made entirely with.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: DEV Community focuses on solving key constraints regarding i tried to beat peter norvig and accidentally became ryan gosling.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
+        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
+      ],
+      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "DEV Community",
+          "url": "https://dev.to/highflyer910/i-tried-to-beat-peter-norvig-and-accidentally-became-ryan-gosling-45b8"
         }
       ]
     }

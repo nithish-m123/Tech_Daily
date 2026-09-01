@@ -26,6 +26,7 @@ jobs:
       - name: Run Curator Pipeline
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          JINA_API_KEY: ${{ secrets.JINA_API_KEY }}
         run: |
           python curator/curate_edition.py
 

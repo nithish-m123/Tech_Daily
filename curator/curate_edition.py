@@ -128,8 +128,58 @@ def fetch_hacker_news_top(max_items: int = 5):
         
     return items
 
+def fetch_dev_to_top(max_items: int = 3):
+    """Fetches top trending technical articles from the free DEV.to Community REST API."""
+    items = []
+    try:
+        url = f"https://dev.to/api/articles?per_page={max_items}&top=1"
+        req = urllib.request.Request(url, headers={"User-Agent": "TechDailyBot/1.0"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            articles = json.loads(resp.read().decode('utf-8'))
+            for art in articles:
+                title = art.get('title', '')
+                link = art.get('url', '')
+                desc = art.get('description', '')
+                if title and link:
+                    items.append({
+                        'source': 'DEV Community',
+                        'category': 'DEVELOPERS',
+                        'headline': clean_html(title),
+                        'url': link,
+                        'content': clean_html(desc),
+                        'published_at': art.get('published_at', datetime.datetime.now().isoformat())
+                    })
+    except Exception as e:
+        print(f"  [Warning] Failed to fetch DEV.to: {e}")
+    return items
+
+def fetch_full_article_content(url: str, jina_api_key: str = None) -> str:
+    """Uses Jina Reader open API (r.jina.ai) to extract clean full-text journalistic article body."""
+    if not url or not url.startswith("http"):
+        return ""
+    jina_url = f"https://r.jina.ai/{url}"
+    headers = {
+        "User-Agent": "TechDailyBot/1.0",
+        "Accept": "text/plain",
+        "X-Return-Format": "text"
+    }
+    if jina_api_key:
+        headers["Authorization"] = f"Bearer {jina_api_key}"
+        
+    try:
+        req = urllib.request.Request(jina_url, headers=headers)
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            raw_text = resp.read().decode('utf-8', errors='ignore')
+            clean_body = re.sub(r'\s+', ' ', raw_text).strip()
+            # Return top 2,500 characters of rich substantive journalism
+            if len(clean_body) > 250:
+                return clean_body[:2500]
+    except Exception:
+        # Graceful fallback to original RSS summary
+        pass
+    return ""
+
 def select_top_candidates(raw_articles, max_per_category: int = 2):
-    """Picks top articles per category to ensure comprehensive category coverage without token truncation."""
     categorized = {}
     for item in raw_articles:
         cat = item['category']
@@ -147,6 +197,13 @@ def synthesize_with_gemini(raw_articles, api_key: str):
     endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
     
     candidates = select_top_candidates(raw_articles, max_per_category=2)
+    jina_key = os.environ.get("JINA_API_KEY", "").strip() or None
+    print("Enriching candidate stories with full-text journalism via Jina Reader...")
+    for item in candidates:
+        full_text = fetch_full_article_content(item['url'], jina_key)
+        if full_text and len(full_text) > len(item.get('content', '')):
+            item['content'] = full_text
+            print(f"  + Full-text extracted for: {item['headline'][:40]}... ({len(full_text)} chars)")
     
     prompt = f"""You are the Senior Technical Editor of 'Tech Daily', a prestigious, calm daily broadsheet newspaper (like the Financial Times or MIT Tech Review, but for software engineers and technology leaders).
 
@@ -360,10 +417,14 @@ def main():
                 print(f"  + [{category}] {feed_name}: {len(items)} articles found")
                 all_raw_articles.extend(items)
                 
-    # Also fetch Hacker News
+    # Also fetch Hacker News & DEV Community
     hn_items = fetch_hacker_news_top(max_items=3)
     print(f"  + [STARTUPS] Hacker News Top: {len(hn_items)} stories found")
     all_raw_articles.extend(hn_items)
+
+    dev_items = fetch_dev_to_top(max_items=3)
+    print(f"  + [DEVELOPERS] DEV Community: {len(dev_items)} articles found")
+    all_raw_articles.extend(dev_items)
     
     print(f"\nTotal raw articles collected: {len(all_raw_articles)}")
     
