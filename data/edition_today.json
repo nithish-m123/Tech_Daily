@@ -15,7 +15,7 @@
       "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
       "Deployment & Impact: Published by Google AI Blog with documentation and production rollout details."
     ],
-    "published_at": "2026-09-01T13:12:26.933307+05:30",
+    "published_at": "2026-09-01T13:13:36.715230+05:30",
     "importance": 9,
     "sources": [
       {
@@ -36,7 +36,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Google AI Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -56,7 +56,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -76,7 +76,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -96,7 +96,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -116,7 +116,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -136,7 +136,7 @@
         "Technical Implementation: Back in May, models in training figured out how to communicate with one another via an improvised message board, and an OpenAI team observed the behavior.",
         "Deployment & Impact: By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on a test."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -156,7 +156,7 @@
         "Technical Implementation: The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’ fears that AI models might take actions that defy human desires and expectations.",
         "Deployment & Impact: But making sure AI models do what we want them to do, or “alignment,” remains a gnarly problem, and some of the root causes of the hack will take much longer than a month to resolve."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -176,7 +176,7 @@
         "Technical Implementation: In this video interview, filmed just six months into the project, creator Peter Steinberger and several OpenClaw maintainers discuss managing a surge of pull requests, rethinking contributor trust and code review, addressing software supply chain risks, and balancing powerful agent capabilities with security.",
         "Deployment & Impact: They also share security lessons from the GitHub Secure Open Source Fund and the value of connecting with maintainers facing similar challenges."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -196,7 +196,7 @@
         "Technical Implementation: Sometimes it’s a major version upgrade.",
         "Deployment & Impact: Follow the steps below to build a daily Dependabot triage automation."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -216,7 +216,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -236,7 +236,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -256,7 +256,7 @@
         "Technical Implementation: // after Go 1.18 type List[E any] struct { elem E next *List[E] } Likewise, sorting different kinds of ordered data could be expressed as a single function: // before Go 1.18 func SortInts(s []int) { /* .",
         "Deployment & Impact: In this post, we’ll explain this change of view and demonstrate some uses of this new feature."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -276,7 +276,7 @@
         "Technical Implementation: First, generic methods are now supported.",
         "Deployment & Impact: Generic functions can now be used without explicit type arguments in composite literals, type conversions, and channel sends: func GenericFormatter[T any](v T) string { return fmt.Sprintf(\"value: %v\", v) } type IntFormatter func(int) string // Go 1.27 infers T = int in composite literals, conversions, and channel sends."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -296,7 +296,7 @@
         "Technical Implementation: Or does it? Well, yes… and no! While Android Studio is bundled with the Resizable Emulator to let you test layouts manually, there’s a faster, more streamlined way to control form factors directly from your terminal.",
         "Deployment & Impact: By leveraging fire-and-forget console commands using the adb emu shortcut, you can execute commands that immediately return control to your invoking shell."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -316,7 +316,7 @@
         "Technical Implementation: It is the default communication tool for people across diverse regions, connecting users through private, reliable, and secure messaging.",
         "Deployment & Impact: \"What excites me most is the sheer scale of WhatsApp's impact."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -336,7 +336,7 @@
         "Technical Implementation: To meet this challenge at scale, Meta designed MetaRoCE – a clean-sheet RDMA transport protocol purpose-built for AI workloads on commodity Ethernet.",
         "Deployment & Impact: We’re releasing the MetaRoCE specification, a reference software implementation and a compliance test suite through the Open Compute Project (OCP) to enable the broader industry to adopt, implement, and build on it."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -356,7 +356,7 @@
         "Technical Implementation: We’re sharing how MTIA 300’s built-in NIC chiplets allow it to meet the communication needs associated with training recommendation models with superior performance over general-purpose GPUs.",
         "Deployment & Impact: Deep learning models may deliver personalized content—from short videos to friend posts—to people on apps."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -376,7 +376,7 @@
         "Technical Implementation: Right after a title launched, its assets had no history, so we dialed up exploration on its assets to gather interaction data, and otherwise fell back to popularity heuristics that ignore your taste.",
         "Deployment & Impact: This post shares how multimodal embeddings let our models see and hear the assets they recommend, so personalization can kick in far sooner, close to a title’s launch."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -396,7 +396,7 @@
         "Technical Implementation: The second came from the Apache Flink community, and it can scale workloads our homegrown system was never designed for.",
         "Deployment & Impact: Why autoscaling is not optional at our scale Netflix has run stream processing on Apache Flink since 2017."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -416,7 +416,7 @@
         "Technical Implementation: The new price is currently live at the Google Store and Best Buy , but Amazon appears to still be offering the original price.",
         "Deployment & Impact: The price hike comes just a couple of weeks after Google launched its new lineup of Pixel 11 phones with a $100 price hike over their Pixel 10 counterparts."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -436,7 +436,7 @@
         "Technical Implementation: | Image: JMGO JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China.",
         "Deployment & Impact: It gets its name from a new dual-iris system that lets it produce an impressive 10,000:1 native contrast, according to JMGO."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -456,7 +456,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by TechCrunch Startups with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -476,7 +476,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by TechCrunch Startups with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -496,7 +496,7 @@
         "Technical Implementation: In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real identity in June, and has been communicating with him ever since.",
         "Deployment & Impact: TeamPCP vaulted onto the cybercrime scene in late 2025, embedding malicious code in hundreds of open source software tools and extorting victims for profit."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -516,7 +516,7 @@
         "Technical Implementation: Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you.",
         "Deployment & Impact: The newly launched decryptads.com says it is constantly scraping the files that websites and apps make publicly available to disclose the companies that are permitted to run ads or collect user data."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -536,7 +536,7 @@
         "Technical Implementation: The ongoing insider threat is part of what has been described as the IT worker scheme,.",
         "Deployment & Impact: Published by The Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -556,7 +556,7 @@
         "Technical Implementation: Elsewhere, fake apps, helpful support calls, cheap banking kits, exposed systems, and weak defaults kept.",
         "Deployment & Impact: A fake check turned the user into the installer."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -576,7 +576,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
         "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -596,7 +596,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
         "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -616,7 +616,7 @@
         "Technical Implementation: R9g instances are ideal for memory-intensive workloads including databases, in-memory caches (Valkey, Redis, MemCached), real-time big data analytics, Linux-based workloads including containerized and micro-service-based applications (e.g.",
         "Deployment & Impact: R9gd instances include local NVMe-based SSD block-level storage, ideal for memory-intensive workloads requiring fast, low-latency local storage such as open-source databases, distributed real-time big data analytics, large in-memory databases, and large caching workloads."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -636,7 +636,7 @@
         "Technical Implementation: DuckDB stays open source under its independent foundation and the MIT license, and over time AWS plans to combine its speed at everyday queries with the enterprise scale of services like Amazon S3, Amazon Redshift, and Amazon Athena.",
         "Deployment & Impact: It also happens to pair beautifully with AI agents, which “poke” and experiment their way through data much like humans do."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -656,7 +656,7 @@
         "Technical Implementation: Cloudflare analyzes more than a trillion requests a day for signs of automated abuse, so we see how fast attackers change tactics.",
         "Deployment & Impact: For many of them, getting past bot detection is a full-time job they genuinely enjoy."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -676,7 +676,7 @@
         "Technical Implementation: We know that the ecosystem of bots is vast, making it all the more important for site owners to be able to manage bot traffic sustainably.",
         "Deployment & Impact: But this ecosystem goes both ways."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -688,40 +688,40 @@
     {
       "id": "story_live_35",
       "category": "CLOUD",
-      "headline": "The patch window is collapsing: Why security needs a new control plane",
-      "summary": "For decades, cybersecurity defenders have relied on a relatively straightforward model: a vulnerability is disclosed, security teams assess exposure, test available fixes, deploy patches into production, and ultimately close the risk before attackers can exploit it at scale. That model increasingly reflects a world that no longer exists.",
-      "why_it_matters": "Today’s enterprises operate thousands of interconnected workloads across hybrid and multicloud environments. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Introducing Azure Multicloud Interconnect for AWS",
+      "summary": "As organizations accelerate AI adoption and modernize their digital estates, applications, data, and infrastructure increasingly span multiple cloud environments. Customers are choosing the best platform for each workload, leveraging unique capabilities across providers to drive innovation, resilience, and business agility.",
+      "why_it_matters": "Yet while multicloud strategies have become commonplace, networking between cloud environments remains complex. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: For decades, cybersecurity defenders have relied on a relatively straightforward model: a vulnerability is disclosed, security teams assess exposure, test available fixes, deploy patches into production, and ultimately close the risk before attackers can exploit it at scale.",
-        "Technical Implementation: That model increasingly reflects a world that no longer exists.",
-        "Deployment & Impact: Today’s enterprises operate thousands of interconnected workloads across hybrid and multicloud environments."
+        "Problem & Context: As organizations accelerate AI adoption and modernize their digital estates, applications, data, and infrastructure increasingly span multiple cloud environments.",
+        "Technical Implementation: Yet while multicloud strategies have become commonplace, networking between cloud environments remains complex.",
+        "Deployment & Impact: Establishing private connectivity often requires customers to manually stitch together services, coordinate provisioning across providers, manage multiple operational processes, and navigate fragmented support experiences."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Microsoft Azure Blog",
-          "url": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/"
+          "url": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/"
         }
       ]
     },
     {
       "id": "story_live_36",
       "category": "CLOUD",
-      "headline": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
-      "summary": "Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms , which we believe recognizes the platforms organizations rely on to build, deploy, and operate cloud-native applications at scale. This is our third consecutive year positioned as a Leader in this report.",
-      "why_it_matters": "Read the report We are proud of this recognition. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Inside Microsoft’s marketing team: Scaling expertise with AI",
+      "summary": "Business leaders are facing a familiar challenge at an unfamiliar scale. Every organization is being asked to move faster as markets change quickly, customer expectations continue to rise, and technology advances at a pace that can feel overwhelming.",
+      "why_it_matters": "Teams are expected to deliver greater results, often with the same resources they had before. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms , which we believe recognizes the platforms organizations rely on to build, deploy, and operate cloud-native applications at scale.",
-        "Technical Implementation: Cloud-native application platforms are no longer where organizations build and run modern applications.",
-        "Deployment & Impact: It is turning those ideas into production systems that can connect to existing applications and data, perform reliably at global scale, and meet the security and governance standards the business already expects."
+        "Problem & Context: Business leaders are facing a familiar challenge at an unfamiliar scale.",
+        "Technical Implementation: Our teams are now supporting a growing volume of launches, up to 150% year over year.",
+        "Deployment & Impact: To do that, we used Microsoft Foundry , Microsoft’s platform for building and managing enterprise AI applications, to create agents grounded in business knowledge and embedded in the flow of work, helping our teams operate at greater scale while staying focused on the work where their expertise matters most."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Microsoft Azure Blog",
-          "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/"
+          "url": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/"
         }
       ]
     },
@@ -736,7 +736,7 @@
         "Technical Implementation: An average of optimistic and pessimistic estimates from the experts gave it an even 50-50 probability of reaching this code-breaking milestone by 2040.",
         "Deployment & Impact: The near-term focus should be on “harvest now, decrypt later” scenarios, where adversaries collect encrypted data today and then hold it for fut."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -756,7 +756,7 @@
         "Technical Implementation: Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.",
         "Deployment & Impact: Inside those cabinets will be hundreds of chips, and on those, thousands of particles of light flying through a maze of optical switches and beam splitters."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -776,7 +776,7 @@
         "Technical Implementation: We evaluate a single 9 GB open-weight model (Qwen2.5-14B, 4-bit) against the complete open Jeopardy! clue dataset, 529,939 clues across all 41 broadcast seasons from 1984 to 2025.",
         "Deployment & Impact: To our knowledge this is the first time a model has been run over the full corpus."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -796,7 +796,7 @@
         "Technical Implementation: Each paradigm can be viewed as a measurement problem, where a latent property of an object is probed with items from an instrument (e.g., benchmark) by raters.",
         "Deployment & Impact: RMT decomposes ordinal ratings into separable facets on a common scale."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -816,7 +816,7 @@
         "Technical Implementation: Ironically, Tejwani had barred his 17-year-old twin son and.",
         "Deployment & Impact: Published by Rest of World with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -836,7 +836,7 @@
         "Technical Implementation: Last week, he returned to New York from a trip to China with a delegation of leaders from across media, technology,.",
         "Deployment & Impact: Published by Rest of World with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -856,7 +856,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -869,14 +869,14 @@
       "id": "story_live_44",
       "category": "STARTUPS",
       "headline": "Fastpotify",
-      "summary": "Trending discussion on Hacker News with score of 281 points and 128 developer comments.",
+      "summary": "Trending discussion on Hacker News with score of 282 points and 128 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
         "Problem & Context: Hacker News focuses on solving key constraints regarding fastpotify.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
@@ -896,7 +896,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:12:26.933307+05:30",
+      "published_at": "2026-09-01T13:13:36.715230+05:30",
       "importance": 7,
       "sources": [
         {
