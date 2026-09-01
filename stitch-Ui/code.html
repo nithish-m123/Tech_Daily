@@ -1,0 +1,402 @@
+<!DOCTYPE html><html class="light" lang="en"><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Tech Daily - The Professional Technology Record</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "surface-container-highest": "#e5e2e1",
+                        "inverse-on-surface": "#f4f0ef",
+                        "surface-container-high": "#ebe7e6",
+                        "error": "#ba1a1a",
+                        "secondary-container": "#0356ff",
+                        "tertiary-fixed-dim": "#cac6c4",
+                        "primary-fixed": "#e5e2e1",
+                        "tertiary-container": "#1c1b1a",
+                        "on-tertiary-fixed-variant": "#484645",
+                        "surface-dim": "#ddd9d8",
+                        "surface-container": "#f1edec",
+                        "secondary-fixed": "#dce1ff",
+                        "on-surface-variant": "#444748",
+                        "primary-container": "#1c1b1b",
+                        "on-error": "#ffffff",
+                        "outline-variant": "#c4c7c7",
+                        "surface-container-low": "#f7f3f2",
+                        "on-primary-fixed-variant": "#474746",
+                        "primary-fixed-dim": "#c8c6c5",
+                        "on-primary": "#ffffff",
+                        "on-error-container": "#93000a",
+                        "inverse-surface": "#313030",
+                        "on-primary-fixed": "#1c1b1b",
+                        "on-surface": "#1c1b1b",
+                        "surface-container-lowest": "#ffffff",
+                        "on-tertiary-container": "#868382",
+                        "on-secondary-fixed": "#001551",
+                        "on-secondary-container": "#e4e7ff",
+                        "on-secondary": "#ffffff",
+                        "secondary-fixed-dim": "#b6c4ff",
+                        "primary": "#000000",
+                        "on-background": "#1c1b1b",
+                        "on-secondary-fixed-variant": "#0039b3",
+                        "background": "#fdf8f8",
+                        "secondary": "#0041c9",
+                        "inverse-primary": "#c8c6c5",
+                        "tertiary-fixed": "#e6e2df",
+                        "tertiary": "#000000",
+                        "error-container": "#ffdad6",
+                        "on-tertiary": "#ffffff",
+                        "on-tertiary-fixed": "#1c1b1a",
+                        "outline": "#747878",
+                        "surface-bright": "#fdf8f8",
+                        "on-primary-container": "#858383",
+                        "surface-variant": "#e5e2e1",
+                        "surface-tint": "#5f5e5e",
+                        "surface": "#fdf8f8"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                    "spacing": {
+                        "section-gap": "80px",
+                        "container-max": "1280px",
+                        "margin-mobile": "20px",
+                        "unit": "4px",
+                        "gutter": "32px"
+                    },
+                    "fontFamily": {
+                        "headline-lg": ["\"Source Serif 4\""],
+                        "label-caps": ["Inter"],
+                        "headline-md": ["\"Source Serif 4\""],
+                        "body-md": ["Inter"],
+                        "body-lg": ["Inter"],
+                        "display-xl": ["\"Source Serif 4\""],
+                        "display-xl-mobile": ["\"Source Serif 4\""],
+                        "caption": ["Inter"]
+                    },
+                    "fontSize": {
+                        "headline-lg": ["40px", { "lineHeight": "48px", "fontWeight": "600" }],
+                        "headline-lg-mobile": ["32px", { "lineHeight": "38px", "fontWeight": "600" }],
+                        "label-caps": ["12px", { "lineHeight": "16px", "letterSpacing": "0.08em", "fontWeight": "600" }],
+                        "headline-md": ["32px", { "lineHeight": "38px", "fontWeight": "600" }],
+                        "headline-md-mobile": ["24px", { "lineHeight": "30px", "fontWeight": "600" }],
+                        "body-md": ["16px", { "lineHeight": "26px", "fontWeight": "400" }],
+                        "body-lg": ["20px", { "lineHeight": "32px", "fontWeight": "400" }],
+                        "display-xl": ["64px", { "lineHeight": "72px", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+                        "display-xl-mobile": ["40px", { "lineHeight": "44px", "letterSpacing": "-0.01em", "fontWeight": "700" }],
+                        "caption": ["14px", { "lineHeight": "20px", "fontWeight": "400" }]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        .hairline-b { border-bottom: 1px solid rgba(28, 27, 27, 0.1); }
+        .hairline-t { border-top: 1px solid rgba(28, 27, 27, 0.1); }
+        .hairline-r { border-right: 1px solid rgba(28, 27, 27, 0.1); }
+        
+        .text-editorial-body { font-family: 'Source Serif 4', serif; font-size: 18px; line-height: 28px; font-weight: 400; color: #1c1b1b; }
+        
+        html, body {
+            overflow: hidden;
+            height: 100%;
+            width: 100%;
+        }
+
+        .book-container {
+            scroll-snap-type: x mandatory;
+            overflow-x: scroll;
+            overflow-y: hidden;
+            display: flex;
+            height: 100%;
+            width: 100%;
+            -webkit-overflow-scrolling: touch;
+            scroll-behavior: smooth;
+        }
+        
+        /* Hide scrollbar for Chrome, Safari and Opera */
+        .book-container::-webkit-scrollbar {
+            display: none;
+        }
+
+        /* Hide scrollbar for IE, Edge and Firefox */
+        .book-container {
+            -ms-overflow-style: none;  /* IE and Edge */
+            scrollbar-width: none;  /* Firefox */
+        }
+
+        .page {
+            scroll-snap-align: start;
+            flex: 0 0 100vw;
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            padding-top: 80px; /* Space for fixed header */
+            padding-bottom: 60px; /* Space for indicators */
+            overflow-y: auto;
+            position: relative;
+        }
+        
+        .page-content {
+            width: 100%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            min-height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .page-card {
+            transition: opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1), transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+            opacity: 0.3;
+            transform: scale(0.92);
+        }
+
+        .page.is-active .page-card {
+            opacity: 1;
+            transform: scale(1);
+        }
+    </style>
+</head>
+<body class="bg-surface-container-low text-on-surface antialiased flex flex-col"><div id="nav-drawer" class="fixed inset-0 z-[60] pointer-events-none transition-opacity duration-300 opacity-0">
+    <div class="absolute inset-0 bg-black/20 backdrop-blur-sm pointer-events-auto" onclick="document.getElementById('nav-drawer').classList.add('opacity-0', 'pointer-events-none')"></div>
+    <aside class="absolute left-0 top-0 bottom-0 w-72 bg-surface-bright border-r border-on-surface/10 p-6 pointer-events-auto flex flex-col">
+        <div class="flex justify-between items-center mb-8">
+            <div class="font-label-caps text-label-caps text-primary uppercase tracking-widest">Menu</div>
+            <button class="p-1" onclick="document.getElementById('nav-drawer').classList.add('opacity-0', 'pointer-events-none')">
+                <span class="material-symbols-outlined text-on-surface-variant">close</span>
+            </button>
+        </div>
+        <nav class="space-y-6">
+            <button class="flex items-center gap-4 w-full text-left hover:opacity-70 transition-opacity">
+                <span class="material-symbols-outlined text-primary">text_fields</span>
+                <span class="font-body-md font-semibold text-on-surface">Change Font</span>
+            </button>
+            <button class="flex items-center gap-4 w-full text-left hover:opacity-70 transition-opacity">
+                <span class="material-symbols-outlined text-primary">favorite</span>
+                <span class="font-body-md font-semibold text-on-surface">Liked News</span>
+            </button>
+        </nav>
+    </aside>
+</div>
+<!-- Fixed Header -->
+<header class="bg-surface-container-low/95 backdrop-blur-sm border-b border-on-surface/10 flex flex-col items-center w-full px-margin-mobile md:px-gutter max-w-container-max mx-auto py-4 fixed top-0 left-0 right-0 z-50">
+<div class="flex justify-between items-center w-full mb-1">
+<button class="text-primary hover:opacity-80 transition-opacity p-2" onclick="document.getElementById('nav-drawer').classList.remove('opacity-0', 'pointer-events-none')">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 0;">menu</span>
+</button>
+<div class="font-headline-lg text-headline-lg-mobile md:text-headline-lg font-bold text-primary uppercase tracking-tighter text-center flex-1" style="font-family: 'Source Serif 4', serif;">
+            Tech Daily
+        </div>
+<button class="text-primary hover:opacity-80 transition-opacity p-2">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 0;">search</span>
+</button>
+</div>
+</header>
+<!-- Horizontal Scroll Container -->
+<div class="book-container" id="bookContainer">
+<!-- Page 1: Quantum Coherence (Lead) -->
+<section class="page is-active">
+<div class="page-content">
+<div class="page-card flex-1 border border-on-surface/20 bg-surface-bright p-8 md:p-12 shadow-sm flex flex-col justify-center">
+<div class="w-full text-center font-caption text-caption text-on-surface-variant mb-12 border-b border-on-surface/10 pb-4">
+                    The Professional Technology Record — Wednesday, Oct 23, 2024 — Edition No. 1,402
+                </div>
+<article class="flex flex-col items-center text-center">
+<div class="font-label-caps text-label-caps text-primary mb-4 uppercase tracking-widest border border-primary px-2 py-1">Breakthrough</div>
+<h1 class="font-display-xl-mobile md:font-display-xl text-display-xl-mobile md:text-display-xl text-on-surface mb-8 leading-tight">
+                        Quantum Coherence Maintained at Room Temperature
+                    </h1>
+<p class="font-body-lg text-body-lg text-on-surface-variant mb-10 max-w-2xl leading-relaxed">
+                        Researchers at MIT have achieved a major milestone in quantum computing, successfully maintaining qubit coherence at room temperature for an unprecedented 10 milliseconds, potentially paving the way for commercial desktop quantum systems within the decade.
+                    </p>
+<div class="flex items-center justify-center gap-3 font-caption text-caption text-on-surface-variant">
+<span class="font-semibold uppercase tracking-wider text-xs">By Dr. Aris Thorne</span>
+<span class="text-on-surface/30">|</span>
+<span class="uppercase tracking-wider text-xs">4 min read</span>
+</div>
+</article>
+</div>
+</div>
+</section>
+<!-- Page 2: TSMC 1nm -->
+<section class="page">
+<div class="page-content">
+<div class="page-card flex-1 border border-on-surface/20 bg-surface-bright p-8 md:p-12 shadow-sm">
+<article>
+<div class="font-label-caps text-label-caps text-primary mb-4 uppercase tracking-widest border border-primary px-2 py-1 inline-block">Semiconductors</div>
+<h2 class="font-headline-lg-mobile md:font-display-xl text-headline-lg-mobile md:text-display-xl text-on-surface mb-6 leading-tight">
+                        TSMC Announces 1nm Node Accelerated Timeline
+                    </h2>
+<img class="w-full aspect-video md:aspect-[21/9] object-cover mb-8 border border-on-surface/10 p-1 bg-white" data-alt="A stark, high-contrast monochrome photograph of a complex silicon wafer under intense microscopic lighting, highlighting the intricate geometric patterns of modern semiconductor architecture. The image exudes a premium, serious technology aesthetic with deep blacks and bright silver highlights." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCtxiuNXJ53_GLFTZBwz9IdgZT0bI9B2L-W_pH7JhIlWSJVATa8WyAGdI_j7ndu64mgWDTy844cytagonCs11Pk7SN-fuHQPWyWmgPcRCk5cE77OK9L5K4k66B6hkoOHDgnA5QfCpmhqEo4No5U-0dacKyCHj_ywkiYcE3GGhnyeGxXjeTqPIgipm98VskiLV3ODK4dASf7Ee5q1RriDl7IHr8oCiqllWrzKxVkqV8QYr-oNJ2RztIN">
+<div class="md:columns-2 md:gap-8">
+<p class="text-editorial-body mb-6 text-lg">
+                            Amidst growing geopolitical tensions and insatiable demand for AI compute, the Taiwanese manufacturing giant has surprised analysts by pulling its 1nm production schedule forward by 18 months, setting the stage for a dramatic shift in global supply chains.
+                        </p>
+</div>
+<div class="flex items-center gap-3 font-caption text-caption text-on-surface-variant mt-4">
+<span class="font-semibold uppercase tracking-wider text-xs">By Elena Rostova</span>
+<span class="text-on-surface/30">|</span>
+<span class="uppercase tracking-wider text-xs">6 min read</span>
+</div>
+</article>
+</div>
+</div>
+</section>
+<!-- Page 3: AI Liability Directive -->
+<section class="page">
+<div class="page-content flex flex-col justify-center">
+<div class="page-card border border-on-surface/20 bg-surface-bright p-8 md:p-12 shadow-sm">
+<article>
+<div class="font-label-caps text-label-caps text-primary mb-4 uppercase tracking-widest border border-primary px-2 py-1 inline-block">Regulation</div>
+<h2 class="font-headline-lg-mobile md:font-display-xl text-headline-lg-mobile md:text-display-xl text-on-surface mb-6 leading-tight">
+                        EU Passes Comprehensive AI Liability Directive
+                    </h2>
+<img class="w-full aspect-video object-cover mb-8 border border-on-surface/10 p-1 bg-white" data-alt="A sophisticated, minimalist architectural photograph of the European Parliament building interior, featuring stark geometric lines and soft, diffused natural light in a high-key black and white palette, reflecting a serious editorial tone." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAp4QdKmSCexg5lC81Ct0RHYqSfPtOWh1zKVFW8MKMeuUkkOWR8JYJqVnbsTYwP7ummvwzms92IXBsd3O8G2CcyyN_40WW7eAKReErncipwQCq7-ezS9p65HxGn_KacYqmYRHy0aQotOpTKXwPuIqIXIk5TSXRY8yUZdPPy8oZEDSzW1CLq9LJEd60xAj9ctFY4r_697PYUEE95kqCppfrwYX-fLPBQiyN4xavZAxFtWNB3cJSE4_Ma">
+<p class="text-editorial-body mb-6 text-lg">
+                        The European Parliament has ratified strict new rules establishing clear liability frameworks for damages caused by autonomous systems, a move that critics argue may stifle open-source innovation on the continent.
+                    </p>
+</article>
+</div>
+</div>
+</section>
+<!-- Page 4: Seed Funding -->
+<section class="page">
+<div class="page-content flex flex-col justify-center">
+<div class="page-card border border-on-surface/20 bg-surface-bright p-8 md:p-12 shadow-sm">
+<article>
+<div class="font-label-caps text-label-caps text-primary mb-4 uppercase tracking-widest border border-primary px-2 py-1 inline-block">Venture Capital</div>
+<h2 class="font-headline-lg-mobile md:font-display-xl text-headline-lg-mobile md:text-display-xl text-on-surface mb-8 leading-tight">
+                        Seed Funding Plummets as LPs Demand Profitability
+                    </h2>
+<p class="text-editorial-body mb-8 text-xl leading-relaxed font-semibold italic">
+                        The days of growth-at-all-costs appear to be definitively over as Q3 venture data reveals a 40% year-over-year drop in early-stage funding, with investors aggressively pivoting towards sustainable unit economics.
+                    </p>
+<div class="p-6 border-t-2 border-b-2 border-on-surface/80 bg-surface-bright my-8">
+<h3 class="font-label-caps text-label-caps text-primary mb-4 uppercase tracking-widest border-b border-on-surface/20 pb-2 inline-block">The Brief</h3>
+<ul class="space-y-4">
+<li class="pb-3 border-b border-on-surface/10 border-dashed">
+<h4 class="font-body-md font-semibold text-on-surface mb-1">Nvidia Acquires CoreWeave for $12B</h4>
+</li>
+<li class="pb-3 border-b border-on-surface/10 border-dashed">
+<h4 class="font-body-md font-semibold text-on-surface mb-1">Apple's Vision Pro 2 Leaks Detail Lighter Chassis</h4>
+</li>
+<li class="">
+<h4 class="font-body-md font-semibold text-on-surface mb-1">Stripe Signals Imminent IPO, Files Confidentially</h4>
+</li>
+</ul>
+</div>
+</article>
+</div>
+</div>
+</section>
+<!-- Page 5: Deep Dive -->
+<section class="page">
+<div class="page-content">
+<div class="page-card flex-1 border border-on-surface/20 bg-surface-bright p-8 md:p-12 shadow-sm">
+<article>
+<div class="font-label-caps text-label-caps text-on-surface border border-on-surface px-2 py-1 inline-block mb-6 uppercase tracking-widest text-[10px]">Deep Dive</div>
+<h2 class="font-headline-lg-mobile md:font-display-xl text-headline-lg-mobile md:text-display-xl text-on-surface mb-8 leading-tight font-serif">
+                        The End of the Open Web:<br><span class="italic font-normal">Walled Gardens in the AI Era</span>
+</h2>
+<img class="w-full aspect-video object-cover mb-8 border border-on-surface/10 p-1 bg-white" data-alt="A conceptual data visualization graphic showing a complex network graph of nodes and connections, rendered in a stark, minimalist black and white style with razor-thin intersecting lines, representing corporate consolidation in the tech sector." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAw0J68eIhlL0s8ZMMcGsH9YTuLwxEvsdJbPkRpQP0w9lQI_oHPGC601shMlIieNnzft8_F-RuaYlOdd3qU3EW7nOTVY4XDtvRAv7EPzQDtRLkeJaNaiszqyHhC02K8r1r19o0CUHzecJveWD-R7BoZput_hF53KRcG3XDDX-olp_0RP4wttab3U3PR1dtGKH_cZBGBjAnvlHFbfCZxV3KkgHrhgNTNYBbvZ9CHEYJDfgDPrYHgA_5P">
+<div class="md:columns-2 md:gap-10 border-t border-b border-on-surface/10 py-6 my-6">
+<p class="text-editorial-body text-lg leading-relaxed first-letter:text-5xl first-letter:font-bold first-letter:mr-1 first-letter:float-left first-letter:leading-none">
+                            As foundational model providers aggressively scrape public data, content platforms are throwing up paywalls and blocking crawlers, leading to an increasingly fragmented internet landscape that favors entrenched incumbents. The shift represents a fundamental departure from the principles that defined the early web, replacing open protocols with proprietary silos guarded by stringent terms of service and aggressive anti-scraping countermeasures.
+                        </p>
+</div>
+<div class="flex items-center gap-3 font-caption text-caption text-on-surface-variant mb-10">
+<span class="font-semibold uppercase tracking-wider text-xs">By J.C. Vance</span>
+<span class="text-on-surface/30">|</span>
+<span class="uppercase tracking-wider text-xs">12 min read</span>
+</div>
+<div class="mt-8 border-t-2 border-on-surface pt-6">
+<h3 class="font-label-caps text-label-caps text-primary mb-4 uppercase tracking-widest">Market Indices</h3>
+<table class="w-full text-sm max-w-md">
+<tbody class="font-caption text-caption text-on-surface">
+<tr class="border-b border-on-surface/10 border-dashed">
+<td class="py-3 uppercase tracking-wider">NASDAQ</td>
+<td class="py-3 text-right font-mono">15,324.50</td>
+<td class="py-3 text-right font-mono">-1.2%</td>
+</tr>
+<tr class="border-b border-on-surface/10 border-dashed">
+<td class="py-3 uppercase tracking-wider">S&amp;P 500</td>
+<td class="py-3 text-right font-mono">4,810.12</td>
+<td class="py-3 text-right font-mono">-0.8%</td>
+</tr>
+<tr>
+<td class="py-3 uppercase tracking-wider">BTC/USD</td>
+<td class="py-3 text-right font-mono">$64,120.00</td>
+<td class="py-3 text-right font-mono">+2.4%</td>
+</tr>
+</tbody>
+</table>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+<!-- Fixed Page Indicators -->
+<div class="fixed bottom-0 left-0 right-0 py-6 bg-gradient-to-t from-surface-container-low to-transparent pointer-events-none z-40">
+<div class="flex justify-center items-center gap-3">
+<div class="w-2 h-2 rounded-full bg-primary indicator-dot transition-colors duration-300"></div>
+<div class="w-2 h-2 rounded-full bg-on-surface/20 indicator-dot transition-colors duration-300"></div>
+<div class="w-2 h-2 rounded-full bg-on-surface/20 indicator-dot transition-colors duration-300"></div>
+<div class="w-2 h-2 rounded-full bg-on-surface/20 indicator-dot transition-colors duration-300"></div>
+<div class="w-2 h-2 rounded-full bg-on-surface/20 indicator-dot transition-colors duration-300"></div>
+</div>
+</div>
+<script>
+    // Intersection Observer for page animations and active dot update
+    const container = document.getElementById('bookContainer');
+    const pages = document.querySelectorAll('.page');
+    const dots = document.querySelectorAll('.indicator-dot');
+    
+    const observerOptions = {
+        root: container,
+        rootMargin: '0px',
+        threshold: 0.6 // Trigger when 60% of the page is visible
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                // Add active class for CSS transitions
+                entry.target.classList.add('is-active');
+                
+                // Update dots
+                const pageIndex = Array.from(pages).indexOf(entry.target);
+                dots.forEach((dot, index) => {
+                    if (index === pageIndex) {
+                        dot.classList.remove('bg-on-surface/20');
+                        dot.classList.add('bg-primary');
+                    } else {
+                        dot.classList.remove('bg-primary');
+                        dot.classList.add('bg-on-surface/20');
+                    }
+                });
+            } else {
+                // Remove active class when leaving view
+                entry.target.classList.remove('is-active');
+            }
+        });
+    }, observerOptions);
+
+    pages.forEach(page => {
+        observer.observe(page);
+    });
+</script>
+
+
+</body></html>
