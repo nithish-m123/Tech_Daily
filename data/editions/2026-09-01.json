@@ -8,14 +8,14 @@
     "id": "story_live_1",
     "category": "AI & MACHINE LEARNING",
     "headline": "3 new ways to plan and book travel in Search",
-    "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
-    "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
+    "summary": "Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Products & Platforms Products Search 3 new ways to plan and book travel in Search Aug 27, 2026 3 min read Our latest upgrades for AI Mode in Search can help you track flight prices, view points or miles rates, and book your dream hotel. James Byers Group Product Manager, Search Share Planning a trip comes with lots of moving parts and countless options to consider.",
+    "why_it_matters": "With AI Mode in Search, you can already get real-time data to compare flights and hotels, find the best recommendations across the web, and craft the perfect itinerary. This marks a notable development for engineering teams working in ai & machine learning.",
     "key_points": [
-      "Problem & Context: Google AI Blog focuses on solving key constraints regarding 3 new ways to plan and book travel in search.",
-      "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
-      "Deployment & Impact: Published by Google AI Blog with documentation and production rollout details."
+      "Problem & Context: With AI Mode in Search, you can already get real-time data to compare flights and hotels, find the best recommendations across the web, and craft the perfect itinerary.",
+      "Technical Implementation: Today, we’re bringing Google Flights’ popular price tracking feature directly into AI Mode, letting you set up price alerts as you chat, without breaking your flow.",
+      "Deployment & Impact: If you’re ready to book, you can build your full itinerary in AI Mode and buy your tickets through the airline’s website or your preferred booking platform."
     ],
-    "published_at": "2026-09-01T13:39:22.101545+05:30",
+    "published_at": "2026-09-01T13:42:37.468800+05:30",
     "importance": 9,
     "sources": [
       {
@@ -29,14 +29,14 @@
       "id": "story_live_2",
       "category": "AI & MACHINE LEARNING",
       "headline": "5 ways to upgrade your home decor with Google Search",
-      "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
-      "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
+      "summary": "Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Products & Platforms Products Search 5 ways to upgrade your home decor with Google Search Aug 25, 2026 4 min read From tracking down unique vintage finds to seeing how new furniture fits before you buy, here’s how Google Search can help transform your living space. Megan Stoner Contributor Share Listen to article [[duration]] minutes Read AI-generated summary People turn to Google Search every day for discovery and inspiration, including when it comes to home decor: Searches for “home decor inspo” are up 300% in the past month, and both “bathroom inspo” and “living room inspo” are breakout searches in the same timeframe.",
+      "why_it_matters": "Bold pops of color are in, too — this year's trending paint searches include teal and magenta. This marks a notable development for engineering teams working in ai & machine learning.",
       "key_points": [
-        "Problem & Context: Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
-        "Deployment & Impact: Published by Google AI Blog with documentation and production rollout details."
+        "Problem & Context: Megan Stoner Contributor Share Listen to article [[duration]] minutes Read AI-generated summary People turn to Google Search every day for discovery and inspiration, including when it comes to home decor: Searches for “home decor inspo” are up 300% in the past month, and both “bathroom inspo” and “living room inspo” are breakout searches in the same timeframe.",
+        "Technical Implementation: Here are five ways you can use Google Search tools to take action on your home decor vision board.",
+        "Deployment & Impact: Bold pops of color are in, too — this year's trending paint searches include teal and magenta."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -56,7 +56,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -76,7 +76,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -96,7 +96,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -116,7 +116,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -136,7 +136,7 @@
         "Technical Implementation: Back in May, models in training figured out how to communicate with one another via an improvised message board, and an OpenAI team observed the behavior.",
         "Deployment & Impact: By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on a test."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -156,7 +156,7 @@
         "Technical Implementation: The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’ fears that AI models might take actions that defy human desires and expectations.",
         "Deployment & Impact: But making sure AI models do what we want them to do, or “alignment,” remains a gnarly problem, and some of the root causes of the hack will take much longer than a month to resolve."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -169,14 +169,14 @@
       "id": "story_live_9",
       "category": "DEVELOPERS",
       "headline": "OpenClaw went viral. Meet the maintainers building and securing it.",
-      "summary": "What began as a personal experiment quickly became a global open source project with extraordinary momentum. OpenClaw is a personal AI assistant that runs on users’ devices and connects with the messaging channels they already use.",
-      "why_it_matters": "Started by Peter Steinberger as a weekend project in November 2025, its GitHub repository has grown to approximately 388,000 stars, 81,000 forks, and more than 80,000 commits by August 26, 2026. This marks a notable development for engineering teams working in developers.",
+      "summary": "Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI.",
+      "why_it_matters": "GitHub Copilot Change how you work with GitHub Copilot. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: OpenClaw is a personal AI assistant that runs on users’ devices and connects with the messaging channels they already use.",
-        "Technical Implementation: In this video interview, filmed just six months into the project, creator Peter Steinberger and several OpenClaw maintainers discuss managing a surge of pull requests, rethinking contributor trust and code review, addressing software supply chain risks, and balancing powerful agent capabilities with security.",
-        "Deployment & Impact: They also share security lessons from the GitHub Secure Open Source Fund and the value of connecting with maintainers facing similar challenges."
+        "Problem & Context: Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry.",
+        "Technical Implementation: Generative AI Learn how to build with generative AI.",
+        "Deployment & Impact: How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience.Learn more Developer skills Developer skills Resources for developers to grow in their skills and careers."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -189,14 +189,14 @@
       "id": "story_live_10",
       "category": "DEVELOPERS",
       "headline": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-      "summary": "I might be biased, but I think Dependabot is pretty amazing. It helps keep my projects up to date, ensuring I’m always using secure libraries.",
-      "why_it_matters": "But because there’re frequently new vulnerabilities, there’re frequently new pull requests from Dependabot. This marks a notable development for engineering teams working in developers.",
+      "summary": "Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI.",
+      "why_it_matters": "GitHub Copilot Change how you work with GitHub Copilot. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: Sometimes it’s a minor version bump.",
-        "Technical Implementation: Sometimes it’s a major version upgrade.",
-        "Deployment & Impact: Follow the steps below to build a daily Dependabot triage automation."
+        "Problem & Context: Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry.",
+        "Technical Implementation: Generative AI Learn how to build with generative AI.",
+        "Deployment & Impact: How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience.Learn more Developer skills Developer skills Resources for developers to grow in their skills and careers."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -216,7 +216,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -236,7 +236,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -256,7 +256,7 @@
         "Technical Implementation: // after Go 1.18 type List[E any] struct { elem E next *List[E] } Likewise, sorting different kinds of ordered data could be expressed as a single function: // before Go 1.18 func SortInts(s []int) { /* .",
         "Deployment & Impact: In this post, we’ll explain this change of view and demonstrate some uses of this new feature."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -276,7 +276,7 @@
         "Technical Implementation: First, generic methods are now supported.",
         "Deployment & Impact: Generic functions can now be used without explicit type arguments in composite literals, type conversions, and channel sends: func GenericFormatter[T any](v T) string { return fmt.Sprintf(\"value: %v\", v) } type IntFormatter func(int) string // Go 1.27 infers T = int in composite literals, conversions, and channel sends."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -296,7 +296,7 @@
         "Technical Implementation: Ars does not accept paid editorial content.",
         "Deployment & Impact: MONTEREY, Calif.—Last week, we brought news of the Bentley Torcal, a new electric vehicle that the luxury automaker has been cooking up at its HQ in Crewe, England."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -316,7 +316,7 @@
         "Technical Implementation: Of the three research programs that represent nearly all of the Cyclospora work at the US Department of Agriculture, two have been defunded, and the third is about to lose every scientist working on it.",
         "Deployment & Impact: The Trump administration is shuttering the USDA's Beltsville Agricultural Research Center near Washington, DC, and moving its work to a location in Iowa."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -336,7 +336,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -356,7 +356,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -369,14 +369,14 @@
       "id": "story_live_19",
       "category": "BIG TECH",
       "headline": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
-      "summary": "Training and serving frontier AI models depends on fast, reliable networks that move data between GPUs without wasting compute cycles. To meet this challenge at scale, Meta designed MetaRoCE – a clean-sheet RDMA transport protocol purpose-built for AI workloads on commodity Ethernet.",
+      "summary": "Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON AUGUST 24, 2026 TO Data Center Engineering, Data Infrastructure, Networking & Traffic, Open Source MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet By Arvind Srinivasan, Neil Spring, Omar Baldonado, Rajiv Krishnamurthy Training and serving frontier AI models depends on fast, reliable networks that move data between GPUs without wasting compute cycles. To meet this challenge at scale, Meta designed MetaRoCE – a clean-sheet RDMA transport protocol purpose-built for AI workloads on commodity Ethernet.",
       "why_it_matters": "We’re releasing the MetaRoCE specification, a reference software implementation and a compliance test suite through the Open Compute Project (OCP) to enable the broader industry to adopt, implement, and build on it. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Training and serving frontier AI models depends on fast, reliable networks that move data between GPUs without wasting compute cycles.",
+        "Problem & Context: Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON AUGUST 24, 2026 TO Data Center Engineering, Data Infrastructure, Networking & Traffic, Open Source MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet By Arvind Srinivasan, Neil Spring, Omar Baldonado, Rajiv Krishnamurthy Training and serving frontier AI models depends on fast, reliable networks that move data between GPUs without wasting compute cycles.",
         "Technical Implementation: To meet this challenge at scale, Meta designed MetaRoCE – a clean-sheet RDMA transport protocol purpose-built for AI workloads on commodity Ethernet.",
         "Deployment & Impact: We’re releasing the MetaRoCE specification, a reference software implementation and a compliance test suite through the Open Compute Project (OCP) to enable the broader industry to adopt, implement, and build on it."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -389,14 +389,14 @@
       "id": "story_live_20",
       "category": "BIG TECH",
       "headline": "MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines",
-      "summary": "MTIA 300 is the first of Meta’s family of in-house training and inference accelerators optimized for training ranking and recommendation models. We’re sharing how MTIA 300’s built-in NIC chiplets allow it to meet the communication needs associated with training recommendation models with superior performance over general-purpose GPUs.",
+      "summary": "Skip to content Search this site Open Source Platforms Infrastructure Systems Physical Infrastructure Video Engineering & AR/VR Artificial Intelligence Watch Videos POSTED ON AUGUST 24, 2026 TO DATA INFRASTRUCTURE, DEVINFRA, NETWORKING & TRAFFIC, PRODUCTION ENGINEERING MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines By Rajiv Krishnamurthy, Wes Bland MTIA 300 is the first of Meta’s family of in-house training and inference accelerators optimized for training ranking and recommendation models. We’re sharing how MTIA 300’s built-in NIC chiplets allow it to meet the communication needs associated with training recommendation models with superior performance over general-purpose GPUs.",
       "why_it_matters": "By co-designing MTIA’s communication library, HCCL, alongside the chip we’ve taken a fundamentally different approach to chip design and made communication a first-class citizen. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: MTIA 300 is the first of Meta’s family of in-house training and inference accelerators optimized for training ranking and recommendation models.",
+        "Problem & Context: Skip to content Search this site Open Source Platforms Infrastructure Systems Physical Infrastructure Video Engineering & AR/VR Artificial Intelligence Watch Videos POSTED ON AUGUST 24, 2026 TO DATA INFRASTRUCTURE, DEVINFRA, NETWORKING & TRAFFIC, PRODUCTION ENGINEERING MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines By Rajiv Krishnamurthy, Wes Bland MTIA 300 is the first of Meta’s family of in-house training and inference accelerators optimized for training ranking and recommendation models.",
         "Technical Implementation: We’re sharing how MTIA 300’s built-in NIC chiplets allow it to meet the communication needs associated with training recommendation models with superior performance over general-purpose GPUs.",
         "Deployment & Impact: Deep learning models may deliver personalized content—from short videos to friend posts—to people on apps."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -416,7 +416,7 @@
         "Technical Implementation: Right after a title launched, its assets had no history, so we dialed up exploration on its assets to gather interaction data, and otherwise fell back to popularity heuristics that ignore your taste.",
         "Deployment & Impact: This post shares how multimodal embeddings let our models see and hear the assets they recommend, so personalization can kick in far sooner, close to a title’s launch."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -436,7 +436,7 @@
         "Technical Implementation: The second came from the Apache Flink community, and it can scale workloads our homegrown system was never designed for.",
         "Deployment & Impact: Why autoscaling is not optional at our scale Netflix has run stream processing on Apache Flink since 2017."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -456,7 +456,7 @@
         "Technical Implementation: The new price is currently live at the Google Store and Best Buy , but Amazon appears to still be offering the original price.",
         "Deployment & Impact: The price hike comes just a couple of weeks after Google launched its new lineup of Pixel 11 phones with a $100 price hike over their Pixel 10 counterparts."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -476,7 +476,7 @@
         "Technical Implementation: | Image: JMGO JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China.",
         "Deployment & Impact: It gets its name from a new dual-iris system that lets it produce an impressive 10,000:1 native contrast, according to JMGO."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -496,7 +496,7 @@
         "Technical Implementation: For users who require broader coverage in larger homes or offices, the Deco 8 Ultra BN22000 tri-band mesh router offers aggregate speeds of up to 22 Gbps and includes 10 Gbps wired connectivity.",
         "Deployment & Impact: TP-Link typically sells its mesh systems in two- or three-pack configurations, and the Deco 8 Ultra BN22000 3-pack covers up to 9,800 square feet."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -516,7 +516,7 @@
         "Technical Implementation: It is notably a DRAM-less SSD as it uses Host Memory Buffer (HMB) technology instead, meaning that the performance may vary depending on the workload.",
         "Deployment & Impact: In 3DMark's Storage Benchmark, the NV3 delivered respectable results, and it performed well in PCMark 10, where it beat the Corsair MP600 Elite and came reasonably close to several more expensive SSDs."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -529,14 +529,14 @@
       "id": "story_live_27",
       "category": "STARTUPS",
       "headline": "Magna increases bet on battery swapping in India with $35M for Yuma",
-      "summary": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
-      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
+      "summary": "Skip to content TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: YUMA ENERGY TRANSPORTATION Magna increases bet on battery swapping in India with $35M for Yuma Jagmeet Singh 10:00 PM PDT · August 31, 2026 While battery swapping has struggled to take off in much of the world, Canadian auto parts giant Magna International believes the model could work at scale in India, where millions of two- and three-wheelers and a fast-growing delivery economy create a different set of economics. And it’s placing that bet on Yuma Energy, a Bengaluru-based firm that operates a battery-swapping network for electric two- and three-wheelers.",
+      "why_it_matters": "Yuma, which spun out of Indian mobility startup Yulu in early 2023, has completed more than 60 million swaps to date and now has about 100,000 batteries deployed across its network. This marks a notable development for engineering teams working in startups.",
       "key_points": [
-        "Problem & Context: TechCrunch Startups focuses on solving key constraints regarding magna increases bet on battery swapping in india with $35m for yuma.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
-        "Deployment & Impact: Published by TechCrunch Startups with documentation and production rollout details."
+        "Problem & Context: Skip to content TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: YUMA ENERGY TRANSPORTATION Magna increases bet on battery swapping in India with $35M for Yuma Jagmeet Singh 10:00 PM PDT · August 31, 2026 While battery swapping has struggled to take off in much of the world, Canadian auto parts giant Magna International believes the model could work at scale in India, where millions of two- and three-wheelers and a fast-growing delivery economy create a different set of economics.",
+        "Technical Implementation: Magna is now investing another $35 million in Yuma, increasing the auto supplier’s stake from the 51% it took when the joint venture was formed, Yuma managing director Muthu Subramanian said in an interview.",
+        "Deployment & Impact: As a result, Yulu’s 49% stake will be diluted."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -549,14 +549,14 @@
       "id": "story_live_28",
       "category": "STARTUPS",
       "headline": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-      "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
-      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
+      "summary": "Skip to content TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: ALTEON TRANSPORTATION Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year Jagmeet Singh 5:30 PM PDT · August 31, 2026 Prominent solo investor Lachy Groom has backed a Bengaluru startup attempting an ambitious feat: keeping an aircraft in the sky for more than a year by harvesting energy from ocean winds. Alteon, founded by 20-year-old Samay Sanghvi, announced Tuesday that it raised $2.5 million in a pre-seed round led by Groom, with participation from Together Fund, to develop autonomous aircraft inspired by dynamic soaring, a technique albatrosses use to extract energy from the wind.",
+      "why_it_matters": "Groom decided he wanted to invest within the first 30 minutes of their first meeting, Sanghvi told TechCrunch. This marks a notable development for engineering teams working in startups.",
       "key_points": [
-        "Problem & Context: TechCrunch Startups focuses on solving key constraints regarding lachy groom backs indian startup aiming to keep aircraft aloft for a year.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
-        "Deployment & Impact: Published by TechCrunch Startups with documentation and production rollout details."
+        "Problem & Context: Skip to content TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: ALTEON TRANSPORTATION Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year Jagmeet Singh 5:30 PM PDT · August 31, 2026 Prominent solo investor Lachy Groom has backed a Bengaluru startup attempting an ambitious feat: keeping an aircraft in the sky for more than a year by harvesting energy from ocean winds.",
+        "Technical Implementation: “Once you build airplanes that can stay in the air for more than a year, there are millions of things you can do with them,” Sanghvi told TechCrunch.",
+        "Deployment & Impact: The initial plan is to build an aircraft with around a three-meter-wingspan that will fly close to the ocean’s surface, climb, and turn through faster-moving air, and repeat the cycle to gain energy from the wind."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -569,14 +569,14 @@
       "id": "story_live_29",
       "category": "CYBERSECURITY",
       "headline": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP , a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real identity in June, and has been communicating with him ever since.",
+      "summary": "Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Two Alleged ‘TeamPCP’ Hackers Arrested in Australia August 27, 2026 25 Comments Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real identity in June, and has been communicating with him ever since.",
       "why_it_matters": "This story includes interviews with TeamPCP’s self-described spokesperson, and examines clues left behind by the TeamPCP leader that likely led to his undoing. This marks a notable development for engineering teams working in cybersecurity.",
       "key_points": [
-        "Problem & Context: Authorities in Australia have arrested two men believed to be members of TeamPCP , a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever.",
+        "Problem & Context: Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Two Alleged ‘TeamPCP’ Hackers Arrested in Australia August 27, 2026 25 Comments Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever.",
         "Technical Implementation: In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real identity in June, and has been communicating with him ever since.",
         "Deployment & Impact: TeamPCP vaulted onto the cybercrime scene in late 2025, embedding malicious code in hundreds of open source software tools and extorting victims for profit."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -589,14 +589,14 @@
       "id": "story_live_30",
       "category": "CYBERSECURITY",
       "headline": "Who’s Tracking You? Use This New Service to Find Out",
-      "summary": "It can be daunting to determine who’s responsible for showing ads on the websites we visit, or who’s harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms.",
+      "summary": "Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Who’s Tracking You? Use This New Service to Find Out August 14, 2026 48 Comments It can be daunting to determine who’s responsible for showing ads on the websites we visit, or who’s harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms.",
       "why_it_matters": "Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you. This marks a notable development for engineering teams working in cybersecurity.",
       "key_points": [
-        "Problem & Context: It can be daunting to determine who’s responsible for showing ads on the websites we visit, or who’s harvesting data from the mobile apps we use every day.",
+        "Problem & Context: Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Who’s Tracking You? Use This New Service to Find Out August 14, 2026 48 Comments It can be daunting to determine who’s responsible for showing ads on the websites we visit, or who’s harvesting data from the mobile apps we use every day.",
         "Technical Implementation: Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you.",
         "Deployment & Impact: The newly launched decryptads.com says it is constantly scraping the files that websites and apps make publicly available to disclose the companies that are permitted to run ads or collect user data."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -616,7 +616,7 @@
         "Technical Implementation: The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability that could be exploited to execute arbitrary Python code in the context of the root user.",
         "Deployment & Impact: Published by The Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -636,7 +636,7 @@
         "Technical Implementation: The ongoing insider threat is part of what has been described as the IT worker scheme,.",
         "Deployment & Impact: Published by The Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -656,7 +656,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
         "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -676,7 +676,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
         "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -689,14 +689,14 @@
       "id": "story_live_35",
       "category": "CLOUD",
       "headline": "If hardware price squeezes make you sad, VMware says it will all end in tiers",
-      "summary": "VMware is working to find new roles for its memory tiering technology, in the expectation that memory and hardware prices will remain high for years and users will therefore look for ways to put off server purchases. Memory tiering moves data out of DRAM and onto another storage medium that’s fast enough that CPUs can still access info at speeds that don’t slow application performance.",
-      "why_it_matters": "VMware’s implementation works by looking for “cold pages” in DRAM – chunks of memory containing data that a CPU hasn’t touched and/or won’t need for a while. This marks a notable development for engineering teams working in cloud.",
+      "summary": "Jump to main content Sign in AI Security AWS Microsoft Developer Open Source BOFH Who, Me? On Call Podcasts VIRTUALIZATION If hardware price squeezes make you sad, VMware says it will all end in tiers Virtzilla finding more ways to pull data out of DRAM to enable ‘densification’ and dodge the RAMpocalypse Simon Sharwood APAC EDITOR APAC Editor 0 Published Tue 01 Sept 2026 // 05:06 UTC MOST POPULAR Researcher shows how Claude Code can be tricked simply by asking it to summarize a website German-Japanese researchers invent electricity-free tech that could cool datacenters Broadcom pledges to lock down open source Python, Java libraries A lot of datacenter networks are run by absolute clowns. Not Amazon's Security vets rally around $4 paper password books for sale in Australia VMware is working to find new roles for its memory tiering technology, in the expectation that memory and hardware prices will remain high for years and users will therefore look for ways to put off server purchases.",
+      "why_it_matters": "Memory tiering moves data out of DRAM and onto another storage medium that’s fast enough that CPUs can still access info at speeds that don’t slow application performance. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: VMware is working to find new roles for its memory tiering technology, in the expectation that memory and hardware prices will remain high for years and users will therefore look for ways to put off server purchases.",
-        "Technical Implementation: Memory tiering moves data out of DRAM and onto another storage medium that’s fast enough that CPUs can still access info at speeds that don’t slow application performance.",
-        "Deployment & Impact: VMware’s implementation works by looking for “cold pages” in DRAM – chunks of memory containing data that a CPU hasn’t touched and/or won’t need for a while."
+        "Problem & Context: Jump to main content Sign in AI Security AWS Microsoft Developer Open Source BOFH Who, Me? On Call Podcasts VIRTUALIZATION If hardware price squeezes make you sad, VMware says it will all end in tiers Virtzilla finding more ways to pull data out of DRAM to enable ‘densification’ and dodge the RAMpocalypse Simon Sharwood APAC EDITOR APAC Editor 0 Published Tue 01 Sept 2026 // 05:06 UTC MOST POPULAR Researcher shows how Claude Code can be tricked simply by asking it to summarize a website German-Japanese researchers invent electricity-free tech that could cool datacenters Broadcom pledges to lock down open source Python, Java libraries A lot of datacenter networks are run by absolute clowns.",
+        "Technical Implementation: Not Amazon's Security vets rally around $4 paper password books for sale in Australia VMware is working to find new roles for its memory tiering technology, in the expectation that memory and hardware prices will remain high for years and users will therefore look for ways to put off server purchases.",
+        "Deployment & Impact: Memory tiering moves data out of DRAM and onto another storage medium that’s fast enough that CPUs can still access info at speeds that don’t slow application performance."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -709,14 +709,14 @@
       "id": "story_live_36",
       "category": "CLOUD",
       "headline": "AI adoption at work is broad but shallow",
-      "summary": "Economists have taken another stab at assessing the impact of generative AI adoption on different occupations and have found that adoption is broad but not very deep. While generative AI reaches 80 percent of occupations and more than 40 percent of tasks, in most of these occupations fewer than half of workers adopt it.",
-      "why_it_matters": "Occupational use is high in professions where you'd expect – in management and professional occupations, particularly those that are related to finance, business, and computers. This marks a notable development for engineering teams working in cloud.",
+      "summary": "Jump to main content Search TOPICS Security All Security Cyber-crime Patches Research CSO Off-Prem All Off-Prem Edge and IoT Channel PaaS and IaaS SaaS On-Prem All On-Prem Systems Storage Networks HPC Personal Tech Cx0 Public Sector Software All Software AI and ML Applications Databases DevOps OS Platforms Virtualization Offbeat All Offbeat Columnists Science BOFH Legal Site News About Us Special Features All Special Features VMware Explore 2026 Cloud Infrastructure Month 2026 HPE: AI Explainers Agentic AI The Future of the Datacenter AWS:Reinvent Nvidia GTC Supercomputing Month Computex 2026 AI Infrastructure Month 2026 The State of Storage 2026 RSA Conference Vendor Voice All Vendor Voice Modernizing Financial Services with FIS and AWS Barco Infinidat Everpure Rubrik Make it real with Capgemini and AWS Money Movement Hub ZTE Nutanix: Scale Kubernetes. AWS New Horizon Digicert Netscout Resources Intelligence Webinars & Events Newsletters Search Sign in AI Security AWS Microsoft Developer Open Source BOFH Who, Me? On Call Podcasts REG AD ai and ml AI adoption at work is broad but shallow GenAI now reaches 80% of occupations, but in most of those fewer than half of workers use it Thomas Claburn Thomas Claburn AI AND SOFTWARE REPORTER Published tue 1 Sep 2026 // 00:43 UTC MOST POPULAR security Researcher shows how Claude Code can be tricked simply by asking it to summarize a website science German-Japanese researchers invent electricity-free tech that could cool datacenters virtualization Broadcom pledges to lock down open source Python, Java libraries NETWORKS A lot of datacenter networks are run by absolute clowns.",
+      "why_it_matters": "Not Amazon's security Security vets rally around $4 paper password books for sale in Australia Economists have taken another stab at assessing the impact of generative AI adoption on different occupations and have found that adoption is broad but not very deep. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: Schumacher (Vanderbilt), measures how workers actually use generative AI for their jobs by analyzing Real-Time Population Survey (RPS) data.",
-        "Technical Implementation: The measurement discrepancy is the result, the authors say, of chat log classifiers that associate chats with a few tasks that have generic, activity-based descriptions like \"Edit written material or documents.\" The problem with this approach is that when OpenAI data concludes 15 percent of chats involve that sort of editing, those figures don't match up with the US Department of Labor's O*NET database, where only 2.4 percent of workers are in jobs that include that task.",
-        "Deployment & Impact: Occupational use is high in professions where you'd expect – in management and professional occupations, particularly those that are related to finance, business, and computers."
+        "Problem & Context: Jump to main content Search TOPICS Security All Security Cyber-crime Patches Research CSO Off-Prem All Off-Prem Edge and IoT Channel PaaS and IaaS SaaS On-Prem All On-Prem Systems Storage Networks HPC Personal Tech Cx0 Public Sector Software All Software AI and ML Applications Databases DevOps OS Platforms Virtualization Offbeat All Offbeat Columnists Science BOFH Legal Site News About Us Special Features All Special Features VMware Explore 2026 Cloud Infrastructure Month 2026 HPE: AI Explainers Agentic AI The Future of the Datacenter AWS:Reinvent Nvidia GTC Supercomputing Month Computex 2026 AI Infrastructure Month 2026 The State of Storage 2026 RSA Conference Vendor Voice All Vendor Voice Modernizing Financial Services with FIS and AWS Barco Infinidat Everpure Rubrik Make it real with Capgemini and AWS Money Movement Hub ZTE Nutanix: Scale Kubernetes.",
+        "Technical Implementation: AWS New Horizon Digicert Netscout Resources Intelligence Webinars & Events Newsletters Search Sign in AI Security AWS Microsoft Developer Open Source BOFH Who, Me? On Call Podcasts REG AD ai and ml AI adoption at work is broad but shallow GenAI now reaches 80% of occupations, but in most of those fewer than half of workers use it Thomas Claburn Thomas Claburn AI AND SOFTWARE REPORTER Published tue 1 Sep 2026 // 00:43 UTC MOST POPULAR security Researcher shows how Claude Code can be tricked simply by asking it to summarize a website science German-Japanese researchers invent electricity-free tech that could cool datacenters virtualization Broadcom pledges to lock down open source Python, Java libraries NETWORKS A lot of datacenter networks are run by absolute clowns.",
+        "Deployment & Impact: Not Amazon's security Security vets rally around $4 paper password books for sale in Australia Economists have taken another stab at assessing the impact of generative AI adoption on different occupations and have found that adoption is broad but not very deep."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -736,7 +736,7 @@
         "Technical Implementation: R9g instances are ideal for memory-intensive workloads including databases, in-memory caches (Valkey, Redis, MemCached), real-time big data analytics, Linux-based workloads including containerized and micro-service-based applications (e.g.",
         "Deployment & Impact: R9gd instances include local NVMe-based SSD block-level storage, ideal for memory-intensive workloads requiring fast, low-latency local storage such as open-source databases, distributed real-time big data analytics, large in-memory databases, and large caching workloads."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -756,7 +756,7 @@
         "Technical Implementation: DuckDB stays open source under its independent foundation and the MIT license, and over time AWS plans to combine its speed at everyday queries with the enterprise scale of services like Amazon S3, Amazon Redshift, and Amazon Athena.",
         "Deployment & Impact: It also happens to pair beautifully with AI agents, which “poke” and experiment their way through data much like humans do."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -776,7 +776,7 @@
         "Technical Implementation: Cloudflare analyzes more than a trillion requests a day for signs of automated abuse, so we see how fast attackers change tactics.",
         "Deployment & Impact: For many of them, getting past bot detection is a full-time job they genuinely enjoy."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -796,7 +796,7 @@
         "Technical Implementation: We know that the ecosystem of bots is vast, making it all the more important for site owners to be able to manage bot traffic sustainably.",
         "Deployment & Impact: But this ecosystem goes both ways."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -808,40 +808,40 @@
     {
       "id": "story_live_41",
       "category": "CLOUD",
-      "headline": "The patch window is collapsing: Why security needs a new control plane",
-      "summary": "For decades, cybersecurity defenders have relied on a relatively straightforward model: a vulnerability is disclosed, security teams assess exposure, test available fixes, deploy patches into production, and ultimately close the risk before attackers can exploit it at scale. That model increasingly reflects a world that no longer exists.",
-      "why_it_matters": "Today’s enterprises operate thousands of interconnected workloads across hybrid and multicloud environments. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs",
+      "summary": "Summary This post is for technical decision makers evaluating where to run production PostgreSQL workloads. It compares two valid operating models—self-managed PostgreSQL and a managed database service—through business and operational outcomes: control, engineering capacity, resilience, security, cost predictability, risk tolerance, and access to specialist expertise.",
+      "why_it_matters": "The right choice depends on which responsibilities the organization needs to retain and which it is prepared to transfer to a service provider. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: For decades, cybersecurity defenders have relied on a relatively straightforward model: a vulnerability is disclosed, security teams assess exposure, test available fixes, deploy patches into production, and ultimately close the risk before attackers can exploit it at scale.",
-        "Technical Implementation: That model increasingly reflects a world that no longer exists.",
-        "Deployment & Impact: Today’s enterprises operate thousands of interconnected workloads across hybrid and multicloud environments."
+        "Problem & Context: It compares two valid operating models—self-managed PostgreSQL and a managed database service—through business and operational outcomes: control, engineering capacity, resilience, security, cost predictability, risk tolerance, and access to specialist expertise.",
+        "Technical Implementation: Why organizations choose PostgreSQL PostgreSQL is a powerful, versatile open-source relational database used for workloads ranging from small applications to enterprise systems.",
+        "Deployment & Impact: It is a natural choice for teams that need a standards-based database with a broad ecosystem and extensive extensibility."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Microsoft Azure Blog",
-          "url": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/"
+          "url": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/"
         }
       ]
     },
     {
       "id": "story_live_42",
       "category": "CLOUD",
-      "headline": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
-      "summary": "Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms , which we believe recognizes the platforms organizations rely on to build, deploy, and operate cloud-native applications at scale. This is our third consecutive year positioned as a Leader in this report.",
-      "why_it_matters": "Read the report We are proud of this recognition. This marks a notable development for engineering teams working in cloud.",
+      "headline": "The Economics of Agent Optimization: Four ways to lower the cost",
+      "summary": "This blog post is the second of a four-part series called The Economics of Agent Optimization which shares the strategies, capabilities, and proof points to help you optimize agent costs and run AI as a managed investment system on Microsoft Foundry. The first post set out the three decisions that system rests on: optimize each request at runtime, optimize each workflow over time, and govern spend continuously.",
+      "why_it_matters": "This post takes the first, the one that touches every dollar you will ever spend on AI. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms , which we believe recognizes the platforms organizations rely on to build, deploy, and operate cloud-native applications at scale.",
-        "Technical Implementation: Cloud-native application platforms are no longer where organizations build and run modern applications.",
-        "Deployment & Impact: It is turning those ideas into production systems that can connect to existing applications and data, perform reliably at global scale, and meet the security and governance standards the business already expects."
+        "Problem & Context: This blog post is the second of a four-part series called The Economics of Agent Optimization which shares the strategies, capabilities, and proof points to help you optimize agent costs and run AI as a managed investment system on Microsoft Foundry.",
+        "Technical Implementation: The first post set out the three decisions that system rests on: optimize each request at runtime, optimize each workflow over time, and govern spend continuously.",
+        "Deployment & Impact: An agent is a loop around a model."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Microsoft Azure Blog",
-          "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/"
+          "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/"
         }
       ]
     },
@@ -856,7 +856,7 @@
         "Technical Implementation: An average of optimistic and pessimistic estimates from the experts gave it an even 50-50 probability of reaching this code-breaking milestone by 2040.",
         "Deployment & Impact: The near-term focus should be on “harvest now, decrypt later” scenarios, where adversaries collect encrypted data today and then hold it for fut."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -869,14 +869,14 @@
       "id": "story_live_44",
       "category": "TECHNOLOGY RESEARCH",
       "headline": "PsiQuantum has a plan to make a massive quantum computer out of light",
-      "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.",
-      "why_it_matters": "Inside those cabinets will be hundreds of chips, and on those, thousands of particles of light flying through a maze of optical switches and beam splitters. This marks a notable development for engineering teams working in technology research.",
+      "summary": "SKIP TO CONTENT MIT Technology Review SIGN IN SUBSCRIBE COMPUTING PsiQuantum has a plan to make a massive quantum computer out of light The company has drawn governments, a major chipmaker, and the Pentagon into an effort to control fragile photons and build a useful quantum machine. PsiQuantum aims to build a quantum computer that can solve some of science's hardest problems.",
+      "why_it_matters": "Its chips, cut from wafers like the one shown here, will perform computations using photons, the particles of light. This marks a notable development for engineering teams working in technology research.",
       "key_points": [
-        "Problem & Context: The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory.",
-        "Technical Implementation: Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.",
-        "Deployment & Impact: Inside those cabinets will be hundreds of chips, and on those, thousands of particles of light flying through a maze of optical switches and beam splitters."
+        "Problem & Context: SKIP TO CONTENT MIT Technology Review SIGN IN SUBSCRIBE COMPUTING PsiQuantum has a plan to make a massive quantum computer out of light The company has drawn governments, a major chipmaker, and the Pentagon into an effort to control fragile photons and build a useful quantum machine.",
+        "Technical Implementation: PsiQuantum aims to build a quantum computer that can solve some of science's hardest problems.",
+        "Deployment & Impact: WINNI WINTERMEYER by James O'Donnell archive page July 14, 2026 The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -896,7 +896,7 @@
         "Technical Implementation: We evaluate a single 9 GB open-weight model (Qwen2.5-14B, 4-bit) against the complete open Jeopardy! clue dataset, 529,939 clues across all 41 broadcast seasons from 1984 to 2025.",
         "Deployment & Impact: To our knowledge this is the first time a model has been run over the full corpus."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -916,7 +916,7 @@
         "Technical Implementation: Each paradigm can be viewed as a measurement problem, where a latent property of an object is probed with items from an instrument (e.g., benchmark) by raters.",
         "Deployment & Impact: RMT decomposes ordinal ratings into separable facets on a common scale."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -929,14 +929,14 @@
       "id": "story_live_47",
       "category": "TECHNOLOGY AROUND THE WORLD",
       "headline": "Meta accepts U.S. safety rules while pitching softer tools abroad",
-      "summary": "In June, Indian actor Hiten Tejwani told his 732,000 followers that “Instagram is okay” in a reel promoting Meta’s Teen Accounts. Ironically, Tejwani had barred his 17-year-old twin son and.",
-      "why_it_matters": "Significantly impacts technology around the world workflows, altering how developers deploy and maintain scalable software architectures.",
+      "summary": "Skip to content Reporting Global Tech Stories GlobalAccess & Connectivity SIGN IN TECH GIANTS Meta accepts U.S. safety rules while pitching softer tools abroad As governments consider banning social media for under-16s, Meta is turning to influencers to argue that parental controls are a better solution.",
+      "why_it_matters": "Rest of World/iStock By ANANYA BHATTACHARYA + 31 AUGUST 2026 TRANSLATE ESPAÑOL PORTUGUÊS 中文 (简体字) 中文 (繁體字) DEUTSCH FRANÇAIS In June, Indian actor Hiten Tejwani told his 732,000 followers that “Instagram is okay” in a reel promoting Meta’s Teen Accounts. This marks a notable development for engineering teams working in technology around the world.",
       "key_points": [
-        "Problem & Context: Rest of World focuses on solving key constraints regarding meta accepts u.s. safety rules while pitching softer tools abroad.",
-        "Technical Implementation: Ironically, Tejwani had barred his 17-year-old twin son and.",
-        "Deployment & Impact: Published by Rest of World with documentation and production rollout details."
+        "Problem & Context: safety rules while pitching softer tools abroad As governments consider banning social media for under-16s, Meta is turning to influencers to argue that parental controls are a better solution.",
+        "Technical Implementation: safety rules while pitching softer tools abroad As governments consider banning social media for under-16s, Meta is turning to influencers to argue that parental controls are a better solution.",
+        "Deployment & Impact: Rest of World/iStock By ANANYA BHATTACHARYA + 31 AUGUST 2026 TRANSLATE ESPAÑOL PORTUGUÊS 中文 (简体字) 中文 (繁體字) DEUTSCH FRANÇAIS In June, Indian actor Hiten Tejwani told his 732,000 followers that “Instagram is okay” in a reel promoting Meta’s Teen Accounts."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -949,14 +949,14 @@
       "id": "story_live_48",
       "category": "TECHNOLOGY AROUND THE WORLD",
       "headline": "I went to China to see a different AI future. It looked familiar",
-      "summary": "Gordon Saft is the Publisher of Rest of World. Last week, he returned to New York from a trip to China with a delegation of leaders from across media, technology,.",
-      "why_it_matters": "Significantly impacts technology around the world workflows, altering how developers deploy and maintain scalable software architectures.",
+      "summary": "Skip to content Reporting Global Tech Stories Global SIGN IN GLOBAL DISPATCH I went to China to see a different AI future. It looked familiar My trip to China revealed an AI race that looks less like a clash of competing visions, and more like two countries racing toward a similar future.",
+      "why_it_matters": "By GORDON SAFT Gordon Saft is the Publisher of Rest of World. This marks a notable development for engineering teams working in technology around the world.",
       "key_points": [
-        "Problem & Context: Rest of World focuses on solving key constraints regarding i went to china to see a different ai future. it looked familiar.",
-        "Technical Implementation: Last week, he returned to New York from a trip to China with a delegation of leaders from across media, technology,.",
-        "Deployment & Impact: Published by Rest of World with documentation and production rollout details."
+        "Problem & Context: has long felt oppositional and binary: open versus closed, diffusion versus frontier, LLMs versus world models.",
+        "Technical Implementation: and China as two competing models for how AI should be built and deployed, racing toward different futures.",
+        "Deployment & Impact: By GORDON SAFT Gordon Saft is the Publisher of Rest of World."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -969,14 +969,14 @@
       "id": "story_live_49",
       "category": "STARTUPS",
       "headline": "GPU World",
-      "summary": "Trending discussion on Hacker News with score of 163 points and 72 developer comments.",
+      "summary": "Trending discussion on Hacker News with score of 164 points and 72 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
         "Problem & Context: Hacker News focuses on solving key constraints regarding gpu world.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -989,14 +989,14 @@
       "id": "story_live_50",
       "category": "STARTUPS",
       "headline": "Fastpotify",
-      "summary": "Trending discussion on Hacker News with score of 303 points and 137 developer comments.",
+      "summary": "Trending discussion on Hacker News with score of 304 points and 137 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
         "Problem & Context: Hacker News focuses on solving key constraints regarding fastpotify.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -1009,14 +1009,14 @@
       "id": "story_live_51",
       "category": "STARTUPS",
       "headline": "Tmp.0ut Volume 5",
-      "summary": "Trending discussion on Hacker News with score of 24 points and 16 developer comments.",
+      "summary": "Trending discussion on Hacker News with score of 27 points and 16 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
         "Problem & Context: Hacker News focuses on solving key constraints regarding tmp.0ut volume 5.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -1036,7 +1036,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -1056,7 +1056,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
@@ -1076,7 +1076,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
       ],
-      "published_at": "2026-09-01T13:39:22.101545+05:30",
+      "published_at": "2026-09-01T13:42:37.468800+05:30",
       "importance": 7,
       "sources": [
         {
