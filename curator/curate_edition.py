@@ -60,7 +60,8 @@ def fetch_rss_feed(feed_url: str, source_name: str, category: str, max_items: in
                 for item in channel.findall('item')[:max_items]:
                     title = item.findtext('title') or ''
                     link = item.findtext('link') or ''
-                    desc = item.findtext('description') or item.findtext('{http://purl.org/rss/1.0/modules/content/}encoded') or ''
+                    content_encoded = item.findtext('{http://purl.org/rss/1.0/modules/content/}encoded')
+                    desc = content_encoded or item.findtext('description') or ''
                     pub_date = item.findtext('pubDate') or datetime.datetime.now().isoformat()
                     
                     if title and link:
@@ -69,7 +70,7 @@ def fetch_rss_feed(feed_url: str, source_name: str, category: str, max_items: in
                             'category': category,
                             'headline': clean_html(title),
                             'url': link.strip(),
-                            'content': clean_html(desc)[:1000],
+                            'content': clean_html(desc)[:2000],
                             'published_at': pub_date
                         })
             else:
@@ -79,7 +80,8 @@ def fetch_rss_feed(feed_url: str, source_name: str, category: str, max_items: in
                     title = entry.findtext('atom:title', namespaces=ns) or ''
                     link_elem = entry.find('atom:link', namespaces=ns)
                     link = link_elem.attrib.get('href', '') if link_elem is not None else ''
-                    summary = entry.findtext('atom:summary', namespaces=ns) or entry.findtext('atom:content', namespaces=ns) or ''
+                    content_val = entry.findtext('atom:content', namespaces=ns)
+                    summary = content_val or entry.findtext('atom:summary', namespaces=ns) or ''
                     pub_date = entry.findtext('atom:published', namespaces=ns) or entry.findtext('atom:updated', namespaces=ns) or datetime.datetime.now().isoformat()
                     
                     if title and link:
@@ -88,7 +90,7 @@ def fetch_rss_feed(feed_url: str, source_name: str, category: str, max_items: in
                             'category': category,
                             'headline': clean_html(title),
                             'url': link.strip(),
-                            'content': clean_html(summary)[:1000],
+                            'content': clean_html(summary)[:2000],
                             'published_at': pub_date
                         })
     except Exception as e:
@@ -125,53 +127,90 @@ def fetch_hacker_news_top(max_items: int = 5):
         
     return items
 
+def select_top_candidates(raw_articles, max_per_category: int = 2):
+    """Picks top articles per category to ensure comprehensive category coverage without token truncation."""
+    categorized = {}
+    for item in raw_articles:
+        cat = item['category']
+        categorized.setdefault(cat, []).append(item)
+        
+    selected = []
+    for cat in CANONICAL_CATEGORIES:
+        items = categorized.get(cat, [])
+        selected.extend(items[:max_per_category])
+    return selected
+
 def synthesize_with_gemini(raw_articles, api_key: str):
-    """Uses Google Gemini Flash API to structure raw tech news into Tech Daily format."""
-    print("Synthesizing edition using Gemini 1.5 Flash...")
+    """Uses Google Gemini 1.5 Flash API to deeply structure tech news into Tech Daily newspaper format."""
+    print("Synthesizing edition using Gemini 1.5 Flash with deep technical prompt...")
     endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
     
-    prompt = f"""You are the Chief Technology Editor of 'Tech Daily', a calm, rigorous daily broadsheet newspaper.
-Review the following candidate technology articles from today:
-{json.dumps(raw_articles, indent=2)}
+    candidates = select_top_candidates(raw_articles, max_per_category=2)
+    
+    prompt = f"""You are the Senior Technical Editor of 'Tech Daily', a prestigious, calm daily broadsheet newspaper (like the Financial Times or MIT Tech Review, but for software engineers and technology leaders).
 
-Synthesize a complete daily edition JSON object matching this schema:
+Below are the candidate technical announcements, research releases, and engineering blog posts collected from today:
+{json.dumps(candidates, indent=2)}
+
+Synthesize a deeply informative, rigorous, authoritative daily edition JSON object.
+
+STRICT EDITORIAL REQUIREMENTS (MUST FOLLOW):
+1. ZERO REPETITION: Every single story MUST have unique, specific, article-grounded key points. Never repeat boilerplate phrases like "addresses key challenges", "documented and released", or "available immediately".
+2. DEEP TECHNICAL PRECISION:
+   - Include specific model names, version numbers, benchmarks (e.g., 35% speedup, 10x throughput, 128k context), architecture designs, protocols, CVE IDs, or specific languages/frameworks mentioned in each article.
+3. KEY POINTS (MANDATORY EXACTLY 3 BULLETS PER STORY):
+   - Point 1: Specific Problem / Bottleneck — Detail the exact limitation, failure mode, vulnerability, or scaling bottleneck that prompted this work.
+   - Point 2: Architecture / Technical Solution — Detail how engineers solved it, mentioning the stack, data structures, algorithms, or protocol changes.
+   - Point 3: Real-World Benchmarks & Impact — Detail the measured performance gain, migration requirements, open-source license, or production availability.
+4. SUMMARY (WHAT HAPPENED): Two dense, factual, authoritative sentences explaining the exact technical event.
+5. WHY IT MATTERS: A 1-2 sentence strategic analysis of why this matters to the broader software and infrastructure industry.
+
+Output schema:
 {{
   "title": "Tech Daily",
   "date": "{get_today_date_str()}",
-  "hot_topic": "SHORT 2-4 WORD TRENDING TOPIC",
-  "hot_topic_description": "2-3 sentences explaining the overarching trend today.",
+  "hot_topic": "2-4 WORDS (e.g. REASONING INFERENCE ACCELERATION)",
+  "hot_topic_description": "2-3 comprehensive sentences explaining the overarching industry trend today.",
   "biggest_story": {{
     "id": "story_hero",
-    "category": "ONE OF: AI & MACHINE LEARNING, DEVELOPERS, BIG TECH, STARTUPS, CYBERSECURITY, CLOUD, TECHNOLOGY RESEARCH, TECHNOLOGY AROUND THE WORLD",
-    "headline": "Crisp, authoritative headline",
-    "summary": "WHAT HAPPENED (1-2 sentences of factual clarity)",
-    "why_it_matters": "WHY IT MATTERS (strategic or technical impact)",
+    "category": "<ONE OF: AI & MACHINE LEARNING, DEVELOPERS, BIG TECH, STARTUPS, CYBERSECURITY, CLOUD, TECHNOLOGY RESEARCH, TECHNOLOGY AROUND THE WORLD>",
+    "headline": "<Crisp, authoritative headline>",
+    "summary": "<Dense 2-sentence technical summary of what happened>",
+    "why_it_matters": "<Strategic impact analysis>",
     "key_points": [
-      "Problem: What bottleneck or challenge was faced",
-      "Solution: How engineers or researchers solved it",
-      "Impact: Real-world result or benchmark achieved"
+      "<Specific Problem/Bottleneck with technical details>",
+      "<Specific Implementation/Architecture details>",
+      "<Specific Benchmark/Performance metrics or developer impact>"
     ],
     "importance": 10,
-    "sources": [{{"name": "Source Name", "url": "Source URL"}}]
+    "sources": [{{"name": "<Source Name>", "url": "<Source URL>"}}]
   }},
   "stories": [
     {{
       "id": "story_1",
-      "category": "...",
-      "headline": "...",
-      "summary": "WHAT HAPPENED...",
-      "why_it_matters": "WHY IT MATTERS...",
-      "key_points": ["...", "..."],
+      "category": "<Canonical category>",
+      "headline": "<Crisp, authoritative headline>",
+      "summary": "<Dense 2-sentence technical summary of what happened>",
+      "why_it_matters": "<Strategic impact analysis>",
+      "key_points": [
+        "<Specific Problem/Bottleneck with technical details>",
+        "<Specific Implementation/Architecture details>",
+        "<Specific Benchmark/Performance metrics or developer impact>"
+      ],
       "importance": 8,
-      "sources": [{{"name": "...", "url": "..."}}]
+      "sources": [{{"name": "<Source Name>", "url": "<Source URL>"}}]
     }}
   ]
 }}
-Only return valid raw JSON without backticks or markdown fences.
+Return ONLY raw valid JSON. Do not include markdown code fences or backticks.
 """
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"}
+        "generationConfig": {
+            "temperature": 0.2,
+            "maxOutputTokens": 8192,
+            "responseMimeType": "application/json"
+        }
     }
     
     try:
@@ -180,18 +219,36 @@ Only return valid raw JSON without backticks or markdown fences.
             data=json.dumps(payload).encode('utf-8'),
             headers={"Content-Type": "application/json"}
         )
-        with urllib.request.urlopen(req, timeout=30) as resp:
+        with urllib.request.urlopen(req, timeout=60) as resp:
             res = json.loads(resp.read().decode('utf-8'))
-            text_content = res['candidates'][0]['content']['parts'][0]['text']
-            return json.loads(text_content)
+            text_content = res['candidates'][0]['content']['parts'][0]['text'].strip()
+            
+            # Clean markdown code fences if model enclosed them
+            if text_content.startswith("```json"):
+                text_content = text_content[7:]
+            elif text_content.startswith("```"):
+                text_content = text_content[3:]
+            if text_content.endswith("```"):
+                text_content = text_content[:-3]
+            text_content = text_content.strip()
+            
+            parsed_edition = json.loads(text_content)
+            
+            # Verify required schema
+            if 'stories' in parsed_edition and parsed_edition.get('biggest_story'):
+                print(f"  Successfully synthesized {len(parsed_edition['stories']) + 1} stories with Gemini 1.5 Flash!")
+                return parsed_edition
+            else:
+                print("  [Warning] Output missing required fields, falling back to local extractor...")
+                return synthesize_locally(raw_articles)
     except Exception as e:
         print(f"  [Warning] Gemini API call encountered error: {e}")
         print("  Falling back to built-in editorial structuring engine...")
         return synthesize_locally(raw_articles)
 
 def synthesize_locally(raw_articles):
-    """Fallback high-quality heuristic synthesizer when no Gemini API key is configured."""
-    print("Synthesizing edition locally from live ingested feeds...")
+    """Deep local natural-language extractor when Gemini API is not configured or offline."""
+    print("Synthesizing edition locally with dynamic technical extraction...")
     today_str = get_today_date_str()
     now_iso = datetime.datetime.now(IST_TZ).isoformat()
     
@@ -205,24 +262,53 @@ def synthesize_locally(raw_articles):
         source = item['source']
         url = item['url']
         
-        # Structure What Happened & Why It Matters
-        sentences = [s.strip() for s in re.split(r'\. |\n', content) if len(s.strip()) > 20]
-        what_happened = sentences[0] if sentences else content[:150]
-        if not what_happened.endswith('.'):
-            what_happened += '.'
+        # Split into distinct sentences of substance
+        raw_sentences = [s.strip() for s in re.split(r'\. |\n', content) if len(s.strip()) > 25]
+        
+        # 1. WHAT HAPPENED: First 1-2 factual sentences
+        if len(raw_sentences) >= 2:
+            what_happened = f"{raw_sentences[0]}. {raw_sentences[1]}."
+        elif raw_sentences:
+            what_happened = f"{raw_sentences[0]}."
+        else:
+            what_happened = f"{headline} announced by {source}."
             
-        why_it_matters = (
-            sentences[1] if len(sentences) > 1 else
-            f"Represents a significant engineering milestone in {category.lower()} with widespread implications for modern software architecture."
-        )
-        if not why_it_matters.endswith('.'):
-            why_it_matters += '.'
+        # 2. WHY IT MATTERS: Strategic context
+        if len(raw_sentences) >= 3:
+            why_it_matters = f"{raw_sentences[2]}. This marks a notable development for engineering teams working in {category.lower()}."
+        else:
+            why_it_matters = f"Significantly impacts {category.lower()} workflows, altering how developers deploy and maintain scalable software architectures."
             
-        key_points = [
-            f"Focus Area: Addresses key engineering challenges in {category.title()}.",
-            f"Technical Implementation: Documented and released by {source} with official benchmarks.",
-            f"Adoption: Available immediately for engineering teams to evaluate and integrate."
+        # 3. KEY POINTS: Dynamically extract unique technical facts per article
+        tech_sentences = [
+            s for s in raw_sentences
+            if any(term in s.lower() for term in ['model', 'api', 'performance', 'security', 'data', 'feature', 'system', 'build', 'version', 'support', 'tool', 'scale', 'cloud', 'latency', 'cve', 'code', 'users', 'benchmark', '%'])
         ]
+        
+        points = []
+        if len(tech_sentences) >= 1:
+            points.append(f"Problem & Context: {tech_sentences[0]}.")
+        else:
+            points.append(f"Problem & Context: {source} focuses on solving key constraints regarding {headline.lower()}.")
+            
+        if len(tech_sentences) >= 2:
+            points.append(f"Technical Implementation: {tech_sentences[1]}.")
+        elif len(raw_sentences) >= 2:
+            points.append(f"Technical Implementation: {raw_sentences[1]}.")
+        else:
+            points.append(f"Technical Implementation: Integrates specialized engineering patterns released for {category.title()}.")
+            
+        if len(tech_sentences) >= 3:
+            points.append(f"Deployment & Impact: {tech_sentences[2]}.")
+        elif len(raw_sentences) >= 3:
+            points.append(f"Deployment & Impact: {raw_sentences[2]}.")
+        else:
+            points.append(f"Deployment & Impact: Published by {source} with documentation and production rollout details.")
+            
+        # Clean double periods and whitespace
+        points = [re.sub(r'\.\.+', '.', p).strip() for p in points]
+        what_happened = re.sub(r'\.\.+', '.', what_happened).strip()
+        why_it_matters = re.sub(r'\.\.+', '.', why_it_matters).strip()
         
         stories.append({
             'id': f"story_live_{story_counter}",
@@ -230,7 +316,7 @@ def synthesize_locally(raw_articles):
             'headline': headline,
             'summary': what_happened,
             'why_it_matters': why_it_matters,
-            'key_points': key_points,
+            'key_points': points,
             'published_at': now_iso,
             'importance': 9 if story_counter == 1 else 7,
             'sources': [{'name': source, 'url': url}]
