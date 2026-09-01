@@ -26,6 +26,7 @@ CATEGORIES = [
     "TECHNOLOGY RESEARCH",
     "TECHNOLOGY AROUND THE WORLD"
 ]
+CANONICAL_CATEGORIES = CATEGORIES
 
 # IST Timezone (UTC + 5:30)
 IST_TZ = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
