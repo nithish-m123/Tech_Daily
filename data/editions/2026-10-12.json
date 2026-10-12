@@ -1,0 +1,1049 @@
+{
+  "id": "edition_2026_10_12",
+  "date": "2026-10-12",
+  "title": "Tech Daily",
+  "hot_topic": "SYSTEMS & AI ACCELERATION",
+  "hot_topic_description": "Major cloud providers and open-source consortia announce architectural shifts toward dedicated silicon and low-latency inference pipelines.",
+  "biggest_story": {
+    "id": "story_live_1",
+    "category": "AI & MACHINE LEARNING",
+    "headline": "Introducing Playground: Create and play custom games",
+    "summary": "Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Innovation & AI Technology AI Introducing Playground: Create and play custom games Oct 07, 2026 2 min read If you can think it, you can play it. Create, play, and share custom games — no coding required.",
+    "why_it_matters": "Maryam Karimzadehgan Software Engineer, AI Innovation + Research Share 1:09 Listen to article [[duration]] minutes Read AI-generated summary Games are one of the most creative forms of expression, and the gaming community keeps growing. This marks a notable development for engineering teams working in ai & machine learning.",
+    "key_points": [
+      "Problem & Context: Create your custom game With Playground’s conversational interface, you can direct the game just by typing what you want to build.",
+      "Technical Implementation: Start from a blank canvas, remix starter prompts, or use guided support to shape your concept — and then test it right away.",
+      "Deployment & Impact: To have fun with your friends, Playground games support in-game leaderboards and multiplayer gameplay in select genres."
+    ],
+    "published_at": "2026-10-12T08:02:18.101051+05:30",
+    "importance": 9,
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "id": "story_live_2",
+      "category": "AI & MACHINE LEARNING",
+      "headline": "The latest AI news we announced in September 2026",
+      "summary": "Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Innovation & AI Technology AI The latest AI news we announced in September 2026 Oct 02, 2026 11 min read Here’s a recap of some of our biggest AI updates from September, including Gemini 4 Argon, new Connected Apps in the Gemini App, and WeatherNext 3. Blog Team Share Listen to article [[duration]] minutes Read AI-generated summary For more than 20 years, we’ve invested in machine learning and AI research, tools, and infrastructure to build products that make everyday life better for more people.",
+      "why_it_matters": "Teams across Google are working on ways to unlock AI’s benefits in fields as wide-ranging as healthcare, crisis response, and education. This marks a notable development for engineering teams working in ai & machine learning.",
+      "key_points": [
+        "Problem & Context: Blog Team Share Listen to article [[duration]] minutes Read AI-generated summary For more than 20 years, we’ve invested in machine learning and AI research, tools, and infrastructure to build products that make everyday life better for more people.",
+        "Technical Implementation: September's headline belongs to Gemini 4 Argon, our newest frontier model.",
+        "Deployment & Impact: Built with advanced reasoning and a 1-million-token output limit, it’s designed to tackle complex challenges — especially in cybersecurity defense."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_3",
+      "category": "AI & MACHINE LEARNING",
+      "headline": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
+        "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/sophos"
+        }
+      ]
+    },
+    {
+      "id": "story_live_4",
+      "category": "AI & MACHINE LEARNING",
+      "headline": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
+        "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/asana-browser-agent"
+        }
+      ]
+    },
+    {
+      "id": "story_live_5",
+      "category": "AI & MACHINE LEARNING",
+      "headline": "Impactful scheduling for GPU clusters",
+      "summary": "Impactful scheduling for GPU clusters.",
+      "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: Hugging Face Blog focuses on solving key constraints regarding impactful scheduling for gpu clusters.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
+        "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
+        }
+      ]
+    },
+    {
+      "id": "story_live_6",
+      "category": "AI & MACHINE LEARNING",
+      "headline": "The model that didn't exist, so you made it yourself",
+      "summary": "The model that didn't exist, so you made it yourself.",
+      "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: The model that didn't exist, so you made it yourself.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
+        "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/building-with-ml-intern"
+        }
+      ]
+    },
+    {
+      "id": "story_live_7",
+      "category": "AI & MACHINE LEARNING",
+      "headline": "We’re putting too much faith in AI’s ability to say no",
+      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience.",
+      "why_it_matters": "Most of these capers are, of course, cautionary. This marks a notable development for engineering teams working in ai & machine learning.",
+      "key_points": [
+        "Problem & Context: Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no.",
+        "Technical Implementation: In 2021, a team at Anthropic wrote that large language models should be made helpful, honest, and above all, harmless.",
+        "Deployment & Impact: building a bomb), the AI should politely refuse.” Who can argue with that? Curiously enough, disobedience doesn’t come naturally to the machine."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "MIT Tech Review AI",
+          "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_8",
+      "category": "AI & MACHINE LEARNING",
+      "headline": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next.",
+      "why_it_matters": "Join senior AI reporter James O’Donnell as he interviews King about his work, being named one of MIT Technology Review’s Innovators Under 35 and new ways of seeing biology. This marks a notable development for engineering teams working in ai & machine learning.",
+      "key_points": [
+        "Problem & Context: Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
+        "Technical Implementation: It isn’t yet an example of AI-generated life, but that could be next.",
+        "Deployment & Impact: Join senior AI reporter James O’Donnell as he interviews King about his work, being named one of MIT Technology Review’s Innovators Under 35 and new ways of seeing biology."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "MIT Tech Review AI",
+          "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_9",
+      "category": "DEVELOPERS",
+      "headline": "Hack the World: Why hackathons are still the best place to learn to build",
+      "summary": "Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML Developer skills Engineering Enterprise software News & insights Open Source Security Home / Developer skills / Career growth Hack the World: Why hackathons are still the best place to learn to build The barriers to building software have collapsed. Hackathons are a great place to start learning.",
+      "why_it_matters": "Ed Summers·@edsummersnc October 9, 2026 | 3 minutes Share: Someone bursts through the door and announces, “There’s pizza!” Nearby, a team has duct tape and cardboard holding its prototype together. This marks a notable development for engineering teams working in developers.",
+      "key_points": [
+        "Problem & Context: Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML Developer skills Engineering Enterprise software News & insights Open Source Security Home / Developer skills / Career growth Hack the World: Why hackathons are still the best place to learn to build The barriers to building software have collapsed.",
+        "Technical Implementation: Another is debugging a model that won’t detect their movements.",
+        "Deployment & Impact: This is a common scene during hackathons, and for a lot of people they’re the place to learn to build."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "GitHub Blog",
+          "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_10",
+      "category": "DEVELOPERS",
+      "headline": "How one bug bounty researcher chooses the features they investigate",
+      "summary": "Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML Developer skills Engineering Enterprise software News & insights Open Source Security Home / Security How one bug bounty researcher chooses the features they investigate As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. Shilpa Kumari·@shilpakum October 8, 2026 | 5 minutes Share: As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team is excited to spotlight one of the top-performing security researchers participating in the GitHub Security Bug Bounty Program: @vaib25vicky! The security research community makes GitHub safer for everyone—that’s the simple idea behind GitHub’s Bug Bounty Program.",
+      "why_it_matters": "For more than a decade, researchers from around the world have helped us identify and fix vulnerabilities before they could be exploited, helping protect the code that powers millions of development projects. This marks a notable development for engineering teams working in developers.",
+      "key_points": [
+        "Problem & Context: Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML Developer skills Engineering Enterprise software News & insights Open Source Security Home / Security How one bug bounty researcher chooses the features they investigate As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub.",
+        "Technical Implementation: Shilpa Kumari·@shilpakum October 8, 2026 | 5 minutes Share: As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team is excited to spotlight one of the top-performing security researchers participating in the GitHub Security Bug Bounty Program: @vaib25vicky! The security research community makes GitHub safer for everyone—that’s the simple idea behind GitHub’s Bug Bounty Program.",
+        "Deployment & Impact: For more than a decade, researchers from around the world have helped us identify and fix vulnerabilities before they could be exploited, helping protect the code that powers millions of development projects."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "GitHub Blog",
+          "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_11",
+      "category": "DEVELOPERS",
+      "headline": "A Treatise on Model Oriented Programming Languages",
+      "summary": "A Treatise on Model Oriented Programming Languages.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: A Treatise on Model Oriented Programming Languages.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
+        "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Stack Overflow Blog",
+          "url": "https://stackoverflow.blog/2026/10/09/a-treatise-on-model-oriented-programming-languages/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_12",
+      "category": "DEVELOPERS",
+      "headline": "Taking a look under your agent’s hood",
+      "summary": "Ryan is joined by Yanbing Li, Chief Product Officer at Datadog, to talk about applying observability to non-deterministic AI agents, blurring the boundaries between software development and production workflows, and navigating emerging challenges in AI security and tokenomics.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: Ryan is joined by Yanbing Li, Chief Product Officer at Datadog, to talk about applying observability to non-deterministic AI agents, blurring the boundaries between software development and production workflows, and navigating emerging challenges in AI security and tokenomics.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
+        "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Stack Overflow Blog",
+          "url": "https://stackoverflow.blog/2026/10/09/taking-a-look-under-your-agent-s-hood/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_13",
+      "category": "DEVELOPERS",
+      "headline": "Arch-specific SIMD in Go",
+      "summary": "The Go Blog Arch-specific SIMD in Go Junyang Shao and David Chase 2 October 2026 Since Go 1.26, we have supported an experimental amd64 SIMD API. Now in Go 1.27, we support two more architectures: arm64 and wasm.",
+      "why_it_matters": "The new APIs can be accessed by setting GOEXPERIMENT=simd when building a program. This marks a notable development for engineering teams working in developers.",
+      "key_points": [
+        "Problem & Context: The Go Blog Arch-specific SIMD in Go Junyang Shao and David Chase 2 October 2026 Since Go 1.26, we have supported an experimental amd64 SIMD API.",
+        "Technical Implementation: Now in Go 1.27, we support two more architectures: arm64 and wasm.",
+        "Deployment & Impact: The new APIs can be accessed by setting GOEXPERIMENT=simd when building a program."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "The Go Blog",
+          "url": "https://go.dev/blog/archsimd"
+        }
+      ]
+    },
+    {
+      "id": "story_live_14",
+      "category": "DEVELOPERS",
+      "headline": "Platform-independent SIMD in Go",
+      "summary": "The Go Blog Platform-independent SIMD in Go David Chase and Junyang Shao 24 September 2026 Go 1.26 and 1.27 include experimental APIs for Single Instruction Multiple Data (SIMD) operations. SIMD is a native feature of many modern CPUs that allows software to perform uniform operations across vectors of data very quickly, such as adding 8 pairs of float64 values in a single instruction.",
+      "why_it_matters": "It can significantly speed up many computationally-intensive tasks, ranging from cryptography to data processing to AI. This marks a notable development for engineering teams working in developers.",
+      "key_points": [
+        "Problem & Context: The Go Blog Platform-independent SIMD in Go David Chase and Junyang Shao 24 September 2026 Go 1.26 and 1.27 include experimental APIs for Single Instruction Multiple Data (SIMD) operations.",
+        "Technical Implementation: SIMD is a native feature of many modern CPUs that allows software to perform uniform operations across vectors of data very quickly, such as adding 8 pairs of float64 values in a single instruction.",
+        "Deployment & Impact: It can significantly speed up many computationally-intensive tasks, ranging from cryptography to data processing to AI."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "The Go Blog",
+          "url": "https://go.dev/blog/simd-experiment"
+        }
+      ]
+    },
+    {
+      "id": "story_live_15",
+      "category": "DEVELOPERS",
+      "headline": "Review: 4-hour Musk documentary feels like two different films",
+      "summary": "Elon Musk is a very familiar figure to Ars readers, given his massive influence (for better and worse) on the technology sector over the last 20 years. Oscar-winning director Alex Gibney's latest biographical documentary—simply titled Musk —covers a lot of well-known ground and challenges the carefully crafted public image of Musk as a visionary tech titan.",
+      "why_it_matters": "Gibney's documentary presents Musk as more of a Gilded Age confidence man, rejiggered for the 21st century: an investor cosplaying as an inventor whose real genius is pumping stocks and dazzling investors and the public alike with visions of a high-tech utopian future. This marks a notable development for engineering teams working in developers.",
+      "key_points": [
+        "Problem & Context: He snagged his first Oscar nomination for 2005’s Enron: The Smartest Guys in the Room , and won the Oscar for Best Documentary Feature two years later for Taxi to the Dark Side.",
+        "Technical Implementation: Oscar-winning director Alex Gibney's latest biographical documentary—simply titled Musk —covers a lot of well-known ground and challenges the carefully crafted public image of Musk as a visionary tech titan.",
+        "Deployment & Impact: Gibney's documentary presents Musk as more of a Gilded Age confidence man, rejiggered for the 21st century: an investor cosplaying as an inventor whose real genius is pumping stocks and dazzling investors and the public alike with visions of a high-tech utopian future."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_16",
+      "category": "DEVELOPERS",
+      "headline": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+      "summary": "We got our first look at Prime Video's new sci-fi series Blade Runner 2099 in July at San Diego Comic-Con. With the show's premiere roughly six weeks away, the streamer unveiled the full trailer this weekend at New York Comic-Con.",
+      "why_it_matters": "Co-stars Michelle Yeoh and Hunter Schafer ( Euphoria ) joined showrunner Silka Luisa ( Shining Girls ) onstage for the big reveal. This marks a notable development for engineering teams working in developers.",
+      "key_points": [
+        "Problem & Context: Ars Technica focuses on solving key constraints regarding prime video unveils blade runner 2099 full trailer at nycc.",
+        "Technical Implementation: With the show's premiere roughly six weeks away, the streamer unveiled the full trailer this weekend at New York Comic-Con.",
+        "Deployment & Impact: Co-stars Michelle Yeoh and Hunter Schafer ( Euphoria ) joined showrunner Silka Luisa ( Shining Girls ) onstage for the big reveal."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_17",
+      "category": "DEVELOPERS",
+      "headline": "I'm sorry, but you still have to think",
+      "summary": "I'm sorry, but you still have to think announced by Lobste.rs.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: Lobste.rs focuses on solving key constraints regarding i'm sorry, but you still have to think.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
+        "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Lobste.rs",
+          "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_18",
+      "category": "DEVELOPERS",
+      "headline": "What's Wrong with GitHub",
+      "summary": "What's Wrong with GitHub announced by Lobste.rs.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: Lobste.rs focuses on solving key constraints regarding what's wrong with github.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
+        "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Lobste.rs",
+          "url": "https://www.gnu.org/philosophy/whats-wrong-with-github.html"
+        }
+      ]
+    },
+    {
+      "id": "story_live_19",
+      "category": "BIG TECH",
+      "headline": "NTS: Authenticated Time at Meta",
+      "summary": "Skip to content Search this site Open Source Platforms Infrastructure Systems Physical Infrastructure Video Engineering & AR/VR Artificial Intelligence Watch Videos POSTED ON OCTOBER 6, 2026 TO NETWORKING & TRAFFIC, OPEN SOURCE, PRODUCTION ENGINEERING NTS: Authenticated Time at Meta By Oleg Obleukhov Meta’s public time service now speaks NTS (Network Time Security, RFC 8915) at nts.meta.com. Packets are authenticated, so a device can verify the time came from us and was not modified on the way.",
+      "why_it_matters": "Our NTS servers hold no per-client state. This marks a notable development for engineering teams working in big tech.",
+      "key_points": [
+        "Problem & Context: Skip to content Search this site Open Source Platforms Infrastructure Systems Physical Infrastructure Video Engineering & AR/VR Artificial Intelligence Watch Videos POSTED ON OCTOBER 6, 2026 TO NETWORKING & TRAFFIC, OPEN SOURCE, PRODUCTION ENGINEERING NTS: Authenticated Time at Meta By Oleg Obleukhov Meta’s public time service now speaks NTS (Network Time Security, RFC 8915) at nts.meta.com.",
+        "Technical Implementation: We’re also encouraging everyone, particularly those who maintain an NTP client on Android or iOS, to join us in enabling NTS support.",
+        "Deployment & Impact: We’ve previously written about building a more accurate time service at Meta scale – migrating from ntpd to chrony, going from 10 milliseconds to 100 microseconds, and opening time.meta.com to everyone."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Meta Engineering",
+          "url": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_20",
+      "category": "BIG TECH",
+      "headline": "Bringing Private Processing to Meta AI Glasses",
+      "summary": "Skip to content Search this site Open Source Platforms Infrastructure Systems Physical Infrastructure Video Engineering & AR/VR Artificial Intelligence Watch Videos POSTED ON SEPTEMBER 23, 2026 TO SECURITY & PRIVACY Bringing Private Processing to Meta AI Glasses By Pritam Shah, Oskar Linde, Anuj Kumar, Jim Pastos, Suyash S We believe glasses are the best form factor for having AI help throughout your day. They can understand your personal context better than other kinds of devices and keep you present without picking up a mobile phone.",
+      "why_it_matters": "Most of the time, glasses are helping you see well, protecting your eyes and complementing your look, and that’s it. This marks a notable development for engineering teams working in big tech.",
+      "key_points": [
+        "Problem & Context: Skip to content Search this site Open Source Platforms Infrastructure Systems Physical Infrastructure Video Engineering & AR/VR Artificial Intelligence Watch Videos POSTED ON SEPTEMBER 23, 2026 TO SECURITY & PRIVACY Bringing Private Processing to Meta AI Glasses By Pritam Shah, Oskar Linde, Anuj Kumar, Jim Pastos, Suyash S We believe glasses are the best form factor for having AI help throughout your day.",
+        "Technical Implementation: Many directions people give their glasses today, like placing a call or answering a text hands-free, occur entirely on device, though more advanced features would require larger, more capable AI models – far larger than can be packed into a pair of glasses.",
+        "Deployment & Impact: Taken together, these demands mean the work has to happen in the cloud."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Meta Engineering",
+          "url": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_21",
+      "category": "BIG TECH",
+      "headline": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
+      "summary": "By Dhruv Pratap Introduction Organizations that have been around for a while usually run two identity systems side by side. One belongs to the cloud provider: IAM roles, instance profiles, execution roles.",
+      "why_it_matters": "The other is your own, and it is the one your internal services actually check when they decide whether to answer a request. This marks a notable development for engineering teams working in big tech.",
+      "key_points": [
+        "Problem & Context: By Dhruv Pratap Introduction Organizations that have been around for a while usually run two identity systems side by side.",
+        "Technical Implementation: One belongs to the cloud provider: IAM roles, instance profiles, execution roles.",
+        "Deployment & Impact: On infrastructure you build yourself, you can bootstrap your own identity however you like."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Netflix Tech Blog",
+          "url": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4"
+        }
+      ]
+    },
+    {
+      "id": "story_live_22",
+      "category": "BIG TECH",
+      "headline": "Leave the Class Path in the Rearview Mirror",
+      "summary": "Introducing composable, module system native and agent friendly command line tools for modern Java development By Danny Thomas, JVM Ecosystem Team Recent work on the Java language to pave the on-ramp has made it easier than ever to start a Java program and evolve it using the full language and platform. At the end of that on-ramp lies Java’s mature build and dependency management ecosystem, capable of carrying software to enormous scale and complexity.",
+      "why_it_matters": "That ecosystem reached its maturity by developing strong models for projects, dependencies, and builds. This marks a notable development for engineering teams working in big tech.",
+      "key_points": [
+        "Problem & Context: Introducing composable, module system native and agent friendly command line tools for modern Java development By Danny Thomas, JVM Ecosystem Team Recent work on the Java language to pave the on-ramp has made it easier than ever to start a Java program and evolve it using the full language and platform.",
+        "Technical Implementation: At the end of that on-ramp lies Java’s mature build and dependency management ecosystem, capable of carrying software to enormous scale and complexity.",
+        "Deployment & Impact: That ecosystem reached its maturity by developing strong models for projects, dependencies, and builds."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Netflix Tech Blog",
+          "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4"
+        }
+      ]
+    },
+    {
+      "id": "story_live_23",
+      "category": "BIG TECH",
+      "headline": "A college in Illinois tried to cancel its Flock contact and it refused",
+      "summary": "BOULDER, CO - MARCH 5:A Flock Safety license plate recognition camera is seen near the intersection of Marine Street and Arapahoe Avenue in Boulder on Thursday, March 5, 2026. (Photo by Matthew Jonas/MediaNews Group/Boulder Daily Camera via Getty Images) | MediaNews Group via Getty Images In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\" But by September of that year, the school's administration grew concerned that Flock was sharing data with Customs and Border Patrol, that camera feeds were not properly secured, and that both law enforcement and the company's employees were abusing access to the data.",
+      "why_it_matters": "So in October of 2025, Elgin Community College requested Flock to remove its cameras. This marks a notable development for engineering teams working in big tech.",
+      "key_points": [
+        "Problem & Context: (Photo by Matthew Jonas/MediaNews Group/Boulder Daily Camera via Getty Images) | MediaNews Group via Getty Images In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\" But by September of that year, the school's administration grew concerned that Flock was sharing data with Customs and Border Patrol, that camera feeds were not properly secured, and that both law enforcement and the company's employees were abusing access to the data.",
+        "Technical Implementation: (Photo by Matthew Jonas/MediaNews Group/Boulder Daily Camera via Getty Images) | MediaNews Group via Getty Images In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\" But by September of that year, the school's administration grew concerned that Flock was sharing data with Customs and Border Patrol, that camera feeds were not properly secured, and that both law enforcement and the company's employees were abusing access to the data.",
+        "Deployment & Impact: So in October of 2025, Elgin Community College requested Flock to remove its cameras."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "The Verge Tech",
+          "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras"
+        }
+      ]
+    },
+    {
+      "id": "story_live_24",
+      "category": "BIG TECH",
+      "headline": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \" super intelligence ,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he so desires.",
+      "why_it_matters": "That Elon Musk was quick to jump on board , promising to rename SpaceXAI to SpaceXSI, isn't surprising. This marks a notable development for engineering teams working in big tech.",
+      "key_points": [
+        "Problem & Context: The Verge Tech focuses on solving key constraints regarding silicon valley is falling in line with trump’s attempt to rename ai.",
+        "Technical Implementation: While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he so desires.",
+        "Deployment & Impact: That Elon Musk was quick to jump on board , promising to rename SpaceXAI to SpaceXSI, isn't surprising."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "The Verge Tech",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+        }
+      ]
+    },
+    {
+      "id": "story_live_25",
+      "category": "BIG TECH",
+      "headline": "Console market craters as Xbox sales crash 33% to the lowest since launch 25 years ago, PS5 sales drop 25%",
+      "summary": "Video game console sales in the U.S. have cratered, with both the PS5 and Xbox seeing a massive drop in YTD sales through the end of August compared with last year.",
+      "why_it_matters": "Mat Piscatella, the video game industry advisor at research firm Circana, shared the numbers on his Bluesky account — PlayStation 5 sales have dropped by 25%, putting it at its lowest point since 2013, when gamers held off buying PlayStation consoles in anticipation of the arrival of the PS4, while Xbox’s retail figures have cratered by 33% YTD, putting its sales numbers at an all-time low since its launch almost 25 years ago. This marks a notable development for engineering teams working in big tech.",
+      "key_points": [
+        "Problem & Context: Mat Piscatella, the video game industry advisor at research firm Circana, shared the numbers on his Bluesky account — PlayStation 5 sales have dropped by 25%, putting it at its lowest point since 2013, when gamers held off buying PlayStation consoles in anticipation of the arrival of the PS4, while Xbox’s retail figures have cratered by 33% YTD, putting its sales numbers at an all-time low since its launch almost 25 years ago.",
+        "Technical Implementation: From Circana's US Retail Tracking Service:For 2026 YTD ending August, Xbox hardware unit sales are down 33% versus a year ago in the US, while PlayStation hardware units are 25% lower.Xbox YTD US hardware unit sales are at an all-time low, while PlayStation is at lowest point since 2013.",
+        "Deployment & Impact: Microsoft has raised the price of the Xbox three times in the past two years , with the 512GB versions jumping by $100 and 1TB models becoming $150 more expensive."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/video-games/console-gaming/console-market-craters-as-xbox-sales-crash-33-percent-to-the-lowest-since-launch-25-years-ago-ps5-sales-drop-25-percent-steep-price-hikes-push-series-x-to-usd800-and-ps5-pro-to-usd900"
+        }
+      ]
+    },
+    {
+      "id": "story_live_26",
+      "category": "BIG TECH",
+      "headline": "Cyberleek threatens full GTA 6 build leak unless Take-Two apologizes and his $30 million crypto memecoin goal is met",
+      "summary": "Cyberleek , the infamous group that's been drip-feeding the gaming community with improperly tone-mapped leaks of GTA 6 from what appears to be a real final build of the game, has just put down an ultimatum for Take-Two Interactive and Rockstar Games: do a physical release for GTA 6 and apologize, or the group will release a full build of the game with the complete story mode. It's not clear exactly what Cyberleek wants an apology for, but that's the demand.",
+      "why_it_matters": "As we reported previously, Cyberleek is leveraging its stolen build of Grand Theft Auto VI to try and pump its memecoin, $CYBERLEEK on Solana. This marks a notable development for engineering teams working in big tech.",
+      "key_points": [
+        "Problem & Context: Cyberleek , the infamous group that's been drip-feeding the gaming community with improperly tone-mapped leaks of GTA 6 from what appears to be a real final build of the game, has just put down an ultimatum for Take-Two Interactive and Rockstar Games: do a physical release for GTA 6 and apologize, or the group will release a full build of the game with the complete story mode.",
+        "Technical Implementation: As we reported previously, Cyberleek is leveraging its stolen build of Grand Theft Auto VI to try and pump its memecoin, $CYBERLEEK on Solana.",
+        "Deployment & Impact: While the leakers previously spoke of high-minded ideals, like preserving gamer ownership of games, this latest message, titled \"The Offer,\" simply demands that the Cyberleek memecoin hits \"30 million marketcap\" before they will release the build."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/software/linux/cyberleek-threatens-full-gta-6-build-leak-unless-take-two-apologizes-and-his-usd30-million-crypto-memecoin-goal-is-met-leaker-demands-physical-release-while-pumping-solana-memecoin-to-usd30m"
+        }
+      ]
+    },
+    {
+      "id": "story_live_27",
+      "category": "STARTUPS",
+      "headline": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "summary": "Skip to content 01:12:58:42 Disrupt doors open Oct. Get your pass and bring someone with you at 50% off.",
+      "why_it_matters": "Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: TECHCRUNCH / SLAVA BLAZER PHOTOGRAPHY STARTUPS The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know TechCrunch Events 5:59 PM PDT · October 11, 2026 TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that, based on the feedback we’ve gotten from the community and the reality on the ground. This marks a notable development for engineering teams working in startups.",
+      "key_points": [
+        "Problem & Context: Get your pass and bring someone with you at 50% off.",
+        "Technical Implementation: Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: TECHCRUNCH / SLAVA BLAZER PHOTOGRAPHY STARTUPS The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know TechCrunch Events 5:59 PM PDT · October 11, 2026 TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that, based on the feedback we’ve gotten from the community and the reality on the ground.",
+        "Deployment & Impact: Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: TECHCRUNCH / SLAVA BLAZER PHOTOGRAPHY STARTUPS The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know TechCrunch Events 5:59 PM PDT · October 11, 2026 TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that, based on the feedback we’ve gotten from the community and the reality on the ground."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "TechCrunch Startups",
+          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_28",
+      "category": "STARTUPS",
+      "headline": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "summary": "Skip to content 01:12:52:59 Disrupt doors open Oct. Get your pass and bring someone with you at 50% off.",
+      "why_it_matters": "Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: KIMBERLY WHITE / GETTY IMAGES STARTUPS 48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next TechCrunch Events 12:00 PM PDT · October 11, 2026 In less than 48 hours, the doors open for TechCrunch Disrupt 2026 at San Francisco’s Moscone West. This marks a notable development for engineering teams working in startups.",
+      "key_points": [
+        "Problem & Context: Get your pass and bring someone with you at 50% off.",
+        "Technical Implementation: Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: KIMBERLY WHITE / GETTY IMAGES STARTUPS 48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next TechCrunch Events 12:00 PM PDT · October 11, 2026 In less than 48 hours, the doors open for TechCrunch Disrupt 2026 at San Francisco’s Moscone West.",
+        "Deployment & Impact: Don’t forget to get a second pass at 50% off."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "TechCrunch Startups",
+          "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_29",
+      "category": "CYBERSECURITY",
+      "headline": "FBI Arrests Executive at Ransomware Negotiation Firm",
+      "summary": "Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking FBI Arrests Executive at Ransomware Negotiation Firm October 9, 2026 21 Comments Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity. The New York Times reported today that the FBI has arrested a Canadian man in Pennsylvania on suspicion of assisting ShinyHunters.",
+      "why_it_matters": "The Times story did not identify the man, nor did a statement on Twitter/X about the arrest from FBI Director Kash Patel. This marks a notable development for engineering teams working in cybersecurity.",
+      "key_points": [
+        "Problem & Context: Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking FBI Arrests Executive at Ransomware Negotiation Firm October 9, 2026 21 Comments Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
+        "Technical Implementation: One source close to the investigation told KrebsOnSecurity the Canadian person arrested this week was visiting Pennsylvania for a cyber insurance conference, and that the suspect’s company specialized in handling ransomware negotiations with cybercrime groups.",
+        "Deployment & Impact: The conference had several sponsors, but according to the summit’s website its biggest sponsor was a Canadian security company called Cypfer."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_30",
+      "category": "CYBERSECURITY",
+      "headline": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "summary": "Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking ShinyHunters Extorted Boeing Spin-off Prior to Arrests October 7, 2026 20 Comments A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle “Rey,” was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey’s father — Royal Jordanian Airlines.",
+      "why_it_matters": "The logo for Jeppesen ForeFlight, a business unit divested last year by the aerospace firm Boeing. This marks a notable development for engineering teams working in cybersecurity.",
+      "key_points": [
+        "Problem & Context: Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking ShinyHunters Extorted Boeing Spin-off Prior to Arrests October 7, 2026 20 Comments A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang.",
+        "Technical Implementation: KrebsOnSecurity has learned that the suspect, who uses the hacker handle “Rey,” was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey’s father — Royal Jordanian Airlines.",
+        "Deployment & Impact: KrebsOnSecurity identified Rey as Khader in a November 2025 profile, in which the young man admitted working with multiple ransomware groups."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_31",
+      "category": "CYBERSECURITY",
+      "headline": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure,\" iVerify said in a new report published Thursday.",
+      "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.",
+        "Technical Implementation: \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure,\" iVerify said in a new report published Thursday.",
+        "Deployment & Impact: Published by The Hacker News with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html"
+        }
+      ]
+    },
+    {
+      "id": "story_live_32",
+      "category": "CYBERSECURITY",
+      "headline": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on.",
+      "why_it_matters": "The other thousand are invisible to identity infrastructure by default, not because anyone hid them, but because an identity stack can only govern what authenticates through it, and most agents never do. This marks a notable development for engineering teams working in cybersecurity.",
+      "key_points": [
+        "Problem & Context: In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI.",
+        "Technical Implementation: About 282 of them sit behind single sign-on.",
+        "Deployment & Impact: The other thousand are invisible to identity infrastructure by default, not because anyone hid them, but because an identity stack can only govern what authenticates through it, and most agents never do."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html"
+        }
+      ]
+    },
+    {
+      "id": "story_live_33",
+      "category": "CYBERSECURITY",
+      "headline": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+      "summary": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records.",
+      "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
+        "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_34",
+      "category": "CYBERSECURITY",
+      "headline": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "summary": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group.",
+      "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
+        "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_35",
+      "category": "CLOUD",
+      "headline": "AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready",
+      "summary": "Jump to main content Search TOPICS Security All Security Cyber-crime Patches Research CSO Off-Prem All Off-Prem Edge and IoT Channel PaaS and IaaS SaaS On-Prem All On-Prem Systems Storage Networks HPC Personal Tech Cx0 Public Sector Software All Software AI and ML Applications Databases DevOps OS Platforms Virtualization Offbeat All Offbeat Columnists Science BOFH Legal Site News About Us Special Features All Special Features Cybersecurity Month 2026 VMware Explore 2026 Cloud Infrastructure Month 2026 HPE: AI Explainers Agentic AI The Future of the Datacenter AWS:Reinvent Nvidia GTC Supercomputing Month Computex 2026 AI Infrastructure Month 2026 The State of Storage 2026 RSA Conference Vendor Voice All Vendor Voice Modernizing Financial Services with FIS and AWS Barco Infinidat Everpure Rubrik Make it real with Capgemini and AWS Money Movement Hub ZTE Nutanix: Scale Kubernetes. AWS New Horizon Digicert Netscout Resources Intelligence Webinars & Events Newsletters Search Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Science REG AD security AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready Meanwhile, AI agents move robotic arms, 'make OT device operator screens lie' Jessica Lyons Jessica Lyons Cybersecurity Editor Published sun 11 Oct 2026 // 12:30 UTC Make us preferred on Google READ MORE Microsoft leans on open weight model from Chinese AI lab to challenge Jev 1 day ago AWS AgentCore security undone by prompt requesting credentials 2 days ago Oracle lets AI agents do the work, provided you stay in Big Red's world 2 days ago Anthropic asks users to stop being mean to Claude 2 days ago AI company moves to defend critical infrastructure and open-source projects from AI 2 days ago Autonomous AI systems are fully capable of carrying out a nightmare cyberattack scenario – finding and attacking critical operational technology and industrial equipment, and shutting down access to water, power, and other daily life necessities.",
+      "why_it_matters": "If this happens, defenders may only have minutes to detect and block it, according to a Booz Allen Hamilton report. This marks a notable development for engineering teams working in cloud.",
+      "key_points": [
+        "Problem & Context: Jump to main content Search TOPICS Security All Security Cyber-crime Patches Research CSO Off-Prem All Off-Prem Edge and IoT Channel PaaS and IaaS SaaS On-Prem All On-Prem Systems Storage Networks HPC Personal Tech Cx0 Public Sector Software All Software AI and ML Applications Databases DevOps OS Platforms Virtualization Offbeat All Offbeat Columnists Science BOFH Legal Site News About Us Special Features All Special Features Cybersecurity Month 2026 VMware Explore 2026 Cloud Infrastructure Month 2026 HPE: AI Explainers Agentic AI The Future of the Datacenter AWS:Reinvent Nvidia GTC Supercomputing Month Computex 2026 AI Infrastructure Month 2026 The State of Storage 2026 RSA Conference Vendor Voice All Vendor Voice Modernizing Financial Services with FIS and AWS Barco Infinidat Everpure Rubrik Make it real with Capgemini and AWS Money Movement Hub ZTE Nutanix: Scale Kubernetes.",
+        "Technical Implementation: AWS New Horizon Digicert Netscout Resources Intelligence Webinars & Events Newsletters Search Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Science REG AD security AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready Meanwhile, AI agents move robotic arms, 'make OT device operator screens lie' Jessica Lyons Jessica Lyons Cybersecurity Editor Published sun 11 Oct 2026 // 12:30 UTC Make us preferred on Google READ MORE Microsoft leans on open weight model from Chinese AI lab to challenge Jev 1 day ago AWS AgentCore security undone by prompt requesting credentials 2 days ago Oracle lets AI agents do the work, provided you stay in Big Red's world 2 days ago Anthropic asks users to stop being mean to Claude 2 days ago AI company moves to defend critical infrastructure and open-source projects from AI 2 days ago Autonomous AI systems are fully capable of carrying out a nightmare cyberattack scenario – finding and attacking critical operational technology and industrial equipment, and shutting down access to water, power, and other daily life necessities.",
+        "Deployment & Impact: The consulting firm’s operational technology (OT) lab tested eight scenarios to examine advanced models’ capabilities within an autonomous, AI-enabled OT attack chain."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450"
+        }
+      ]
+    },
+    {
+      "id": "story_live_36",
+      "category": "CLOUD",
+      "headline": "HPE's networking boss says AI will handle all trouble tickets without humans in two years",
+      "summary": "Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Science NETWORKS HPE's networking boss says AI will handle all trouble tickets without humans in two years INTERVIEW And you'll trust agents to do that for the same reason you no longer worry about automatic transmissions Simon Sharwood APAC EDITOR 36 Published Sun 11 Oct 2026 // 09:37 UTC Make us preferred on Google READ MORE The question you would ask HPE and NVIDIA if nobody was recording 6 days ago AWS turns its best practice framework into an agent that recommends cloudy reconfigs 9 days ago Where does your AI data actually live? 11 days ago Spurs boots VMware, cites 85% licensing saving September 3, 2026 HPE extends validity of quoted hardware prices, possibly for months August 6, 2026 HPE is extending its AI-powered networking automation across its hybrid cloud portfolio. That news came from Rami Rahim, formerly CEO of Juniper Networks and now president and general manager of HPE's networking business, whom The Register met last week when he visited Australia.",
+      "why_it_matters": "Rahim champions what HPE calls \"self-driving networks\" – AI-assisted monitoring and automated remediation, part of the broader field known as AIOps. This marks a notable development for engineering teams working in cloud.",
+      "key_points": [
+        "Problem & Context: Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Science NETWORKS HPE's networking boss says AI will handle all trouble tickets without humans in two years INTERVIEW And you'll trust agents to do that for the same reason you no longer worry about automatic transmissions Simon Sharwood APAC EDITOR 36 Published Sun 11 Oct 2026 // 09:37 UTC Make us preferred on Google READ MORE The question you would ask HPE and NVIDIA if nobody was recording 6 days ago AWS turns its best practice framework into an agent that recommends cloudy reconfigs 9 days ago Where does your AI data actually live? 11 days ago Spurs boots VMware, cites 85% licensing saving September 3, 2026 HPE extends validity of quoted hardware prices, possibly for months August 6, 2026 HPE is extending its AI-powered networking automation across its hybrid cloud portfolio.",
+        "Technical Implementation: That news came from Rami Rahim, formerly CEO of Juniper Networks and now president and general manager of HPE's networking business, whom The Register met last week when he visited Australia.",
+        "Deployment & Impact: Rahim champions what HPE calls \"self-driving networks\" – AI-assisted monitoring and automated remediation, part of the broader field known as AIOps."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179"
+        }
+      ]
+    },
+    {
+      "id": "story_live_37",
+      "category": "CLOUD",
+      "headline": "All the numbers: Amazon Prime Day 2026 powered by AWS",
+      "summary": "Amazon Prime Day 2026 was exclusively for Prime members and ran June 23–26, 2026 with millions of deals across more than 35 categories. As part of our annual tradition of sharing how AWS powered Prime Day ( 2016 , 2017 , 2019 , 2020 , 2021 , 2022 , 2023 , 2024 , and 2025 ), I want to share the services and chart-topping metrics from AWS that made your amazing shopping experience possible.",
+      "why_it_matters": "Prime Day 2026 – all the numbers As always, Prime Day was powered by AWS. This marks a notable development for engineering teams working in cloud.",
+      "key_points": [
+        "Problem & Context: Here are some of the most interesting and/or mind-blowing metrics: Amazon Elastic Compute Cloud (Amazon EC2) and AWS Graviton – During Amazon Prime Day 2026, AWS Graviton powered up to 49% of the Amazon EC2 compute used by Amazon.com.",
+        "Technical Implementation: Amazon Elastic Block Store (Amazon EBS) – During Prime Day 2026, Amazon EBS, our high-performance block storage service, peaked at over 24.8 trillion I/O operations, moving over an exabyte of data daily.",
+        "Deployment & Impact: Amazon CloudFront – Amazon CloudFront delivered over 2.1 trillion HTTP requests during the global week of Prime Day 2026, a 5 percent increase in total requests compared to Prime Day 2025."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "AWS News Blog",
+          "url": "https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_38",
+      "category": "CLOUD",
+      "headline": "AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)",
+      "summary": "Last week, we announced a public preview of Amazon Bedrock Managed Agents powered by OpenAI , built on a customized version of OpenAI’s Agents API engineered to be AWS-native and integrated with AWS resources. You can now build agents optimized for OpenAI models that run entirely inside AWS with the identities, permissions, and governance controls you already use.",
+      "why_it_matters": "You can choose an execution environment: self-hosted compute to use an existing development machine, container, or compute environment or Amazon Bedrock AgentCore Runtime, for managed runtime sessions and configurable storage in your AWS account. This marks a notable development for engineering teams working in cloud.",
+      "key_points": [
+        "Problem & Context: Last week, we announced a public preview of Amazon Bedrock Managed Agents powered by OpenAI , built on a customized version of OpenAI’s Agents API engineered to be AWS-native and integrated with AWS resources.",
+        "Technical Implementation: You can now build agents optimized for OpenAI models that run entirely inside AWS with the identities, permissions, and governance controls you already use.",
+        "Deployment & Impact: In addition, we are adding new frontier models on Amazon Bedrock to expand your model choices: OpenAI GPT-6.1 Sol : An upgrade to GPT-6 Sol, GPT-6.1 Sol delivers exceptionally strong performance on agentic coding, computer use, and professional work."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "AWS News Blog",
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_39",
+      "category": "CLOUD",
+      "headline": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
+      "summary": "Following last week’s release of Clef and Clef-flash , Cloudflare’s open-weight decision models, we decided to bring forth more gifts. Today, we’re releasing Clef-omni, which takes in audio and video input alongside text and image.",
+      "why_it_matters": "We also cut the price of Clef-flash so it is now cheaper than Jev, and we made Clef faster. This marks a notable development for engineering teams working in cloud.",
+      "key_points": [
+        "Problem & Context: Following last week’s release of Clef and Clef-flash , Cloudflare’s open-weight decision models, we decided to bring forth more gifts.",
+        "Technical Implementation: Although the model game is still early for Cloudflare, innovation and iteration is in our DNA, and we apply these principles to everything we do.",
+        "Deployment & Impact: We decided we wanted to do something in the decision model space on a Friday evening, trained the model over the weekend, and launched it on Thursday."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Cloudflare Blog",
+          "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_40",
+      "category": "CLOUD",
+      "headline": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+      "summary": "Understanding why an application is using more resources than expected, whether that is CPU or memory, can be challenging. Logs and aggregate metrics can only get you so far.",
+      "why_it_matters": "Thankfully there is a better way: CPU or memory profiling can show you the exact function where your application is using CPU or allocating memory. This marks a notable development for engineering teams working in cloud.",
+      "key_points": [
+        "Problem & Context: Today we are happy to announce support for CPU and memory profiling of Workers and Durable Objects.",
+        "Technical Implementation: This method of profiling gives you a useful perspective into what your code is doing and how you can improve it in a real-world setting.",
+        "Deployment & Impact: To try this on one of your Workers, you have a choice of using the CLI or the Cloudflare Dashboard."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Cloudflare Blog",
+          "url": "https://blog.cloudflare.com/workers-on-demand-profiling/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_41",
+      "category": "CLOUD",
+      "headline": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations",
+      "summary": "AI infrastructure is a system, and every part of that system is connected. Decisions made in silicon and systems design influence how infrastructure is sourced, deployed, and operated across the fleet.",
+      "why_it_matters": "And what we learn once that hardware is running can inform what we build next. This marks a notable development for engineering teams working in cloud.",
+      "key_points": [
+        "Problem & Context: AI infrastructure is a system, and every part of that system is connected.",
+        "Technical Implementation: Decisions made in silicon and systems design influence how infrastructure is sourced, deployed, and operated across the fleet.",
+        "Deployment & Impact: And what we learn once that hardware is running can inform what we build next."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Microsoft Azure Blog",
+          "url": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_42",
+      "category": "CLOUD",
+      "headline": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms",
+      "summary": "We’re proud to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms. We believe this recognition reflects our vision for the future of industrial operations: moving toward intelligent systems that continuously learn, adapt, and improve business outcomes.",
+      "why_it_matters": "Read the full 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms report As industrial organizations modernize, they need a foundation that connects operations across cloud and edge environments. This marks a notable development for engineering teams working in cloud.",
+      "key_points": [
+        "Problem & Context: We believe this recognition reflects our vision for the future of industrial operations: moving toward intelligent systems that continuously learn, adapt, and improve business outcomes.",
+        "Technical Implementation: Read the full 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms report As industrial organizations modernize, they need a foundation that connects operations across cloud and edge environments.",
+        "Deployment & Impact: Azure’s adaptive cloud approach, powered by Microsoft Azure IoT , Microsoft Azure Arc , Azure Local , Microsoft Fabric , and Microsoft Foundry , enables organizations to connect operational assets, contextualize data, apply AI-powered reasoning, and close the loop between insight and action."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Microsoft Azure Blog",
+          "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_43",
+      "category": "TECHNOLOGY RESEARCH",
+      "headline": "Understanding the thermal ceiling in portable power",
+      "summary": "SKIP TO CONTENT Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies EmTech Future live event The Kids issue Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies EmTech Future live event The Kids issue SPONSORED COMPUTING Understanding the thermal ceiling in portable power Wireless charging performance is limited less by power delivery than by the physics of heat, and solving it requires rethinking the hardware. By Shuo Yang archive page September 9, 2026 Provided byAnker Plug a phone into a modern charger and the first 10 minutes are impressive.",
+      "why_it_matters": "It’s the connected device protecting itself. This marks a notable development for engineering teams working in technology research.",
+      "key_points": [
+        "Problem & Context: SKIP TO CONTENT Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies EmTech Future live event The Kids issue Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies EmTech Future live event The Kids issue SPONSORED COMPUTING Understanding the thermal ceiling in portable power Wireless charging performance is limited less by power delivery than by the physics of heat, and solving it requires rethinking the hardware.",
+        "Technical Implementation: As temperature rises during charging, a smartphone's battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces battery capacity.",
+        "Deployment & Impact: For anyone building products in the portable power category, this creates an uncomfortable gap between specification and experience."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "MIT Tech Review Computing",
+          "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_44",
+      "category": "TECHNOLOGY RESEARCH",
+      "headline": "This founder is teaching chips how to recycle (their energy)",
+      "summary": "SKIP TO CONTENT Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies EmTech Future live event The Kids issue Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies EmTech Future live event The Kids issue 2026 Innovators Under 35 View all the innovators COMPUTING AND ROBOTICS This founder is teaching chips how to recycle (their energy) Hannah Earley wants to bring an old idea about creating energy-efficient computers into the mainstream. By Eshan Raul archive page September 8, 2026 Age: 31 Affiliation: Vaire Computing RACHEL BUJALSKI Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation.",
+      "why_it_matters": "Hannah Earley, however, thinks it’s a design choice. This marks a notable development for engineering teams working in technology research.",
+      "key_points": [
+        "Problem & Context: Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a strategy known as reversible computing.",
+        "Technical Implementation: Ultimately, she thinks, this approach could help make data centers (and our laptops and phones) much more energy efficient.",
+        "Deployment & Impact: Hannah Earley, however, thinks it’s a design choice."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "MIT Tech Review Computing",
+          "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_45",
+      "category": "TECHNOLOGY AROUND THE WORLD",
+      "headline": "As U.S. blocks DJI, Insta360 races to win American creators",
+      "summary": "Skip to content Reporting Global Tech Stories GlobalInnovation SIGN IN CHINA OUTSIDE CHINA As U.S. blocks DJI, Insta360 races to win American creators Regulatory clarity and market timing are a boon for smaller Chinese smart-camera maker Insta360 and its independent Antigravity drone brand.",
+      "why_it_matters": "Insta360 co-founder Max Richter at the opening of the New York flagship store Insta360 By VIOLA ZHOU + 9 OCTOBER 2026 TRANSLATE ESPAÑOL PORTUGUÊS 中文 (简体字) 中文 (繁體字) DEUTSCH FRANÇAIS Chinese camera maker Insta360 is hoping to gain U.S. This marks a notable development for engineering teams working in technology around the world.",
+      "key_points": [
+        "Problem & Context: market share while market leader DJI remains hampered by national security restrictions.",
+        "Technical Implementation: accounts for 30% to 40% of the company’s revenue, he said.",
+        "Deployment & Impact: In handheld smart cameras, DJI accounted for 73% of the global shipments, while Insta360 accounted for 20%."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Rest of World",
+          "url": "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+        }
+      ]
+    },
+    {
+      "id": "story_live_46",
+      "category": "TECHNOLOGY AROUND THE WORLD",
+      "headline": "Conflict in the Red Sea is forcing cloud giants to find a new route for the internet",
+      "summary": "Skip to content Reporting Global Tech Stories GlobalAccess & Connectivity SIGN IN TECH GIANTS Conflict in the Red Sea is forcing cloud giants to find a new route for the internet Google, Meta, and Microsoft are said to be securing expensive land routes as fighting around Yemen threatens the submarine cables connecting Europe and Asia. AFP/Getty Images By INDRANIL GHOSH + 7 OCTOBER 2026 TRANSLATE ESPAÑOL PORTUGUÊS 中文 (简体字) 中文 (繁體字) DEUTSCH FRANÇAIS U.S.",
+      "why_it_matters": "cloud giants are facing steep prices to secure backup internet routes around the Red Sea as fighting rages over the Red Sea strait that carries most data cables between Europe and Asia. This marks a notable development for engineering teams working in technology around the world.",
+      "key_points": [
+        "Problem & Context: Skip to content Reporting Global Tech Stories GlobalAccess & Connectivity SIGN IN TECH GIANTS Conflict in the Red Sea is forcing cloud giants to find a new route for the internet Google, Meta, and Microsoft are said to be securing expensive land routes as fighting around Yemen threatens the submarine cables connecting Europe and Asia.",
+        "Technical Implementation: cloud giants are facing steep prices to secure backup internet routes around the Red Sea as fighting rages over the Red Sea strait that carries most data cables between Europe and Asia.",
+        "Deployment & Impact: More than 90% of data capacity between Europe and Asia runs through cables under the Red Sea."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Rest of World",
+          "url": "https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+        }
+      ]
+    },
+    {
+      "id": "story_live_47",
+      "category": "STARTUPS",
+      "headline": "Whatever became of holography? (2011)",
+      "summary": "Trending discussion on Hacker News with score of 77 points and 28 developer comments.",
+      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: Hacker News focuses on solving key constraints regarding whatever became of holography? (2011).",
+        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
+        "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.americanscientist.org/article/whatever-became-of-holography"
+        }
+      ]
+    },
+    {
+      "id": "story_live_48",
+      "category": "STARTUPS",
+      "headline": "Total Annihilation, rebuilt for modern computers",
+      "summary": "Trending discussion on Hacker News with score of 378 points and 161 developer comments.",
+      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: Hacker News focuses on solving key constraints regarding total annihilation, rebuilt for modern computers.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
+        "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://nanolathe.gg"
+        }
+      ]
+    },
+    {
+      "id": "story_live_49",
+      "category": "STARTUPS",
+      "headline": "Fingerprints are the new cookies",
+      "summary": "Trending discussion on Hacker News with score of 108 points and 43 developer comments.",
+      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: Hacker News focuses on solving key constraints regarding fingerprints are the new cookies.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
+        "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://royfish.dev/fingerprints-are-the-new-cookies"
+        }
+      ]
+    },
+    {
+      "id": "story_live_50",
+      "category": "DEVELOPERS",
+      "headline": "🐾 DEV Pet Corner #1: Show Us Your Pets!",
+      "summary": "TL;DR Welcome to DEV Pet Corner, a new weekly series where we take a little break from tech and.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: DEV Community focuses on solving key constraints regarding 🐾 dev pet corner #1: show us your pets!.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
+        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "DEV Community",
+          "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-1-show-us-your-pets-39n6"
+        }
+      ]
+    },
+    {
+      "id": "story_live_51",
+      "category": "DEVELOPERS",
+      "headline": "Georgian Language Benchmark: Two Biggest AI Labs Clash in a Language That Doesn't Play by Anyone's Rules",
+      "summary": "This is a submission for the Kaggle Benchmarking Challenge Table of Contents One Eye,.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: This is a submission for the Kaggle Benchmarking Challenge Table of Contents One Eye,.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
+        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "DEV Community",
+          "url": "https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22"
+        }
+      ]
+    },
+    {
+      "id": "story_live_52",
+      "category": "DEVELOPERS",
+      "headline": "I Built an AI Gardening App That Tells Me to Put the Laptop Down",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass Coding is my.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: DEV Community focuses on solving key constraints regarding i built an ai gardening app that tells me to put the laptop down.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
+        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-12T08:02:18.101051+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "DEV Community",
+          "url": "https://dev.to/shubhradev/i-built-an-ai-gardening-app-that-tells-me-to-put-the-laptop-down-1o93"
+        }
+      ]
+    }
+  ]
+}
