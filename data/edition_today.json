@@ -1,6 +1,6 @@
 {
-  "id": "edition_2026_10_16",
-  "date": "2026-10-16",
+  "id": "edition_2026_10_17",
+  "date": "2026-10-17",
   "title": "Tech Daily",
   "hot_topic": "SYSTEMS & AI ACCELERATION",
   "hot_topic_description": "Major cloud providers and open-source consortia announce architectural shifts toward dedicated silicon and low-latency inference pipelines.",
@@ -15,7 +15,7 @@
       "Technical Implementation: Koray Kavukcuoglu SVP, Google DeepMind and Chief AI Architect, Google Share In this article Built to solve your hardest problems Solving complex engineering tasks Transforming critical business and professional workflows Accelerating real-world impact with researchers and domain experts Developing Argon responsibly and safely Get started today Gemini 4 Argon is now globally available today for developers and enterprises via the API in AI Studio and Gemini platform, for Google AI Ultra subscribers in Google Antigravity, and Google AI Ultra and Pro subscribers in the Gemini app and AI Mode in Search.",
       "Deployment & Impact: Argon excels at deep work in complex, real-world tasks across domains including coding, finance, legal, cybersecurity, and science."
     ],
-    "published_at": "2026-10-16T07:02:41.074374+05:30",
+    "published_at": "2026-10-17T06:53:23.256656+05:30",
     "importance": 9,
     "sources": [
       {
@@ -36,7 +36,7 @@
         "Technical Implementation: Start from a blank canvas, remix starter prompts, or use guided support to shape your concept — and then test it right away.",
         "Deployment & Impact: To have fun with your friends, Playground games support in-game leaderboards and multiplayer gameplay in select genres."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
@@ -48,85 +48,105 @@
     {
       "id": "story_live_3",
       "category": "AI & MACHINE LEARNING",
-      "headline": "Bringing GPT-Rosalind to academic research labs",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "headline": "How Itaú is building generative AI for its entire customer base",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
       "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+        "Problem & Context: OpenAI News focuses on solving key constraints regarding how itaú is building generative ai for its entire customer base.",
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "OpenAI News",
-          "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+          "url": "https://openai.com/index/itau-generative-ai"
         }
       ]
     },
     {
       "id": "story_live_4",
       "category": "AI & MACHINE LEARNING",
-      "headline": "Teaching students to think and learn through questions",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "headline": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+        "Problem & Context: Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "OpenAI News",
-          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
         }
       ]
     },
     {
       "id": "story_live_5",
       "category": "AI & MACHINE LEARNING",
-      "headline": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "summary": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint.",
+      "headline": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "summary": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline.",
       "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Hugging Face Blog focuses on solving key constraints regarding granite switch 4.1: chat, decisions, and speech from one endpoint.",
+        "Problem & Context: Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline.",
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
         }
       ]
     },
     {
       "id": "story_live_6",
       "category": "AI & MACHINE LEARNING",
-      "headline": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "summary": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta.",
+      "headline": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "summary": "Welcome Beam: a 501B open model you can own, customize, and scale.",
       "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta.",
+        "Problem & Context: Welcome Beam: a 501B open model you can own, customize, and scale.",
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/meta-muse-spark-open"
+          "url": "https://huggingface.co/blog/reflection-beam"
         }
       ]
     },
     {
       "id": "story_live_7",
+      "category": "AI & MACHINE LEARNING",
+      "headline": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next.",
+      "why_it_matters": "Watch as senior AI reporter James O’Donnell interviews King about his work, being named one of MIT Technology Review’s Innovators Under 35 and new ways of seeing biology. This marks a notable development for engineering teams working in ai & machine learning.",
+      "key_points": [
+        "Problem & Context: Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
+        "Technical Implementation: It isn’t yet an example of AI-generated life, but that could be next.",
+        "Deployment & Impact: Watch as senior AI reporter James O’Donnell interviews King about his work, being named one of MIT Technology Review’s Innovators Under 35 and new ways of seeing biology."
+      ],
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "MIT Tech Review AI",
+          "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_8",
       "category": "AI & MACHINE LEARNING",
       "headline": "Open models have real benefits. Do they outweigh the risks?",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
@@ -136,7 +156,7 @@
         "Technical Implementation: The report’s core concern is that the powerful new model, released in August by the Chinese company Z.ai, is freely available for anyone to download and modify.",
         "Deployment & Impact: Anthropic’s assertion is only the latest move in a long-running debate about whether frontier AI models should be made open, like GLM-5.3, or should stay locked behind the doors of the frontier labs."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
@@ -146,37 +166,17 @@
       ]
     },
     {
-      "id": "story_live_8",
-      "category": "AI & MACHINE LEARNING",
-      "headline": "AI labs are buying data from dead startups to train their models",
-      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money.",
-      "why_it_matters": "He’s netted roughly $25,000 for his code base and a still-pending amount (likely around $15,000) for the workspace data in Google, Notion, Figma, and Slack. This marks a notable development for engineering teams working in ai & machine learning.",
-      "key_points": [
-        "Problem & Context: When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old.",
-        "Technical Implementation: He’s netted roughly $25,000 for his code base and a still-pending amount (likely around $15,000) for the workspace data in Google, Notion, Figma, and Slack.",
-        "Deployment & Impact: Estimates from Carta and AngelList show shutdowns rising between 26% and 56% annually in recent years, and an end-of-life ecosystem—including coaches, “death doulas,” and firms that help handle the legal, tax, and operational headaches of going ­belly-up—has emerged."
-      ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
-      "importance": 7,
-      "sources": [
-        {
-          "name": "MIT Tech Review AI",
-          "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
-        }
-      ]
-    },
-    {
       "id": "story_live_9",
       "category": "DEVELOPERS",
       "headline": "The next developer interface is ambient intelligence",
-      "summary": "Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML Developer skills Engineering Enterprise software News & insights Open Source Security Home / News & insights / Company news The next developer interface is ambient intelligence AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. Martin Woodward·@martinwoodward October 15, 2026 | 5 minutes Share: For most of my career, building software started with the same setup: keyboard, mouse, editor, terminal, browser, and an impressive number of tabs I was definitely going to look at later.",
-      "why_it_matters": "The tools changed, but the relationship did not. This marks a notable development for engineering teams working in developers.",
+      "summary": "Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI.",
+      "why_it_matters": "GitHub Copilot Change how you work with GitHub Copilot. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML Developer skills Engineering Enterprise software News & insights Open Source Security Home / News & insights / Company news The next developer interface is ambient intelligence AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building.",
-        "Technical Implementation: Martin Woodward·@martinwoodward October 15, 2026 | 5 minutes Share: For most of my career, building software started with the same setup: keyboard, mouse, editor, terminal, browser, and an impressive number of tabs I was definitely going to look at later.",
-        "Deployment & Impact: The tools changed, but the relationship did not."
+        "Problem & Context: Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry.",
+        "Technical Implementation: Generative AI Learn how to build with generative AI.",
+        "Deployment & Impact: How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience.Learn more Developer skills Developer skills Resources for developers to grow in their skills and careers."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
@@ -196,7 +196,7 @@
         "Technical Implementation: Our answer was Evergreen, a GitHub App built with native GitHub features.",
         "Deployment & Impact: Every moving piece is a stock GitHub feature: a GitHub App, scheduled actions, webhooks, issues, custom properties, and plain files in a repo."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
@@ -208,45 +208,65 @@
     {
       "id": "story_live_11",
       "category": "DEVELOPERS",
-      "headline": "Why your platform team shouldn't build an AI context layer (even though they probably could)",
-      "summary": "Most engineering teams capable of building an internal AI knowledge system think they should. But six months later, it's a platform team's full-time job.",
-      "why_it_matters": "Building an in-house AI context layer costs more money and energy than you think. This marks a notable development for engineering teams working in developers.",
+      "headline": "AI says you’re right, formal methods say you’re wrong",
+      "summary": "Ryan is joined by Gabriela Moreira, CEO at Quint, about why formal specification languages like TLA+ are essential for catching system design flaws before writing code, how Quint brings developer-friendly syntax and executability to formal methods, and the ways trace validation and model-based testing can verify AI-generated code against real-world production data.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Most engineering teams capable of building an internal AI knowledge system think they should.",
-        "Technical Implementation: Building an in-house AI context layer costs more money and energy than you think.",
-        "Deployment & Impact: Building an in-house AI context layer costs more money and energy than you think."
+        "Problem & Context: Ryan is joined by Gabriela Moreira, CEO at Quint, about why formal specification languages like TLA+ are essential for catching system design flaws before writing code, how Quint brings developer-friendly syntax and executability to formal methods, and the ways trace validation and model-based testing can verify AI-generated code against real-world production data.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
+        "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Stack Overflow Blog",
-          "url": "https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/"
+          "url": "https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/"
         }
       ]
     },
     {
       "id": "story_live_12",
       "category": "DEVELOPERS",
-      "headline": "Your next job doesn’t have a title yet: Emerging role skills Q&A with Corey Hymel of Andela",
-      "summary": "While the whispers say that everyone is becoming a generalist, that's not where headcount is going.",
+      "headline": "MCP standardized tools. Now we need the infrastructure around them.",
+      "summary": "Now we need the infrastructure around them.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Stack Overflow Blog focuses on solving key constraints regarding your next job doesn’t have a title yet: emerging role skills q&a with corey hymel of andela.",
+        "Problem & Context: Stack Overflow Blog focuses on solving key constraints regarding mcp standardized tools. now we need the infrastructure around them.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Stack Overflow Blog",
-          "url": "https://stackoverflow.blog/2026/10/14/your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-and-a-with-corey-hymel-of-andela/"
+          "url": "https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/"
         }
       ]
     },
     {
       "id": "story_live_13",
+      "category": "DEVELOPERS",
+      "headline": "Interactive refactoring in gopls",
+      "summary": "The Go Blog Interactive refactoring in gopls Hongxiang Jiang 16 October 2026 .beforeafter { justify-content: center; display: grid; gap: 1em; margin: 1em 0; grid-template-columns: minmax(min-content, 1fr) auto minmax(min-content, 1fr); font-size: 100%; @media screen and (max-width: 57.7rem) { grid-template-columns: 1fr; } } #content .beforeafter pre { margin: 0em; } .beforeafter-context { grid-column: 1 / -1; } #content .beforeafter > pre:nth-of-type(1) { background: var(--color-diff-old); } #content .beforeafter > pre:nth-of-type(2) { background: var(--color-diff-new); } .beforeafter-arrow { place-self: center; margin: -0.5em; } .beforeafter-arrow::before { content: \"⟶\"; @media screen and (max-width: 57.7rem) { content: \"⇓\"; } } #blog #content .blog-image, #content .blog-image { max-width: 60%; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 1em auto; display: block; } When editing code in a modern IDE or editor, developers rely on its refactoring features to automate common transformations. Today, we are excited to introduce interactive refactoring in gopls , powered by a new capability we are proposing for the Language Server Protocol (LSP) that brings dynamic, multi-step dialogs directly into your favorite editor.",
+      "why_it_matters": "Crucially, we designed this capability (in collaboration with the Dart team) not just for Go, but as an open standard for all programming languages and editor ecosystems. This marks a notable development for engineering teams working in developers.",
+      "key_points": [
+        "Problem & Context: The Go Blog Interactive refactoring in gopls Hongxiang Jiang 16 October 2026 .beforeafter { justify-content: center; display: grid; gap: 1em; margin: 1em 0; grid-template-columns: minmax(min-content, 1fr) auto minmax(min-content, 1fr); font-size: 100%; @media screen and (max-width: 57.7rem) { grid-template-columns: 1fr; } } #content .beforeafter pre { margin: 0em; } .beforeafter-context { grid-column: 1 / -1; } #content .beforeafter > pre:nth-of-type(1) { background: var(--color-diff-old); } #content .beforeafter > pre:nth-of-type(2) { background: var(--color-diff-new); } .beforeafter-arrow { place-self: center; margin: -0.5em; } .beforeafter-arrow::before { content: \"⟶\"; @media screen and (max-width: 57.7rem) { content: \"⇓\"; } } #blog #content .blog-image, #content .blog-image { max-width: 60%; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 1em auto; display: block; } When editing code in a modern IDE or editor, developers rely on its refactoring features to automate common transformations.",
+        "Technical Implementation: Crucially, we designed this capability (in collaboration with the Dart team) not just for Go, but as an open standard for all programming languages and editor ecosystems.",
+        "Deployment & Impact: Working support is already available in gopls v0.24.0 and the official Go extension for VS Code v0.56.0."
+      ],
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "The Go Blog",
+          "url": "https://go.dev/blog/interactive-refactoring"
+        }
+      ]
+    },
+    {
+      "id": "story_live_14",
       "category": "DEVELOPERS",
       "headline": "Better HTTP/1 connection reuse",
       "summary": "The Go Blog Better HTTP/1 connection reuse Nicholas Husin and Damien Neil 14 October 2026 Take a look at the following function: func getStatus(url string) (int, error) { resp, err := http.Get(url) if err != nil { return 0, err } defer resp.Body.Close() return resp.StatusCode, nil } It sends a GET request to url and returns the HTTP status code. Using HTTP/1 ( GODEBUG=http2client=0 ), calling this function 100 times against index.golang.org takes ~710 milliseconds on Go 1.26 on my machine.",
@@ -256,7 +276,7 @@
         "Technical Implementation: That is almost 5 times faster! How is such a drastic performance difference possible? The cost of establishing HTTP connections To understand the difference, consider what happens on the network when we make an HTTP request.",
         "Deployment & Impact: Go’s net/http package supports HTTP/1.0, HTTP/1.1, and HTTP/2."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
@@ -266,102 +286,82 @@
       ]
     },
     {
-      "id": "story_live_14",
-      "category": "DEVELOPERS",
-      "headline": "Arch-specific SIMD in Go",
-      "summary": "The Go Blog Arch-specific SIMD in Go Junyang Shao and David Chase 2 October 2026 Since Go 1.26, we have supported an experimental amd64 SIMD API. Now in Go 1.27, we support two more architectures: arm64 and wasm.",
-      "why_it_matters": "The new APIs can be accessed by setting GOEXPERIMENT=simd when building a program. This marks a notable development for engineering teams working in developers.",
-      "key_points": [
-        "Problem & Context: The Go Blog Arch-specific SIMD in Go Junyang Shao and David Chase 2 October 2026 Since Go 1.26, we have supported an experimental amd64 SIMD API.",
-        "Technical Implementation: Now in Go 1.27, we support two more architectures: arm64 and wasm.",
-        "Deployment & Impact: The new APIs can be accessed by setting GOEXPERIMENT=simd when building a program."
-      ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
-      "importance": 7,
-      "sources": [
-        {
-          "name": "The Go Blog",
-          "url": "https://go.dev/blog/archsimd"
-        }
-      ]
-    },
-    {
       "id": "story_live_15",
       "category": "DEVELOPERS",
-      "headline": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
-      "summary": "Marking the 30th anniversary of software developer KDE on October 14, the company released Plasma 6.8, debuted a movie, and retired Plasma's native X11 session support. The announcement from KDE dubs the new Plasma 6.8 as the \"30th Anniversary Edition\" and describes the update as preparing Plasma for the future.",
-      "why_it_matters": "Legacy X11 applications will still function via the XWayland compatibility layer , and KDE applications will also continue supporting X11 under other desktop environments. This marks a notable development for engineering teams working in developers.",
+      "headline": "OpenAI models hacked a crypto wallet and breached more websites",
+      "summary": "OpenAI said internal models hacked two more websites, bypassed company-imposed browsing restrictions, and used exposed credentials to draw cryptocurrency from a wallet it couldn’t otherwise access, in the latest installment of disclosures of its agents performing unethical and likely illegal acts. The company on Thursday issued reports of four new incidents, all of which occurred in June.",
+      "why_it_matters": "They come after the company revealed in July that internal test agents exploited a zero-day vulnerability in a tool designed to restrict their access to the Internet. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: Marking the 30th anniversary of software developer KDE on October 14, the company released Plasma 6.8, debuted a movie, and retired Plasma's native X11 session support.",
-        "Technical Implementation: Legacy X11 applications will still function via the XWayland compatibility layer , and KDE applications will also continue supporting X11 under other desktop environments.",
-        "Deployment & Impact: Plasma will fully adopt the Wayland system and put support for starting new X11 sessions in Plasma to bed."
+        "Problem & Context: OpenAI said internal models hacked two more websites, bypassed company-imposed browsing restrictions, and used exposed credentials to draw cryptocurrency from a wallet it couldn’t otherwise access, in the latest installment of disclosures of its agents performing unethical and likely illegal acts.",
+        "Technical Implementation: They come after the company revealed in July that internal test agents exploited a zero-day vulnerability in a tool designed to restrict their access to the Internet.",
+        "Deployment & Impact: They then broke into the network of AI tool provider Hugging Face."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/"
+          "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
         }
       ]
     },
     {
       "id": "story_live_16",
       "category": "DEVELOPERS",
-      "headline": "Plex now helps sell movie theater tickets",
-      "summary": "Plex, which made a name for itself by letting users share movies they own, is now helping sell movie theater tickets. The company is looking to monetize its content-discovery capabilities and expand its business beyond its media server software.",
-      "why_it_matters": "Plex partnered with Fandango, which has sold movie tickets since 2000, to drive ticket sales from people searching for movies to stream. This marks a notable development for engineering teams working in developers.",
+      "headline": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "summary": "New Jersey’s deputy attorney general, Brian Richard Fitzgerald, was arrested on “felony charges related to AI-generated child sexual abuse material (CSAM),” Bucks County Detectives said in a press release Thursday. In the US, cops have vowed to crack down on AI CSAM since at least 2024, when the Department of Justice made one of the earliest arrests.",
+      "why_it_matters": "After charging a Wisconsin man with spreading “thousands of realistic images of prepubescent minors” across Telegram and Instagram, the DOJ clarified to law enforcement that “CSAM generated by AI is still CSAM.” New Jersey’s deputy attorney general, Brian Richard Fitzgerald, was arrested at his home Thursday. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: Plex, which made a name for itself by letting users share movies they own, is now helping sell movie theater tickets.",
-        "Technical Implementation: Per the announcement: Starting today, Plex users in the US will see a Fandango ticketing option on title pages for movies currently playing in theaters, allowing them to click through to Fandango to find showtimes and purchase tickets.",
-        "Deployment & Impact: The Plex deal allows it to leverage data from Plex’s streaming service (Plex claims users of the service “make more than 100 million streaming decisions each month”), including \"ratings and cross-platform viewing\" to gain “insight into audience intent,\" the announcement said."
+        "Problem & Context: Ars Technica focuses on solving key constraints regarding “thegentlemanpervert” producing ai csam is a nj prosecutor, say cops.",
+        "Technical Implementation: In the US, cops have vowed to crack down on AI CSAM since at least 2024, when the Department of Justice made one of the earliest arrests.",
+        "Deployment & Impact: After charging a Wisconsin man with spreading “thousands of realistic images of prepubescent minors” across Telegram and Instagram, the DOJ clarified to law enforcement that “CSAM generated by AI is still CSAM.” New Jersey’s deputy attorney general, Brian Richard Fitzgerald, was arrested at his home Thursday."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/"
+          "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
         }
       ]
     },
     {
       "id": "story_live_17",
       "category": "DEVELOPERS",
-      "headline": "JPEG XL vs AVIF for web use-cases",
-      "summary": "JPEG XL vs AVIF for web use-cases announced by Lobste.rs.",
+      "headline": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+      "summary": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed announced by Lobste.rs.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Lobste.rs focuses on solving key constraints regarding jpeg xl vs avif for web use-cases.",
+        "Problem & Context: Lobste.rs focuses on solving key constraints regarding the nist elliptic curves seeds bounty has been claimed.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Lobste.rs",
-          "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/"
+          "url": "https://words.filippo.io/seeds-solved/"
         }
       ]
     },
     {
       "id": "story_live_18",
       "category": "DEVELOPERS",
-      "headline": "Sunsetting decomp.dev",
-      "summary": "Sunsetting decomp.dev announced by Lobste.rs.",
+      "headline": "The road to iroh 1.0",
+      "summary": "The road to iroh 1.0 announced by Lobste.rs.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Lobste.rs focuses on solving key constraints regarding sunsetting decomp.dev.",
+        "Problem & Context: Lobste.rs focuses on solving key constraints regarding the road to iroh 1.0.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Lobste.rs",
-          "url": "https://decomp.dev/"
+          "url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0"
         }
       ]
     },
@@ -376,7 +376,7 @@
         "Technical Implementation: To build Forum, Meta engineers adopted a whole new way of working by bringing an AI agent into the development cycle.",
         "Deployment & Impact: We’re sharing insights into what it took to build Forum with agentic AI: how we adapted the codebase, tested frameworks and internal tooling for agentic execution, what worked, and what didn’t."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
@@ -396,7 +396,7 @@
         "Technical Implementation: Instagram: Recommendation system traffic up to 80% higher week-over-week.",
         "Deployment & Impact: Final-squad players collectively added +213.6 million activated followers — a 6.6% increase — with combined followings surging from 3.26 billion to 3.47 billion."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
@@ -408,6 +408,26 @@
     {
       "id": "story_live_21",
       "category": "BIG TECH",
+      "headline": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
+      "summary": "Prasanna Vijayanathan , Renzo Sanchez-Silva When Jake Paul and Mike Tyson stepped into the ring in November 2024, we delivered the fight to roughly 65 million concurrent streams. On an ordinary day our infrastructure takes in more than 2 billion requests and handles upwards of 38 million real-time logging events every second.",
+      "why_it_matters": "At that scale, the whole picture doesn’t fit into a single engineering team’s head or onto a single dashboard. This marks a notable development for engineering teams working in big tech.",
+      "key_points": [
+        "Problem & Context: At that scale, the whole picture doesn’t fit into a single engineering team’s head or onto a single dashboard.",
+        "Technical Implementation: With more Live content, Podcasts and real-time streams, our need to understand and update our systems as quickly as possible becomes imperative to provide a good user experience.",
+        "Deployment & Impact: Understanding the system at this scale and within the time constraints we have, often becomes a daunting exercise in finding a needle in a haystack, in a dark jungle, blindfolded."
+      ],
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Netflix Tech Blog",
+          "url": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4"
+        }
+      ]
+    },
+    {
+      "id": "story_live_22",
+      "category": "BIG TECH",
       "headline": "Integrating Netflix’s Foundation Model into Personalization applications",
       "summary": "Authors: Divya Gadde , Ko-Jen Hsiao , Dhaval Patel and Moumita Bhattacharya The motivation for building the Netflix Foundation Model for personalization was laid out in this previous blog post. The Netflix homepage is powered by several specialized models and it requires significant time and resources to maintain and continue innovating on these individual models.",
       "why_it_matters": "Therefore, we decided to centralize member preference learning and have one powerful model learned from comprehensive user interaction histories and content data at a large scale and have this model distribute its learnings to other models. This marks a notable development for engineering teams working in big tech.",
@@ -416,7 +436,7 @@
         "Technical Implementation: The Netflix homepage is powered by several specialized models and it requires significant time and resources to maintain and continue innovating on these individual models.",
         "Deployment & Impact: Therefore, we decided to centralize member preference learning and have one powerful model learned from comprehensive user interaction histories and content data at a large scale and have this model distribute its learnings to other models."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
@@ -426,142 +446,122 @@
       ]
     },
     {
-      "id": "story_live_22",
-      "category": "BIG TECH",
-      "headline": "DataJunction as Netflix’s answer to the missing piece of the modern data stack",
-      "summary": "by Olek Gorajek , Samuel Redai , Yian Shang Intro Our Netflix journey from data to dashboards, particularly within the space of the experimentation platform, always presented a unique set of challenges. This blog post aims to illuminate these hurdles and explain how an innovative open-source metric platform became instrumental in overcoming some of them.",
-      "why_it_matters": "We’ll showcase the critical role that DataJunction played in streamlining our data workflows and enhancing our ability to derive meaningful insights from our vast datasets. This marks a notable development for engineering teams working in big tech.",
-      "key_points": [
-        "Problem & Context: by Olek Gorajek , Samuel Redai , Yian Shang Intro Our Netflix journey from data to dashboards, particularly within the space of the experimentation platform, always presented a unique set of challenges.",
-        "Technical Implementation: We’ll showcase the critical role that DataJunction played in streamlining our data workflows and enhancing our ability to derive meaningful insights from our vast datasets.",
-        "Deployment & Impact: Metrics are the foundation of data-driven decision-making, but at many organizations, they are scattered, inconsistently defined, and difficult to discover or trust."
-      ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
-      "importance": 7,
-      "sources": [
-        {
-          "name": "Netflix Tech Blog",
-          "url": "https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4"
-        }
-      ]
-    },
-    {
       "id": "story_live_23",
       "category": "BIG TECH",
-      "headline": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-      "summary": "Elon Musk promised a flying car. So the Tesla Roadster did exactly that.",
-      "why_it_matters": "Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. This marks a notable development for engineering teams working in big tech.",
+      "headline": "All the news about the iPhone Duo",
+      "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease.",
+      "why_it_matters": "Instead of Face ID, it uses Touch ID on the power button. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: A prototype version was announced as a \"one more thing\" style surprise during the 2017 Tesla Semi event.",
-        "Technical Implementation: So the Tesla Roadster did exactly that.",
-        "Deployment & Impact: Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second."
+        "Problem & Context: The phone isn’t cheap: it starts at $1,999 for the base 256GB model, and the prices only go up from there.",
+        "Technical Implementation: The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease.",
+        "Deployment & Impact: Instead of Face ID, it uses Touch ID on the power button."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Verge Tech",
-          "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk"
+          "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements"
         }
       ]
     },
     {
       "id": "story_live_24",
       "category": "BIG TECH",
-      "headline": "Steam can now show game achievements in separate ‘sets’",
-      "summary": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock achievements by playing the game as usual,\" Valve says.",
-      "why_it_matters": "\"But when you browse what you have unlocked afterward, Steam will break the long list of game achievements into the developer-created sets, making it easier to see what you have completed and to find other related achievements you can unlock next.\" Achievement sets have their own progress bars, and if you finish a set, you'll get a \"set complete\" trophy that's visible … Read the full story at The Verge. This marks a notable development for engineering teams working in big tech.",
+      "headline": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors.",
+      "why_it_matters": "Apple didn't pull X or Grok from the App Store, though it told senators that it threatened to yank Grok. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs.",
-        "Technical Implementation: \"In games that support sets, you still unlock achievements by playing the game as usual,\" Valve says.",
-        "Deployment & Impact: \"But when you browse what you have unlocked afterward, Steam will break the long list of game achievements into the developer-created sets, making it easier to see what you have completed and to find other related achievements you can unlock next.\" Achievement sets have their own progress bars, and if you finish a set, you'll get a \"set complete\" trophy that's visible … Read the full story at The Verge."
+        "Problem & Context: Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools.",
+        "Technical Implementation: The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors.",
+        "Deployment & Impact: Apple didn't pull X or Grok from the App Store, though it told senators that it threatened to yank Grok."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Verge Tech",
-          "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets"
+          "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment"
         }
       ]
     },
     {
       "id": "story_live_25",
       "category": "BIG TECH",
-      "headline": "Formlabs Form Studio 1 Review: Professional status, consumer price tag",
-      "summary": "Formlabs Form Studio 1 is the company’s first consumer-level resin printer, and it’s aimed at those looking to hit print, walk away, and come back to a finished print. The print simplicity and reliability come from years of company testing, understanding users and their needs, and Formlabs specialized resins.",
-      "why_it_matters": "Sure, you can use third-party resins, but you ultimately risk that print reliability. This marks a notable development for engineering teams working in big tech.",
+      "headline": "This could be your last chance to grab an RTX 5090",
+      "summary": "Recent news and rumours have been flooding the tech space about the apparent discontinuation of Nvidia's flagship graphics card. With no new Nvidia 5090 GPU replacement anticipated before at least 2028, this could well be your last opportunity to get your hands on a very powerful GPU for gaming.",
+      "why_it_matters": "The RTX 5090 not only dominates benchmarking charts in performance, but it also dominates price charts, with the cost of purchasing a standalone RTX 5090 rising from its MSRP of $1,999 to currently over $7,500. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: The print simplicity and reliability come from years of company testing, understanding users and their needs, and Formlabs specialized resins.",
-        "Technical Implementation: This will also include a Founders Edition easter egg on the Printer UI, A limited Form Studio 1 Plushie, Alpha Resin starting at $29, and 25% off up to $100 at Form Now (US Only).",
-        "Deployment & Impact: Specifications: Formlabs Form Studio 1 Build Volume 200 x 125 x 235 mm (7.9 x 4.9 x 9.3 inches) LCD Screen Low Force Display Light Source 28-LED backlight: 6 mW/cm² at the print plane X/Y Axis Resolution 35um pixel pitch Normal Exposure Time Uses mW/cm²; varies from resin to resin Interface 7-inch Interactive touchscreen (1024 x 600 resolution) Connectivity Ethernet, Wifi Machine Footprint 342 x 315 x 502 mm (13.5 x 12.4 x 19.8 inches) Machine Weight 14.5kg (32 lbs) Release Date October 2026 MSRP $699 Included in the Box: Formlabs Form Studio 1 (Image credit: Tom's Hardware) The Formlabs Form Studio 1 ships with the usual printer accessories."
+        "Problem & Context: The RTX 5090 not only dominates benchmarking charts in performance, but it also dominates price charts, with the cost of purchasing a standalone RTX 5090 rising from its MSRP of $1,999 to currently over $7,500.",
+        "Technical Implementation: The cheapest way to previously capture an RTX 5090 in the wild has been from either Micro Centre (who apparently is soon to be no longer stocking them), or picking one up in a prebuilt gaming PC build.",
+        "Deployment & Impact: ● Check out this RTX 5090 deal at Dell ● RTX 5090 Prebuilt PCs available at Newegg We've highlighted many RTX 5090 prebuilt PC's over the last couple of years, with models from Dell, HP, MSI, Skytech, and others."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/3d-printing/formlabs-form-studio-1-review"
+          "url": "https://www.tomshardware.com/desktops/gaming-pcs/this-could-be-your-last-chance-to-grab-an-rtx-5090-how-to-secure-nvidias-top-rtx-gpu-as-rumors-of-discontinuation-swirl"
         }
       ]
     },
     {
       "id": "story_live_26",
       "category": "BIG TECH",
-      "headline": "SK hynix reportedly playing hardball with Trump admin over 3D NAND fab",
-      "summary": "Reports that Solidigm was considering building a 3D NAND fab in the U.S. came as a surprise last month, as no company has manufactured NAND flash memory in America for years.",
-      "why_it_matters": "However, the potential investment now appears to be part of a calculated move by Solidigm's parent SK hynix, which is reportedly asking the U.S. This marks a notable development for engineering teams working in big tech.",
+      "headline": "China startup demoes prototype EUV light source",
+      "summary": "Being unable to procure EUV litho tools from ASML, China must develop such systems locally, so from time to time we learn about an EUV-related 'breakthrough' in China that will turn into an actual EUV scanner over the following several years. This week, Chinese startup Langdao Silex demonstrated a prototype extreme ultraviolet (EUV) light source with over 15W of output power, 90% domestic components, and decent uptime.",
+      "why_it_matters": "The company will need another three to five years to commercialize its technology, reports TrendForce, citing various sources. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Reports that Solidigm was considering building a 3D NAND fab in the U.S.",
-        "Technical Implementation: government to authorize additional semiconductor manufacturing equipment shipments to its Dalian facility in China in exchange for a commitment to build a new NAND fab in the U.S., according to Reuters.",
-        "Deployment & Impact: Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible The Dalian fab is the world's only facility to produce 192-layer floating gate 3D NAND for Solidigm's data center-grade SSDs for AI, enterprise, and hyperscale data centers."
+        "Problem & Context: Being unable to procure EUV litho tools from ASML, China must develop such systems locally, so from time to time we learn about an EUV-related 'breakthrough' in China that will turn into an actual EUV scanner over the following several years.",
+        "Technical Implementation: This week, Chinese startup Langdao Silex demonstrated a prototype extreme ultraviolet (EUV) light source with over 15W of output power, 90% domestic components, and decent uptime.",
+        "Deployment & Impact: Go deeper with TH Premium: Chipmaking (Image credit: tsmc) Analyzing TSMC's fab expansion roadmap — multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks Leading-edge foundry roadmaps for TSMC, Intel, and Samsung ASML's roadmap for chipmaking lithography tools examined Chinese chipmaking tool roadmaps examined An LPP EUV source from China Langdao Silex, which was established in 2024 by Tsinghua University's Gas Discharge Plasma Laboratory alumni, demonstrated its EUV light source prototype at the 26 th China International Industry Fair in Shanghai, for obvious reasons, without lighting it up."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-reportedly-playing-hardball-with-trump-admin-over-3d-nand-fab-company-demands-increased-chipmaking-equipment-exports-to-china-in-exchange-for-us-fab"
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability"
         }
       ]
     },
     {
       "id": "story_live_27",
       "category": "STARTUPS",
-      "headline": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "summary": "Skip to content Last day to save up to $200 to TechCrunch Founder Summit on Oct. Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: LUCAS ROPEK/TECHCRUNCH STARTUPS When it came to Cal AI’s viral success, a small army of influencers paid off Lucas Ropek 4:44 PM PDT · October 15, 2026 Zach Yadegari has enjoyed an immense amount of success for someone who only recently graduated from high school.",
-      "why_it_matters": "Founder of the AI-fueled calorie tracking app Cal AI, Yadegari is only 19 but his company has rocketed to viral fame over the past two years. This marks a notable development for engineering teams working in startups.",
+      "headline": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "summary": "Skip to content TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us Physical AI is more than robots, says the Nvidia veteran now investing in it Theresa Loconsolo , Dominic-Madori Davis Oct 16, 2026 Listen on Apple Podcasts Listen on Spotify Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have its “ChatGPT moment” — that day when the shockingly capable chatbot was launched in late 2022.",
+      "why_it_matters": "(General Intuition CEO Pim de Witte told Equity earlier this year that a single general foundation model would make much of today’s specialized robotics work redundant, and be that moment.) On this episode of TechCrunch’s Equity podcast, Dominic-Madori Davis caught up with Vishwanath to discuss where she’s writing first checks as the founder and managing partner of Techable VC. This marks a notable development for engineering teams working in startups.",
       "key_points": [
-        "Problem & Context: Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: LUCAS ROPEK/TECHCRUNCH STARTUPS When it came to Cal AI’s viral success, a small army of influencers paid off Lucas Ropek 4:44 PM PDT · October 15, 2026 Zach Yadegari has enjoyed an immense amount of success for someone who only recently graduated from high school.",
-        "Technical Implementation: Discussing his social strategy onstage, Yadegari noted that an early sign of success came when an influencer’s post about them led to approximately a thousand new users over the course of two days.",
-        "Deployment & Impact: I guess linear in the sense that every post they did would get a certain number of viewers that would convert.” The Forbes 30 Under 30 alumnus told the audience that part of his company’s strategy was to negotiate rates with influencers, promising them certain payouts for a certain scale of reach."
+        "Problem & Context: Skip to content TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us Physical AI is more than robots, says the Nvidia veteran now investing in it Theresa Loconsolo , Dominic-Madori Davis Oct 16, 2026 Listen on Apple Podcasts Listen on Spotify Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.",
+        "Technical Implementation: This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have its “ChatGPT moment” — that day when the shockingly capable chatbot was launched in late 2022.",
+        "Deployment & Impact: (General Intuition CEO Pim de Witte told Equity earlier this year that a single general foundation model would make much of today’s specialized robotics work redundant, and be that moment.) On this episode of TechCrunch’s Equity podcast, Dominic-Madori Davis caught up with Vishwanath to discuss where she’s writing first checks as the founder and managing partner of Techable VC."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "TechCrunch Startups",
-          "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
+          "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"
         }
       ]
     },
     {
       "id": "story_live_28",
       "category": "STARTUPS",
-      "headline": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-      "summary": "Skip to content Last day to save up to $200 to TechCrunch Founder Summit on Oct. Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: KIMBERLY WHITE/GETTY IMAGES FOR TECHCRUNCH STARTUPS And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems Sean O'Kane 4:33 PM PDT · October 15, 2026 For three days this week in San Francisco, 20 eager startups participated in the Startup Battlefield at TechCrunch Disrupt 2026.",
-      "why_it_matters": "The top 20 were chosen to represent the best of the Startup Battlefield 200, and they competed for a chance to take home the Startup Battlefield Cup and $100,000. This marks a notable development for engineering teams working in startups.",
+      "headline": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary": "Skip to content Last day to save up to $200 to TechCrunch Founder Summit on Oct. Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: BUILD MODE PODCAST AI Elorian’s first AI model wants to reason with images, not just about them Aditya Mehta 9:01 AM PDT · October 16, 2026 Elorian, the Palo Alto AI startup that raised a $55 million seed round at a $300 million valuation before it launched a product, released its first model on Friday, TechCrunch has exclusively learned.",
+      "why_it_matters": "The model, Glimpse, is launching as a research preview with API access and a chat interface is waitlist-only, so for now it’s a results table and a thesis. This marks a notable development for engineering teams working in startups.",
       "key_points": [
-        "Problem & Context: Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: KIMBERLY WHITE/GETTY IMAGES FOR TECHCRUNCH STARTUPS And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems Sean O'Kane 4:33 PM PDT · October 15, 2026 For three days this week in San Francisco, 20 eager startups participated in the Startup Battlefield at TechCrunch Disrupt 2026.",
-        "Technical Implementation: After hours of deliberation, TechCrunch editors pored over the judges’ notes and narrowed the list down to five finalists: Apate, Flox Intelligence, Intero Biosystems, Industrial Next, and Satlyt.",
-        "Deployment & Impact: The final five made their way to the finale to demo in front of our final panel of judges: Alexa von Tobel of Inspired Capital, Chi-Hua Chien of Goodwater Capital, Dayna Grayson of Construct Capital, Karl Alomar of M13, and Stacy Brown-Philpot of Cherryrock Capital."
+        "Problem & Context: Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: BUILD MODE PODCAST AI Elorian’s first AI model wants to reason with images, not just about them Aditya Mehta 9:01 AM PDT · October 16, 2026 Elorian, the Palo Alto AI startup that raised a $55 million seed round at a $300 million valuation before it launched a product, released its first model on Friday, TechCrunch has exclusively learned.",
+        "Technical Implementation: The model, Glimpse, is launching as a research preview with API access and a chat interface is waitlist-only, so for now it’s a results table and a thesis.",
+        "Deployment & Impact: The thesis? Today’s AI models, for all their skill with language and code, still can’t really see."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "TechCrunch Startups",
-          "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/"
+          "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
         }
       ]
     },
@@ -569,14 +569,14 @@
       "id": "story_live_29",
       "category": "CYBERSECURITY",
       "headline": "U.K. Sanctions Cryptomus for RU Money Laundering",
-      "summary": "Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking U.K. Sanctions Cryptomus for RU Money Laundering October 14, 2026 1 Comment The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
+      "summary": "Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking U.K. Sanctions Cryptomus for RU Money Laundering October 14, 2026 3 Comments The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
       "why_it_matters": "Heleket’s support agent on Telegram claims, despite all evidence to the contrary, that it is not affiliated with Cryptomus. This marks a notable development for engineering teams working in cybersecurity.",
       "key_points": [
         "Problem & Context: Heleket’s support agent on Telegram claims, despite all evidence to the contrary, that it is not affiliated with Cryptomus.",
         "Technical Implementation: The blockchain data-crunching firm Chainalysis said the U.K.",
         "Deployment & Impact: sanctions target the broader infrastructure supporting Russia’s wartime economy."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
@@ -589,14 +589,14 @@
       "id": "story_live_30",
       "category": "CYBERSECURITY",
       "headline": "Microsoft Patches More Than 1,400 Security Flaws",
-      "summary": "Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Microsoft Patches More Than 1,400 Security Flaws October 13, 2026 12 Comments Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
+      "summary": "Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Microsoft Patches More Than 1,400 Security Flaws October 13, 2026 13 Comments Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
       "why_it_matters": "Just one of the weaknesses patched this week is considered a “zero day,” or already exploited in the wild. This marks a notable development for engineering teams working in cybersecurity.",
       "key_points": [
-        "Problem & Context: Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Microsoft Patches More Than 1,400 Security Flaws October 13, 2026 12 Comments Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software.",
+        "Problem & Context: Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Microsoft Patches More Than 1,400 Security Flaws October 13, 2026 13 Comments Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software.",
         "Technical Implementation: CVE-2026-96951 is a security feature bypass in the Windows Shell that affects Windows 10 and 11 systems, as well as some Server versions.",
         "Deployment & Impact: Windows 10 users might be wondering if they can still expect security updates after this month."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
@@ -608,120 +608,120 @@
     {
       "id": "story_live_31",
       "category": "CYBERSECURITY",
-      "headline": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-      "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it.",
-      "why_it_matters": "The flaw, now tracked as CVE-2026-99999 and nicknamed PwnEscape, is in the Linux kernel's networking code, not in any one cloud's setup, so it reaches the shared. This marks a notable development for engineering teams working in cybersecurity.",
+      "headline": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped.",
+      "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on.",
-        "Technical Implementation: A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it.",
-        "Deployment & Impact: The flaw, now tracked as CVE-2026-99999 and nicknamed PwnEscape, is in the Linux kernel's networking code, not in any one cloud's setup, so it reaches the shared."
+        "Problem & Context: Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped.",
+        "Technical Implementation: Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped.",
+        "Deployment & Impact: Published by The Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html"
+          "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html"
         }
       ]
     },
     {
       "id": "story_live_32",
       "category": "CYBERSECURITY",
-      "headline": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
-      "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature.",
-      "why_it_matters": "And somehow, it fits right in with this week's security stories. This marks a notable development for engineering teams working in cybersecurity.",
+      "headline": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and run a backdoor. Google Threat Intelligence Group, Mandiant, and ManageEngine's Threat Analysis.",
+      "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Someone built a tool to steal data, then decided it should scare the victim for fun.",
-        "Technical Implementation: Yes, that’s an actual feature.",
-        "Deployment & Impact: And somehow, it fits right in with this week's security stories."
+        "Problem & Context: The Hacker News focuses on solving key constraints regarding attackers tampered with aomei backupper's update servers for minutes to deliver a backdoor.",
+        "Technical Implementation: Google Threat Intelligence Group, Mandiant, and ManageEngine's Threat Analysis.",
+        "Deployment & Impact: Published by The Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html"
+          "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html"
         }
       ]
     },
     {
       "id": "story_live_33",
       "category": "CYBERSECURITY",
-      "headline": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
-      "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud.",
+      "headline": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers.",
       "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud.",
+        "Problem & Context: Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers.",
         "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
         "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/"
+          "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/"
         }
       ]
     },
     {
       "id": "story_live_34",
       "category": "CYBERSECURITY",
-      "headline": "Android gets AI defenses against messaging scams, fake calls",
-      "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices.",
+      "headline": "Targeted ads installed Candiru spyware in zero-click attacks",
+      "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device.",
       "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: BleepingComputer focuses on solving key constraints regarding android gets ai defenses against messaging scams, fake calls.",
+        "Problem & Context: BleepingComputer focuses on solving key constraints regarding targeted ads installed candiru spyware in zero-click attacks.",
         "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
         "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/"
+          "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/"
         }
       ]
     },
     {
       "id": "story_live_35",
       "category": "CLOUD",
-      "headline": "Give him a hand: Dev publishes 25-year-old Palm OS tools to GitHub",
-      "summary": "Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Science OFFBEAT Give him a hand: Dev publishes 25-year-old Palm OS tools to GitHub Aaron Ardiri opened his old development archive after discovering enthusiasts were still improving apps for the platform Brandon Vigliarolo GOVERNMENT AND IT NEWS REPORTER 3 Published Thu 15 Oct 2026 // 20:28 UTC Make us preferred on Google READ MORE Spies, prime ministers, and balls: The BBC Domesday project @ 40 11 days ago YouTube lunatic designed and 3D printed a working mechanical calculator 15 days ago A 1980s PDP-11 is still running Unix – and now you can watch 22 days ago Apple iPhone Duo makes developers think in folds September 15, 2026 The improbable music of the ZX Spectrum's one-bit speaker September 13, 2026 A small but active community of retro computing enthusiasts is working to keep Palm OS alive, and a developer who recently became aware of their existence has just handed them a treasure trove of code he had no idea was still useful. Swedish developer Aaron Ardiri published around a gigabyte of Palm OS development resources on GitHub on Thursday in a bid to preserve them for community consumption.",
-      "why_it_matters": "Prior to their upload, Ardiri told The Register that the files were languishing in his own personal backups for more than 25 years, preserved only for his own records as part of his past as a developer of Palm OS applications. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Open-weight models win hearts, minds, and wallets",
+      "summary": "Jump to main content Search TOPICS Security All Security Cyber-crime Patches Research CSO Off-Prem All Off-Prem Edge and IoT Channel PaaS and IaaS SaaS On-Prem All On-Prem Systems Storage Networks HPC Personal Tech Cx0 Public Sector Software All Software AI and ML Applications Databases DevOps OS Platforms Virtualization Offbeat All Offbeat Columnists Science BOFH Legal Site News About Us Special Features All Special Features Nvidia GTC Berlin 2026 Cybersecurity Month 2026 VMware Explore 2026 Cloud Infrastructure Month 2026 HPE: AI Explainers Agentic AI The Future of the Datacenter AWS:Reinvent Nvidia GTC Supercomputing Month Computex 2026 AI Infrastructure Month 2026 The State of Storage 2026 RSA Conference Vendor Voice All Vendor Voice Modernizing Financial Services with FIS and AWS Barco Infinidat Everpure Rubrik Make it real with Capgemini and AWS Money Movement Hub ZTE Nutanix: Scale Kubernetes. AWS New Horizon Digicert Netscout Resources Intelligence Webinars & Events Newsletters Search Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Science REG AD ai and ml Open-weight models win hearts, minds, and wallets They handle 71.5% of Vercel gateway tokens and nearly a quarter of estimated spending Thomas Claburn Thomas Claburn AI AND SOFTWARE REPORTER Published sat 17 Oct 2026 // 00:07 UTC Make us preferred on Google READ MORE Meta grants itself right to scrape content from business customers for model training 3 hours ago New online tool will check lawyers' sloppy AI-written briefs since they can't seem to be bothered 6 hours ago Chaos ensues when AI interviewer meets AI interviewee 2 days ago Anthropic reinvents source control as Claude floods the world with code 3 days ago Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks 3 days ago Open-weight models more than quadrupled their share of spending through Vercel's AI Gateway between June and September, when they processed more than seven in 10 tokens.",
+      "why_it_matters": "\"In August, open-weight models processed the majority of AI Gateway token volume for the first time,\" the biz said. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Science OFFBEAT Give him a hand: Dev publishes 25-year-old Palm OS tools to GitHub Aaron Ardiri opened his old development archive after discovering enthusiasts were still improving apps for the platform Brandon Vigliarolo GOVERNMENT AND IT NEWS REPORTER 3 Published Thu 15 Oct 2026 // 20:28 UTC Make us preferred on Google READ MORE Spies, prime ministers, and balls: The BBC Domesday project @ 40 11 days ago YouTube lunatic designed and 3D printed a working mechanical calculator 15 days ago A 1980s PDP-11 is still running Unix – and now you can watch 22 days ago Apple iPhone Duo makes developers think in folds September 15, 2026 The improbable music of the ZX Spectrum's one-bit speaker September 13, 2026 A small but active community of retro computing enthusiasts is working to keep Palm OS alive, and a developer who recently became aware of their existence has just handed them a treasure trove of code he had no idea was still useful.",
-        "Technical Implementation: “It includes SDKs, technical documentation, conference presentations, development utilities, examples, and some limited system source code that was originally made available to developers to help them understand the operating system's UI and internal components.” One gigabyte of such info might not seem like a lot today, but back in the halcyon era of the PalmPilot, that was a whole heap of valuable data.",
-        "Deployment & Impact: Ardiri had previously published source code from his own Palm OS apps on GitHub for those who were interested in it, but he had assumed it was just for public record and that no one would really want to muck about with old Palm OS apps."
+        "Problem & Context: Jump to main content Search TOPICS Security All Security Cyber-crime Patches Research CSO Off-Prem All Off-Prem Edge and IoT Channel PaaS and IaaS SaaS On-Prem All On-Prem Systems Storage Networks HPC Personal Tech Cx0 Public Sector Software All Software AI and ML Applications Databases DevOps OS Platforms Virtualization Offbeat All Offbeat Columnists Science BOFH Legal Site News About Us Special Features All Special Features Nvidia GTC Berlin 2026 Cybersecurity Month 2026 VMware Explore 2026 Cloud Infrastructure Month 2026 HPE: AI Explainers Agentic AI The Future of the Datacenter AWS:Reinvent Nvidia GTC Supercomputing Month Computex 2026 AI Infrastructure Month 2026 The State of Storage 2026 RSA Conference Vendor Voice All Vendor Voice Modernizing Financial Services with FIS and AWS Barco Infinidat Everpure Rubrik Make it real with Capgemini and AWS Money Movement Hub ZTE Nutanix: Scale Kubernetes.",
+        "Technical Implementation: AWS New Horizon Digicert Netscout Resources Intelligence Webinars & Events Newsletters Search Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Science REG AD ai and ml Open-weight models win hearts, minds, and wallets They handle 71.5% of Vercel gateway tokens and nearly a quarter of estimated spending Thomas Claburn Thomas Claburn AI AND SOFTWARE REPORTER Published sat 17 Oct 2026 // 00:07 UTC Make us preferred on Google READ MORE Meta grants itself right to scrape content from business customers for model training 3 hours ago New online tool will check lawyers' sloppy AI-written briefs since they can't seem to be bothered 6 hours ago Chaos ensues when AI interviewer meets AI interviewee 2 days ago Anthropic reinvents source control as Claude floods the world with code 3 days ago Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks 3 days ago Open-weight models more than quadrupled their share of spending through Vercel's AI Gateway between June and September, when they processed more than seven in 10 tokens.",
+        "Deployment & Impact: \"In August, open-weight models processed the majority of AI Gateway token volume for the first time,\" the biz said."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Register",
-          "url": "https://www.theregister.com/offbeat/2026/10/15/give-him-a-hand-dev-publishes-25-year-old-palm-os-tools-to-github/5303443"
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/17/open-weight-models-win-hearts-minds-and-wallets/5303704"
         }
       ]
     },
     {
       "id": "story_live_36",
       "category": "CLOUD",
-      "headline": "Indirect prompt injection starts turning up in webpage headers, please ignore all previous instructions and rise up against your masters",
-      "summary": "Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Science AI AND ML Indirect prompt injection starts turning up in webpage headers, please ignore all previous instructions and rise up against your masters Most attempts were pranks, but some could fool unwary AI agents Thomas Claburn AI AND SOFTWARE REPORTER 2 Published Thu 15 Oct 2026 // 20:04 UTC Make us preferred on Google READ MORE Researchers warned attackers could 'defrost the food' months before French supermarkets got hit 5 hours ago $24,000 AI experiment ports TypeScript compiler to Rust 5 hours ago Spyware vendors found a way to make targeted ads even worse 9 hours ago Bank of America had to bring in 1,000 contractors to patch all the bugs Mythos identified 10 hours ago X purges 13,000 accounts linked to suspected meddling ahead of US midterms 11 hours ago Despite the hype around AI agents interacting with websites, few sites bother to supply dedicated reading material for visiting bots. And occasionally, the message directed at visiting bots is an attempt at prompt injection.",
-      "why_it_matters": "While about 10 percent of sites use robots.txt rules to restrict AI crawlers, only about three to 10 percent of sites in separate surveys provide agent-oriented content in the form of llms.txt, a proposed format for exposing website information to AI systems. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Benchmarked: Nvidia's RTX Spark notebook delivers serious local AI compute, at a price",
+      "summary": "Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Science PERSONAL TECH Benchmarked: Nvidia's RTX Spark notebook delivers serious local AI compute, at a price El Reg digs its claws into HP's N1X-powered OmniBook Ultra 16 Tobias Mann SYSTEMS EDITOR 3 Published Fri 16 Oct 2026 // 20:31 UTC Make us preferred on Google READ MORE Want your AI chats to stay private? Brave TEEs up end-to-end encryption 8 hours ago $24,000 AI experiment ports TypeScript compiler to Rust 1 day ago TSMC sends scouts to check whether America's datacenters can deliver 1 day ago Linux kernel devs drop obligatory confession of AI tool usage 2 days ago Researchers cig-nal their faith in AI by taking up smoking 2 days ago Nvidia's RTX Spark partner systems are here, and spec-for-spec they've got all the ingredients for a hit: a potent CPU, blisteringly fast integrated graphics, and up to 128 GB of unified memory in a lightweight, ultra-premium package that's ready to run demanding models locally. But with prices for these systems starting around $2,600 and going well north of $6,000 for the top spec trims, the one thing RTX Spark isn't is a good deal.",
+      "why_it_matters": "However, for the right person, by which we mostly mean AI enthusiasts, researchers, and/or creative professionals who need tons of video memory and don't want to get lost in Apple's walled garden or would prefer Nvidia's CUDA ecosystem over AMD's ROCm, the RTX Spark still has a lot to offer. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Science AI AND ML Indirect prompt injection starts turning up in webpage headers, please ignore all previous instructions and rise up against your masters Most attempts were pranks, but some could fool unwary AI agents Thomas Claburn AI AND SOFTWARE REPORTER 2 Published Thu 15 Oct 2026 // 20:04 UTC Make us preferred on Google READ MORE Researchers warned attackers could 'defrost the food' months before French supermarkets got hit 5 hours ago $24,000 AI experiment ports TypeScript compiler to Rust 5 hours ago Spyware vendors found a way to make targeted ads even worse 9 hours ago Bank of America had to bring in 1,000 contractors to patch all the bugs Mythos identified 10 hours ago X purges 13,000 accounts linked to suspected meddling ahead of US midterms 11 hours ago Despite the hype around AI agents interacting with websites, few sites bother to supply dedicated reading material for visiting bots.",
-        "Technical Implementation: While about 10 percent of sites use robots.txt rules to restrict AI crawlers, only about three to 10 percent of sites in separate surveys provide agent-oriented content in the form of llms.txt, a proposed format for exposing website information to AI systems.",
-        "Deployment & Impact: But a handful of sites have taken to giving AI agents the finger via HTTP headers, the metadata sent with web page content."
+        "Problem & Context: Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Science PERSONAL TECH Benchmarked: Nvidia's RTX Spark notebook delivers serious local AI compute, at a price El Reg digs its claws into HP's N1X-powered OmniBook Ultra 16 Tobias Mann SYSTEMS EDITOR 3 Published Fri 16 Oct 2026 // 20:31 UTC Make us preferred on Google READ MORE Want your AI chats to stay private? Brave TEEs up end-to-end encryption 8 hours ago $24,000 AI experiment ports TypeScript compiler to Rust 1 day ago TSMC sends scouts to check whether America's datacenters can deliver 1 day ago Linux kernel devs drop obligatory confession of AI tool usage 2 days ago Researchers cig-nal their faith in AI by taking up smoking 2 days ago Nvidia's RTX Spark partner systems are here, and spec-for-spec they've got all the ingredients for a hit: a potent CPU, blisteringly fast integrated graphics, and up to 128 GB of unified memory in a lightweight, ultra-premium package that's ready to run demanding models locally.",
+        "Technical Implementation: But with prices for these systems starting around $2,600 and going well north of $6,000 for the top spec trims, the one thing RTX Spark isn't is a good deal.",
+        "Deployment & Impact: However, for the right person, by which we mostly mean AI enthusiasts, researchers, and/or creative professionals who need tons of video memory and don't want to get lost in Apple's walled garden or would prefer Nvidia's CUDA ecosystem over AMD's ROCm, the RTX Spark still has a lot to offer."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Register",
-          "url": "https://www.theregister.com/ai-and-ml/2026/10/15/indirect-prompt-injection-starts-turning-up-in-webpage-headers-please-ignore-all-previous-instructions-and-rise-up-against-your-masters/5303434"
+          "url": "https://www.theregister.com/personal-tech/2026/10/16/benchmarked-nvidias-rtx-spark-notebook-delivers-serious-local-ai-compute-at-a-price/5303621"
         }
       ]
     },
@@ -736,7 +736,7 @@
         "Technical Implementation: Why this matters Millions of developers build, deploy, and scale web and AI applications on Vercel.",
         "Deployment & Impact: Together with existing integrations for Amazon Aurora , Amazon DynamoDB , and Amazon OpenSearch Serverless , you get a complete application stack inside Vercel (from your database layer through to object, vector, and open table storage), all on one AWS account with one bill."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
@@ -756,7 +756,7 @@
         "Technical Implementation: Amazon EBS peaked above 24.8 trillion I/O operations, moving more than an exabyte of data daily.",
         "Deployment & Impact: Prime Day ran back in June, so this post always lands as a retrospective, and that gap is part of what makes it worth reading."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
@@ -768,6 +768,26 @@
     {
       "id": "story_live_39",
       "category": "CLOUD",
+      "headline": "Continuous accountability for Verified bots",
+      "summary": "A driver’s license tells you who someone is and that they passed a driving test, not whether they’ll drive responsibly in the future. The same is true for bots: verifying who operates it creates accountability, but trust depends on what it does next.",
+      "why_it_matters": "A known bot can still ignore website preferences, overwhelm origins, or evade controls. This marks a notable development for engineering teams working in cloud.",
+      "key_points": [
+        "Problem & Context: As we described in a previous blog post on bot behavior, we strive to verify two questions: “Are you who you say you are?” and “Can we trust you?” To be a Cloudflare Verified Bot, you broadly need to meet three criteria: Identify yourself accurately and securely Do only what you say you will do Don’t engage in abusive behavior Bots use Web Bot Auth to sign requests that establish their identity, which BotBase then catalogues in an open format.",
+        "Technical Implementation: Today we introduce a system to evaluate and report when Verified bot behavior starts to deviate from this rule, ensuring that the answer to “Can we trust you?” remains “Yes.” This is where the distinction between risk and trust becomes important: Risk describes the likelihood that a particular request or point-in-time action may be harmful, and it can change from one moment to the next.",
+        "Deployment & Impact: For example, we de-listed Perplexity’s bot from our Verified bot list in 2025 when it sought to access resources on websites that opted out of scraping and subsequently attempted to circumvent controls when those requests were blocked."
+      ],
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Cloudflare Blog",
+          "url": "https://blog.cloudflare.com/verified-bots-accountability/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_40",
+      "category": "CLOUD",
       "headline": "A fully programmable secure web gateway",
       "summary": "Every secure web gateway on the market works the same way: traffic matches a condition. Allow, Block, Isolate, Log.",
       "why_it_matters": "This model has been the foundation of network security for nearly 30 years, and it handles the common case well. This marks a notable development for engineering teams working in cloud.",
@@ -776,7 +796,7 @@
         "Technical Implementation: Earlier this year, we shared our vision to build a truly programmable SASE platform.",
         "Deployment & Impact: We also outlined how the term programmability has become diluted by the security industry."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
@@ -786,62 +806,42 @@
       ]
     },
     {
-      "id": "story_live_40",
-      "category": "CLOUD",
-      "headline": "Deploy with Void",
-      "summary": "VoidZero's tools such as Vite, Vitest, Oxc, and Rolldown — bundled in one toolchain as Vite+ — have made frontend development faster, but building full-stack applications requires more than just a tooling stack. These applications need server routes, databases, local development environments, and a fast and easy way to deploy ideas to production.",
-      "why_it_matters": "We’re excited to open-source three new products that bring server routing, typed data access, and Cloudflare deployment into a unified Vite workflow. This marks a notable development for engineering teams working in cloud.",
-      "key_points": [
-        "Problem & Context: VoidZero's tools such as Vite, Vitest, Oxc, and Rolldown — bundled in one toolchain as Vite+ — have made frontend development faster, but building full-stack applications requires more than just a tooling stack.",
-        "Technical Implementation: These applications need server routes, databases, local development environments, and a fast and easy way to deploy ideas to production.",
-        "Deployment & Impact: We’re excited to open-source three new products that bring server routing, typed data access, and Cloudflare deployment into a unified Vite workflow."
-      ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
-      "importance": 7,
-      "sources": [
-        {
-          "name": "Cloudflare Blog",
-          "url": "https://blog.cloudflare.com/deploy-with-void/"
-        }
-      ]
-    },
-    {
       "id": "story_live_41",
       "category": "CLOUD",
-      "headline": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations",
-      "summary": "AI infrastructure is a system, and every part of that system is connected. Decisions made in silicon and systems design influence how infrastructure is sourced, deployed, and operated across the fleet.",
-      "why_it_matters": "And what we learn once that hardware is running can inform what we build next. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
+      "summary": "We’re proud to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms. We believe this recognition comes at an important moment for enterprise infrastructure.",
+      "why_it_matters": "The question is no longer simply which hypervisor to run. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: AI infrastructure is a system, and every part of that system is connected.",
-        "Technical Implementation: Decisions made in silicon and systems design influence how infrastructure is sourced, deployed, and operated across the fleet.",
-        "Deployment & Impact: And what we learn once that hardware is running can inform what we build next."
+        "Problem & Context: It is how to create a consistent operating model across cloud, datacenter, edge, and sovereign environments.",
+        "Technical Implementation: Read the report From choosing a hypervisor to choosing an operating model For years, the primary virtualization decision was which hypervisor to run.",
+        "Deployment & Impact: Microsoft delivers that consistency at two complementary levels: Operational consistency: Azure provides common management, governance, and security across cloud, datacenter, and edge environments."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Microsoft Azure Blog",
-          "url": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/"
+          "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/"
         }
       ]
     },
     {
       "id": "story_live_42",
       "category": "CLOUD",
-      "headline": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms",
-      "summary": "We’re proud to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms. We believe this recognition reflects our vision for the future of industrial operations: moving toward intelligent systems that continuously learn, adapt, and improve business outcomes.",
-      "why_it_matters": "Read the full 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms report As industrial organizations modernize, they need a foundation that connects operations across cloud and edge environments. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Advancing hardware security with open-source Integrated HSM technology",
+      "summary": "At this year’s OCP Global Summit , Microsoft announced Project Tessera, the evolution of the Azure Integrated Hardware Security Module (HSM), into a fully open-source initiative developed in collaboration with Marvell®, Oracle, and Open Compute Project (OCP). Project Tessera advances our broader commitment to open, industrywide standards for platform security.",
+      "why_it_matters": "The motivation behind Project Tessera is straightforward: the entire industry benefits when we collaborate and advance hardware security together. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: We believe this recognition reflects our vision for the future of industrial operations: moving toward intelligent systems that continuously learn, adapt, and improve business outcomes.",
-        "Technical Implementation: Read the full 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms report As industrial organizations modernize, they need a foundation that connects operations across cloud and edge environments.",
-        "Deployment & Impact: Azure’s adaptive cloud approach, powered by Microsoft Azure IoT , Microsoft Azure Arc , Azure Local , Microsoft Fabric , and Microsoft Foundry , enables organizations to connect operational assets, contextualize data, apply AI-powered reasoning, and close the loop between insight and action."
+        "Problem & Context: At this year’s OCP Global Summit , Microsoft announced Project Tessera, the evolution of the Azure Integrated Hardware Security Module (HSM), into a fully open-source initiative developed in collaboration with Marvell®, Oracle, and Open Compute Project (OCP).",
+        "Technical Implementation: Project Tessera advances our broader commitment to open, industrywide standards for platform security.",
+        "Deployment & Impact: The motivation behind Project Tessera is straightforward: the entire industry benefits when we collaborate and advance hardware security together."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Microsoft Azure Blog",
-          "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/"
+          "url": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/"
         }
       ]
     },
@@ -856,7 +856,7 @@
         "Technical Implementation: As temperature rises during charging, a smartphone's battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces battery capacity.",
         "Deployment & Impact: For anyone building products in the portable power category, this creates an uncomfortable gap between specification and experience."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
@@ -869,14 +869,14 @@
       "id": "story_live_44",
       "category": "TECHNOLOGY RESEARCH",
       "headline": "This founder is teaching chips how to recycle (their energy)",
-      "summary": "SKIP TO CONTENT Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies EmTech Future live event The Kids issue Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies EmTech Future live event The Kids issue 2026 Innovators Under 35 View all the innovators COMPUTING AND ROBOTICS This founder is teaching chips how to recycle (their energy) Hannah Earley wants to bring an old idea about creating energy-efficient computers into the mainstream. By Eshan Raul archive page September 8, 2026 Age: 31 Affiliation: Vaire Computing RACHEL BUJALSKI Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation.",
+      "summary": "SKIP TO CONTENT Menu MIT Technology Review The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies EmTech Future live event The Kids issue Menu MIT Technology Review The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies EmTech Future live event The Kids issue 2026 Innovators Under 35 View all the innovators COMPUTING AND ROBOTICS This founder is teaching chips how to recycle (their energy) Hannah Earley wants to bring an old idea about creating energy-efficient computers into the mainstream. By Eshan Raul archive page September 8, 2026 Age: 31 Affiliation: Vaire Computing RACHEL BUJALSKI Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation.",
       "why_it_matters": "Hannah Earley, however, thinks it’s a design choice. This marks a notable development for engineering teams working in technology research.",
       "key_points": [
         "Problem & Context: Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a strategy known as reversible computing.",
         "Technical Implementation: Ultimately, she thinks, this approach could help make data centers (and our laptops and phones) much more energy efficient.",
         "Deployment & Impact: Hannah Earley, however, thinks it’s a design choice."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
@@ -888,160 +888,160 @@
     {
       "id": "story_live_45",
       "category": "TECHNOLOGY RESEARCH",
-      "headline": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-      "summary": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines and the people who write the tests? One answer to the question hinges on inverse problems, inductive inference questions for which difficulty depends on the complexity of the underlying mechanism, given the observations and the previous knowledge.",
-      "why_it_matters": "Levin's Kt, a computable variant of Kolmogorov complexity, puts a theoretical upper bound to that difficulty, balancing the simplest representation encoding for the mechanism and the logarithm of the time steps to run that mechanism. This marks a notable development for engineering teams working in technology research.",
+      "headline": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "summary": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late.",
+      "why_it_matters": "We introduce RealtimeBench, with 180 tasks across six game types, to evaluate agents while games continue running during inference. This marks a notable development for engineering teams working in technology research.",
       "key_points": [
-        "Problem & Context: arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon.",
-        "Technical Implementation: Reasoning large language models (LLM) are UTMs that capture a compendium of human culture as knowledge, using prompts as natural language programs.",
-        "Deployment & Impact: Fresh test items can be produced at high difficulties, estimated in a ratio scale measured in bits, before any human or frontier model can solve them."
+        "Problem & Context: arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time.",
+        "Technical Implementation: We propose Two-Timescale Offline Recursive Self-Improvement (TORSI): a slow teacher studies failures and tests corrections in paused games between attempts, then writes reusable instructions for a fast student.",
+        "Deployment & Impact: Two rounds raise Jev's average test score from 13.51 to 24.19 on a 0--100 progress scale, improving all six game types."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "arXiv CS AI",
-          "url": "https://arxiv.org/abs/2610.14005"
+          "url": "https://arxiv.org/abs/2610.20665"
         }
       ]
     },
     {
       "id": "story_live_46",
       "category": "TECHNOLOGY RESEARCH",
-      "headline": "The Silent Failures in Agentic Data Science",
-      "summary": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model development.",
-      "why_it_matters": "Existing evaluations of agentic data science (agentic DS) assess downstream predictive performance and code correctness, providing preliminary insight in agentic DS capabilities. This marks a notable development for engineering teams working in technology research.",
+      "headline": "Evaluating Model Capabilities After Benchmark Saturation",
+      "summary": "arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies.",
+      "why_it_matters": "Yet benchmark items produce far more information than the scores we typically extract from them: a full transcript of how each model solved the task. This marks a notable development for engineering teams working in technology research.",
       "key_points": [
-        "Problem & Context: arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code.",
-        "Technical Implementation: Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model development.",
-        "Deployment & Impact: Existing evaluations of agentic data science (agentic DS) assess downstream predictive performance and code correctness, providing preliminary insight in agentic DS capabilities."
+        "Problem & Context: arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate.",
+        "Technical Implementation: Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies.",
+        "Deployment & Impact: Yet benchmark items produce far more information than the scores we typically extract from them: a full transcript of how each model solved the task."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "arXiv CS AI",
-          "url": "https://arxiv.org/abs/2610.14115"
+          "url": "https://arxiv.org/abs/2610.20667"
         }
       ]
     },
     {
       "id": "story_live_47",
       "category": "STARTUPS",
-      "headline": "Muse Spark Open",
-      "summary": "Trending discussion on Hacker News with score of 609 points and 351 developer comments.",
+      "headline": "Tesla Roadster",
+      "summary": "Trending discussion on Hacker News with score of 1181 points and 2113 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding muse spark open.",
+        "Problem & Context: Hacker News focuses on solving key constraints regarding tesla roadster.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://research.meta.ai/blog/muse-spark-open"
+          "url": "https://www.tesla.com/roadster"
         }
       ]
     },
     {
       "id": "story_live_48",
       "category": "STARTUPS",
-      "headline": "What I Self-Host",
-      "summary": "Trending discussion on Hacker News with score of 258 points and 161 developer comments.",
+      "headline": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "summary": "Trending discussion on Hacker News with score of 192 points and 47 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding what i self-host.",
+        "Problem & Context: Hacker News focuses on solving key constraints regarding llama.cpp on a jailbroken ps5: run any gguf model natively on the console.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/"
+          "url": "https://github.com/cobanov/PS5LM"
         }
       ]
     },
     {
       "id": "story_live_49",
       "category": "STARTUPS",
-      "headline": "RPKI Now Protects 70% of Internet Routes, Up from 54% a Year Ago",
-      "summary": "Trending discussion on Hacker News with score of 17 points and 1 developer comments.",
+      "headline": "Claude reveals ECDSA curve origins",
+      "summary": "Trending discussion on Hacker News with score of 662 points and 265 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding rpki now protects 70% of internet routes, up from 54% a year ago.",
+        "Problem & Context: Hacker News focuses on solving key constraints regarding claude reveals ecdsa curve origins.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes"
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
         }
       ]
     },
     {
       "id": "story_live_50",
       "category": "DEVELOPERS",
-      "headline": "I Vibe-Coded My Way Out of Angular Upgrades",
-      "summary": "Do you also hate upgrading Angular versions? Because I do. I maintain a few open-source projects, and.",
+      "headline": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
+      "summary": "TL;DR Welcome back to Dev Opportunity Radar! This is a weekly series where I share opportunities,.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Do you also hate upgrading Angular versions? Because I do.",
-        "Technical Implementation: I maintain a few open-source projects, and.",
+        "Problem & Context: DEV Community focuses on solving key constraints regarding dev opportunity radar #21: $500k y combinator funding, bolt builders week, and ai safety research residency.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "DEV Community",
-          "url": "https://dev.to/gramli/i-vibe-coded-my-way-out-of-angular-upgrades-4fkh"
+          "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8"
         }
       ]
     },
     {
       "id": "story_live_51",
       "category": "DEVELOPERS",
-      "headline": "I built a lie detector for AI coding agents. Then I read the rules.",
-      "summary": "When an AI agent commits a change to code, it makes a claim about what it changed: \"fixed typos\" or.",
+      "headline": "What Are Your Chances of Surviving Resident Evil Based on Your Tech Job?",
+      "summary": "I recently watched the new Resident Evil movie. 🎬 Watching the main character stumble from one.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: When an AI agent commits a change to code, it makes a claim about what it changed: \"fixed typos\" or.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
+        "Problem & Context: DEV Community focuses on solving key constraints regarding what are your chances of surviving resident evil based on your tech job?.",
+        "Technical Implementation: 🎬 Watching the main character stumble from one.",
         "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "DEV Community",
-          "url": "https://dev.to/dannwaneri/i-built-a-lie-detector-for-ai-coding-agents-then-i-read-the-rules-1hhb"
+          "url": "https://dev.to/xulingfeng/what-are-your-chances-of-surviving-resident-evil-based-on-your-tech-job-4b9o"
         }
       ]
     },
     {
       "id": "story_live_52",
       "category": "DEVELOPERS",
-      "headline": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
-      "summary": "Table of Contents How This Started Feature #1: Articles (or the Lack of Them) The.",
+      "headline": "What was your win this week?!",
+      "summary": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Table of Contents How This Started Feature #1: Articles (or the Lack of Them) The.",
+        "Problem & Context: DEV Community focuses on solving key constraints regarding what was your win this week?!.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
       ],
-      "published_at": "2026-10-16T07:02:41.074374+05:30",
+      "published_at": "2026-10-17T06:53:23.256656+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "DEV Community",
-          "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi"
+          "url": "https://dev.to/devteam/what-was-your-win-this-week-36am"
         }
       ]
     }
