@@ -1,6 +1,6 @@
 {
-  "id": "edition_2026_10_25",
-  "date": "2026-10-25",
+  "id": "edition_2026_10_26",
+  "date": "2026-10-26",
   "title": "Tech Daily",
   "hot_topic": "SYSTEMS & AI ACCELERATION",
   "hot_topic_description": "Major cloud providers and open-source consortia announce architectural shifts toward dedicated silicon and low-latency inference pipelines.",
@@ -15,7 +15,7 @@
       "Technical Implementation: Building the Intelligent Economy, by Google, Temasek, and Bain & Company, finds that widespread AI implementation is propelling the region’s digital economy to grow 17% year-on-year (YoY) to reach $368 billion 2 in Gross Merchandise Value (GMV) in 2026.",
       "Deployment & Impact: Using tokens 3 as the new benchmark for the AI economy, the report projects that growing confidence in agentic commerce will drive a 60-fold surge in regional AI usage over the next five years."
     ],
-    "published_at": "2026-10-25T06:51:56.416216+05:30",
+    "published_at": "2026-10-26T06:56:22.332856+05:30",
     "importance": 9,
     "sources": [
       {
@@ -29,14 +29,14 @@
       "id": "story_live_2",
       "category": "AI & MACHINE LEARNING",
       "headline": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Innovation & AI Models & research Gemini Models Gemini 4 Argon: Built to solve your hardest problems Oct 13, 2026 12 min read We’re giving developers, enterprises, scientists, and consumers access to our latest frontier model. Koray Kavukcuoglu SVP, Google DeepMind and Chief AI Architect, Google Share In this article Built to solve your hardest problems Solving complex engineering tasks Transforming critical business and professional workflows Accelerating real-world impact with researchers and domain experts Developing Argon responsibly and safely Get started today Gemini 4 Argon is now globally available today for developers and enterprises via the API in AI Studio and Gemini platform, for Google AI Ultra subscribers in Google Antigravity, and Google AI Ultra and Pro subscribers in the Gemini app and AI Mode in Search.",
+      "summary": "Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Innovation & AI Models & research Gemini Models Gemini 4 Argon: Built to solve your hardest problems Oct 13, 2026 17 min read We’re giving developers, enterprises, scientists, and consumers access to our latest frontier model. Koray Kavukcuoglu SVP, Google DeepMind and Chief AI Architect, Google Share In this article Built to solve your hardest problems Solving complex engineering tasks Transforming critical business and professional workflows Accelerating real-world impact with researchers and domain experts Developing Argon responsibly and safely Get started today Gemini 4 Argon is now globally available today for developers and enterprises via the API in AI Studio and Gemini platform, for Google AI Ultra subscribers in Google Antigravity, and Google AI Ultra and Pro subscribers in the Gemini app and AI Mode in Search.",
       "why_it_matters": "Argon excels at deep work in complex, real-world tasks across domains including coding, finance, legal, cybersecurity, and science. This marks a notable development for engineering teams working in ai & machine learning.",
       "key_points": [
-        "Problem & Context: Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Innovation & AI Models & research Gemini Models Gemini 4 Argon: Built to solve your hardest problems Oct 13, 2026 12 min read We’re giving developers, enterprises, scientists, and consumers access to our latest frontier model.",
+        "Problem & Context: Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Innovation & AI Models & research Gemini Models Gemini 4 Argon: Built to solve your hardest problems Oct 13, 2026 17 min read We’re giving developers, enterprises, scientists, and consumers access to our latest frontier model.",
         "Technical Implementation: Koray Kavukcuoglu SVP, Google DeepMind and Chief AI Architect, Google Share In this article Built to solve your hardest problems Solving complex engineering tasks Transforming critical business and professional workflows Accelerating real-world impact with researchers and domain experts Developing Argon responsibly and safely Get started today Gemini 4 Argon is now globally available today for developers and enterprises via the API in AI Studio and Gemini platform, for Google AI Ultra subscribers in Google Antigravity, and Google AI Ultra and Pro subscribers in the Gemini app and AI Mode in Search.",
         "Deployment & Impact: Argon excels at deep work in complex, real-world tasks across domains including coding, finance, legal, cybersecurity, and science."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -56,7 +56,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -76,7 +76,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -96,7 +96,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -116,7 +116,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -136,7 +136,7 @@
         "Technical Implementation: For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores.",
         "Deployment & Impact: But as AI moves from experimentation to production, the question facing enterprise leaders has changed—it’s no longer, “what can the model do?”—it’s now, “Can we deliver that intelligence reliably, economically, and at scale?” Increasingly, the answer depends on the serving harness—the engineering system surrounding the model, including the architecture, memory management , scheduling, and optimization decisions that determine how efficiently model intelligence becomes a production capability."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -156,7 +156,7 @@
         "Technical Implementation: Data, engineering, platforms, operating models, and governance must converge to work as one.",
         "Deployment & Impact: This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic systems, into lasting value for investors."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -176,7 +176,7 @@
         "Technical Implementation: Generative AI Learn how to build with generative AI.",
         "Deployment & Impact: How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience.Learn more Developer skills Developer skills Resources for developers to grow in their skills and careers."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -196,7 +196,7 @@
         "Technical Implementation: Here’s how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.",
         "Deployment & Impact: Eleanor White & Victoria Dye October 21, 2026 | 8 minutes Share: Over the past year, while Git traffic grew exponentially, 99.99999% of the Git repositories on GitHub began living in two places at once: our own data centers and Azure."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -216,7 +216,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -236,7 +236,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -256,7 +256,7 @@
         "Technical Implementation: Since then, we shipped a rewritten go fix in Go 1.26 that automatically modernizes your code, and added more modernizers in Go 1.27.",
         "Deployment & Impact: Your answers directly shape how we plan and prioritize our work."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -276,7 +276,7 @@
         "Technical Implementation: Crucially, we designed this capability (in collaboration with the Dart team) not just for Go, but as an open standard for all programming languages and editor ecosystems.",
         "Deployment & Impact: Working support is already available in gopls v0.24.0 and the official Go extension for VS Code v0.56.0."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -296,7 +296,7 @@
         "Technical Implementation: Since it was first recorded by a probe in 2018, scientists have been unable to find a plausible explanation for the existence of this cloud, often referred to as the Arsia Mons Elongated Cloud (AMEC).",
         "Deployment & Impact: Recently, researchers successfully modeled the cloud’s formation for the first time, their results suggesting that it may be driven by a physical process that has never been directly observed in any planet's atmosphere."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -316,7 +316,7 @@
         "Technical Implementation: It is the last surviving fragment of the Laurentide Ice Sheet, the largest of the Pleistocene ice sheets, which at its peak buried most of Canada under two miles of ice and locked away around 80 meters of sea level.",
         "Deployment & Impact: That remnant has now yielded direct physical evidence that ice sheets might have reversed their retreat and started to grow again thousands of years ago."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -328,40 +328,40 @@
     {
       "id": "story_live_17",
       "category": "DEVELOPERS",
-      "headline": "I want my Wednesday back",
-      "summary": "I want my Wednesday back announced by Lobste.rs.",
+      "headline": "POSIX wordexp(3) is dangerous",
+      "summary": "POSIX wordexp(3) is dangerous announced by Lobste.rs.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Lobste.rs focuses on solving key constraints regarding i want my wednesday back.",
+        "Problem & Context: Lobste.rs focuses on solving key constraints regarding posix wordexp(3) is dangerous.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Lobste.rs",
-          "url": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/"
+          "url": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/"
         }
       ]
     },
     {
       "id": "story_live_18",
       "category": "DEVELOPERS",
-      "headline": "Balloting has completed for C++26. Unfortunately it was Disapproved",
-      "summary": "tl;dr: it looks like C++ 26 got turned down by the national bodies (afaik unprecedented) Comments.",
+      "headline": "The Slurptop: A home-built luggable that runs on power tool batteries",
+      "summary": "The Slurptop: A home-built luggable that runs on power tool batteries announced by Lobste.rs.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Lobste.rs focuses on solving key constraints regarding balloting has completed for c++26. unfortunately it was disapproved.",
+        "Problem & Context: Lobste.rs focuses on solving key constraints regarding the slurptop: a home-built luggable that runs on power tool batteries.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Lobste.rs",
-          "url": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL"
+          "url": "https://slurpburgers.com/slurpbuilds/the-slurptop/"
         }
       ]
     },
@@ -369,14 +369,14 @@
       "id": "story_live_19",
       "category": "BIG TECH",
       "headline": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
-      "summary": "Skip to content Search this site Open Source Platforms Infrastructure Systems Physical Infrastructure Video Engineering & AR/VR Artificial Intelligence Watch Videos POSTED ON OCTOBER 19, 2026 TO ML APPLICATIONS GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary By Carl Hu, Justin Johnson, Parish Aggarwal, Kaushik Rangadurai, Senthil Manickavelu, Tianwei Zhang Generative Recommenders (GenRecs) represent a paradigm shift from scoring every ad to reasoning about ad content and user preferences together in order to predict the best outcome for advertisers. Leveraging the world knowledge built into LLMs makes ad matching more intelligent and precise, compounding gains for advertisers.",
+      "summary": "Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON OCTOBER 19, 2026 TO ML Applications GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary By Carl Hu, Justin Johnson, Parish Aggarwal, Kaushik Rangadurai, Senthil Manickavelu, Tianwei Zhang Generative Recommenders (GenRecs) represent a paradigm shift from scoring every ad to reasoning about ad content and user preferences together in order to predict the best outcome for advertisers. Leveraging the world knowledge built into LLMs makes ad matching more intelligent and precise, compounding gains for advertisers.",
       "why_it_matters": "GenRecs Tokenization is the foundational data representation that makes this possible. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Skip to content Search this site Open Source Platforms Infrastructure Systems Physical Infrastructure Video Engineering & AR/VR Artificial Intelligence Watch Videos POSTED ON OCTOBER 19, 2026 TO ML APPLICATIONS GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary By Carl Hu, Justin Johnson, Parish Aggarwal, Kaushik Rangadurai, Senthil Manickavelu, Tianwei Zhang Generative Recommenders (GenRecs) represent a paradigm shift from scoring every ad to reasoning about ad content and user preferences together in order to predict the best outcome for advertisers.",
+        "Problem & Context: Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON OCTOBER 19, 2026 TO ML Applications GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary By Carl Hu, Justin Johnson, Parish Aggarwal, Kaushik Rangadurai, Senthil Manickavelu, Tianwei Zhang Generative Recommenders (GenRecs) represent a paradigm shift from scoring every ad to reasoning about ad content and user preferences together in order to predict the best outcome for advertisers.",
         "Technical Implementation: GenRecs Tokenization is the foundational data representation that makes this possible.",
         "Deployment & Impact: Paired with Meta’s Generative Ads Model (GEM) and Meta’s Adaptive Ranking Model, GenRecs Tokenization has delivered a +0.35% lift in conversions across surfaces for advertisers."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -396,7 +396,7 @@
         "Technical Implementation: At Meta, we’ve seen notable improvements in efficiency and accuracy by keeping the orchestration layer of our data pipeline agents deliberately thin: It routes work and enforces reliability checks, while specialized agents do the domain reasoning.",
         "Deployment & Impact: When we first deployed AI agents to automate data column onboarding across Meta’s recommendation systems — a process spanning three code repositories, three programming languages, and up to six pipeline stages that must stay in sync — we did what most teams do: We built one smart agent that knew everything."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -416,7 +416,7 @@
         "Technical Implementation: Producers can see the API diff in front of them.",
         "Deployment & Impact: Consider a common case: removing a deprecated API."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -436,7 +436,7 @@
         "Technical Implementation: For a few, it does not, and those few include some of the most demanding real-time systems we run.",
         "Deployment & Impact: This post is about them, and about single-tenant Titus, a mode that gives a task its own virtual machine while keeping everything else about Titus the same: the API, the deployment path, and the managed experience where the Compute/Platform team, not the application team, owns the host."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -448,80 +448,80 @@
     {
       "id": "story_live_23",
       "category": "BIG TECH",
-      "headline": "Blue Planet III is keeping the rough edges in the age of AI",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.",
-      "why_it_matters": "But one dead giveaway of AI is when things look too polished and seamless. This marks a notable development for engineering teams working in big tech.",
+      "headline": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+      "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score.",
+      "why_it_matters": "That might not seem particularly high, but it's the best score the site has given to a foldable yet. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: The Verge Tech focuses on solving key constraints regarding blue planet iii is keeping the rough edges in the age of ai.",
-        "Technical Implementation: Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.",
-        "Deployment & Impact: But one dead giveaway of AI is when things look too polished and seamless."
+        "Problem & Context: The Verge Tech focuses on solving key constraints regarding ifixit’s look inside the iphone duo may explain those broken screens and hinges.",
+        "Technical Implementation: It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score.",
+        "Deployment & Impact: That might not seem particularly high, but it's the best score the site has given to a foldable yet."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Verge Tech",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+          "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge"
         }
       ]
     },
     {
       "id": "story_live_24",
       "category": "BIG TECH",
-      "headline": "Pennsylvania will require labels on AI-generated ads",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as the ad itself.",
-      "why_it_matters": "That applies to TV commercials from multi-billion-dollar companies , as well as restaurants' ugly, crowded flyers about their wing specials. This marks a notable development for engineering teams working in big tech.",
+      "headline": "Scott Walker’s The Drift will get under your skin",
+      "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle , The Body , or Scott Walker's The Drift.",
+      "why_it_matters": "This 2006 album from the singer-songwriter is truly upsetting. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads.",
-        "Technical Implementation: The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as the ad itself.",
-        "Deployment & Impact: That applies to TV commercials from multi-billion-dollar companies , as well as restaurants' ugly, crowded flyers about their wing specials."
+        "Problem & Context: The Verge Tech focuses on solving key constraints regarding scott walker’s the drift will get under your skin.",
+        "Technical Implementation: There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle , The Body , or Scott Walker's The Drift.",
+        "Deployment & Impact: This 2006 album from the singer-songwriter is truly upsetting."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Verge Tech",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+          "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review"
         }
       ]
     },
     {
       "id": "story_live_25",
       "category": "BIG TECH",
-      "headline": "Save up to $800 on Acer’s ultra-slim RTX 5070 Ti gaming laptop — pay $2225 for the 16GB RAM model or upgrade to 32GB for $2400",
-      "summary": "For anyone looking to buy a premium gaming laptop with an OLED display, the Acer Predator Helios Neo 16S AI is worth considering. The laptop is currently on sale at Best Buy for a limited time for $2,224.99 , saving you $550 off its original price of $2,774.99.",
-      "why_it_matters": "The discount also applies to the higher-end 32GB RAM model, available for $2,399.99 , saving $800 off its original price of $3,199.99. This marks a notable development for engineering teams working in big tech.",
+      "headline": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns",
+      "summary": "AI spending is generating revenue for technology providers, but most other S&P 500 companies have yet to show comparable gains in productivity or profit margins, a report by Apollo’s Daily Spark analysis has shown. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible Artificial intelligence has helped fuel a boom in technology spending, but the financial benefits remain difficult to spot across much of corporate America.",
+      "why_it_matters": "Apollo Global Management chief economist Torsten Slok said on October 24 that revenue per worker and profit margins were rising for the Magnificent Seven technology stocks while remaining flat across the other 493 companies in the S&P 500. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: The discount also applies to the higher-end 32GB RAM model, available for $2,399.99 , saving $800 off its original price of $3,199.99.",
-        "Technical Implementation: Check out the 16GB model deal at Best Buy Check out the 32GB model deal at Best Buy The Acer Predator Helios Neo 16S AI is a fairly thin gaming laptop with a maximum thickness of just 18.9 mm.",
-        "Deployment & Impact: The laptop features a 16-inch OLED panel with QHD+ (2560 x 1600) resolution and a 16:10 aspect ratio, giving you more vertical screen space."
+        "Problem & Context: Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible Artificial intelligence has helped fuel a boom in technology spending, but the financial benefits remain difficult to spot across much of corporate America.",
+        "Technical Implementation: Running AI models at scale can quickly drive up costs since many providers charge by token usage, so bills climb as employees make more requests or AI agents process data and handle increasingly complex tasks.",
+        "Deployment & Impact: Venture capital-backed businesses are spending more on tokens, he noted, while established companies have less incentive to pay for the newest models."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/laptops/gaming-laptops/save-up-to-usd800-on-acers-ultra-slim-rtx-5070-ti-gaming-laptop-pay-usd2225-for-the-16gb-ram-model-or-upgrade-to-32gb-for-usd2400"
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins"
         }
       ]
     },
     {
       "id": "story_live_26",
       "category": "BIG TECH",
-      "headline": "Proton hosts Flock map revealing over 300,000 cameras, defying cease-and-desist threats against creator",
-      "summary": "Proton AG, which provides privacy-focused services like Proton Mail and Proton VPN, has decided to host the Flock camera map that security researcher Joshua Michael built from leaked Flock data. While the original Flock Surveillance Map is still available online, its creator is facing legal threats from the company, especially after Flock sent the researcher a cease-and-desist letter.",
-      "why_it_matters": "In addition, Michael’s website is accessible only from within the U.S., requiring users outside the country to use a VPN to access it. This marks a notable development for engineering teams working in big tech.",
+      "headline": "IQUNIX MQ80 low profile mechanical keyboard review",
+      "summary": "When it comes to mechanical keyboards, IQUNIX has always been ahead of the curve. Before COVID turned the mainstream onto mechanical keyboards, the company had already been releasing some of the best mechanical keyboards available, quietly making the case for PBT keycaps and premium materials that have since become the norm.",
+      "why_it_matters": "With a catalog of traditional mechanical keyboards under its belt, it’s not surprising that the company would be ready to branch into new territory. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Proton AG, which provides privacy-focused services like Proton Mail and Proton VPN, has decided to host the Flock camera map that security researcher Joshua Michael built from leaked Flock data.",
-        "Technical Implementation: In addition, Michael’s website is accessible only from within the U.S., requiring users outside the country to use a VPN to access it.",
-        "Deployment & Impact: (Image credit: Proton) “You have a right to know who’s recording you when you leave home, especially when a private company controls the data and it’s unclear how law enforcement uses that information,” the company said."
+        "Problem & Context: Tom's Hardware focuses on solving key constraints regarding iqunix mq80 low profile mechanical keyboard review.",
+        "Technical Implementation: Before COVID turned the mainstream onto mechanical keyboards, the company had already been releasing some of the best mechanical keyboards available, quietly making the case for PBT keycaps and premium materials that have since become the norm.",
+        "Deployment & Impact: With a catalog of traditional mechanical keyboards under its belt, it’s not surprising that the company would be ready to branch into new territory."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/software/maps/proton-hosts-flock-map-revealing-over-300-000-cameras-defying-cease-and-desist-threats-against-creator-privacy-focused-company-hosts-site-on-swiss-servers-says-users-have-the-right-to-know-whos-recording-them"
+          "url": "https://www.tomshardware.com/peripherals/mechanical-keyboards/iqunix-mq80-low-profile-mechanical-keyboard-review"
         }
       ]
     },
@@ -536,7 +536,7 @@
         "Technical Implementation: In the current era — when young AI companies like Cluely and Instinct are building big audiences not just through their products but also through their founders’ colorful online presences — social media can seem like a magic bullet for reaching early customers.",
         "Deployment & Impact: Gamma, which sells AI-powered presentation software, managed to scale its business exponentially with a social media strategy that deployed influencers through its Ambassadors (or “Gambassador”) program."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -556,7 +556,7 @@
         "Technical Implementation: Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: SLAVA BLAZER PHOTOGRAPHY VENTURE VCs, Superhuman Mail founder share red flags about product-market fit Dominic-Madori Davis 1:57 PM PDT · October 23, 2026 Product-market fit — when a startup’s product sells well — has become even harder to find in this AI era.",
         "Deployment & Impact: Despite startups achieving record-fast growth, not all customers are sticky and products can be replicated more easily than ever."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -569,14 +569,14 @@
       "id": "story_live_29",
       "category": "CYBERSECURITY",
       "headline": "Widespread PHP Flaw May Cause Many Site Outages Today",
-      "summary": "Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Widespread PHP Flaw May Cause Many Site Outages Today October 21, 2026 2 Comments Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
+      "summary": "Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Widespread PHP Flaw May Cause Many Site Outages Today October 21, 2026 3 Comments Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
       "why_it_matters": "Image: Shutterstock.com, Sashkin. This marks a notable development for engineering teams working in cybersecurity.",
       "key_points": [
         "Problem & Context: The flaws at issue are present in PHP, the programming language that powers sites running on a large number of web publishing systems, including Drupal, Magento, Joomla and WordPress.",
         "Technical Implementation: Earlier today, PHP released an emergency security update to fix two critical bugs that can allow an attacker to execute code of their choosing on a vulnerable server.",
         "Deployment & Impact: Cloudflare said it has already detected some exploitation of the flaw, and that at 3:02 am (UTC) it implemented web application firewall rules to protect websites from attack traffic seeking to exploit the bugs, which could cause a denial of service condition, remote code execution, and data exposure."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -589,14 +589,14 @@
       "id": "story_live_30",
       "category": "CYBERSECURITY",
       "headline": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
-      "summary": "Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site October 19, 2026 9 Comments U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned.",
+      "summary": "Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site October 19, 2026 9 Comments U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned.",
       "why_it_matters": "Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom. This marks a notable development for engineering teams working in cybersecurity.",
       "key_points": [
         "Problem & Context: federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned.",
         "Technical Implementation: Hackers aligned with ShinyHunters have claimed credit for dozens of major data breaches since 2019, when the group was primarily operated by cybercriminals living in France.",
         "Deployment & Impact: In late September, ShinyHunters hacked the FBI recruitment website fbijobs.gov and taunted the agency by threatening to publish the stolen files, which reportedly included medical and psychological records, Social Security numbers and home addresses, and information about each employee’s unit and specialization."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -608,45 +608,65 @@
     {
       "id": "story_live_31",
       "category": "CYBERSECURITY",
-      "headline": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially.",
+      "headline": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network's access rules permit to connect to the target.",
       "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli.",
-        "Technical Implementation: Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially.",
+        "Problem & Context: A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.",
+        "Technical Implementation: The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network's access rules permit to connect to the target.",
         "Deployment & Impact: Published by The Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html"
+          "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html"
         }
       ]
     },
     {
       "id": "story_live_32",
       "category": "CYBERSECURITY",
-      "headline": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of.",
+      "headline": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had successfully accessed password hashes and multi-factor.",
       "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package.",
-        "Technical Implementation: \"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of.",
+        "Problem & Context: Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.",
+        "Technical Implementation: \"In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had successfully accessed password hashes and multi-factor.",
         "Deployment & Impact: Published by The Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html"
+          "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
         }
       ]
     },
     {
       "id": "story_live_33",
+      "category": "CYBERSECURITY",
+      "headline": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package.",
+      "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: BleepingComputer focuses on solving key constraints regarding ai coding agents hijacked using agents.md file in downloads folder.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
+        "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_34",
       "category": "CYBERSECURITY",
       "headline": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
       "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast.",
@@ -656,7 +676,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
         "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -666,62 +686,42 @@
       ]
     },
     {
-      "id": "story_live_34",
-      "category": "CYBERSECURITY",
-      "headline": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers.",
-      "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
-      "key_points": [
-        "Problem & Context: Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
-        "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
-      ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
-      "importance": 7,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/"
-        }
-      ]
-    },
-    {
       "id": "story_live_35",
       "category": "CLOUD",
-      "headline": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
-      "summary": "Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call PHP2Shell SECURITY Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds Designed to carry out 100,000 steps without human approval Jessica Lyons CYBERSECURITY EDITOR 7 Published Sat 24 Oct 2026 // 13:02 UTC Make us preferred on Google READ MORE OpenAI disables internet access during model training while Anthropic issues another mea culpa 1 day ago Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack 1 day ago AI models describe humans as a bunch of amoral sheep 1 day ago Vendor-affiliated AI agent tech gets adopted by friendly, funded foundation 1 day ago Human receives AI-designed virus for the first time 2 days ago Threat actors built an AI agent designed to hijack exposed AI models to run autonomous attacks, with instructions allowing it to carry out up to 100,000 steps without human approval. The Symantec Threat Hunter Team uncovered the agent's full instruction set over the summer, trapping it in an AI honeypot, and thus giving the researchers a comprehensive view into how the operators built the attack tool and what it could do.",
-      "why_it_matters": "The captured instructions showed a single attack agent designed to scan the entire internet for endpoints that accept OpenAI-style requests without authentication - or that accept a stolen key - and then to exploit several common web frameworks, along with carrying out dozens of illicit actions. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Want to build a UK datacenter? Please hold while Whitehall transfers you",
+      "summary": "Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call PHP2Shell PUBLIC SECTOR Want to build a UK datacenter? Please hold while Whitehall transfers you Minister insists responsibilities are clear as construction, telecoms, and energy fall under separate departments Lindsay Clark BUSINESS SOFTWARE AND DATABASE REPORTER 9 Published Sun 25 Oct 2026 // 10:39 UTC Make us preferred on Google READ MORE After threatening AI export bans, China allows DeepSeek to keep selling now Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks 4 days ago Tens of thousands of Nvidia GPUs sit in Meta's Prometheus supercluster, waiting for a failure 5 days ago Amazon makes vague commitment to unproven nuclear tech to power Indiana datacenters 6 days ago Microsoft abandons UK AI supercomputer as grid struggles to keep up 6 days ago Building a UK datacenter spans three government departments: one handles datacenter policy, another telecoms, and a third energy. MPs this week explored what Prime Minister Andy Burnham's summer reshuffle means for businesses navigating Whitehall.",
+      "why_it_matters": "Liz Lloyd, parliamentary under-secretary of state, sits across two departments with a portfolio of responsibilities as long as a weekly shopping list. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call PHP2Shell SECURITY Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds Designed to carry out 100,000 steps without human approval Jessica Lyons CYBERSECURITY EDITOR 7 Published Sat 24 Oct 2026 // 13:02 UTC Make us preferred on Google READ MORE OpenAI disables internet access during model training while Anthropic issues another mea culpa 1 day ago Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack 1 day ago AI models describe humans as a bunch of amoral sheep 1 day ago Vendor-affiliated AI agent tech gets adopted by friendly, funded foundation 1 day ago Human receives AI-designed virus for the first time 2 days ago Threat actors built an AI agent designed to hijack exposed AI models to run autonomous attacks, with instructions allowing it to carry out up to 100,000 steps without human approval.",
-        "Technical Implementation: The Symantec Threat Hunter Team uncovered the agent's full instruction set over the summer, trapping it in an AI honeypot, and thus giving the researchers a comprehensive view into how the operators built the attack tool and what it could do.",
-        "Deployment & Impact: These include database theft, credential and secret harvesting, remote code execution, and cryptocurrency mining."
+        "Problem & Context: Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call PHP2Shell PUBLIC SECTOR Want to build a UK datacenter? Please hold while Whitehall transfers you Minister insists responsibilities are clear as construction, telecoms, and energy fall under separate departments Lindsay Clark BUSINESS SOFTWARE AND DATABASE REPORTER 9 Published Sun 25 Oct 2026 // 10:39 UTC Make us preferred on Google READ MORE After threatening AI export bans, China allows DeepSeek to keep selling now Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks 4 days ago Tens of thousands of Nvidia GPUs sit in Meta's Prometheus supercluster, waiting for a failure 5 days ago Amazon makes vague commitment to unproven nuclear tech to power Indiana datacenters 6 days ago Microsoft abandons UK AI supercomputer as grid struggles to keep up 6 days ago Building a UK datacenter spans three government departments: one handles datacenter policy, another telecoms, and a third energy.",
+        "Technical Implementation: She explained to MPs this week that, following the decision to get rid of the Department for Science, Innovation and Technology (DSIT), liaison with the tech industry on datacenter construction fell to the Department for Business, Innovation, Science and Trade (BIST).",
+        "Deployment & Impact: \"In terms of sector responsibilities, that is clear that technology, sorry, that telecom sits with DCMS and datacenters with BIST."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Register",
-          "url": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215"
+          "url": "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956"
         }
       ]
     },
     {
       "id": "story_live_36",
       "category": "CLOUD",
-      "headline": "Raspberry Pi Desktop proves old PCs aren't past it",
-      "summary": "Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call PHP2Shell OS PLATFORMS Raspberry Pi Desktop proves old PCs aren't past it Debian 13-based refresh runs comfortably on veteran ThinkPads, without making installation a hobby Liam Proven LINUX AND OPEN SOURCE REPORTER 18 Published Sat 24 Oct 2026 // 11:30 UTC Make us preferred on Google READ MORE SparkyOS: Lightweight general-purpose Arch, on a pendrive 1 day ago Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches 1 day ago openEuler brings China's enterprise Linux ambitions to the desktop 4 days ago Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking 5 days ago Ubuntu Stonking Stingray swims into spotlight with pre-release kernel 8 days ago One of the most frequently asked questions of Linux folks is \"what's the best lightweight distro for an old PC?\" The Reg FOSS desk's current answer is Raspberry Pi Desktop. A couple of weeks ago, we covered the news of a Trixie update for the Raspberry Pi Desktop.",
-      "why_it_matters": "Since then, we've been putting it through its paces on a couple of the oldest, slowest machines in the FOSS desk stables. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Reg readers land on 'Binface' as name for UK space cleanup mission",
+      "summary": "The UK Space Agency asked for names for its Active Debris Removal Mission, and, of course, the Register readership didn't disappoint. The Active Debris Removal Mission , led by ClearSpace UK and intended to remove a pair of UK-registered satellites from Low Earth Orbit (thus demonstrating Blighty's prowess when it comes to orbital litter picking), needs a name.",
+      "why_it_matters": "Let's face it, Active Debris Removal Mission hardly rolls off the tongue and, while engineers have long found ways to make meaning from acronyms (this writer has always been rather fond of PICNIC – Problem In Chair, Not In Computer), the UK Space Agency decided it needed a proper name. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call PHP2Shell OS PLATFORMS Raspberry Pi Desktop proves old PCs aren't past it Debian 13-based refresh runs comfortably on veteran ThinkPads, without making installation a hobby Liam Proven LINUX AND OPEN SOURCE REPORTER 18 Published Sat 24 Oct 2026 // 11:30 UTC Make us preferred on Google READ MORE SparkyOS: Lightweight general-purpose Arch, on a pendrive 1 day ago Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches 1 day ago openEuler brings China's enterprise Linux ambitions to the desktop 4 days ago Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking 5 days ago Ubuntu Stonking Stingray swims into spotlight with pre-release kernel 8 days ago One of the most frequently asked questions of Linux folks is \"what's the best lightweight distro for an old PC?\" The Reg FOSS desk's current answer is Raspberry Pi Desktop.",
-        "Technical Implementation: Here, though, we're testing Raspberry Pi Desktop: the x86-64 PC edition of the Debian-based system, available at the bottom of the downloads page.",
-        "Deployment & Impact: Back in 2023, the PiOS got a new Debian 12-based version, which included a new Wayland-based desktop – although it still looked almost identical to the old environment, based on X11, Openbox, and LXDE."
+        "Problem & Context: The Register focuses on solving key constraints regarding reg readers land on 'binface' as name for uk space cleanup mission.",
+        "Technical Implementation: The Active Debris Removal Mission , led by ClearSpace UK and intended to remove a pair of UK-registered satellites from Low Earth Orbit (thus demonstrating Blighty's prowess when it comes to orbital litter picking), needs a name.",
+        "Deployment & Impact: Let's face it, Active Debris Removal Mission hardly rolls off the tongue and, while engineers have long found ways to make meaning from acronyms (this writer has always been rather fond of PICNIC – Problem In Chair, Not In Computer), the UK Space Agency decided it needed a proper name."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Register",
-          "url": "https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676"
+          "url": "https://www.theregister.com/offbeat/2026/10/25/reg-readers-land-on-binface-as-name-for-uk-space-cleanup-mission/5305144"
         }
       ]
     },
@@ -736,7 +736,7 @@
         "Technical Implementation: AWS Continuum is a security service that finds and validates code vulnerabilities, then delivers fixes as patches you can automate or as pull requests in your repositories.",
         "Deployment & Impact: AWS Continuum for code vulnerabilities confirms which findings are exploitable in your environment, ranks the resulting issues by business impact, and proposes a fix for each one."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -756,7 +756,7 @@
         "Technical Implementation: For every new service, teams must provision and connect Application Load Balancers (ALBs) , AWS Certificate Manager (ACM) certificates, AWS WAF web ACLs, and security groups, then keep those resources in sync as services scale, update, or operate.",
         "Deployment & Impact: Platform teams create and configure a gateway, defining organizational networking standards including subnets, security groups, TLS certificates, listener settings, and WAF web ACLs, in a single place."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -776,7 +776,7 @@
         "Technical Implementation: Range requests are how large files get delivered, and caching them naively easily leads to wasted network bandwidth and wasted disk operations when running a CDN at scale.",
         "Deployment & Impact: For R2, Cloudflare's object storage, p99 time to first byte dropped by about half, and a follow-up improvement cut tiered cache traffic for R2 and similar workloads by about 6%."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -796,7 +796,7 @@
         "Technical Implementation: This new PQ GeoKey Manager is a cornerstone of Cloudflare’s data sovereignty solutions, making sure that a customer's decryption keys are only accessible in their chosen geography.",
         "Deployment & Impact: GeoKey Manager implements this by wrapping each decryption key such that it can only be decrypted by Cloudflare servers that are located in the allowed geography."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -816,7 +816,7 @@
         "Technical Implementation: This challenge is becoming more important as advanced cloud and AI capabilities move into public services, regulated processes and essential operations.",
         "Deployment & Impact: Organizations are considering more than where data resides."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -836,7 +836,7 @@
         "Technical Implementation: Manufacturers can analyze confidential production data next to the systems that generate it.",
         "Deployment & Impact: Government agencies can run AI applications on sensitive information while maintaining established security and operational boundaries."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -856,7 +856,7 @@
         "Technical Implementation: But as we near the ceiling of what we can build, there’s still plenty of room below, at the fundamental physical limits of computing.",
         "Deployment & Impact: On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom,” on how we might manipulate and control things on an extremely small scale."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -869,14 +869,14 @@
       "id": "story_live_44",
       "category": "TECHNOLOGY RESEARCH",
       "headline": "Understanding the thermal ceiling in portable power",
-      "summary": "SKIP TO CONTENT Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue SPONSORED COMPUTING Understanding the thermal ceiling in portable power Wireless charging performance is limited less by power delivery than by the physics of heat, and solving it requires rethinking the hardware. By Shuo Yang archive page September 9, 2026 Provided byAnker Plug a phone into a modern charger and the first 10 minutes are impressive.",
-      "why_it_matters": "It’s the connected device protecting itself. This marks a notable development for engineering teams working in technology research.",
+      "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. It’s the connected device protecting itself.",
+      "why_it_matters": "As temperature rises during charging, a smartphone’s battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces battery capacity. This marks a notable development for engineering teams working in technology research.",
       "key_points": [
-        "Problem & Context: SKIP TO CONTENT Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue SPONSORED COMPUTING Understanding the thermal ceiling in portable power Wireless charging performance is limited less by power delivery than by the physics of heat, and solving it requires rethinking the hardware.",
-        "Technical Implementation: As temperature rises during charging, a smartphone's battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces battery capacity.",
-        "Deployment & Impact: For anyone building products in the portable power category, this creates an uncomfortable gap between specification and experience."
+        "Problem & Context: As temperature rises during charging, a smartphone’s battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces battery capacity.",
+        "Technical Implementation: For anyone building products in the portable power category, this creates an uncomfortable gap between specification and experience.",
+        "Deployment & Impact: Convenience and thermal performance are working against each other by design."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
@@ -888,120 +888,120 @@
     {
       "id": "story_live_45",
       "category": "STARTUPS",
-      "headline": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-      "summary": "Trending discussion on Hacker News with score of 120 points and 93 developer comments.",
+      "headline": "Dolly Parton's Imagination Library",
+      "summary": "Trending discussion on Hacker News with score of 369 points and 66 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding america has lost 200k of jobs in media, film and the arts. how much is ai?.",
+        "Problem & Context: Hacker News focuses on solving key constraints regarding dolly parton's imagination library.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
+          "url": "https://imaginationlibrary.com/"
         }
       ]
     },
     {
       "id": "story_live_46",
       "category": "STARTUPS",
-      "headline": "We should be more ambitious with the software we build",
-      "summary": "Trending discussion on Hacker News with score of 149 points and 101 developer comments.",
+      "headline": "F-Zero X on Nintendo 3DS",
+      "summary": "Trending discussion on Hacker News with score of 38 points and 18 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding we should be more ambitious with the software we build.",
+        "Problem & Context: Hacker News focuses on solving key constraints regarding f-zero x on nintendo 3ds.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://danluu.com/ambitious/"
+          "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html"
         }
       ]
     },
     {
       "id": "story_live_47",
       "category": "STARTUPS",
-      "headline": "Tailworm – Tailscale Vulnerabilities",
-      "summary": "Trending discussion on Hacker News with score of 11 points and 1 developer comments.",
+      "headline": "Overgrown, when plants invade your abandoned tabs",
+      "summary": "Trending discussion on Hacker News with score of 127 points and 38 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding tailworm – tailscale vulnerabilities.",
+        "Problem & Context: Hacker News focuses on solving key constraints regarding overgrown, when plants invade your abandoned tabs.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://tailworm.com/"
+          "url": "https://charliegerard.dev/blog/overgrown-extension/"
         }
       ]
     },
     {
       "id": "story_live_48",
       "category": "DEVELOPERS",
-      "headline": "I'm Not on the DEV Team. I Still Debugged Their Missing Badges From Public Code. (And My First Test Was Wrong.)",
-      "summary": "I don’t have an admin panel, production database access, or internal Slack.",
+      "headline": "I Earned a Seat at GitHub Universe. It'll Stay Empty, and That's Not Fair",
+      "summary": "Why Am I Writing This? I'm writing this to show how unfair the world we live in can be,.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: I don’t have an admin panel, production database access, or internal Slack.",
+        "Problem & Context: DEV Community focuses on solving key constraints regarding i earned a seat at github universe. it'll stay empty, and that's not fair.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "DEV Community",
-          "url": "https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo"
+          "url": "https://dev.to/georgekobaidze/i-earned-a-seat-at-github-universe-itll-stay-empty-and-thats-not-fair-3d7k"
         }
       ]
     },
     {
       "id": "story_live_49",
       "category": "DEVELOPERS",
-      "headline": "Hours, Not Weeks: How AI Rewrote the Clock of Software Security",
-      "summary": "The third week of October 2026 was a rough one for anyone who runs software on the internet.",
+      "headline": "🐾 DEV Pet Corner #3: Show Us Your Pets!",
+      "summary": "TL;DR DEV Pet Corner is back for another Sunday! It's a weekly series where we take a little break.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: DEV Community focuses on solving key constraints regarding hours, not weeks: how ai rewrote the clock of software security.",
+        "Problem & Context: DEV Community focuses on solving key constraints regarding 🐾 dev pet corner #3: show us your pets!.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "DEV Community",
-          "url": "https://dev.to/james_anderson_h/security-changed-with-ai-and-small-teams-are-falling-behind-5ebg"
+          "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-3-show-us-your-pets-35n"
         }
       ]
     },
     {
       "id": "story_live_50",
       "category": "DEVELOPERS",
-      "headline": "Sloth Reads: an open model reads my read-later pile overnight, then reads me the good ones",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady .",
+      "headline": "A small, not-so-smart model went from 10% to 99.6% at reading property deeds for $1.15, and it says 'check this line' instead of bluffing",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady N 86°29'.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: DEV Community focuses on solving key constraints regarding sloth reads: an open model reads my read-later pile overnight, then reads me the good ones.",
+        "Problem & Context: DEV Community focuses on solving key constraints regarding a small, not-so-smart model went from 10% to 99.6% at reading property deeds for $1.15, and it says 'check this line' instead of bluffing.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
       ],
-      "published_at": "2026-10-25T06:51:56.416216+05:30",
+      "published_at": "2026-10-26T06:56:22.332856+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "DEV Community",
-          "url": "https://dev.to/sbis04/sloth-reads-an-open-model-reads-my-read-later-pile-overnight-then-reads-me-the-good-ones-3o14"
+          "url": "https://dev.to/advikdivekar/a-small-not-so-smart-model-went-from-10-to-996-at-reading-property-deeds-for-115-and-it-says-490k"
         }
       ]
     }
