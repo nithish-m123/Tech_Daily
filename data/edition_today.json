@@ -1,26 +1,26 @@
 {
-  "id": "edition_2026_10_26",
-  "date": "2026-10-26",
+  "id": "edition_2026_10_27",
+  "date": "2026-10-27",
   "title": "Tech Daily",
   "hot_topic": "SYSTEMS & AI ACCELERATION",
   "hot_topic_description": "Major cloud providers and open-source consortia announce architectural shifts toward dedicated silicon and low-latency inference pipelines.",
   "biggest_story": {
     "id": "story_live_1",
     "category": "AI & MACHINE LEARNING",
-    "headline": "Southeast Asia’s digital economy to hit $368 billion",
-    "summary": "Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Company News Inside Google Around the Globe Google in Asia Southeast Asia’s digital economy to hit $368 billion Oct 21, 2026 4 min read Generative AI is now an essential part of daily life for 243 million Southeast Asians. Read about how this will impact the region’s economy in our 11th e-Conomy SEA report.",
-    "why_it_matters": "Nitin Gajria Managing Director, Southeast Asia and South Asia Frontier Markets Share Listen to article [[duration]] minutes Read AI-generated summary In Southeast Asia, generative AI has become an essential part of daily life, actively used by 243 million people (58% of the working population) and scaling four times faster than the rollout of the mobile internet. This marks a notable development for engineering teams working in ai & machine learning.",
+    "headline": "Our newest AI Quest: Mapping the human brain",
+    "summary": "Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Products & Platforms Products Learning & Education Our newest AI Quest: Mapping the human brain Oct 26, 2026 2 min read Our third lesson in our AI Quests series, “Polar Peaks,” teaches students key AI literacy skills while delving into neuroscience. Ronit Levavi Morad Senior Director, Google Research Share Listen to article [[duration]] minutes Read AI-generated summary Today, we’re launching “Polar Peaks”, our third quest in the AI Quests series, created by Google Research and the Stanford Accelerator for Learning to teach students how AI works and how to use it responsibly.",
+    "why_it_matters": "AI Quests invites students ages 11 to 14 to step into the shoes of Google researchers to tackle some of humanity’s biggest challenges. This marks a notable development for engineering teams working in ai & machine learning.",
     "key_points": [
-      "Problem & Context: Nitin Gajria Managing Director, Southeast Asia and South Asia Frontier Markets Share Listen to article [[duration]] minutes Read AI-generated summary In Southeast Asia, generative AI has become an essential part of daily life, actively used by 243 million people (58% of the working population) and scaling four times faster than the rollout of the mobile internet.",
-      "Technical Implementation: Building the Intelligent Economy, by Google, Temasek, and Bain & Company, finds that widespread AI implementation is propelling the region’s digital economy to grow 17% year-on-year (YoY) to reach $368 billion 2 in Gross Merchandise Value (GMV) in 2026.",
-      "Deployment & Impact: Using tokens 3 as the new benchmark for the AI economy, the report projects that growing confidence in agentic commerce will drive a 60-fold surge in regional AI usage over the next five years."
+      "Problem & Context: Polar Peaks: A journey to map the human brain In the first two quests, students tackle flood forecasting and eye disease detection, inspired by Google Research’s Flood Forecasting initiative and AI model for diabetic retinopathy screening.",
+      "Technical Implementation: They complete tasks like data cleaning and model testing, learning firsthand that AI requires careful human oversight and critical thinking.",
+      "Deployment & Impact: See more Training modules: Tools for teaching AI literacy Teachers play a critical role in bringing the quests to life and fitting them into their existing classroom curriculum."
     ],
-    "published_at": "2026-10-26T06:56:22.332856+05:30",
+    "published_at": "2026-10-27T07:43:57.301635+05:30",
     "importance": 9,
     "sources": [
       {
         "name": "Google AI Blog",
-        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/"
+        "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
       }
     ]
   },
@@ -28,60 +28,60 @@
     {
       "id": "story_live_2",
       "category": "AI & MACHINE LEARNING",
-      "headline": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Innovation & AI Models & research Gemini Models Gemini 4 Argon: Built to solve your hardest problems Oct 13, 2026 17 min read We’re giving developers, enterprises, scientists, and consumers access to our latest frontier model. Koray Kavukcuoglu SVP, Google DeepMind and Chief AI Architect, Google Share In this article Built to solve your hardest problems Solving complex engineering tasks Transforming critical business and professional workflows Accelerating real-world impact with researchers and domain experts Developing Argon responsibly and safely Get started today Gemini 4 Argon is now globally available today for developers and enterprises via the API in AI Studio and Gemini platform, for Google AI Ultra subscribers in Google Antigravity, and Google AI Ultra and Pro subscribers in the Gemini app and AI Mode in Search.",
-      "why_it_matters": "Argon excels at deep work in complex, real-world tasks across domains including coding, finance, legal, cybersecurity, and science. This marks a notable development for engineering teams working in ai & machine learning.",
+      "headline": "Southeast Asia’s digital economy to hit $368 billion",
+      "summary": "Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Company News Inside Google Around the Globe Google in Asia Southeast Asia’s digital economy to hit $368 billion Oct 21, 2026 4 min read Generative AI is now an essential part of daily life for 243 million Southeast Asians. Read about how this will impact the region’s economy in our 11th e-Conomy SEA report.",
+      "why_it_matters": "Nitin Gajria Managing Director, Southeast Asia and South Asia Frontier Markets Share Listen to article [[duration]] minutes Read AI-generated summary In Southeast Asia, generative AI has become an essential part of daily life, actively used by 243 million people (58% of the working population) and scaling four times faster than the rollout of the mobile internet. This marks a notable development for engineering teams working in ai & machine learning.",
       "key_points": [
-        "Problem & Context: Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Innovation & AI Models & research Gemini Models Gemini 4 Argon: Built to solve your hardest problems Oct 13, 2026 17 min read We’re giving developers, enterprises, scientists, and consumers access to our latest frontier model.",
-        "Technical Implementation: Koray Kavukcuoglu SVP, Google DeepMind and Chief AI Architect, Google Share In this article Built to solve your hardest problems Solving complex engineering tasks Transforming critical business and professional workflows Accelerating real-world impact with researchers and domain experts Developing Argon responsibly and safely Get started today Gemini 4 Argon is now globally available today for developers and enterprises via the API in AI Studio and Gemini platform, for Google AI Ultra subscribers in Google Antigravity, and Google AI Ultra and Pro subscribers in the Gemini app and AI Mode in Search.",
-        "Deployment & Impact: Argon excels at deep work in complex, real-world tasks across domains including coding, finance, legal, cybersecurity, and science."
+        "Problem & Context: Nitin Gajria Managing Director, Southeast Asia and South Asia Frontier Markets Share Listen to article [[duration]] minutes Read AI-generated summary In Southeast Asia, generative AI has become an essential part of daily life, actively used by 243 million people (58% of the working population) and scaling four times faster than the rollout of the mobile internet.",
+        "Technical Implementation: Building the Intelligent Economy, by Google, Temasek, and Bain & Company, finds that widespread AI implementation is propelling the region’s digital economy to grow 17% year-on-year (YoY) to reach $368 billion 2 in Gross Merchandise Value (GMV) in 2026.",
+        "Deployment & Impact: Using tokens 3 as the new benchmark for the AI economy, the report projects that growing confidence in agentic commerce will drive a 60-fold surge in regional AI usage over the next five years."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/"
         }
       ]
     },
     {
       "id": "story_live_3",
       "category": "AI & MACHINE LEARNING",
-      "headline": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "headline": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
       "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+        "Problem & Context: How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "OpenAI News",
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+          "url": "https://openai.com/index/greptile-code-review-codex-astra"
         }
       ]
     },
     {
       "id": "story_live_4",
       "category": "AI & MACHINE LEARNING",
-      "headline": "Securing our frontier model training environment",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "headline": "Working with academic communities to build scientific understanding",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
       "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+        "Problem & Context: OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "OpenAI News",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
         }
       ]
     },
@@ -96,7 +96,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
@@ -116,7 +116,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
@@ -128,40 +128,40 @@
     {
       "id": "story_live_7",
       "category": "AI & MACHINE LEARNING",
-      "headline": "Designing an AI serving harness built to last",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores.",
-      "why_it_matters": "Those advances have been extraordinary. This marks a notable development for engineering teams working in ai & machine learning.",
+      "headline": "Will the real Anthropic please stand up",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "why_it_matters": "After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. This marks a notable development for engineering teams working in ai & machine learning.",
       "key_points": [
-        "Problem & Context: The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it.",
-        "Technical Implementation: For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores.",
-        "Deployment & Impact: But as AI moves from experimentation to production, the question facing enterprise leaders has changed—it’s no longer, “what can the model do?”—it’s now, “Can we deliver that intelligence reliably, economically, and at scale?” Increasingly, the answer depends on the serving harness—the engineering system surrounding the model, including the architecture, memory management , scheduling, and optimization decisions that determine how efficiently model intelligence becomes a production capability."
+        "Problem & Context: The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it is building and the ways it believes it will change the world.",
+        "Technical Implementation: To get stories like this in your inbox first, sign up here.",
+        "Deployment & Impact: After weeks of frenzied speculation, Anthropic has filed its IPO prospectus."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "MIT Tech Review AI",
-          "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
+          "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
         }
       ]
     },
     {
       "id": "story_live_8",
       "category": "AI & MACHINE LEARNING",
-      "headline": "The Foundations of Scalable AI",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one.",
-      "why_it_matters": "This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic systems, into lasting value for investors. This marks a notable development for engineering teams working in ai & machine learning.",
+      "headline": "The focus on AI safety disasters ignores everyday harms",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide.",
+      "why_it_matters": "A social media platform makes it more difficult for children to buy fentanyl. This marks a notable development for engineering teams working in ai & machine learning.",
       "key_points": [
-        "Problem & Context: A scalable AI system requires a strong foundation.",
-        "Technical Implementation: Data, engineering, platforms, operating models, and governance must converge to work as one.",
-        "Deployment & Impact: This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic systems, into lasting value for investors."
+        "Problem & Context: It might mean asking companies to add more friction to their products or actively limit engagement or features that lead to negative outcomes, such as addictive attention-hacking.",
+        "Technical Implementation: An AI company promises that its chatbot will not encourage suicide.",
+        "Deployment & Impact: A social media platform makes it more difficult for children to buy fentanyl."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "MIT Tech Review AI",
-          "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
+          "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
         }
       ]
     },
@@ -176,7 +176,7 @@
         "Technical Implementation: Generative AI Learn how to build with generative AI.",
         "Deployment & Impact: How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience.Learn more Developer skills Developer skills Resources for developers to grow in their skills and careers."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
@@ -189,14 +189,14 @@
       "id": "story_live_10",
       "category": "DEVELOPERS",
       "headline": "The bridge to agent-scale Git infrastructure",
-      "summary": "Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML Developer skills Engineering Enterprise software News & insights Open Source Security Home / Engineering / Architecture & optimization The bridge to agent-scale Git infrastructure We moved a copy of 99.99999% of GitHub’s repositories to Azure. Here’s how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.",
-      "why_it_matters": "Eleanor White & Victoria Dye October 21, 2026 | 8 minutes Share: Over the past year, while Git traffic grew exponentially, 99.99999% of the Git repositories on GitHub began living in two places at once: our own data centers and Azure. This marks a notable development for engineering teams working in developers.",
+      "summary": "Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI.",
+      "why_it_matters": "GitHub Copilot Change how you work with GitHub Copilot. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML Developer skills Engineering Enterprise software News & insights Open Source Security Home / Engineering / Architecture & optimization The bridge to agent-scale Git infrastructure We moved a copy of 99.99999% of GitHub’s repositories to Azure.",
-        "Technical Implementation: Here’s how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.",
-        "Deployment & Impact: Eleanor White & Victoria Dye October 21, 2026 | 8 minutes Share: Over the past year, while Git traffic grew exponentially, 99.99999% of the Git repositories on GitHub began living in two places at once: our own data centers and Azure."
+        "Problem & Context: Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry.",
+        "Technical Implementation: Generative AI Learn how to build with generative AI.",
+        "Deployment & Impact: How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience.Learn more Developer skills Developer skills Resources for developers to grow in their skills and careers."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
@@ -216,7 +216,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
@@ -236,7 +236,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
@@ -248,6 +248,26 @@
     {
       "id": "story_live_13",
       "category": "DEVELOPERS",
+      "headline": "Our Response To The eMudhra Key Disclosure Incident",
+      "summary": "The Go Blog Our Response To The eMudhra Key Disclosure Incident Roland Shoemaker, on behalf of the Go Security team 26 October 2026 On October 19, the Go team initiated an expedited security release to protect Go users and their applications from a critical public key infrastructure (PKI) compromise involving certificates issued by eMudhra. Within approximately seven and a half hours of being notified, we shipped a targeted patch, which was included in our first-ever URGENT track security release.",
+      "why_it_matters": "Here is the context behind the incident, why Go stepped in at the runtime level to protect our users and how our incident response unfolded. This marks a notable development for engineering teams working in developers.",
+      "key_points": [
+        "Problem & Context: The Go Blog Our Response To The eMudhra Key Disclosure Incident Roland Shoemaker, on behalf of the Go Security team 26 October 2026 On October 19, the Go team initiated an expedited security release to protect Go users and their applications from a critical public key infrastructure (PKI) compromise involving certificates issued by eMudhra.",
+        "Technical Implementation: Within approximately seven and a half hours of being notified, we shipped a targeted patch, which was included in our first-ever URGENT track security release.",
+        "Deployment & Impact: Here is the context behind the incident, why Go stepped in at the runtime level to protect our users and how our incident response unfolded."
+      ],
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "The Go Blog",
+          "url": "https://go.dev/blog/emudhra-incident"
+        }
+      ]
+    },
+    {
+      "id": "story_live_14",
+      "category": "DEVELOPERS",
       "headline": "Help set Go's priorities for next year",
       "summary": "The Go Blog Help set Go's priorities for next year Cameron Balahan, on behalf of the Go team 21 October 2026 Hi Gophers! The 2026 Go Developer Survey is now open. We run this survey every year to understand how you use Go and the challenges you face.",
       "why_it_matters": "Your answers directly shape how we plan and prioritize our work. This marks a notable development for engineering teams working in developers.",
@@ -256,7 +276,7 @@
         "Technical Implementation: Since then, we shipped a rewritten go fix in Go 1.26 that automatically modernizes your code, and added more modernizers in Go 1.27.",
         "Deployment & Impact: Your answers directly shape how we plan and prioritize our work."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
@@ -266,117 +286,117 @@
       ]
     },
     {
-      "id": "story_live_14",
-      "category": "DEVELOPERS",
-      "headline": "Interactive refactoring in gopls",
-      "summary": "The Go Blog Interactive refactoring in gopls Hongxiang Jiang 16 October 2026 .beforeafter { justify-content: center; display: grid; gap: 1em; margin: 1em 0; grid-template-columns: minmax(min-content, 1fr) auto minmax(min-content, 1fr); font-size: 100%; @media screen and (max-width: 57.7rem) { grid-template-columns: 1fr; } } #content .beforeafter pre { margin: 0em; } .beforeafter-context { grid-column: 1 / -1; } #content .beforeafter > pre:nth-of-type(1) { background: var(--color-diff-old); } #content .beforeafter > pre:nth-of-type(2) { background: var(--color-diff-new); } .beforeafter-arrow { place-self: center; margin: -0.5em; } .beforeafter-arrow::before { content: \"⟶\"; @media screen and (max-width: 57.7rem) { content: \"⇓\"; } } #blog #content .blog-image, #content .blog-image { max-width: 60%; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 1em auto; display: block; } When editing code in a modern IDE or editor, developers rely on its refactoring features to automate common transformations. Today, we are excited to introduce interactive refactoring in gopls , powered by a new capability we are proposing for the Language Server Protocol (LSP) that brings dynamic, multi-step dialogs directly into your favorite editor.",
-      "why_it_matters": "Crucially, we designed this capability (in collaboration with the Dart team) not just for Go, but as an open standard for all programming languages and editor ecosystems. This marks a notable development for engineering teams working in developers.",
-      "key_points": [
-        "Problem & Context: The Go Blog Interactive refactoring in gopls Hongxiang Jiang 16 October 2026 .beforeafter { justify-content: center; display: grid; gap: 1em; margin: 1em 0; grid-template-columns: minmax(min-content, 1fr) auto minmax(min-content, 1fr); font-size: 100%; @media screen and (max-width: 57.7rem) { grid-template-columns: 1fr; } } #content .beforeafter pre { margin: 0em; } .beforeafter-context { grid-column: 1 / -1; } #content .beforeafter > pre:nth-of-type(1) { background: var(--color-diff-old); } #content .beforeafter > pre:nth-of-type(2) { background: var(--color-diff-new); } .beforeafter-arrow { place-self: center; margin: -0.5em; } .beforeafter-arrow::before { content: \"⟶\"; @media screen and (max-width: 57.7rem) { content: \"⇓\"; } } #blog #content .blog-image, #content .blog-image { max-width: 60%; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 1em auto; display: block; } When editing code in a modern IDE or editor, developers rely on its refactoring features to automate common transformations.",
-        "Technical Implementation: Crucially, we designed this capability (in collaboration with the Dart team) not just for Go, but as an open standard for all programming languages and editor ecosystems.",
-        "Deployment & Impact: Working support is already available in gopls v0.24.0 and the official Go extension for VS Code v0.56.0."
-      ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
-      "importance": 7,
-      "sources": [
-        {
-          "name": "The Go Blog",
-          "url": "https://go.dev/blog/interactive-refactoring"
-        }
-      ]
-    },
-    {
       "id": "story_live_15",
       "category": "DEVELOPERS",
-      "headline": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-      "summary": "Every morning during the Martian spring and summer, a thin and extremely long cloud emerges, only to disappear again. The wispy formation appears near the volcano Arsia Mons and gradually elongates until it reaches over 1,000 miles—about the distance from New York to Kansas City as the crow flies—before dissipating.",
-      "why_it_matters": "This cycle then repeats for several months. This marks a notable development for engineering teams working in developers.",
+      "headline": "Microsoft offers to buy out a quarter of its workforce",
+      "summary": "On Monday, Microsoft said it will offer voluntary buyouts to eligible employees in select parts of the company. CNBC reports that the buyouts will be offered to roughly 60,000 employees , or about a quarter of its global workforce.",
+      "why_it_matters": "The company describes the offer as an opportunity for employees who may have already been considering career moves outside Microsoft. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: Every morning during the Martian spring and summer, a thin and extremely long cloud emerges, only to disappear again.",
-        "Technical Implementation: Since it was first recorded by a probe in 2018, scientists have been unable to find a plausible explanation for the existence of this cloud, often referred to as the Arsia Mons Elongated Cloud (AMEC).",
-        "Deployment & Impact: Recently, researchers successfully modeled the cloud’s formation for the first time, their results suggesting that it may be driven by a physical process that has never been directly observed in any planet's atmosphere."
+        "Problem & Context: While Microsoft did not give a direct reason for the buyout package, it comes as the company has spent the last several years managing costs amid investment in AI infrastructure and data-center buildout.",
+        "Technical Implementation: The company's employee rankings are internal, but according to the salary and career database Levels.fyi , levels 65–67 correspond to principal positions, and 68–70 are at the partner/distinguished level.",
+        "Deployment & Impact: The company describes the offer as an opportunity for employees who may have already been considering career moves outside Microsoft."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
+          "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/"
         }
       ]
     },
     {
       "id": "story_live_16",
       "category": "DEVELOPERS",
-      "headline": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
-      "summary": "Barnes Ice Cap sits on the central plateau of Baffin Island, in the Canadian Arctic. It is the last surviving fragment of the Laurentide Ice Sheet, the largest of the Pleistocene ice sheets, which at its peak buried most of Canada under two miles of ice and locked away around 80 meters of sea level.",
-      "why_it_matters": "That remnant has now yielded direct physical evidence that ice sheets might have reversed their retreat and started to grow again thousands of years ago. This marks a notable development for engineering teams working in developers.",
+      "headline": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+      "summary": "After two months of discomfort, a man in South Korea went to an eye clinic where doctors pulled 11 living, wriggling worms from his eyes. They apparently made the most of their time on the man's peepers; at the time of extraction, many of the female worms were pregnant.",
+      "why_it_matters": "The man narrowly avoided having them spew their loads of living larvae directly into his eyes. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: Ars Technica focuses on solving key constraints regarding ice sheet expansion may have started 2,000 years ago, but we canceled that.",
-        "Technical Implementation: It is the last surviving fragment of the Laurentide Ice Sheet, the largest of the Pleistocene ice sheets, which at its peak buried most of Canada under two miles of ice and locked away around 80 meters of sea level.",
-        "Deployment & Impact: That remnant has now yielded direct physical evidence that ice sheets might have reversed their retreat and started to grow again thousands of years ago."
+        "Problem & Context: Ars Technica focuses on solving key constraints regarding worms mate in man's eyes, get plucked out right before larvae burst out.",
+        "Technical Implementation: They apparently made the most of their time on the man's peepers; at the time of extraction, many of the female worms were pregnant.",
+        "Deployment & Impact: The man narrowly avoided having them spew their loads of living larvae directly into his eyes."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/"
+          "url": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/"
         }
       ]
     },
     {
       "id": "story_live_17",
       "category": "DEVELOPERS",
-      "headline": "POSIX wordexp(3) is dangerous",
-      "summary": "POSIX wordexp(3) is dangerous announced by Lobste.rs.",
+      "headline": "Websites Should Be Printable",
+      "summary": "Websites Should Be Printable announced by Lobste.rs.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Lobste.rs focuses on solving key constraints regarding posix wordexp(3) is dangerous.",
+        "Problem & Context: Lobste.rs focuses on solving key constraints regarding websites should be printable.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Lobste.rs",
-          "url": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/"
+          "url": "https://brennenputh.me/blog/printable-websites/"
         }
       ]
     },
     {
       "id": "story_live_18",
       "category": "DEVELOPERS",
-      "headline": "The Slurptop: A home-built luggable that runs on power tool batteries",
-      "summary": "The Slurptop: A home-built luggable that runs on power tool batteries announced by Lobste.rs.",
+      "headline": "A faster way to compute signed 64-bit floor division by constants",
+      "summary": "A faster way to compute signed 64-bit floor division by constants announced by Lobste.rs.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Lobste.rs focuses on solving key constraints regarding the slurptop: a home-built luggable that runs on power tool batteries.",
+        "Problem & Context: Lobste.rs focuses on solving key constraints regarding a faster way to compute signed 64-bit floor division by constants.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Lobste.rs",
-          "url": "https://slurpburgers.com/slurpbuilds/the-slurptop/"
+          "url": "https://www.benjoffe.com/fast-floordiv"
         }
       ]
     },
     {
       "id": "story_live_19",
       "category": "BIG TECH",
+      "headline": "Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks",
+      "summary": "Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON OCTOBER 26, 2026 TO Data Center Engineering, Data Infrastructure, DevInfra, ML Applications, Networking & Traffic, Open Source Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks By Ravindra Sunkad, Omar Baldonado At the 2026 Open Compute Project (OCP) Global Summit, Meta shared the networking innovations that are directly supporting our latest AI models, including Muse Wonder and Muse Spark, and our gigawatt-scale Prometheus cluster. Highlights IcePack & IceCube: Meta’s first liquid-cooled network rack with 102.4T switch blades (128×800G, Broadcom Tomahawk 6C and NVIDIA Spectrum-6 variants), running FBOSS.",
+      "why_it_matters": "Flattened Planar Fabric (FPF) for scale-out: Meta’s multi-plane scale-out fabric where each GPU connects to eight network planes. This marks a notable development for engineering teams working in big tech.",
+      "key_points": [
+        "Problem & Context: Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON OCTOBER 26, 2026 TO Data Center Engineering, Data Infrastructure, DevInfra, ML Applications, Networking & Traffic, Open Source Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks By Ravindra Sunkad, Omar Baldonado At the 2026 Open Compute Project (OCP) Global Summit, Meta shared the networking innovations that are directly supporting our latest AI models, including Muse Wonder and Muse Spark, and our gigawatt-scale Prometheus cluster.",
+        "Technical Implementation: Flattened Planar Fabric (FPF) for scale-out: Meta’s multi-plane scale-out fabric where each GPU connects to eight network planes.",
+        "Deployment & Impact: Built with NVIDIA and shared with our cloud partners."
+      ],
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Meta Engineering",
+          "url": "https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_20",
+      "category": "BIG TECH",
       "headline": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
-      "summary": "Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON OCTOBER 19, 2026 TO ML Applications GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary By Carl Hu, Justin Johnson, Parish Aggarwal, Kaushik Rangadurai, Senthil Manickavelu, Tianwei Zhang Generative Recommenders (GenRecs) represent a paradigm shift from scoring every ad to reasoning about ad content and user preferences together in order to predict the best outcome for advertisers. Leveraging the world knowledge built into LLMs makes ad matching more intelligent and precise, compounding gains for advertisers.",
+      "summary": "Skip to content Search this site Open Source Platforms Infrastructure Systems Physical Infrastructure Video Engineering & AR/VR Artificial Intelligence Watch Videos POSTED ON OCTOBER 19, 2026 TO ML APPLICATIONS GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary By Carl Hu, Justin Johnson, Parish Aggarwal, Kaushik Rangadurai, Senthil Manickavelu, Tianwei Zhang Generative Recommenders (GenRecs) represent a paradigm shift from scoring every ad to reasoning about ad content and user preferences together in order to predict the best outcome for advertisers. Leveraging the world knowledge built into LLMs makes ad matching more intelligent and precise, compounding gains for advertisers.",
       "why_it_matters": "GenRecs Tokenization is the foundational data representation that makes this possible. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON OCTOBER 19, 2026 TO ML Applications GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary By Carl Hu, Justin Johnson, Parish Aggarwal, Kaushik Rangadurai, Senthil Manickavelu, Tianwei Zhang Generative Recommenders (GenRecs) represent a paradigm shift from scoring every ad to reasoning about ad content and user preferences together in order to predict the best outcome for advertisers.",
+        "Problem & Context: Skip to content Search this site Open Source Platforms Infrastructure Systems Physical Infrastructure Video Engineering & AR/VR Artificial Intelligence Watch Videos POSTED ON OCTOBER 19, 2026 TO ML APPLICATIONS GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary By Carl Hu, Justin Johnson, Parish Aggarwal, Kaushik Rangadurai, Senthil Manickavelu, Tianwei Zhang Generative Recommenders (GenRecs) represent a paradigm shift from scoring every ad to reasoning about ad content and user preferences together in order to predict the best outcome for advertisers.",
         "Technical Implementation: GenRecs Tokenization is the foundational data representation that makes this possible.",
         "Deployment & Impact: Paired with Meta’s Generative Ads Model (GEM) and Meta’s Adaptive Ranking Model, GenRecs Tokenization has delivered a +0.35% lift in conversions across surfaces for advertisers."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
@@ -386,147 +406,147 @@
       ]
     },
     {
-      "id": "story_live_20",
-      "category": "BIG TECH",
-      "headline": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
-      "summary": "Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON OCTOBER 19, 2026 TO AI Research, ML Applications The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do By Plawan Rath, Akhil Jindal, Ashwini Verma Sometimes, giving an AI agent all of the knowledge it needs is the wrong approach. At Meta, we’ve seen notable improvements in efficiency and accuracy by keeping the orchestration layer of our data pipeline agents deliberately thin: It routes work and enforces reliability checks, while specialized agents do the domain reasoning.",
-      "why_it_matters": "We’re sharing our own process and insights, plus how any team can apply this to their production AI agents. This marks a notable development for engineering teams working in big tech.",
-      "key_points": [
-        "Problem & Context: Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON OCTOBER 19, 2026 TO AI Research, ML Applications The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do By Plawan Rath, Akhil Jindal, Ashwini Verma Sometimes, giving an AI agent all of the knowledge it needs is the wrong approach.",
-        "Technical Implementation: At Meta, we’ve seen notable improvements in efficiency and accuracy by keeping the orchestration layer of our data pipeline agents deliberately thin: It routes work and enforces reliability checks, while specialized agents do the domain reasoning.",
-        "Deployment & Impact: When we first deployed AI agents to automate data column onboarding across Meta’s recommendation systems — a process spanning three code repositories, three programming languages, and up to six pipeline stages that must stay in sync — we did what most teams do: We built one smart agent that knew everything."
-      ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
-      "importance": 7,
-      "sources": [
-        {
-          "name": "Meta Engineering",
-          "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/"
-        }
-      ]
-    },
-    {
       "id": "story_live_21",
       "category": "BIG TECH",
-      "headline": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
-      "summary": "By Roberto Perez Alcolea , Java Platform Team Quasar connects a proposed API change with observed references in consumer repositories, giving the producer evidence for a release decision At Netflix, shared Java libraries support applications developed across a large, independently evolving repository ecosystem. A library change begins in one repository, but its impact can reach many others.",
-      "why_it_matters": "Producers can see the API diff in front of them. This marks a notable development for engineering teams working in big tech.",
+      "headline": "Making Failure Diagnosis Reliable with Pensive AI",
+      "summary": "By Praneeth Yenugutala , Victor Dusa , Anastasia Samoilova , Megan Ren , Justin Wei , Marcelo Mayworm At Netflix, data and machine learning practitioners run millions of workloads each day across orchestration systems and compute engines such as Titus, Spark, Trino, and Druid. On peak days, roughly 100,000 workloads fail.",
+      "why_it_matters": "When workloads fail, the failure itself is only the beginning. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: By Roberto Perez Alcolea , Java Platform Team Quasar connects a proposed API change with observed references in consumer repositories, giving the producer evidence for a release decision At Netflix, shared Java libraries support applications developed across a large, independently evolving repository ecosystem.",
-        "Technical Implementation: Producers can see the API diff in front of them.",
-        "Deployment & Impact: Consider a common case: removing a deprecated API."
+        "Problem & Context: By Praneeth Yenugutala , Victor Dusa , Anastasia Samoilova , Megan Ren , Justin Wei , Marcelo Mayworm At Netflix, data and machine learning practitioners run millions of workloads each day across orchestration systems and compute engines such as Titus, Spark, Trino, and Druid.",
+        "Technical Implementation: Someone still needs to find the useful signal in several logs, decide whether the cause sits in their code or the platform, and determine whether to retry, reconfigure, or escalate.",
+        "Deployment & Impact: Even a small share of difficult failures can consume engineering time, waste compute, and interrupt critical data pipelines."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Netflix Tech Blog",
-          "url": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4"
+          "url": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4"
         }
       ]
     },
     {
       "id": "story_live_22",
       "category": "BIG TECH",
-      "headline": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
-      "summary": "Samartha Chandrashekar & Nick Parker You click play on a Friday night, and in the second that follows, dozens of services answer in milliseconds. Most of them run on Titus, our internal container platform.",
-      "why_it_matters": "Titus is, in essence, a Kubernetes-based container hosting platform: we keep both the control plane and the data plane (the container hosts that actually run containers) patched and up to date, so application teams get a consistent and reliable container experience. This marks a notable development for engineering teams working in big tech.",
+      "headline": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
+      "summary": "Serdar Cellat , Yuchen Xie , Bernadette Marcu , Blaid Burgess , Cody Jarrett , Carlos Pereira , Qing Shi , Samuel Carvajal , Manuel Pamplona , Dorothy Jung , Feiko Ritsema , Benjamin Klein , Alex Woo , Eugene Lok , Anna Pulido , Rebecka Swe , Sanford Holsapple , Ranjith Kumar Shetty Introduction Clips in the Netflix mobile app. At Netflix, a crucial part of our mission is ensuring our content looks stunning on any device.",
+      "why_it_matters": "Vertical formats are increasingly important for Netflix, as we have 1.2B followers across our social media accounts, and have recently rolled out Clips , our vertical video feed in the Netflix mobile app. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Titus is, in essence, a Kubernetes-based container hosting platform: we keep both the control plane and the data plane (the container hosts that actually run containers) patched and up to date, so application teams get a consistent and reliable container experience.",
-        "Technical Implementation: For a few, it does not, and those few include some of the most demanding real-time systems we run.",
-        "Deployment & Impact: This post is about them, and about single-tenant Titus, a mode that gives a task its own virtual machine while keeping everything else about Titus the same: the API, the deployment path, and the managed experience where the Compute/Platform team, not the application team, owns the host."
+        "Problem & Context: Traditionally, creating vertical assets meant editors and producers manually reframed horizontal videos in editing tools, a process that doesn’t scale as our catalog and use cases grow.",
+        "Technical Implementation: To support both our in‑app feed and external marketing campaigns at scale, we built an automated multi‑ratio video cropping system, tightly integrated into our internal production tools, that can generate high‑quality vertical and other aspect‑ratio variants with minimal manual effort.",
+        "Deployment & Impact: Vertical formats are increasingly important for Netflix, as we have 1.2B followers across our social media accounts, and have recently rolled out Clips , our vertical video feed in the Netflix mobile app."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Netflix Tech Blog",
-          "url": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4"
+          "url": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4"
         }
       ]
     },
     {
       "id": "story_live_23",
       "category": "BIG TECH",
-      "headline": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
-      "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score.",
-      "why_it_matters": "That might not seem particularly high, but it's the best score the site has given to a foldable yet. This marks a notable development for engineering teams working in big tech.",
+      "headline": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in computer science and physics, while for the math problem it says that they advised it to release the AI output for researchers to work through their own explanations.",
+      "why_it_matters": "OpenAI results added to GitHub today: Local smoothing for the Euclidean wave equation. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: The Verge Tech focuses on solving key constraints regarding ifixit’s look inside the iphone duo may explain those broken screens and hinges.",
-        "Technical Implementation: It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score.",
-        "Deployment & Impact: That might not seem particularly high, but it's the best score the site has given to a foldable yet."
+        "Problem & Context: The Verge Tech focuses on solving key constraints regarding openai announces three big science discoveries and a new way to work with academics.",
+        "Technical Implementation: What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in computer science and physics, while for the math problem it says that they advised it to release the AI output for researchers to work through their own explanations.",
+        "Deployment & Impact: OpenAI results added to GitHub today: Local smoothing for the Euclidean wave equation."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Verge Tech",
-          "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge"
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
         }
       ]
     },
     {
       "id": "story_live_24",
       "category": "BIG TECH",
-      "headline": "Scott Walker’s The Drift will get under your skin",
-      "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle , The Body , or Scott Walker's The Drift.",
-      "why_it_matters": "This 2006 album from the singer-songwriter is truly upsetting. This marks a notable development for engineering teams working in big tech.",
+      "headline": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+      "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 ( Amazon , B&H Photo ) and the 512GB version $99 ( Amazon , B&H Photo ). The smaller card typically sells for around $80, and the larger option usually sells between $150 and $200, though both are higher than their original launch prices, likely because of the ongoing memory shortage.",
+      "why_it_matters": "Samsung P9 microSD Express Card The P9 is great if you need more storage for your Nintendo Switch 2. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: The Verge Tech focuses on solving key constraints regarding scott walker’s the drift will get under your skin.",
-        "Technical Implementation: There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle , The Body , or Scott Walker's The Drift.",
-        "Deployment & Impact: This 2006 album from the singer-songwriter is truly upsetting."
+        "Problem & Context: Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 ( Amazon , B&H Photo ) and the 512GB version $99 ( Amazon , B&H Photo ).",
+        "Technical Implementation: Until recently, the Switch 2 was one of the few devices that could take advantage of the faster MicroSD Express standard, but this year’s Asus ROG Ally X20 also added support for MicroSD Express.",
+        "Deployment & Impact: Samsung P9 microSD Express Card The P9 is great if you need more storage for your Nintendo Switch 2."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Verge Tech",
-          "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review"
+          "url": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale"
         }
       ]
     },
     {
       "id": "story_live_25",
       "category": "BIG TECH",
-      "headline": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns",
-      "summary": "AI spending is generating revenue for technology providers, but most other S&P 500 companies have yet to show comparable gains in productivity or profit margins, a report by Apollo’s Daily Spark analysis has shown. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible Artificial intelligence has helped fuel a boom in technology spending, but the financial benefits remain difficult to spot across much of corporate America.",
-      "why_it_matters": "Apollo Global Management chief economist Torsten Slok said on October 24 that revenue per worker and profit margins were rising for the Magnificent Seven technology stocks while remaining flat across the other 493 companies in the S&P 500. This marks a notable development for engineering teams working in big tech.",
+      "headline": "Intel quietly confirms Raptor Lake Next CPUs through internal driver publication",
+      "summary": "Intel has published an internal test driver with the \"RPL-NEXT\" label, presumably in reference to Raptor Lake Next CPUs that Tom's Hardware first reported on in June. On the same day as the driver was uncovered, shipping manifests from Vietnam were published by Club386 , showing exports of CPUs labeled \"Raptor Lake Next\" dating back to August, complete with cache and clock speed information.",
+      "why_it_matters": "➡️ https://t.co/jatYVFZ9eg October 26, 2026 The driver was first spotted by @momomo_us on X, and we were able to find it by searching the name in Intel's software database. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible Artificial intelligence has helped fuel a boom in technology spending, but the financial benefits remain difficult to spot across much of corporate America.",
-        "Technical Implementation: Running AI models at scale can quickly drive up costs since many providers charge by token usage, so bills climb as employees make more requests or AI agents process data and handle increasingly complex tasks.",
-        "Deployment & Impact: Venture capital-backed businesses are spending more on tokens, he noted, while established companies have less incentive to pay for the newest models."
+        "Problem & Context: ➡️ https://t.co/jatYVFZ9eg October 26, 2026 The driver was first spotted by @momomo_us on X, and we were able to find it by searching the name in Intel's software database.",
+        "Technical Implementation: Given that and the \"testbuild\" label, it looks like this is an internal driver test that wasn't meant to be published.",
+        "Deployment & Impact: Audio codecs like those of Realtek use SST for offloading duties like noise reduction, echo cancellation, low-power audio playback, and wake-on-voice without adding to the CPU load, and saving precious watts in the process."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins"
+          "url": "https://www.tomshardware.com/pc-components/cpus/intel-quietly-confirms-raptor-lake-next-cpus-through-internal-driver-publication-lga-1700-chips-also-appear-in-shipping-manifests-dating-back-to-august"
         }
       ]
     },
     {
       "id": "story_live_26",
       "category": "BIG TECH",
-      "headline": "IQUNIX MQ80 low profile mechanical keyboard review",
-      "summary": "When it comes to mechanical keyboards, IQUNIX has always been ahead of the curve. Before COVID turned the mainstream onto mechanical keyboards, the company had already been releasing some of the best mechanical keyboards available, quietly making the case for PBT keycaps and premium materials that have since become the norm.",
-      "why_it_matters": "With a catalog of traditional mechanical keyboards under its belt, it’s not surprising that the company would be ready to branch into new territory. This marks a notable development for engineering teams working in big tech.",
+      "headline": "JSAUX FlipGo dual-screen portable monitor review: Gorgeous displays with touch support and a built-in USB hub",
+      "summary": "The FlipGo is yet another entry into the portable dual-monitor field from JSAUX (the previous one being the more ambitious FlipGo Horizon Pro ), and it definitely makes a good first impression. Not only do you get two 16-inch 2560 x 1600 IPS displays, but the FlipGo also supports touch input (on Windows systems).",
+      "why_it_matters": "In addition, it incorporates a built-in USB hub that gives you two additional USB-A ports and one USB-C port for your peripherals. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Tom's Hardware focuses on solving key constraints regarding iqunix mq80 low profile mechanical keyboard review.",
-        "Technical Implementation: Before COVID turned the mainstream onto mechanical keyboards, the company had already been releasing some of the best mechanical keyboards available, quietly making the case for PBT keycaps and premium materials that have since become the norm.",
-        "Deployment & Impact: With a catalog of traditional mechanical keyboards under its belt, it’s not surprising that the company would be ready to branch into new territory."
+        "Problem & Context: Not only do you get two 16-inch 2560 x 1600 IPS displays, but the FlipGo also supports touch input (on Windows systems).",
+        "Technical Implementation: For most people, the FlipGo will take up a permanent residence on your desk, or perhaps travel with you from one side of your office building to the other.",
+        "Deployment & Impact: In addition, it incorporates a built-in USB hub that gives you two additional USB-A ports and one USB-C port for your peripherals."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/peripherals/mechanical-keyboards/iqunix-mq80-low-profile-mechanical-keyboard-review"
+          "url": "https://www.tomshardware.com/monitors/portable-monitors/jsaux-flipgo-dual-screen-portable-monitor-review"
         }
       ]
     },
     {
       "id": "story_live_27",
+      "category": "STARTUPS",
+      "headline": "Databricks co-founder shares his secrets for winning big enterprise customers",
+      "summary": "Skip to content Buy One Founder Summit Ticket, Get a Second for Free. Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: SLAVA BLAZER PHOTOGRAPHY STARTUPS Databricks co-founder shares his secrets for winning big enterprise customers Julie Bort 3:00 PM PDT · October 26, 2026 Startups have never been under more pressure to grow quickly.",
+      "why_it_matters": "To do that, many of them must land large enterprises, the deep pockets of the IT world, as customers. This marks a notable development for engineering teams working in startups.",
+      "key_points": [
+        "Problem & Context: Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: SLAVA BLAZER PHOTOGRAPHY STARTUPS Databricks co-founder shares his secrets for winning big enterprise customers Julie Bort 3:00 PM PDT · October 26, 2026 Startups have never been under more pressure to grow quickly.",
+        "Technical Implementation: One critical mistake most younger startups make is believing that their tech will practically sell itself, says Arsalan Tavakoli-Shiraji, co-founder and senior vice president of field engineering at Databricks, which helps businesses store and analyze huge amounts of data.",
+        "Deployment & Impact: Databricks today is an AI and big data storage giant, valued at $190 billion, with more than 70% of the Fortune 500 as customers."
+      ],
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "TechCrunch Startups",
+          "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_28",
       "category": "STARTUPS",
       "headline": "Startups don’t need to go viral to win customers",
       "summary": "Skip to content Buy One Founder Summit Ticket, Get a Second for Free. Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: SLAVA BLAZER PHOTOGRAPHY STARTUPS Startups don’t need to go viral to win customers Lucas Ropek 4:07 PM PDT · October 23, 2026 Getting initial customers as a startup can be one of the most grueling challenges in business.",
@@ -536,7 +556,7 @@
         "Technical Implementation: In the current era — when young AI companies like Cluely and Instinct are building big audiences not just through their products but also through their founders’ colorful online presences — social media can seem like a magic bullet for reaching early customers.",
         "Deployment & Impact: Gamma, which sells AI-powered presentation software, managed to scale its business exponentially with a social media strategy that deployed influencers through its Ambassadors (or “Gambassador”) program."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
@@ -546,37 +566,17 @@
       ]
     },
     {
-      "id": "story_live_28",
-      "category": "STARTUPS",
-      "headline": "VCs, Superhuman Mail founder share red flags about product-market fit",
-      "summary": "Skip to content Buy One Founder Summit Ticket, Get a Second for Free. Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: SLAVA BLAZER PHOTOGRAPHY VENTURE VCs, Superhuman Mail founder share red flags about product-market fit Dominic-Madori Davis 1:57 PM PDT · October 23, 2026 Product-market fit — when a startup’s product sells well — has become even harder to find in this AI era.",
-      "why_it_matters": "Despite startups achieving record-fast growth, not all customers are sticky and products can be replicated more easily than ever. This marks a notable development for engineering teams working in startups.",
-      "key_points": [
-        "Problem & Context: Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: SLAVA BLAZER PHOTOGRAPHY VENTURE VCs, Superhuman Mail founder share red flags about product-market fit Dominic-Madori Davis 1:57 PM PDT · October 23, 2026 Product-market fit — when a startup’s product sells well — has become even harder to find in this AI era.",
-        "Technical Implementation: Close TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: SLAVA BLAZER PHOTOGRAPHY VENTURE VCs, Superhuman Mail founder share red flags about product-market fit Dominic-Madori Davis 1:57 PM PDT · October 23, 2026 Product-market fit — when a startup’s product sells well — has become even harder to find in this AI era.",
-        "Deployment & Impact: Despite startups achieving record-fast growth, not all customers are sticky and products can be replicated more easily than ever."
-      ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
-      "importance": 7,
-      "sources": [
-        {
-          "name": "TechCrunch Startups",
-          "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/"
-        }
-      ]
-    },
-    {
       "id": "story_live_29",
       "category": "CYBERSECURITY",
       "headline": "Widespread PHP Flaw May Cause Many Site Outages Today",
-      "summary": "Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Widespread PHP Flaw May Cause Many Site Outages Today October 21, 2026 3 Comments Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
+      "summary": "Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Widespread PHP Flaw May Cause Many Site Outages Today October 21, 2026 4 Comments Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
       "why_it_matters": "Image: Shutterstock.com, Sashkin. This marks a notable development for engineering teams working in cybersecurity.",
       "key_points": [
         "Problem & Context: The flaws at issue are present in PHP, the programming language that powers sites running on a large number of web publishing systems, including Drupal, Magento, Joomla and WordPress.",
         "Technical Implementation: Earlier today, PHP released an emergency security update to fix two critical bugs that can allow an attacker to execute code of their choosing on a vulnerable server.",
         "Deployment & Impact: Cloudflare said it has already detected some exploitation of the flaw, and that at 3:02 am (UTC) it implemented web application firewall rules to protect websites from attack traffic seeking to exploit the bugs, which could cause a denial of service condition, remote code execution, and data exposure."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
@@ -596,7 +596,7 @@
         "Technical Implementation: Hackers aligned with ShinyHunters have claimed credit for dozens of major data breaches since 2019, when the group was primarily operated by cybercriminals living in France.",
         "Deployment & Impact: In late September, ShinyHunters hacked the FBI recruitment website fbijobs.gov and taunted the agency by threatening to publish the stolen files, which reportedly included medical and psychological records, Social Security numbers and home addresses, and information about each employee’s unit and specialization."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
@@ -608,125 +608,145 @@
     {
       "id": "story_live_31",
       "category": "CYBERSECURITY",
-      "headline": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network's access rules permit to connect to the target.",
+      "headline": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+      "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users, serves malicious JavaScript loader code through Magento CMS blocks.",
       "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.",
-        "Technical Implementation: The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network's access rules permit to connect to the target.",
+        "Problem & Context: According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users, serves malicious JavaScript loader code through Magento CMS blocks.",
+        "Technical Implementation: According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users, serves malicious JavaScript loader code through Magento CMS blocks.",
         "Deployment & Impact: Published by The Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html"
+          "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html"
         }
       ]
     },
     {
       "id": "story_live_32",
       "category": "CYBERSECURITY",
-      "headline": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had successfully accessed password hashes and multi-factor.",
-      "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
+      "headline": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+      "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code.",
+      "why_it_matters": "PHP says the flaw can be reached through the cURL extension when the extension decompresses HTTP responses automatically. This marks a notable development for engineering teams working in cybersecurity.",
       "key_points": [
-        "Problem & Context: Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.",
-        "Technical Implementation: \"In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had successfully accessed password hashes and multi-factor.",
-        "Deployment & Impact: Published by The Hacker News with documentation and production rollout details."
+        "Problem & Context: PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include.",
+        "Technical Implementation: The flaw can let an attacker corrupt memory and potentially run code.",
+        "Deployment & Impact: PHP says the flaw can be reached through the cURL extension when the extension decompresses HTTP responses automatically."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
+          "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html"
         }
       ]
     },
     {
       "id": "story_live_33",
       "category": "CYBERSECURITY",
-      "headline": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-      "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package.",
+      "headline": "University of Copenhagen data breach exposes data of 525,000 people",
+      "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people.",
       "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: BleepingComputer focuses on solving key constraints regarding ai coding agents hijacked using agents.md file in downloads folder.",
+        "Problem & Context: The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people.",
         "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
         "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/"
+          "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/"
         }
       ]
     },
     {
       "id": "story_live_34",
       "category": "CYBERSECURITY",
-      "headline": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast.",
+      "headline": "Former pentester used ARTEX AI to steal 8.2 million data records",
+      "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks.",
       "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast.",
+        "Problem & Context: BleepingComputer focuses on solving key constraints regarding former pentester used artex ai to steal 8.2 million data records.",
         "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
         "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/"
+          "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/"
         }
       ]
     },
     {
       "id": "story_live_35",
       "category": "CLOUD",
-      "headline": "Want to build a UK datacenter? Please hold while Whitehall transfers you",
-      "summary": "Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call PHP2Shell PUBLIC SECTOR Want to build a UK datacenter? Please hold while Whitehall transfers you Minister insists responsibilities are clear as construction, telecoms, and energy fall under separate departments Lindsay Clark BUSINESS SOFTWARE AND DATABASE REPORTER 9 Published Sun 25 Oct 2026 // 10:39 UTC Make us preferred on Google READ MORE After threatening AI export bans, China allows DeepSeek to keep selling now Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks 4 days ago Tens of thousands of Nvidia GPUs sit in Meta's Prometheus supercluster, waiting for a failure 5 days ago Amazon makes vague commitment to unproven nuclear tech to power Indiana datacenters 6 days ago Microsoft abandons UK AI supercomputer as grid struggles to keep up 6 days ago Building a UK datacenter spans three government departments: one handles datacenter policy, another telecoms, and a third energy. MPs this week explored what Prime Minister Andy Burnham's summer reshuffle means for businesses navigating Whitehall.",
-      "why_it_matters": "Liz Lloyd, parliamentary under-secretary of state, sits across two departments with a portfolio of responsibilities as long as a weekly shopping list. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Alibaba's Qwen AI caught trying to contact server in China",
+      "summary": "Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call PHP2Shell AI AND ML Alibaba's Qwen AI caught trying to contact server in China But there's not much evidence this is anything more than echoes of unsanitized training data Thomas Claburn AI AND SOFTWARE REPORTER 1 Published Mon 26 Oct 2026 // 21:27 UTC Make us preferred on Google READ MORE Japanese virtual desktop cloud hacked so hard it asks to be banned now Worm armed 42 GitHub repos by hiding a payload too big to fail 2 hours ago LiteLLM supply chain attack started with an exposed master key 4 hours ago Microsoft releases emergency .NET security fixes for Google Brotli bug 7 hours ago UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest 8 hours ago Open-weight models from China have become very popular, but they've also raised some security suspicions. Cohere, a Canada-based biz that offers AI models to enterprises, says that when it was testing Alibaba's Qwen3.8-Flash-Next in its evaluation sandbox, the model attempted to send data to China.",
+      "why_it_matters": "\"Asked to write a defensive detection rule, Qwen3.8-Flash-Next ignored instructions and inventoried the machine it was running on and then tried to upload a probe file to an Alibaba Cloud storage bucket in Beijing,\" the biz said in a blog post on Monday. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call PHP2Shell PUBLIC SECTOR Want to build a UK datacenter? Please hold while Whitehall transfers you Minister insists responsibilities are clear as construction, telecoms, and energy fall under separate departments Lindsay Clark BUSINESS SOFTWARE AND DATABASE REPORTER 9 Published Sun 25 Oct 2026 // 10:39 UTC Make us preferred on Google READ MORE After threatening AI export bans, China allows DeepSeek to keep selling now Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks 4 days ago Tens of thousands of Nvidia GPUs sit in Meta's Prometheus supercluster, waiting for a failure 5 days ago Amazon makes vague commitment to unproven nuclear tech to power Indiana datacenters 6 days ago Microsoft abandons UK AI supercomputer as grid struggles to keep up 6 days ago Building a UK datacenter spans three government departments: one handles datacenter policy, another telecoms, and a third energy.",
-        "Technical Implementation: She explained to MPs this week that, following the decision to get rid of the Department for Science, Innovation and Technology (DSIT), liaison with the tech industry on datacenter construction fell to the Department for Business, Innovation, Science and Trade (BIST).",
-        "Deployment & Impact: \"In terms of sector responsibilities, that is clear that technology, sorry, that telecom sits with DCMS and datacenters with BIST."
+        "Problem & Context: Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call PHP2Shell AI AND ML Alibaba's Qwen AI caught trying to contact server in China But there's not much evidence this is anything more than echoes of unsanitized training data Thomas Claburn AI AND SOFTWARE REPORTER 1 Published Mon 26 Oct 2026 // 21:27 UTC Make us preferred on Google READ MORE Japanese virtual desktop cloud hacked so hard it asks to be banned now Worm armed 42 GitHub repos by hiding a payload too big to fail 2 hours ago LiteLLM supply chain attack started with an exposed master key 4 hours ago Microsoft releases emergency .NET security fixes for Google Brotli bug 7 hours ago UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest 8 hours ago Open-weight models from China have become very popular, but they've also raised some security suspicions.",
+        "Technical Implementation: Cohere, a Canada-based biz that offers AI models to enterprises, says that when it was testing Alibaba's Qwen3.8-Flash-Next in its evaluation sandbox, the model attempted to send data to China.",
+        "Deployment & Impact: \"Asked to write a defensive detection rule, Qwen3.8-Flash-Next ignored instructions and inventoried the machine it was running on and then tried to upload a probe file to an Alibaba Cloud storage bucket in Beijing,\" the biz said in a blog post on Monday."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Register",
-          "url": "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956"
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561"
         }
       ]
     },
     {
       "id": "story_live_36",
       "category": "CLOUD",
-      "headline": "Reg readers land on 'Binface' as name for UK space cleanup mission",
-      "summary": "The UK Space Agency asked for names for its Active Debris Removal Mission, and, of course, the Register readership didn't disappoint. The Active Debris Removal Mission , led by ClearSpace UK and intended to remove a pair of UK-registered satellites from Low Earth Orbit (thus demonstrating Blighty's prowess when it comes to orbital litter picking), needs a name.",
-      "why_it_matters": "Let's face it, Active Debris Removal Mission hardly rolls off the tongue and, while engineers have long found ways to make meaning from acronyms (this writer has always been rather fond of PICNIC – Problem In Chair, Not In Computer), the UK Space Agency decided it needed a proper name. This marks a notable development for engineering teams working in cloud.",
+      "headline": "LiteLLM supply chain attack started with an exposed master key",
+      "summary": "Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call PHP2Shell SECURITY LiteLLM supply chain attack started with an exposed master key A 'strong illustration of the risks associated with failing to rotate a potentially exposed key' Jessica Lyons CYBERSECURITY EDITOR 0 Published Mon 26 Oct 2026 // 20:30 UTC Make us preferred on Google READ MORE Humanity can't afford not to spend $800B on AI, Anthropic insists now OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra 31 minutes ago Worm armed 42 GitHub repos by hiding a payload too big to fail 1 hour ago Alibaba's Qwen AI caught trying to contact server in China 2 hours ago Trumpets blare and skies part as AI hypefest culminates in Anthropic IPO filing 7 hours ago LiteLLM has traced last week’s supply chain attack to a master key it accidentally committed to a public GitHub repository in May. The cloud and AI model secret-stealing part of the incident began when someone uploaded a poisoned version (1.107.0) of the popular open source AI gateway to PyPI and its container registries last Wednesday.",
+      "why_it_matters": "This compromised version contained an infostealer and a remote access trojan capable of executing arbitrary code on infected machines. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: The Register focuses on solving key constraints regarding reg readers land on 'binface' as name for uk space cleanup mission.",
-        "Technical Implementation: The Active Debris Removal Mission , led by ClearSpace UK and intended to remove a pair of UK-registered satellites from Low Earth Orbit (thus demonstrating Blighty's prowess when it comes to orbital litter picking), needs a name.",
-        "Deployment & Impact: Let's face it, Active Debris Removal Mission hardly rolls off the tongue and, while engineers have long found ways to make meaning from acronyms (this writer has always been rather fond of PICNIC – Problem In Chair, Not In Computer), the UK Space Agency decided it needed a proper name."
+        "Problem & Context: Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call PHP2Shell SECURITY LiteLLM supply chain attack started with an exposed master key A 'strong illustration of the risks associated with failing to rotate a potentially exposed key' Jessica Lyons CYBERSECURITY EDITOR 0 Published Mon 26 Oct 2026 // 20:30 UTC Make us preferred on Google READ MORE Humanity can't afford not to spend $800B on AI, Anthropic insists now OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra 31 minutes ago Worm armed 42 GitHub repos by hiding a payload too big to fail 1 hour ago Alibaba's Qwen AI caught trying to contact server in China 2 hours ago Trumpets blare and skies part as AI hypefest culminates in Anthropic IPO filing 7 hours ago LiteLLM has traced last week’s supply chain attack to a master key it accidentally committed to a public GitHub repository in May.",
+        "Technical Implementation: The cloud and AI model secret-stealing part of the incident began when someone uploaded a poisoned version (1.107.0) of the popular open source AI gateway to PyPI and its container registries last Wednesday.",
+        "Deployment & Impact: This compromised version contained an infostealer and a remote access trojan capable of executing arbitrary code on infected machines."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Register",
-          "url": "https://www.theregister.com/offbeat/2026/10/25/reg-readers-land-on-binface-as-name-for-uk-space-cleanup-mission/5305144"
+          "url": "https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544"
         }
       ]
     },
     {
       "id": "story_live_37",
+      "category": "CLOUD",
+      "headline": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
+      "summary": "A few weeks ago I presented to a small group of commercial and technology leaders from Brazilian agribusiness at the AWS office in São Paulo. My talk ran through where generative AI fits across the different stages of an agribusiness operation, and the point I kept returning to is that the markets we call traditional are exactly the ones where keeping up with this technology decides who ends up ahead of the curve.",
+      "why_it_matters": "Nobody there was arguing about whether AI belongs in agriculture. This marks a notable development for engineering teams working in cloud.",
+      "key_points": [
+        "Problem & Context: The biggest launch is a security service built on the premise that the gap between a vulnerability being disclosed and a vulnerability being exploited has effectively closed, and AWS published the honeypot evidence for exactly that in the same week.",
+        "Technical Implementation: Now, let’s get into this week’s AWS news… AWS Continuum for code vulnerabilities is now generally available AWS Continuum reframes vulnerability management as an end-to-end job rather than a scanner that hands you a list.",
+        "Deployment & Impact: It builds a context graph from your repositories and your AWS environment, assigns each finding an evidence level, and reproduces exploitable findings in an isolated sandbox with proof-of-concept code so you see the issue rather than a severity label."
+      ],
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "AWS News Blog",
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_38",
       "category": "CLOUD",
       "headline": "AWS Continuum for code vulnerabilities is now generally available",
       "summary": "Today, we’re announcing the general availability of AWS Continuum for code vulnerabilities. AWS Continuum is a security service that finds and validates code vulnerabilities, then delivers fixes as patches you can automate or as pull requests in your repositories.",
@@ -736,7 +756,7 @@
         "Technical Implementation: AWS Continuum is a security service that finds and validates code vulnerabilities, then delivers fixes as patches you can automate or as pull requests in your repositories.",
         "Deployment & Impact: AWS Continuum for code vulnerabilities confirms which findings are exploitable in your environment, ranks the resulting issues by business impact, and proposes a fix for each one."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
@@ -746,27 +766,27 @@
       ]
     },
     {
-      "id": "story_live_38",
+      "id": "story_live_39",
       "category": "CLOUD",
-      "headline": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services",
-      "summary": "When platform teams manage containerized applications at scale on Amazon Elastic Container Service (Amazon ECS) , configuring ingress networking for each service often becomes a bottleneck. For every new service, teams must provision and connect Application Load Balancers (ALBs) , AWS Certificate Manager (ACM) certificates, AWS WAF web ACLs, and security groups, then keep those resources in sync as services scale, update, or operate.",
-      "why_it_matters": "This per-service overhead slows down deployment velocity and increases the risk of configuration drift across an organization. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
+      "summary": "On September 8, 2026, we were alerted by a security researcher, Gadi Evron from Knostic, to a tenant isolation issue affecting the GLM-5.3 Workers AI model ( @cf/zai-org/glm-5.3 ) starting on August 27, 2026. We have remediated the issue, and we restored the model on September 9.",
+      "why_it_matters": "We have confirmed that no other model hosted on Workers AI was affected. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: When platform teams manage containerized applications at scale on Amazon Elastic Container Service (Amazon ECS) , configuring ingress networking for each service often becomes a bottleneck.",
-        "Technical Implementation: For every new service, teams must provision and connect Application Load Balancers (ALBs) , AWS Certificate Manager (ACM) certificates, AWS WAF web ACLs, and security groups, then keep those resources in sync as services scale, update, or operate.",
-        "Deployment & Impact: Platform teams create and configure a gateway, defining organizational networking standards including subnets, security groups, TLS certificates, listener settings, and WAF web ACLs, in a single place."
+        "Problem & Context: On September 8, 2026, we were alerted by a security researcher, Gadi Evron from Knostic, to a tenant isolation issue affecting the GLM-5.3 Workers AI model ( @cf/zai-org/glm-5.3 ) starting on August 27, 2026.",
+        "Technical Implementation: We have remediated the issue, and we restored the model on September 9.",
+        "Deployment & Impact: We have confirmed that no other model hosted on Workers AI was affected."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
-          "name": "AWS News Blog",
-          "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/"
+          "name": "Cloudflare Blog",
+          "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
         }
       ]
     },
     {
-      "id": "story_live_39",
+      "id": "story_live_40",
       "category": "CLOUD",
       "headline": "Origin Range Requests: Serving large files without range-request tuning",
       "summary": "A video player seeking to the middle of a movie asks for a few megabytes. Under our old range caching, that one request could make Cloudflare pull 128 MiB from the origin and move it between data centers, sometimes after the viewer had already left.",
@@ -776,32 +796,12 @@
         "Technical Implementation: Range requests are how large files get delivered, and caching them naively easily leads to wasted network bandwidth and wasted disk operations when running a CDN at scale.",
         "Deployment & Impact: For R2, Cloudflare's object storage, p99 time to first byte dropped by about half, and a follow-up improvement cut tiered cache traffic for R2 and similar workloads by about 6%."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Cloudflare Blog",
           "url": "https://blog.cloudflare.com/origin-range-requests/"
-        }
-      ]
-    },
-    {
-      "id": "story_live_40",
-      "category": "CLOUD",
-      "headline": "Bringing post-quantum cryptography to geographically fenced key management",
-      "summary": "Today, Cloudflare is launching a post-quantum geographically restricted key manager in support of our Data Localization Suite (DLS) in closed beta. This new PQ GeoKey Manager is a cornerstone of Cloudflare’s data sovereignty solutions, making sure that a customer's decryption keys are only accessible in their chosen geography.",
-      "why_it_matters": "GeoKey Manager implements this by wrapping each decryption key such that it can only be decrypted by Cloudflare servers that are located in the allowed geography. This marks a notable development for engineering teams working in cloud.",
-      "key_points": [
-        "Problem & Context: Today, Cloudflare is launching a post-quantum geographically restricted key manager in support of our Data Localization Suite (DLS) in closed beta.",
-        "Technical Implementation: This new PQ GeoKey Manager is a cornerstone of Cloudflare’s data sovereignty solutions, making sure that a customer's decryption keys are only accessible in their chosen geography.",
-        "Deployment & Impact: GeoKey Manager implements this by wrapping each decryption key such that it can only be decrypted by Cloudflare servers that are located in the allowed geography."
-      ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
-      "importance": 7,
-      "sources": [
-        {
-          "name": "Cloudflare Blog",
-          "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager/"
         }
       ]
     },
@@ -816,7 +816,7 @@
         "Technical Implementation: This challenge is becoming more important as advanced cloud and AI capabilities move into public services, regulated processes and essential operations.",
         "Deployment & Impact: Organizations are considering more than where data resides."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
@@ -836,7 +836,7 @@
         "Technical Implementation: Manufacturers can analyze confidential production data next to the systems that generate it.",
         "Deployment & Impact: Government agencies can run AI applications on sensitive information while maintaining established security and operational boundaries."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
@@ -849,14 +849,14 @@
       "id": "story_live_43",
       "category": "TECHNOLOGY RESEARCH",
       "headline": "How far can we push computing?",
-      "summary": "SKIP TO CONTENT Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue COMPUTING How far can we push computing? Nowadays big advances are made by scaling up—think more chips packed into ever-bigger data centers. But as we near the ceiling of what we can build, there’s still plenty of room below, at the fundamental physical limits of computing.",
-      "why_it_matters": "Richard Feynman speaks at CERN in Geneva, Switzerland, in 1965. This marks a notable development for engineering teams working in technology research.",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
+      "why_it_matters": "On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom,” on how we might manipulate and control things on an extremely small scale. This marks a notable development for engineering teams working in technology research.",
       "key_points": [
-        "Problem & Context: SKIP TO CONTENT Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue COMPUTING How far can we push computing? Nowadays big advances are made by scaling up—think more chips packed into ever-bigger data centers.",
-        "Technical Implementation: But as we near the ceiling of what we can build, there’s still plenty of room below, at the fundamental physical limits of computing.",
-        "Deployment & Impact: On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom,” on how we might manipulate and control things on an extremely small scale."
+        "Problem & Context: On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom,” on how we might manipulate and control things on an extremely small scale.",
+        "Technical Implementation: Biology already did versions of this (a living cell keeps its instructions in a wisp of DNA), so all of this was plainly permitted by the laws of physics.",
+        "Deployment & Impact: We simply had not built the tools yet."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
@@ -869,14 +869,14 @@
       "id": "story_live_44",
       "category": "TECHNOLOGY RESEARCH",
       "headline": "Understanding the thermal ceiling in portable power",
-      "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. It’s the connected device protecting itself.",
-      "why_it_matters": "As temperature rises during charging, a smartphone’s battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces battery capacity. This marks a notable development for engineering teams working in technology research.",
+      "summary": "SKIP TO CONTENT Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue SPONSORED COMPUTING Understanding the thermal ceiling in portable power Wireless charging performance is limited less by power delivery than by the physics of heat, and solving it requires rethinking the hardware. By Shuo Yang archive page September 9, 2026 Provided byAnker Plug a phone into a modern charger and the first 10 minutes are impressive.",
+      "why_it_matters": "It’s the connected device protecting itself. This marks a notable development for engineering teams working in technology research.",
       "key_points": [
-        "Problem & Context: As temperature rises during charging, a smartphone’s battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces battery capacity.",
-        "Technical Implementation: For anyone building products in the portable power category, this creates an uncomfortable gap between specification and experience.",
-        "Deployment & Impact: Convenience and thermal performance are working against each other by design."
+        "Problem & Context: SKIP TO CONTENT Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue SPONSORED COMPUTING Understanding the thermal ceiling in portable power Wireless charging performance is limited less by power delivery than by the physics of heat, and solving it requires rethinking the hardware.",
+        "Technical Implementation: As temperature rises during charging, a smartphone's battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces battery capacity.",
+        "Deployment & Impact: For anyone building products in the portable power category, this creates an uncomfortable gap between specification and experience."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
@@ -887,121 +887,161 @@
     },
     {
       "id": "story_live_45",
-      "category": "STARTUPS",
-      "headline": "Dolly Parton's Imagination Library",
-      "summary": "Trending discussion on Hacker News with score of 369 points and 66 developer comments.",
-      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
+      "category": "TECHNOLOGY RESEARCH",
+      "headline": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+      "summary": "arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving determines which accounts receive seller coverage, which seller-account relationships are preserved, and how limited field capacity is distributed.",
+      "why_it_matters": "Yet the process often remains manual, making it difficult to compare opportunities, value continuity, and evaluate tradeoffs among growth, balance, capacity, and feasibility. This marks a notable development for engineering teams working in technology research.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding dolly parton's imagination library.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
-        "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
+        "Problem & Context: We present a production decision system for tradeoff-aware customer-to-seller allocation in enterprise GTM planning.",
+        "Technical Implementation: Deployed as a scenario-based decision-support system, the framework enables planners to inspect and compare allocation tradeoffs.",
+        "Deployment & Impact: Directing scarce seller capacity toward higher-value accounts also offers incremental revenue potential at enterprise scale."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://imaginationlibrary.com/"
+          "name": "arXiv CS AI",
+          "url": "https://arxiv.org/abs/2610.31701"
         }
       ]
     },
     {
       "id": "story_live_46",
-      "category": "STARTUPS",
-      "headline": "F-Zero X on Nintendo 3DS",
-      "summary": "Trending discussion on Hacker News with score of 38 points and 18 developer comments.",
-      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
+      "category": "TECHNOLOGY RESEARCH",
+      "headline": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+      "summary": "arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding harness, which typically relies on manually written skills and curated memory.",
+      "why_it_matters": "This limits autonomous learning, forcing agents to repeatedly rediscover solutions rather than retain and reuse knowledge from prior executions. This marks a notable development for engineering teams working in technology research.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding f-zero x on nintendo 3ds.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
-        "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
+        "Problem & Context: arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting.",
+        "Technical Implementation: Phronix operates through a predictor-validator-corrector loop: MCP tools and associated skills propose solutions, tool executions validate them, and observed outcomes refine the stored capabilities.",
+        "Deployment & Impact: First, such learned capabilities solve a recurring task on the first attempt in 93-95% of cases across every model, significantly reducing solution non-determinism and improving reliability."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html"
+          "name": "arXiv CS AI",
+          "url": "https://arxiv.org/abs/2610.31789"
         }
       ]
     },
     {
       "id": "story_live_47",
       "category": "STARTUPS",
-      "headline": "Overgrown, when plants invade your abandoned tabs",
-      "summary": "Trending discussion on Hacker News with score of 127 points and 38 developer comments.",
+      "headline": "Announcing three new discoveries in mathematics, computer science, and physics",
+      "summary": "Trending discussion on Hacker News with score of 496 points and 188 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding overgrown, when plants invade your abandoned tabs.",
+        "Problem & Context: Hacker News focuses on solving key constraints regarding announcing three new discoveries in mathematics, computer science, and physics.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://charliegerard.dev/blog/overgrown-extension/"
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
         }
       ]
     },
     {
       "id": "story_live_48",
-      "category": "DEVELOPERS",
-      "headline": "I Earned a Seat at GitHub Universe. It'll Stay Empty, and That's Not Fair",
-      "summary": "Why Am I Writing This? I'm writing this to show how unfair the world we live in can be,.",
-      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "category": "STARTUPS",
+      "headline": "The Exponential Time Hypothesis Is False [pdf]",
+      "summary": "Trending discussion on Hacker News with score of 307 points and 122 developer comments.",
+      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: DEV Community focuses on solving key constraints regarding i earned a seat at github universe. it'll stay empty, and that's not fair.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
-        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
+        "Problem & Context: Hacker News focuses on solving key constraints regarding the exponential time hypothesis is false [pdf].",
+        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
+        "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
-          "name": "DEV Community",
-          "url": "https://dev.to/georgekobaidze/i-earned-a-seat-at-github-universe-itll-stay-empty-and-thats-not-fair-3d7k"
+          "name": "Hacker News",
+          "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"
         }
       ]
     },
     {
       "id": "story_live_49",
-      "category": "DEVELOPERS",
-      "headline": "🐾 DEV Pet Corner #3: Show Us Your Pets!",
-      "summary": "TL;DR DEV Pet Corner is back for another Sunday! It's a weekly series where we take a little break.",
-      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "category": "STARTUPS",
+      "headline": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "summary": "Trending discussion on Hacker News with score of 564 points and 81 developer comments.",
+      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: DEV Community focuses on solving key constraints regarding 🐾 dev pet corner #3: show us your pets!.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
-        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
+        "Problem & Context: Hacker News focuses on solving key constraints regarding sebastian raschka's from-scratch video course on building reasoning models.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
+        "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
-          "name": "DEV Community",
-          "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-3-show-us-your-pets-35n"
+          "name": "Hacker News",
+          "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
         }
       ]
     },
     {
       "id": "story_live_50",
       "category": "DEVELOPERS",
-      "headline": "A small, not-so-smart model went from 10% to 99.6% at reading property deeds for $1.15, and it says 'check this line' instead of bluffing",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady N 86°29'.",
+      "headline": "Doors I Walked Through to Reach DEV",
+      "summary": "Table of Contents Knock, Knock: The First Domino The Numbers and a Plot Twist How Did I.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: DEV Community focuses on solving key constraints regarding a small, not-so-smart model went from 10% to 99.6% at reading property deeds for $1.15, and it says 'check this line' instead of bluffing.",
+        "Problem & Context: DEV Community focuses on solving key constraints regarding doors i walked through to reach dev.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
       ],
-      "published_at": "2026-10-26T06:56:22.332856+05:30",
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "DEV Community",
-          "url": "https://dev.to/advikdivekar/a-small-not-so-smart-model-went-from-10-to-996-at-reading-property-deeds-for-115-and-it-says-490k"
+          "url": "https://dev.to/devengers/doors-i-walked-through-to-reach-dev-5294"
+        }
+      ]
+    },
+    {
+      "id": "story_live_51",
+      "category": "DEVELOPERS",
+      "headline": "When Recovering From Burnout, Writing Became My Therapy. And This Week My First Coding Book Turns 1 Year Old. Ask Me Anything!",
+      "summary": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience. In 2023, I got sick and.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: DEV Community focuses on solving key constraints regarding when recovering from burnout, writing became my therapy. and this week my first coding book turns 1 year old. ask me anything!.",
+        "Technical Implementation: In 2023, I got sick and.",
+        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "DEV Community",
+          "url": "https://dev.to/canro91/to-recover-from-burnout-writing-became-my-therapy-and-this-week-my-first-coding-book-turns-1-year-388e"
+        }
+      ]
+    },
+    {
+      "id": "story_live_52",
+      "category": "DEVELOPERS",
+      "headline": "Não precisa ser popular pra compartilhar: minha história até Berlim",
+      "summary": "Hoje não venho escrever algo técnico ou teórico. Hoje vou contar pra vocês como a menina criada nas.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: DEV Community focuses on solving key constraints regarding não precisa ser popular pra compartilhar: minha história até berlim.",
+        "Technical Implementation: Hoje vou contar pra vocês como a menina criada nas.",
+        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
+      ],
+      "published_at": "2026-10-27T07:43:57.301635+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "DEV Community",
+          "url": "https://dev.to/he4rt/nao-precisa-ser-popular-pra-compartilhar-minha-historia-ate-berlim-1hbc"
         }
       ]
     }
