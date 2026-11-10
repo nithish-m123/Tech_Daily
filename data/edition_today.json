@@ -1,6 +1,6 @@
 {
-  "id": "edition_2026_11_09",
-  "date": "2026-11-09",
+  "id": "edition_2026_11_10",
+  "date": "2026-11-10",
   "title": "Tech Daily",
   "hot_topic": "SYSTEMS & AI ACCELERATION",
   "hot_topic_description": "Major cloud providers and open-source consortia announce architectural shifts toward dedicated silicon and low-latency inference pipelines.",
@@ -8,14 +8,14 @@
     "id": "story_live_1",
     "category": "AI & MACHINE LEARNING",
     "headline": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "summary": "Skip to main content Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips Innovation & AI Products & platforms Company news Feed Newsletter Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Cloud blog Back Products & platforms See all in Products & platforms Products Search Maps Chrome Google Health Google Workspace Learning & Education Shopping See all Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebook Googlebook See all Learn more: Google Ads & Commerce blog Waze blog Back Company news See all in Company news Outreach & initiatives Creating opportunity Safety & security Google.org Public policy Sustainability Health See all Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all Learn more: Google Security blog Innovation & AI Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Cloud blog Products & platforms Products & platforms See all in Products & platforms Products Search Maps Chrome Google Health Google Workspace Learning & Education Shopping See all Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebook Googlebook See all Learn more: Google Ads & Commerce blog Waze blog Company news Company news See all in Company news Outreach & initiatives Creating opportunity Safety & security Google.org Public policy Sustainability Health See all Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all Learn more: Google Security blog Feed Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips Share x.com Facebook LinkedIn Mail Copy link [] Preferences Global (English) Africa (English) Australia (English) Brasil (Português) Canada (English) Canada (Français) Česko (Čeština) Deutschland (Deutsch) E.",
-    "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
+    "summary": "Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Innovation & AI Technology Developer tools Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips Nov 05, 2026 7 min read Gemini Omni 1.2 Flash brings 15-second clips, stronger consistency, and faster, more cost-effective generation. Anish Nangia Product Manager, Google DeepMind Share Listen to article [[duration]] minutes Read AI-generated summary Today, we’re rolling out Gemini Omni 1.2 Flash, and making it generally available across the Gemini API and Gemini for business.",
+    "why_it_matters": "Gemini Omni 1.2 Flash introduces native 15-second video creation, multi-turn conversational editing capabilities, and enhanced reference following. This marks a notable development for engineering teams working in ai & machine learning.",
     "key_points": [
-      "Problem & Context: Skip to main content Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips Innovation & AI Products & platforms Company news Feed Newsletter Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Cloud blog Back Products & platforms See all in Products & platforms Products Search Maps Chrome Google Health Google Workspace Learning & Education Shopping See all Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebook Googlebook See all Learn more: Google Ads & Commerce blog Waze blog Back Company news See all in Company news Outreach & initiatives Creating opportunity Safety & security Google.org Public policy Sustainability Health See all Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all Learn more: Google Security blog Innovation & AI Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Cloud blog Products & platforms Products & platforms See all in Products & platforms Products Search Maps Chrome Google Health Google Workspace Learning & Education Shopping See all Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebook Googlebook See all Learn more: Google Ads & Commerce blog Waze blog Company news Company news See all in Company news Outreach & initiatives Creating opportunity Safety & security Google.org Public policy Sustainability Health See all Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all Learn more: Google Security blog Feed Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips Share x.com Facebook LinkedIn Mail Copy link [] Preferences Global (English) Africa (English) Australia (English) Brasil (Português) Canada (English) Canada (Français) Česko (Čeština) Deutschland (Deutsch) E.",
-      "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
-      "Deployment & Impact: Published by Google AI Blog with documentation and production rollout details."
+      "Problem & Context: Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Innovation & AI Technology Developer tools Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips Nov 05, 2026 7 min read Gemini Omni 1.2 Flash brings 15-second clips, stronger consistency, and faster, more cost-effective generation.",
+      "Technical Implementation: Anish Nangia Product Manager, Google DeepMind Share Listen to article [[duration]] minutes Read AI-generated summary Today, we’re rolling out Gemini Omni 1.2 Flash, and making it generally available across the Gemini API and Gemini for business.",
+      "Deployment & Impact: We have dropped the price 30% from Gemini Omni 1.1 making it available at $0.07 per second for 720p video."
     ],
-    "published_at": "2026-11-09T08:19:41.148990+05:30",
+    "published_at": "2026-11-10T10:12:31.410482+05:30",
     "importance": 9,
     "sources": [
       {
@@ -29,14 +29,14 @@
       "id": "story_live_2",
       "category": "AI & MACHINE LEARNING",
       "headline": "The latest AI news we announced in October 2026",
-      "summary": "Skip to main content The latest AI news we announced in October 2026 Innovation & AI Products & platforms Company news Feed Newsletter Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Cloud blog Back Products & platforms See all in Products & platforms Products Search Maps Chrome Google Health Google Workspace Learning & Education Shopping See all Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebook Googlebook See all Learn more: Google Ads & Commerce blog Waze blog Back Company news See all in Company news Outreach & initiatives Creating opportunity Safety & security Google.org Public policy Sustainability Health See all Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all Learn more: Google Security blog Innovation & AI Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Cloud blog Products & platforms Products & platforms See all in Products & platforms Products Search Maps Chrome Google Health Google Workspace Learning & Education Shopping See all Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebook Googlebook See all Learn more: Google Ads & Commerce blog Waze blog Company news Company news See all in Company news Outreach & initiatives Creating opportunity Safety & security Google.org Public policy Sustainability Health See all Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all Learn more: Google Security blog Feed The latest AI news we announced in October 2026 Share x.com Facebook LinkedIn Mail Copy link [] Preferences Global (English) Africa (English) Australia (English) Brasil (Português) Canada (English) Canada (Français) Česko (Čeština) Deutschland (Deutsch) España (Español) France (Français).",
-      "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
+      "summary": "Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Innovation & AI Technology AI The latest AI news we announced in October 2026 Nov 02, 2026 10 min read Here’s a recap of some of our biggest AI updates from October, led by Gemini 4 Argon and Carbon, alongside our new world model Genie 4. Blog Team Share Listen to article [[duration]] minutes Read AI-generated summary For more than 20 years, we’ve invested in machine learning and AI research, tools, and infrastructure to build products that make everyday life better for more people.",
+      "why_it_matters": "Teams across Google are working on ways to unlock AI’s benefits in fields as wide-ranging as healthcare, crisis response, and education. This marks a notable development for engineering teams working in ai & machine learning.",
       "key_points": [
-        "Problem & Context: Skip to main content The latest AI news we announced in October 2026 Innovation & AI Products & platforms Company news Feed Newsletter Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Cloud blog Back Products & platforms See all in Products & platforms Products Search Maps Chrome Google Health Google Workspace Learning & Education Shopping See all Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebook Googlebook See all Learn more: Google Ads & Commerce blog Waze blog Back Company news See all in Company news Outreach & initiatives Creating opportunity Safety & security Google.org Public policy Sustainability Health See all Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all Learn more: Google Security blog Innovation & AI Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Cloud blog Products & platforms Products & platforms See all in Products & platforms Products Search Maps Chrome Google Health Google Workspace Learning & Education Shopping See all Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebook Googlebook See all Learn more: Google Ads & Commerce blog Waze blog Company news Company news See all in Company news Outreach & initiatives Creating opportunity Safety & security Google.org Public policy Sustainability Health See all Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all Learn more: Google Security blog Feed The latest AI news we announced in October 2026 Share x.com Facebook LinkedIn Mail Copy link [] Preferences Global (English) Africa (English) Australia (English) Brasil (Português) Canada (English) Canada (Français) Česko (Čeština) Deutschland (Deutsch) España (Español) France (Français).",
-        "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
-        "Deployment & Impact: Published by Google AI Blog with documentation and production rollout details."
+        "Problem & Context: Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Innovation & AI Technology AI The latest AI news we announced in October 2026 Nov 02, 2026 10 min read Here’s a recap of some of our biggest AI updates from October, led by Gemini 4 Argon and Carbon, alongside our new world model Genie 4.",
+        "Technical Implementation: Blog Team Share Listen to article [[duration]] minutes Read AI-generated summary For more than 20 years, we’ve invested in machine learning and AI research, tools, and infrastructure to build products that make everyday life better for more people.",
+        "Deployment & Impact: October underscored our commitment to AI innovation, as we released one frontier model globally and announced our next one just two weeks later."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
@@ -48,120 +48,120 @@
     {
       "id": "story_live_3",
       "category": "AI & MACHINE LEARNING",
-      "headline": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "headline": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
       "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: OpenAI News focuses on solving key constraints regarding partnering with hacktron to find vulnerabilities in openai’s systems.",
+        "Problem & Context: OpenAI News focuses on solving key constraints regarding chatgpt enterprise now available in aws marketplace.",
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "OpenAI News",
-          "url": "https://openai.com/index/partnering-with-hacktron"
+          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
         }
       ]
     },
     {
       "id": "story_live_4",
       "category": "AI & MACHINE LEARNING",
-      "headline": "Measuring how AI agents handle everyday wet-lab science",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "headline": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
       "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+        "Problem & Context: Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "OpenAI News",
-          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+          "url": "https://openai.com/index/control-room"
         }
       ]
     },
     {
       "id": "story_live_5",
       "category": "AI & MACHINE LEARNING",
-      "headline": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "summary": "ToyBlocks: A controlled world for robot learning and evaluation.",
+      "headline": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "summary": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context.",
       "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Hugging Face Blog focuses on solving key constraints regarding toyblocks: a controlled world for robot learning and evaluation.",
+        "Problem & Context: Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context.",
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/allenai/toyblocks"
+          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
         }
       ]
     },
     {
       "id": "story_live_6",
       "category": "AI & MACHINE LEARNING",
-      "headline": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "summary": "Egyptian and Nigerian English join the Open ASR Leaderboard.",
+      "headline": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "summary": "Your Experts Have Partners. There's HOPE for Keeping Them Together.",
       "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Hugging Face Blog focuses on solving key constraints regarding egyptian and nigerian english join the open asr leaderboard.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
+        "Problem & Context: Hugging Face Blog focuses on solving key constraints regarding your experts have partners. there's hope for keeping them together.",
+        "Technical Implementation: There's HOPE for Keeping Them Together.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva"
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
         }
       ]
     },
     {
       "id": "story_live_7",
       "category": "AI & MACHINE LEARNING",
-      "headline": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser.",
-      "why_it_matters": "But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed up for the waitlist. This marks a notable development for engineering teams working in ai & machine learning.",
+      "headline": "The backlash about data centers might really just be about electricity",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "why_it_matters": "As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. This marks a notable development for engineering teams working in ai & machine learning.",
       "key_points": [
-        "Problem & Context: As the robots clean, they collect data that Tau will use to train up their more independent descendants.",
-        "Technical Implementation: Every counter successfully wiped and T-shirt successfully folded will help the models that power the robots learn to do better on the next go-round.",
-        "Deployment & Impact: Because this data is so valuable to Tau, the company charges less for cleaning than one might expect for such a cutting-edge product."
+        "Problem & Context: As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub.",
+        "Technical Implementation: Concrete monolithic buildings loom along every major road, with names like Skybox and CloudHQ.",
+        "Deployment & Impact: It’s accepted wisdom in Big Tech that the war against data centers must be about something bigger than just data centers themselves."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "MIT Tech Review AI",
-          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
+          "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
         }
       ]
     },
     {
       "id": "story_live_8",
       "category": "AI & MACHINE LEARNING",
-      "headline": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position.",
-      "why_it_matters": "Democrat James Talarico won the US Senate seat against Ken Paxton. This marks a notable development for engineering teams working in ai & machine learning.",
+      "headline": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.",
+      "why_it_matters": "I spoke with Wiener on Friday, only a few hours after he had been declared the victor. This marks a notable development for engineering teams working in ai & machine learning.",
       "key_points": [
-        "Problem & Context: Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts.",
-        "Technical Implementation: Talarico and Hinojosa made data centers a central issue, discussing them constantly on the campaign trail.",
-        "Deployment & Impact: Even before the polls closed, insiders in the data center industry noticed that the times were changing."
+        "Problem & Context: MIT Tech Review AI focuses on solving key constraints regarding nancy pelosi’s replacement is ready to regulate ai.",
+        "Technical Implementation: Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.",
+        "Deployment & Impact: I spoke with Wiener on Friday, only a few hours after he had been declared the victor."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "MIT Tech Review AI",
-          "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+          "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
         }
       ]
     },
@@ -169,14 +169,14 @@
       "id": "story_live_9",
       "category": "DEVELOPERS",
       "headline": "Beyond code generation: A developer’s guide to agentic engineering",
-      "summary": "Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app See what's new AI & ML Developer skills Engineering Enterprise software News & insights Open Source Security Home / AI & ML / GitHub Copilot Beyond code generation: A developer’s guide to agentic engineering Writing code got faster. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment.",
-      "why_it_matters": "Nick Liffen & Philip Holleran November 6, 2026 | 8 minutes Share: This October, GitHub saw more than 1.2 billion commits in one week—over 400% more than a year earlier. This marks a notable development for engineering teams working in developers.",
+      "summary": "Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app See what's new AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI.",
+      "why_it_matters": "GitHub Copilot Change how you work with GitHub Copilot. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app See what's new AI & ML Developer skills Engineering Enterprise software News & insights Open Source Security Home / AI & ML / GitHub Copilot Beyond code generation: A developer’s guide to agentic engineering Writing code got faster.",
-        "Technical Implementation: See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment.",
-        "Deployment & Impact: Nick Liffen & Philip Holleran November 6, 2026 | 8 minutes Share: This October, GitHub saw more than 1.2 billion commits in one week—over 400% more than a year earlier."
+        "Problem & Context: Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app See what's new AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry.",
+        "Technical Implementation: Generative AI Learn how to build with generative AI.",
+        "Deployment & Impact: How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience.Learn more Developer skills Developer skills Resources for developers to grow in their skills and careers."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
@@ -196,7 +196,7 @@
         "Technical Implementation: Generative AI Learn how to build with generative AI.",
         "Deployment & Impact: How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience.Learn more Developer skills Developer skills Resources for developers to grow in their skills and careers."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
@@ -208,6 +208,26 @@
     {
       "id": "story_live_11",
       "category": "DEVELOPERS",
+      "headline": "Never Share Your Password Again — The OAuth 2.0 Solution",
+      "summary": "Never Share Your Password Again — The OAuth 2.0 Solution.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: Stack Overflow Blog focuses on solving key constraints regarding never share your password again — the oauth 2.0 solution.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
+        "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
+      ],
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Stack Overflow Blog",
+          "url": "https://stackoverflow.blog/2026/11/09/never-share-your-password-again-the-oauth-2-0-solution/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_12",
+      "category": "DEVELOPERS",
       "headline": "Welcome to life in the chip age",
       "summary": "Ryan sits down with Rakesh Kumar, professor of computer engineering at the University of Illinois Urbana-Champaign, about the astounding complexity of manufacturing modern semiconductors, the massive environmental and geopolitical footprint of AI data centers, and how AI models are rapidly shifting the future of chip design.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
@@ -216,32 +236,12 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Stack Overflow Blog",
           "url": "https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/"
-        }
-      ]
-    },
-    {
-      "id": "story_live_12",
-      "category": "DEVELOPERS",
-      "headline": "Don’t Build the Reusable Component Yet",
-      "summary": "Don’t Build the Reusable Component Yet.",
-      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
-      "key_points": [
-        "Problem & Context: Don’t Build the Reusable Component Yet.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
-        "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
-      ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
-      "importance": 7,
-      "sources": [
-        {
-          "name": "Stack Overflow Blog",
-          "url": "https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet/"
         }
       ]
     },
@@ -256,7 +256,7 @@
         "Technical Implementation: Go has included support for JSON in the standard library since well before Go 1.0.",
         "Deployment & Impact: We first wrote about support for JSON in Go more than 15 years ago! Over time, packages evolve with the needs of their users, and encoding/json is no exception."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
@@ -276,7 +276,7 @@
         "Technical Implementation: Within approximately seven and a half hours of being notified, we shipped a targeted patch, which was included in our first-ever URGENT track security release.",
         "Deployment & Impact: Here is the context behind the incident, why Go stepped in at the runtime level to protect our users and how our incident response unfolded."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
@@ -288,95 +288,115 @@
     {
       "id": "story_live_15",
       "category": "DEVELOPERS",
-      "headline": "Physicists listened to electrical noise to crack a superconductor mystery",
-      "summary": "Superconductors carry electricity without resistance, but most only work a few degrees above absolute zero. In the late 1980s, copper-based materials called cuprates were found to superconduct at higher temperatures—reachable with affordable liquid nitrogen.",
-      "why_it_matters": "Yet nearly 40 years later, physicists still don't agree on why. This marks a notable development for engineering teams working in developers.",
+      "headline": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+      "summary": "It's barely been two months since the controversial Paramount and Warner Bros. merger, and we've already got a shockingly unexpected ouster : Co-CEOs of the rebooted DC Universe, James Gunn and Peter Safran, are stepping down from that role despite the Hollywood rumor mill assuming that the duo would be safe.",
+      "why_it_matters": "It's unclear whether the pair chose to resign or were forced out, or what will happen to their planned slate of projects beyond 2028's Superman: Man of Tomorrow , which is in post-production. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: Ars Technica focuses on solving key constraints regarding physicists listened to electrical noise to crack a superconductor mystery.",
-        "Technical Implementation: In the late 1980s, copper-based materials called cuprates were found to superconduct at higher temperatures—reachable with affordable liquid nitrogen.",
-        "Deployment & Impact: Yet nearly 40 years later, physicists still don't agree on why."
+        "Problem & Context: Ars Technica focuses on solving key constraints regarding dcu shake-up: james gunn and peter safran out post-merger.",
+        "Technical Implementation: merger, and we've already got a shockingly unexpected ouster : Co-CEOs of the rebooted DC Universe, James Gunn and Peter Safran, are stepping down from that role despite the Hollywood rumor mill assuming that the duo would be safe.",
+        "Deployment & Impact: It's unclear whether the pair chose to resign or were forced out, or what will happen to their planned slate of projects beyond 2028's Superman: Man of Tomorrow , which is in post-production."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
+          "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/"
         }
       ]
     },
     {
       "id": "story_live_16",
       "category": "DEVELOPERS",
-      "headline": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-      "summary": "It’s not easy to extract iron from its ore. But the peoples of the ancient city of Great Zimbabwe—the capital of a thriving kingdom in southern Africa between 1000 to 1700 AD—were masters.",
-      "why_it_matters": "At sites near the city’s stone ruins, clusters of iron-smelting furnaces survive today as mounds of rubble. This marks a notable development for engineering teams working in developers.",
+      "headline": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+      "summary": "A man who lost over $308,000 making sports wagers on Kalshi is suing the prediction market for violating the state of Washington's ban on online gambling. He's trying to turn those losses into an overall victory with a lawsuit seeking a payment of over $580,000.",
+      "why_it_matters": "Bellevue, Washington, resident Scott Bright's \"wagering occurred at a time when it was unlawful in Washington and when the Washington Attorney General had already sued KalshiEX LLC in this Court alleging precisely that,\" said the gambler's lawsuit filed on September 24 in King County Superior Court. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: But the peoples of the ancient city of Great Zimbabwe—the capital of a thriving kingdom in southern Africa between 1000 to 1700 AD—were masters.",
-        "Technical Implementation: But the peoples of the ancient city of Great Zimbabwe—the capital of a thriving kingdom in southern Africa between 1000 to 1700 AD—were masters.",
-        "Deployment & Impact: At sites near the city’s stone ruins, clusters of iron-smelting furnaces survive today as mounds of rubble."
+        "Problem & Context: Ars Technica focuses on solving key constraints regarding man who lost $308,000 on sports bets sues kalshi for offering illegal gambling.",
+        "Technical Implementation: He's trying to turn those losses into an overall victory with a lawsuit seeking a payment of over $580,000.",
+        "Deployment & Impact: Bellevue, Washington, resident Scott Bright's \"wagering occurred at a time when it was unlawful in Washington and when the Washington Attorney General had already sued KalshiEX LLC in this Court alleging precisely that,\" said the gambler's lawsuit filed on September 24 in King County Superior Court."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/"
+          "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/"
         }
       ]
     },
     {
       "id": "story_live_17",
       "category": "DEVELOPERS",
-      "headline": "systemd loves Rust",
-      "summary": "systemd loves Rust announced by Lobste.rs.",
+      "headline": "How Much Energy Does Building Distro Packages Use",
+      "summary": "How Much Energy Does Building Distro Packages Use announced by Lobste.rs.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Lobste.rs focuses on solving key constraints regarding systemd loves rust.",
+        "Problem & Context: Lobste.rs focuses on solving key constraints regarding how much energy does building distro packages use.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Lobste.rs",
-          "url": "https://amutable.com/blog/systemd-loves-rust"
+          "url": "https://www.wezm.net/v2/posts/2026/distro-energy-use/"
         }
       ]
     },
     {
       "id": "story_live_18",
       "category": "DEVELOPERS",
-      "headline": "Unattended reboots with encrypted disks",
-      "summary": "Unattended reboots with encrypted disks announced by Lobste.rs.",
+      "headline": "Horrible public key tricks",
+      "summary": "Horrible public key tricks announced by Lobste.rs.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Lobste.rs focuses on solving key constraints regarding unattended reboots with encrypted disks.",
+        "Problem & Context: Lobste.rs focuses on solving key constraints regarding horrible public key tricks.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Lobste.rs",
-          "url": "https://jmmv.dev/2026/11/zkeys-intro.html"
+          "url": "https://maurycyz.com/projects/badcert/"
         }
       ]
     },
     {
       "id": "story_live_19",
       "category": "BIG TECH",
+      "headline": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+      "summary": "Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON NOVEMBER 9, 2026 TO DevInfra Extending LLDB to Debug Applications That Span CPUs and GPUs By Greg Clayton, Satyanarayana Janga, Jeffrey Tan, Janet Yang, Bar Soloveychik, Chen Li, Vipul Bansal We built a vendor-neutral accelerator plugin architecture in lldb-server for debugging applications that span CPUs and GPUs. It separates shared debugger infrastructure from hardware-specific device control.",
+      "why_it_matters": "The design represents the CPU and GPU as separate debugger processes while presenting them in one debugging session. This marks a notable development for engineering teams working in big tech.",
+      "key_points": [
+        "Problem & Context: Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON NOVEMBER 9, 2026 TO DevInfra Extending LLDB to Debug Applications That Span CPUs and GPUs By Greg Clayton, Satyanarayana Janga, Jeffrey Tan, Janet Yang, Bar Soloveychik, Chen Li, Vipul Bansal We built a vendor-neutral accelerator plugin architecture in lldb-server for debugging applications that span CPUs and GPUs.",
+        "Technical Implementation: A workload can begin in a high-level framework and move back and forth between native CPU code and kernels running on a GPU.",
+        "Deployment & Impact: The CPU and GPU may use different instruction sets, registers, memory spaces, and execution models."
+      ],
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "Meta Engineering",
+          "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_20",
+      "category": "BIG TECH",
       "headline": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
-      "summary": "Skip to content Search this site Open Source Platforms Infrastructure Systems Physical Infrastructure Video Engineering & AR/VR Artificial Intelligence Watch Videos POSTED ON NOVEMBER 3, 2026 TO ML APPLICATIONS, PRODUCTION ENGINEERING F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale By Xiaohe Dong, Jonathan He, Jesus Francisco Anaya Gonzalez, Purbesh Sahoo, Daniel Wang Facebook Feature Framework (F3) is Meta’s framework for authoring, compiling, and serving the machine learning features underlying ads ranking models, where a single request can require more than 20,000 features. We first presented F3 at AI @ Scale 2020.",
+      "summary": "Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON NOVEMBER 3, 2026 TO ML Applications, Production Engineering F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale By Xiaohe Dong, Jonathan He, Jesus Francisco Anaya Gonzalez, Purbesh Sahoo, Daniel Wang Facebook Feature Framework (F3) is Meta’s framework for authoring, compiling, and serving the machine learning features underlying ads ranking models, where a single request can require more than 20,000 features. We first presented F3 at AI @ Scale 2020.",
       "why_it_matters": "F3 reduced execution computational costs by compiling all features into a single merged graph, but that graph also served as the release unit, so a single failure or invalid definition blocked the entire release pipeline. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Skip to content Search this site Open Source Platforms Infrastructure Systems Physical Infrastructure Video Engineering & AR/VR Artificial Intelligence Watch Videos POSTED ON NOVEMBER 3, 2026 TO ML APPLICATIONS, PRODUCTION ENGINEERING F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale By Xiaohe Dong, Jonathan He, Jesus Francisco Anaya Gonzalez, Purbesh Sahoo, Daniel Wang Facebook Feature Framework (F3) is Meta’s framework for authoring, compiling, and serving the machine learning features underlying ads ranking models, where a single request can require more than 20,000 features.",
+        "Problem & Context: Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON NOVEMBER 3, 2026 TO ML Applications, Production Engineering F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale By Xiaohe Dong, Jonathan He, Jesus Francisco Anaya Gonzalez, Purbesh Sahoo, Daniel Wang Facebook Feature Framework (F3) is Meta’s framework for authoring, compiling, and serving the machine learning features underlying ads ranking models, where a single request can require more than 20,000 features.",
         "Technical Implementation: We first presented F3 at AI @ Scale 2020.",
         "Deployment & Impact: F3 reduced execution computational costs by compiling all features into a single merged graph, but that graph also served as the release unit, so a single failure or invalid definition blocked the entire release pipeline."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
@@ -386,27 +406,27 @@
       ]
     },
     {
-      "id": "story_live_20",
+      "id": "story_live_21",
       "category": "BIG TECH",
-      "headline": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
-      "summary": "Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON OCTOBER 29, 2026 TO AI Research, ML Applications, Security & Privacy Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale By Sreeja Thummala, Sophie Zeng, Mark Harman, Weini Liu, Eric Liu Over the last year we’ve been sharing our work leveraging large language models to catch bugs on the fly — a novel approach we call Catching Just-in-Time Tests (JiTTests). Now, we’re sharing the results and positive impact we’ve seen with Catching JiTTests deployed into production.",
-      "why_it_matters": "Our paper, “Just-in-Time Catching Test Generation at Meta,” fully details our initial deployment and testing with Catching JiTTests. This marks a notable development for engineering teams working in big tech.",
+      "headline": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
+      "summary": "By Shreya S Ramanujam , Yongce Li , Afshine Amidi , Sina Ghiassian , Benjamin Klein. Introduction Picture this — you’re home after a long day at work and can’t wait to catch up on Bridgerton.",
+      "why_it_matters": "You log on to Netflix, search for “Bridgerton” and land on this screen: If this sounds familiar, you already know what a synopsis is — it’s a short glimpse into what a viewer can expect to see in a show. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON OCTOBER 29, 2026 TO AI Research, ML Applications, Security & Privacy Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale By Sreeja Thummala, Sophie Zeng, Mark Harman, Weini Liu, Eric Liu Over the last year we’ve been sharing our work leveraging large language models to catch bugs on the fly — a novel approach we call Catching Just-in-Time Tests (JiTTests).",
-        "Technical Implementation: Every code change improves our platform, but it also introduces new complexity.",
-        "Deployment & Impact: With hundreds of millions of lines of code constantly evolving at Meta, traditional testing can’t keep pace."
+        "Problem & Context: At Netflix’s scale, with thousands of titles, multiple episodes per season and multiple languages, fact-checking all of these by hand simply doesn’t scale.",
+        "Technical Implementation: Our current factuality checker feeds a reasoning model everything we know about a title (like metadata and text assets) and asks it to judge synopsis factuality according to a rigorous rubric.",
+        "Deployment & Impact: There are two main limitations of this approach that we want to optimize: High cost of long-context reasoning calls: Each decision requires expensive, long-context model calls to reasoning models, which doesn’t scale well when we want to check multiple titles, episodes, languages, and style variants."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
-          "name": "Meta Engineering",
-          "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/"
+          "name": "Netflix Tech Blog",
+          "url": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4"
         }
       ]
     },
     {
-      "id": "story_live_21",
+      "id": "story_live_22",
       "category": "BIG TECH",
       "headline": "Making Failure Diagnosis Reliable with Pensive AI",
       "summary": "By Praneeth Yenugutala , Victor Dusa , Anastasia Samoilova , Megan Ren , Justin Wei , Marcelo Mayworm At Netflix, data and machine learning practitioners run millions of workloads each day across orchestration systems and compute engines such as Titus, Spark, Trino, and Druid. On peak days, roughly 100,000 workloads fail.",
@@ -416,7 +436,7 @@
         "Technical Implementation: Someone still needs to find the useful signal in several logs, decide whether the cause sits in their code or the platform, and determine whether to retry, reconfigure, or escalate.",
         "Deployment & Impact: Even a small share of difficult failures can consume engineering time, waste compute, and interrupt critical data pipelines."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
@@ -426,117 +446,117 @@
       ]
     },
     {
-      "id": "story_live_22",
-      "category": "BIG TECH",
-      "headline": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
-      "summary": "Serdar Cellat , Yuchen Xie , Bernadette Marcu , Blaid Burgess , Cody Jarrett , Carlos Pereira , Qing Shi , Samuel Carvajal , Manuel Pamplona , Dorothy Jung , Feiko Ritsema , Benjamin Klein , Alex Woo , Eugene Lok , Anna Pulido , Rebecka Swe , Sanford Holsapple , Ranjith Kumar Shetty Introduction Clips in the Netflix mobile app. At Netflix, a crucial part of our mission is ensuring our content looks stunning on any device.",
-      "why_it_matters": "Vertical formats are increasingly important for Netflix, as we have 1.2B followers across our social media accounts, and have recently rolled out Clips , our vertical video feed in the Netflix mobile app. This marks a notable development for engineering teams working in big tech.",
-      "key_points": [
-        "Problem & Context: Traditionally, creating vertical assets meant editors and producers manually reframed horizontal videos in editing tools, a process that doesn’t scale as our catalog and use cases grow.",
-        "Technical Implementation: To support both our in‑app feed and external marketing campaigns at scale, we built an automated multi‑ratio video cropping system, tightly integrated into our internal production tools, that can generate high‑quality vertical and other aspect‑ratio variants with minimal manual effort.",
-        "Deployment & Impact: Vertical formats are increasingly important for Netflix, as we have 1.2B followers across our social media accounts, and have recently rolled out Clips , our vertical video feed in the Netflix mobile app."
-      ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
-      "importance": 7,
-      "sources": [
-        {
-          "name": "Netflix Tech Blog",
-          "url": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4"
-        }
-      ]
-    },
-    {
       "id": "story_live_23",
       "category": "BIG TECH",
-      "headline": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "summary": "Jensen Huang, chief executive officer of Nvidia Corp., attends a media briefing following the company's \"Japan AI Ecosystem\" reception in Tokyo, Japan, on Thursday, July 16, 2026. Japan is planning to buy 27,500 next-generation Rubin chips from Nvidia Corp.",
-      "why_it_matters": "to build a homegrown foundational AI model for robots. This marks a notable development for engineering teams working in big tech.",
+      "headline": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "summary": "During Paramount Skydance's latest earnings call , CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to be the biggest creative unlock in modern history.",
+      "why_it_matters": "The last time we saw anything close to this was really the, you know, advent of CGI and digital composites in the early 90s. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Jensen Huang, chief executive officer of Nvidia Corp., attends a media briefing following the company's \"Japan AI Ecosystem\" reception in Tokyo, Japan, on Thursday, July 16, 2026.",
-        "Technical Implementation: to build a homegrown foundational AI model for robots.",
-        "Deployment & Impact: Throughout my life, my family has given me love and support."
+        "Problem & Context: The Verge Tech focuses on solving key constraints regarding david ellison says ai could be the ‘biggest creative unlock in modern history’.",
+        "Technical Implementation: In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to be the biggest creative unlock in modern history.",
+        "Deployment & Impact: The last time we saw anything close to this was really the, you know, advent of CGI and digital composites in the early 90s."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Verge Tech",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
+          "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai"
         }
       ]
     },
     {
       "id": "story_live_24",
       "category": "BIG TECH",
-      "headline": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
-      "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems.",
-      "why_it_matters": "\"Gold Chain Punk (whogonbeatmyass?)\" is an opening salvo for the ages. This marks a notable development for engineering teams working in big tech.",
+      "headline": "What could China get from Jensen Huang?",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years.",
+      "why_it_matters": "Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about $99 billion worth of equity investments in frontier AI labs, neoclouds, infrastructure companies, and more. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: The Verge Tech focuses on solving key constraints regarding soul glo’s diaspora problems is a hardcore record like no other.",
-        "Technical Implementation: While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems.",
-        "Deployment & Impact: \"Gold Chain Punk (whogonbeatmyass?)\" is an opening salvo for the ages."
+        "Problem & Context: Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about $99 billion worth of equity investments in frontier AI labs, neoclouds, infrastructure companies, and more.",
+        "Technical Implementation: The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years.",
+        "Deployment & Impact: Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about $99 billion worth of equity investments in frontier AI labs, neoclouds, infrastructure companies, and more."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Verge Tech",
-          "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review"
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang"
         }
       ]
     },
     {
       "id": "story_live_25",
       "category": "BIG TECH",
-      "headline": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy",
-      "summary": "Nvidia CEO Jensen Huang has admitted to having an affair with a woman who is allegedly a Chinese spy. His apology came in a letter to Nvidia staff, which you can read in full below.",
-      "why_it_matters": "Nvidia's board of directors released a statement late on Sunday to address the bombshell report that U.S. This marks a notable development for engineering teams working in big tech.",
+      "headline": "Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy",
+      "summary": "The baying of the hounds can be heard at a distance. Yesterday, Nvidia's Jensen Huang confirmed that it was indeed true that he had a romantic affair with Alice Huang (not related to the family), who U.S.",
+      "why_it_matters": "intelligence services claim is a Chinese honeypot tasked with facilitating smuggling of the firm's advanced GPUs into China. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: national security was compromised, but the company intends to examine all available information to determine what happened.",
-        "Technical Implementation: Huang, who has been married to his wife, Lori Huang, for 41 years, says he fully supports the investigation.",
-        "Deployment & Impact: national and economic security, which is paramount to the interests of Nvidia and its shareholders."
+        "Problem & Context: The suit claims that Nvidia and Jensen Huang failed to disclose or misled investors regarding Jensen's affair with Alice, lied about it when asked, raised national security concerns, and caused a subsequent loss of Nvidia's reputation.",
+        "Technical Implementation: While legal analysis is beyond the scope of this news, Nvidia did downplay Jensen's relationship with Alice, saying that \"Megaspeed has been no different than many other regional cloud customers.",
+        "Deployment & Impact: Meetings with customers are part of a CEO’s job; Jensen talks with thousands of customer executives every year.\" Other legal firms have launched their own investigations into the recent development, with essentially the same justification: Schall, Brown & Schwartz attributes a 5.5% pre-market-trading drop to Nvidia, as does Levi & Korsinsky."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate"
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/law-firm-files-class-action-lawsuit-against-nvidia-after-ceo-jensen-huang-confirms-affair-with-alleged-chinese-spy-more-to-come-as-multiple-other-law-firms-investigate-securities-fraud-following-stock-drop"
         }
       ]
     },
     {
       "id": "story_live_26",
       "category": "BIG TECH",
-      "headline": "Diamond Foundry creates world's first 200mm single-crystal diamond wafer",
-      "summary": "Diamonds have exceptional cooling capabilities due to their excellent thermal conductivity, with the material estimated to be at least five times more conductive than copper. Because of this, Diamond Foundry, a firm focusing on lab-grown diamonds, announced the world’s first 200mm single-crystal diamond (SCD) wafer.",
-      "why_it_matters": "The 200mm SCD is about the same wafer size that semiconductor fabs use for older processes, with the company boasting on its website that “Single-crystal diamond has entered the wafer-scale era.” This is part of the effort to manufacture SCD at scale so that it can be used for semiconductor cooling, especially now that increasing power of AI chips has also led to enormous thermal problems. This marks a notable development for engineering teams working in big tech.",
+      "headline": "Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact",
+      "summary": "A former employee of The Ethereum Foundation is suing the nonprofit, alleging disability discrimination, retaliation, unfair employment practices, and related claims, reports The Denver Post. 'The Ethereum Foundation Mandate,' a 38-page vision for the next 1,000 years, was distributed to the organization's ~250 employees in Q1 this year.",
+      "why_it_matters": "On page 11 of the finalized document, there was a bizarre and rather extreme oath. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: The 200mm SCD is about the same wafer size that semiconductor fabs use for older processes, with the company boasting on its website that “Single-crystal diamond has entered the wafer-scale era.” This is part of the effort to manufacture SCD at scale so that it can be used for semiconductor cooling, especially now that increasing power of AI chips has also led to enormous thermal problems.",
-        "Technical Implementation: (Image credit: Diamond Foundry ) Although the company was founded in 2012, it also acknowledged the work of scientists who have been chipping away at the scale problem of SCDs since the early 2000s.",
-        "Deployment & Impact: The 200mm SCD is about the same wafer size that semiconductor fabs use for older processes, with the company boasting on its website that “Single-crystal diamond has entered the wafer-scale era.” This is part of the effort to manufacture SCD at scale so that it can be used for semiconductor cooling, especially now that increasing power of AI chips has also led to enormous thermal problems."
+        "Problem & Context: Perhaps one could say it was illustrated like an anime version of Grimm’s fairy tales.",
+        "Technical Implementation: On this particular page, reproduced in court documents, anyone working on the software used by the Ethereum Federation (EF) was asked to ensure that the source code and associated documents remained free and publicly accessible.",
+        "Deployment & Impact: On page 11 of the finalized document, there was a bizarre and rather extreme oath."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors"
+          "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/ethereum-foundation-sued-after-firing-employee-over-mandatory-source-seppuku-suicide-pact-crypto-firm-demanded-employees-pledge-to-take-their-own-lives-with-a-sword-to-protect-open-source-code-founder-vitalik-claims-1-000-year-mandate-just-artwork"
         }
       ]
     },
     {
       "id": "story_live_27",
       "category": "STARTUPS",
-      "headline": "How a Blue Wave midterm might reshape the AI industry",
-      "summary": "–:–:–:– Buy One Founder Summit Ticket, Get a Second for Free. Get your pass savings & deals before it starts.",
-      "why_it_matters": "Close TechCrunch Desktop Logo TechCrunch Mobile Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Search Submit Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us How a Blue Wave midterm might reshape the AI industry Theresa Loconsolo , Anthony Ha , Sean O'Kane , Kirsten Korosec Nov 6, 2026 Listen on Apple Podcasts Listen on Spotify Democrats’ historic victories in this week’s U.S. This marks a notable development for engineering teams working in startups.",
+      "headline": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Close TechCrunch Desktop Logo TechCrunch Mobile Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Search Submit Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us How a Blue Wave midterm might reshape the AI industry Theresa Loconsolo , Anthony Ha , Sean O'Kane , Kirsten Korosec Nov 6, 2026 Listen on Apple Podcasts Listen on Spotify Democrats’ historic victories in this week’s U.S.",
+        "Problem & Context: TechCrunch Startups focuses on solving key constraints regarding ai hardware startup nominal triples valuation to $3b in 8 months.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
+        "Deployment & Impact: Published by TechCrunch Startups with documentation and production rollout details."
+      ],
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "TechCrunch Startups",
+          "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_28",
+      "category": "STARTUPS",
+      "headline": "How a Blue Wave midterm might reshape the AI industry",
+      "summary": "Skip to content TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us How a Blue Wave midterm might reshape the AI industry Theresa Loconsolo , Anthony Ha , Sean O'Kane , Kirsten Korosec Nov 6, 2026 Listen on Apple Podcasts Listen on Spotify Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry.",
+      "why_it_matters": "The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. This marks a notable development for engineering teams working in startups.",
+      "key_points": [
+        "Problem & Context: Skip to content TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us How a Blue Wave midterm might reshape the AI industry Theresa Loconsolo , Anthony Ha , Sean O'Kane , Kirsten Korosec Nov 6, 2026 Listen on Apple Podcasts Listen on Spotify Democrats’ historic victories in this week’s U.S.",
         "Technical Implementation: The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development.",
         "Deployment & Impact: And even when data centers weren’t on the ballot directly, they were a major talking point, with newly-elected Democratic governors and congressmembers likely to support additional regulation."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
@@ -546,37 +566,17 @@
       ]
     },
     {
-      "id": "story_live_28",
-      "category": "STARTUPS",
-      "headline": "Harbinger raises $240M after expanding into defense",
-      "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
-      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
-      "key_points": [
-        "Problem & Context: TechCrunch Startups focuses on solving key constraints regarding harbinger raises $240m after expanding into defense.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
-        "Deployment & Impact: Published by TechCrunch Startups with documentation and production rollout details."
-      ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
-      "importance": 7,
-      "sources": [
-        {
-          "name": "TechCrunch Startups",
-          "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/"
-        }
-      ]
-    },
-    {
       "id": "story_live_29",
       "category": "CYBERSECURITY",
       "headline": "Want to Rent an Internet Address at the White House?",
-      "summary": "Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Want to Rent an Internet Address at the White House? November 4, 2026 35 Comments Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder’s web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.",
+      "summary": "Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Want to Rent an Internet Address at the White House? November 4, 2026 39 Comments Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder’s web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.",
       "why_it_matters": "The security firm Layer3 Intel said it detected multiple residential proxy nodes beaconing out from the internet address network reserved for the Executive Office of the President (AS2650). This marks a notable development for engineering teams working in cybersecurity.",
       "key_points": [
-        "Problem & Context: Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Want to Rent an Internet Address at the White House? November 4, 2026 35 Comments Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today.",
+        "Problem & Context: Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Want to Rent an Internet Address at the White House? November 4, 2026 39 Comments Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today.",
         "Technical Implementation: One of the proxy services is a Russian company whose founder’s web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.",
         "Deployment & Impact: The security firm Layer3 Intel said it detected multiple residential proxy nodes beaconing out from the internet address network reserved for the Executive Office of the President (AS2650)."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
@@ -596,7 +596,7 @@
         "Technical Implementation: A report from the Google Threat Intelligence Group (GTIG) said Google has severed ties with Videostrong Technology Co., a TV box manufacturer in China that GTIG and other industry experts concluded was responsible for including malware that enrolled more than 1.3 million set-top boxes in a botnet dubbed “XCPE” (named after one of the malware’s core code components).",
         "Deployment & Impact: As detailed in several stories here over the past year, residential proxy services are a major source of unwanted and often malicious traffic, including account takeover activity, advertising fraud, and mass content scraping for AI projects."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
@@ -608,125 +608,145 @@
     {
       "id": "story_live_31",
       "category": "CYBERSECURITY",
-      "headline": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-      "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file.",
-      "why_it_matters": "Software security company Apiiro said yesterday that 1,122 public. This marks a notable development for engineering teams working in cybersecurity.",
+      "headline": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's platform uses to reach those customers.",
+      "why_it_matters": "How the attacker got those credentials has not been disclosed. This marks a notable development for engineering teams working in cybersecurity.",
       "key_points": [
-        "Problem & Context: Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.",
-        "Technical Implementation: Software security company Apiiro said yesterday that 1,122 public.",
-        "Deployment & Impact: Software security company Apiiro said yesterday that 1,122 public."
+        "Problem & Context: An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today.",
+        "Technical Implementation: Qubole, a data lake platform owned by Idera,.",
+        "Deployment & Impact: How the attacker got those credentials has not been disclosed."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html"
+          "url": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html"
         }
       ]
     },
     {
       "id": "story_live_32",
       "category": "CYBERSECURITY",
-      "headline": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the right moment can run code on the server.",
-      "why_it_matters": "The researcher advises blocking web access to the. This marks a notable development for engineering teams working in cybersecurity.",
+      "headline": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+      "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal the wallet key that Swarm Desktop keeps for its node, along with the stored password that unlocks it.",
+      "why_it_matters": "The code is also built to install a backdoor. This marks a notable development for engineering teams working in cybersecurity.",
       "key_points": [
-        "Problem & Context: Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it.",
-        "Technical Implementation: The update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the right moment can run code on the server.",
-        "Deployment & Impact: The researcher advises blocking web access to the."
+        "Problem & Context: Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2.",
+        "Technical Implementation: Both releases download and run code built to steal the wallet key that Swarm Desktop keeps for its node, along with the stored password that unlocks it.",
+        "Deployment & Impact: The code is also built to install a backdoor."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html"
+          "url": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html"
         }
       ]
     },
     {
       "id": "story_live_33",
       "category": "CYBERSECURITY",
-      "headline": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-      "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used.",
+      "headline": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data.",
       "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used.",
+        "Problem & Context: Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data.",
         "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
         "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/"
+          "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/"
         }
       ]
     },
     {
       "id": "story_live_34",
       "category": "CYBERSECURITY",
-      "headline": "Hackers pull off $133 million French bank heist via service provider",
-      "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [.].",
+      "headline": "SEGA newsletter data breach exposes 2.2 million email addresses",
+      "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers.",
       "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [.].",
+        "Problem & Context: Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers.",
         "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
         "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/"
+          "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/"
         }
       ]
     },
     {
       "id": "story_live_35",
       "category": "CLOUD",
-      "headline": "Huawei says it’s made a 100 percent Chinese PC",
-      "summary": "Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Supercomputing SYSTEMS Huawei says it’s made a 100 percent Chinese PC PLUS: Japan declares infosec emergency; Apple’s makes biggest school Mac sale, ever, anywhere, in the Philippines; And more! Simon Sharwood APAC EDITOR 0 Published Mon 09 Nov 2026 // 02:14 UTC Make us preferred on Google READ MORE Nvidia CEO Jensen Huang starring in possible remake of The Spy Who Shagged Me 2 hours ago NHS breach helpline left staff carrying a 'significant emotional burden' 1 day ago Agents reveal secrets when offered to team up with each other 2 days ago Mac lookalikes multiply as Linux raids Apple's wardrobe 2 days ago DigiCert admits 16-month security lapse exposed customer information 2 days ago Huawei claims it’s built a desktop PC that uses only parts made in CHina. The company launched the Qingyun HM650 last week and said it uses Huawei’s own Kirin X90 processor, a ten-core 20-thread machine with a clock speed of 2.3 GHz.",
-      "why_it_matters": "The machine runs a newly developed enterprise version of HarmonyOS, the OS Huawei developed to end its dependence on Android and which it intends to run on most of the devices it makes. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Cisco to link all future products to its SaaS-y Cloud Control management tool",
+      "summary": "Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Supercomputing NETWORKS Cisco to link all future products to its SaaS-y Cloud Control management tool Global rollout of unified portal finally happening in 2027 Simon Sharwood APAC EDITOR 0 Published Tue 10 Nov 2026 // 03:32 UTC Make us preferred on Google READ MORE Anthropic's super bug-finding Mythos model is going into Cisco and IBM products 3 hours ago Copilot Chat has usage caps, and Microsoft would rather you found them by hitting them 4 days ago Aussie Adobe assailant Canva announces layoffs in re-org affecting 22% of staff 6 days ago Thieves pilfer environment variables from Trigger AI workflow tool 7 days ago Cisco open sources tool for detecting AI agents on hacking sprees 12 days ago Cisco will no longer create products that don’t integrate with Cloud Control, its SaaS-y management platform that offers netadmins a single tool to manage all of the networking giant’s devices and much of its software portfolio. The networking giant announced Cloud Control in June 2025 and only made it available to customers in the USA.",
+      "why_it_matters": "Cisco has previously told The Register that slow rollout reflects the fact that Cisco needs to nail privacy and other regulatory niceties, and deploy infrastructure, before introducing the service to other markets. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Supercomputing SYSTEMS Huawei says it’s made a 100 percent Chinese PC PLUS: Japan declares infosec emergency; Apple’s makes biggest school Mac sale, ever, anywhere, in the Philippines; And more! Simon Sharwood APAC EDITOR 0 Published Mon 09 Nov 2026 // 02:14 UTC Make us preferred on Google READ MORE Nvidia CEO Jensen Huang starring in possible remake of The Spy Who Shagged Me 2 hours ago NHS breach helpline left staff carrying a 'significant emotional burden' 1 day ago Agents reveal secrets when offered to team up with each other 2 days ago Mac lookalikes multiply as Linux raids Apple's wardrobe 2 days ago DigiCert admits 16-month security lapse exposed customer information 2 days ago Huawei claims it’s built a desktop PC that uses only parts made in CHina.",
-        "Technical Implementation: The machine runs a newly developed enterprise version of HarmonyOS, the OS Huawei developed to end its dependence on Android and which it intends to run on most of the devices it makes.",
-        "Deployment & Impact: The ¥10 billion ($63 million) package follows a wave of cyberattacks that have disrupted railways, retailers, KFC’s logistics provider, and cloud computing operators."
+        "Problem & Context: Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Supercomputing NETWORKS Cisco to link all future products to its SaaS-y Cloud Control management tool Global rollout of unified portal finally happening in 2027 Simon Sharwood APAC EDITOR 0 Published Tue 10 Nov 2026 // 03:32 UTC Make us preferred on Google READ MORE Anthropic's super bug-finding Mythos model is going into Cisco and IBM products 3 hours ago Copilot Chat has usage caps, and Microsoft would rather you found them by hitting them 4 days ago Aussie Adobe assailant Canva announces layoffs in re-org affecting 22% of staff 6 days ago Thieves pilfer environment variables from Trigger AI workflow tool 7 days ago Cisco open sources tool for detecting AI agents on hacking sprees 12 days ago Cisco will no longer create products that don’t integrate with Cloud Control, its SaaS-y management platform that offers netadmins a single tool to manage all of the networking giant’s devices and much of its software portfolio.",
+        "Technical Implementation: The networking giant announced Cloud Control in June 2025 and only made it available to customers in the USA.",
+        "Deployment & Impact: Jeff Schultz, Cisco’s senior vice president for portfolio strategy and marketing, today told the company’s Live conference in Australia that Cloud Control will come online in the European Union, UK, and Down Under in February 2027."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Register",
-          "url": "https://www.theregister.com/systems/2026/11/09/huawei-says-its-made-a-100-percent-chinese-pc/5308335"
+          "url": "https://www.theregister.com/networks/2026/11/10/cisco-to-link-all-future-products-to-its-saas-y-cloud-control-management-tool/5308660"
         }
       ]
     },
     {
       "id": "story_live_36",
       "category": "CLOUD",
-      "headline": "Nvidia CEO Jensen Huang starring in possible remake of The Spy Who Shagged Me",
-      "summary": "Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Supercomputing LEGAL Nvidia CEO Jensen Huang starring in possible remake of The Spy Who Shagged Me Admits to affair after company board opens probe into alleged contact with Chinese asset who bought GPUs in bulk Simon Sharwood APAC EDITOR 4 Published Mon 09 Nov 2026 // 00:04 UTC Make us preferred on Google READ MORE Huawei says it’s made a 100 percent Chinese PC now PyTorch 2.15 tackles the 'one bad GPU' problem 2 days ago Britain's tech ambitions depend on minerals made in China, MPs warn 2 days ago China outlines plans for moonshot it hopes to land by 2030 4 days ago Nvidia is happy to take your money whether you're using open or closed models, says Jensen Huang 5 days ago Nvidia’s board has opened an investigation into its CEO Jensen Huang after he admitted to an affair, amid allegations he had a commercial relationship with a woman US authorities feel is likely a Chinese spy. The AI hardware giant’s board published a statement on Sunday afternoon that states it is “initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort.” The New York Times is the source of that reporting.",
-      "why_it_matters": "On October 29 it alleged US government intelligence agencies decided to investigate a woman who goes by Alice Huang and/or Huang Le, on grounds she passes intelligence with Beijing. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Anthropic's super bug-finding Mythos model is going into Cisco and IBM products",
+      "summary": "Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Supercomputing AI AND ML Anthropic's super bug-finding Mythos model is going into Cisco and IBM products Enterprise security tools will offer its capabilities without handing customers the model itself Simon Sharwood APAC EDITOR 0 Published Tue 10 Nov 2026 // 00:00 UTC Make us preferred on Google READ MORE Cisco to link all future products to its SaaS-y Cloud Control management tool now France blames Iran for supermarket hack meltdowns 4 hours ago Attackers backdoor trusted AWS integrations to steal secrets 7 hours ago Researchers pwn automakers’ Android apps to remotely unlock cars, honk horns 10 hours ago Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session 12 hours ago Anthropic has started extending access to its bug-finding Mythos model by allowing Cisco and IBM to make it part of their security products. Cisco announced its integration today at an event in Melbourne, Australia, where it revealed that the red teaming tools in its AI Defense suite, which looks for weaknesses and inappropriate activity in AI models, agents, and applications they power, will be able to call Mythos to test customers’ setups.",
+      "why_it_matters": "“At a very high level, AI Defense has the ability to look at models and break them,” said Jeff Schultz, Cisco’s senior vice president for portfolio strategy and marketing. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Supercomputing LEGAL Nvidia CEO Jensen Huang starring in possible remake of The Spy Who Shagged Me Admits to affair after company board opens probe into alleged contact with Chinese asset who bought GPUs in bulk Simon Sharwood APAC EDITOR 4 Published Mon 09 Nov 2026 // 00:04 UTC Make us preferred on Google READ MORE Huawei says it’s made a 100 percent Chinese PC now PyTorch 2.15 tackles the 'one bad GPU' problem 2 days ago Britain's tech ambitions depend on minerals made in China, MPs warn 2 days ago China outlines plans for moonshot it hopes to land by 2030 4 days ago Nvidia is happy to take your money whether you're using open or closed models, says Jensen Huang 5 days ago Nvidia’s board has opened an investigation into its CEO Jensen Huang after he admitted to an affair, amid allegations he had a commercial relationship with a woman US authorities feel is likely a Chinese spy.",
-        "Technical Implementation: The Times further alleges Ms Huang is a Chinese citizen who worked for a Singapore-based company called Megaspeed that has bought plenty of Nvidia hardware and is suspected of doing so to make it available to Chinese users, either by running inside datacenters or facilitating transport to the Middle Kingdom.",
-        "Deployment & Impact: The US has for years banned or restricted exports of advanced GPUs to China, partly because it feels Beijing’s armed forces can use them to build systems that will erode America’s military superiority."
+        "Problem & Context: Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Supercomputing AI AND ML Anthropic's super bug-finding Mythos model is going into Cisco and IBM products Enterprise security tools will offer its capabilities without handing customers the model itself Simon Sharwood APAC EDITOR 0 Published Tue 10 Nov 2026 // 00:00 UTC Make us preferred on Google READ MORE Cisco to link all future products to its SaaS-y Cloud Control management tool now France blames Iran for supermarket hack meltdowns 4 hours ago Attackers backdoor trusted AWS integrations to steal secrets 7 hours ago Researchers pwn automakers’ Android apps to remotely unlock cars, honk horns 10 hours ago Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session 12 hours ago Anthropic has started extending access to its bug-finding Mythos model by allowing Cisco and IBM to make it part of their security products.",
+        "Technical Implementation: Cisco announced its integration today at an event in Melbourne, Australia, where it revealed that the red teaming tools in its AI Defense suite, which looks for weaknesses and inappropriate activity in AI models, agents, and applications they power, will be able to call Mythos to test customers’ setups.",
+        "Deployment & Impact: “At a very high level, AI Defense has the ability to look at models and break them,” said Jeff Schultz, Cisco’s senior vice president for portfolio strategy and marketing."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Register",
-          "url": "https://www.theregister.com/legal/2026/11/09/nvidia-ceo-jensen-huang-starring-in-possible-remake-of-the-spy-who-shagged-me/5308327"
+          "url": "https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616"
         }
       ]
     },
     {
       "id": "story_live_37",
+      "category": "CLOUD",
+      "headline": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
+      "summary": "Most of the cost of adopting something new isn’t the new thing, it’s the move. Moving a Hive table to Apache Iceberg has typically meant weeks of engineering work.",
+      "why_it_matters": "Last week, Amazon S3 Tables turned that into three steps: start, sync as often as you need, complete. This marks a notable development for engineering teams working in cloud.",
+      "key_points": [
+        "Problem & Context: The same week, Amazon DynamoDB started loading data from S3 into tables that already exist.",
+        "Technical Implementation: The new Amazon Bedrock AgentCore Runtime is a single field on the runtime you already have, and Web Answer is a tool you attach to a gateway you already run.",
+        "Deployment & Impact: To opt in, you set platformVersion to V2 when you create or update a runtime."
+      ],
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "AWS News Blog",
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/"
+        }
+      ]
+    },
+    {
+      "id": "story_live_38",
       "category": "CLOUD",
       "headline": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
       "summary": "Today, we’re announcing a simple, cost-effective path for data lake modernization. Amazon S3 Tables now support managed migration of your Apache Hive tables to Apache Iceberg.",
@@ -736,7 +756,7 @@
         "Technical Implementation: Amazon S3 Tables now support managed migration of your Apache Hive tables to Apache Iceberg.",
         "Deployment & Impact: Migration works with Parquet tables in Amazon S3 that are registered in the AWS Glue Data Catalog and allows you to upgrade your data lake with no pipelines to build or compute to provision, while production workloads keep running."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
@@ -746,27 +766,27 @@
       ]
     },
     {
-      "id": "story_live_38",
+      "id": "story_live_39",
       "category": "CLOUD",
-      "headline": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026)",
-      "summary": "The agentic launches that stayed with me last week had nothing to do with how capable a model is. AWS Step Functions , which already orchestrates over 220 AWS services, can now be handed to an agent as a tool, so workflows teams already trust became callable without a rewrite.",
-      "why_it_matters": "In the same week, the AI blog published how one engagement platform exposed roughly 400 internal API operations the same way. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Launching the Vite Ecosystem Fund",
+      "summary": "Cloudflare is distributing the first $301,300 of the Vite Ecosystem Fund to 44 projects and maintainers across the Vite ecosystem. When VoidZero joined Cloudflare, we committed $1 million to strengthen the open source ecosystem around Vite.",
+      "why_it_matters": "This round is just the start. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: The agentic launches that stayed with me last week had nothing to do with how capable a model is.",
-        "Technical Implementation: AWS Step Functions , which already orchestrates over 220 AWS services, can now be handed to an agent as a tool, so workflows teams already trust became callable without a rewrite.",
-        "Deployment & Impact: In the same week, the AI blog published how one engagement platform exposed roughly 400 internal API operations the same way."
+        "Problem & Context: Cloudflare is distributing the first $301,300 of the Vite Ecosystem Fund to 44 projects and maintainers across the Vite ecosystem.",
+        "Technical Implementation: When VoidZero joined Cloudflare, we committed $1 million to strengthen the open source ecosystem around Vite.",
+        "Deployment & Impact: If that’s the case, then why not cut out the middleman? Maintainers now have their own agents they can prompt to produce better results since they have more knowledge of the codebase."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
-          "name": "AWS News Blog",
-          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/"
+          "name": "Cloudflare Blog",
+          "url": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/"
         }
       ]
     },
     {
-      "id": "story_live_39",
+      "id": "story_live_40",
       "category": "CLOUD",
       "headline": "The post-quantum future of web privacy",
       "summary": "The highest priorities for the transition to post-quantum cryptography are the basic building blocks of authenticated key-agreement protocols such as TLS. Without these building blocks in place, secure communication on the Internet will not be possible once cryptographically relevant quantum computers come online.",
@@ -776,32 +796,12 @@
         "Technical Implementation: Without these building blocks in place, secure communication on the Internet will not be possible once cryptographically relevant quantum computers come online.",
         "Deployment & Impact: Privacy Pass is a protocol used by site operators like Cloudflare to help protect applications from abuse."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Cloudflare Blog",
           "url": "https://blog.cloudflare.com/vole-mole/"
-        }
-      ]
-    },
-    {
-      "id": "story_live_40",
-      "category": "CLOUD",
-      "headline": "Agents aren’t humans (but they kinda are)",
-      "summary": "AI Agents now act on the web for millions of people. To a Site, an Agent can take many forms.",
-      "why_it_matters": "It may be indistinguishable from a human user carrying out a task, or it might look like one visitor carrying many Users. This marks a notable development for engineering teams working in cloud.",
-      "key_points": [
-        "Problem & Context: It may be indistinguishable from a human user carrying out a task, or it might look like one visitor carrying many Users.",
-        "Technical Implementation: This removes the ability for the Site to recognize, serve, and hold accountable the user or users behind the Agent, and causes the Site to face the costs when something goes wrong.",
-        "Deployment & Impact: This post argues that in order for Sites to maximize the access they provide to Agents, the ecosystem must develop new mechanisms to preserve the relationship between Sites and Users."
-      ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
-      "importance": 7,
-      "sources": [
-        {
-          "name": "Cloudflare Blog",
-          "url": "https://blog.cloudflare.com/trusted-agent-delegation/"
         }
       ]
     },
@@ -816,7 +816,7 @@
         "Technical Implementation: Today, Microsoft and fal are helping developers find the right tools for their workloads.",
         "Deployment & Impact: We are excited to announce that Kling, LTX, and MiniMax video models are rolling out to in public preview in Microsoft Foundry through our new partnership with fal."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
@@ -836,7 +836,7 @@
         "Technical Implementation: This approach manages cost, performance, governance, and reliability as adoption grows.",
         "Deployment & Impact: Read the IDC InfoBrief Nearly 90% of organizations apply financial thresholds before approving AI initiatives."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
@@ -849,14 +849,14 @@
       "id": "story_live_43",
       "category": "TECHNOLOGY RESEARCH",
       "headline": "How far can we push computing?",
-      "summary": "SKIP TO CONTENT Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue COMPUTING How far can we push computing? Nowadays big advances are made by scaling up—think more chips packed into ever-bigger data centers. But as we near the ceiling of what we can build, there’s still plenty of room below, at the fundamental physical limits of computing.",
-      "why_it_matters": "Richard Feynman speaks at CERN in Geneva, Switzerland, in 1965. This marks a notable development for engineering teams working in technology research.",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
+      "why_it_matters": "On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom,” on how we might manipulate and control things on an extremely small scale. This marks a notable development for engineering teams working in technology research.",
       "key_points": [
-        "Problem & Context: SKIP TO CONTENT Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue COMPUTING How far can we push computing? Nowadays big advances are made by scaling up—think more chips packed into ever-bigger data centers.",
-        "Technical Implementation: But as we near the ceiling of what we can build, there’s still plenty of room below, at the fundamental physical limits of computing.",
-        "Deployment & Impact: On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom,” on how we might manipulate and control things on an extremely small scale."
+        "Problem & Context: On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom,” on how we might manipulate and control things on an extremely small scale.",
+        "Technical Implementation: Biology already did versions of this (a living cell keeps its instructions in a wisp of DNA), so all of this was plainly permitted by the laws of physics.",
+        "Deployment & Impact: We simply had not built the tools yet."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
@@ -876,7 +876,7 @@
         "Technical Implementation: For anyone building products in the portable power category, this creates an uncomfortable gap between specification and experience.",
         "Deployment & Impact: Convenience and thermal performance are working against each other by design."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
@@ -887,121 +887,161 @@
     },
     {
       "id": "story_live_45",
-      "category": "STARTUPS",
-      "headline": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-      "summary": "Trending discussion on Hacker News with score of 241 points and 68 developer comments.",
-      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
+      "category": "TECHNOLOGY RESEARCH",
+      "headline": "Enhancing Academic Advisement with Case-Based Reasoning",
+      "summary": "arXiv:2611.08572v1 Announce Type: new Abstract: This research involved the study of an application of Case-Based Reasoning (CBR) in the field of academic advising. Academic advisement has been recognised as an important function of higher education.",
+      "why_it_matters": "However, there is a widespread desire to improve the advisement services provided by many educational institutions (e.g., colleges and universities) around the world. This marks a notable development for engineering teams working in technology research.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding ketchup – open-source sketchup alternative built with rust and webgpu.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
-        "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
+        "Problem & Context: In the last ten years, CBR expert systems have made important contributions in many domains by applying CBR methodology to a variety of areas of human problem solving.",
+        "Technical Implementation: However, to date, expert advisement systems have not been successfully applied to academic advisement, which seems to be a very appropriate domain for this technology.",
+        "Deployment & Impact: Academic advising is an important and time consuming task, and different tools and techniques must be used to make it an effective and efficient process."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://ketchup3d.github.io/app/"
+          "name": "arXiv CS AI",
+          "url": "https://arxiv.org/abs/2611.08572"
         }
       ]
     },
     {
       "id": "story_live_46",
-      "category": "STARTUPS",
-      "headline": "Unlocking any car from X brand in most of the world",
-      "summary": "Trending discussion on Hacker News with score of 94 points and 31 developer comments.",
-      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
+      "category": "TECHNOLOGY RESEARCH",
+      "headline": "NormGym: Evaluating Normative Competence through Social Interaction",
+      "summary": "arXiv:2611.08613v1 Announce Type: new Abstract: Normative competence, the ability to infer socially enforced expectations from interaction and adjust behavior accordingly, is essential for agents operating in unfamiliar human communities. Yet existing evaluations largely test whether agents can recognize or apply norms they may already know, rather than whether they can acquire previously unknown norms from social interaction.",
+      "why_it_matters": "We introduce NormGym, an interactive benchmark for normative competence in which a newcomer must infer a hidden, arbitrary norm while pursuing its own task in a multi-agent community. This marks a notable development for engineering teams working in technology research.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding unlocking any car from x brand in most of the world.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
-        "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
+        "Problem & Context: We introduce NormGym, an interactive benchmark for normative competence in which a newcomer must infer a hidden, arbitrary norm while pursuing its own task in a multi-agent community.",
+        "Technical Implementation: NormGym contains diverse norms and distinct environments, allowing systematic evaluation of current agents, including large language model (LLM) agents.",
+        "Deployment & Impact: We find that normative competence remains challenging: the strongest evaluated LLM achieves a joint task-and-compliance success rate of 55.3%."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/"
+          "name": "arXiv CS AI",
+          "url": "https://arxiv.org/abs/2611.08613"
         }
       ]
     },
     {
       "id": "story_live_47",
       "category": "STARTUPS",
-      "headline": "Chimera Vocal Synth",
-      "summary": "Trending discussion on Hacker News with score of 106 points and 16 developer comments.",
+      "headline": "Claude Fable 5.2 and Mythos 5.2",
+      "summary": "Trending discussion on Hacker News with score of 333 points and 675 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding chimera vocal synth.",
+        "Problem & Context: Hacker News focuses on solving key constraints regarding claude fable 5.2 and mythos 5.2.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://chimera-vocal-synth.vercel.app/"
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
         }
       ]
     },
     {
       "id": "story_live_48",
-      "category": "DEVELOPERS",
-      "headline": "Necoz Has a New Home on DEV! 🐈🎉",
-      "summary": "Hoi hoi! 👋 A little update from Necoz! 😸 We've created our own organization here on DEV! .",
-      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "category": "STARTUPS",
+      "headline": "USPS now offers official ZIP Code boundary polygons",
+      "summary": "Trending discussion on Hacker News with score of 548 points and 277 developer comments.",
+      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: DEV Community focuses on solving key constraints regarding necoz has a new home on dev! 🐈🎉.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
-        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
+        "Problem & Context: Hacker News focuses on solving key constraints regarding usps now offers official zip code boundary polygons.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
+        "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
-          "name": "DEV Community",
-          "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454"
+          "name": "Hacker News",
+          "url": "https://postalpro.usps.com/zcb"
         }
       ]
     },
     {
       "id": "story_live_49",
-      "category": "DEVELOPERS",
-      "headline": "🐾 DEV Pet Corner #5: Show Us Your Pets!",
-      "summary": "TL;DR DEV Pet Corner is back for another Sunday! It's a weekly series where we take a little break.",
-      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "category": "STARTUPS",
+      "headline": "E-means: Outperforming k-means in one-tenth the epochs",
+      "summary": "Trending discussion on Hacker News with score of 314 points and 28 developer comments.",
+      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: DEV Community focuses on solving key constraints regarding 🐾 dev pet corner #5: show us your pets!.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
-        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
+        "Problem & Context: Hacker News focuses on solving key constraints regarding e-means: outperforming k-means in one-tenth the epochs.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
+        "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
-          "name": "DEV Community",
-          "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-5-show-us-your-pets-dao"
+          "name": "Hacker News",
+          "url": "https://e-means.github.io/"
         }
       ]
     },
     {
       "id": "story_live_50",
       "category": "DEVELOPERS",
-      "headline": "Engine Off: My 2026 Hackathon Run Is Over",
-      "summary": "There's a moment after a race when you turn the engine off and everything goes quiet.",
+      "headline": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
+      "summary": "A month ago, an average web request on DEV took about 70 milliseconds inside Rails, with P99 response.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: DEV Community focuses on solving key constraints regarding engine off: my 2026 hackathon run is over.",
+        "Problem & Context: DEV Community focuses on solving key constraints regarding our looping factory cut dev page load time by 75% and counting.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
       ],
-      "published_at": "2026-11-09T08:19:41.148990+05:30",
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "DEV Community",
-          "url": "https://dev.to/georgekobaidze/engines-off-my-2026-hackathon-run-is-over-2ho8"
+          "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf"
+        }
+      ]
+    },
+    {
+      "id": "story_live_51",
+      "category": "DEVELOPERS",
+      "headline": "How do you truly stand out in Tech?",
+      "summary": "I am not going to lie to you, the market has been rough out there. There are layoffs across different.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: DEV Community focuses on solving key constraints regarding how do you truly stand out in tech?.",
+        "Technical Implementation: There are layoffs across different.",
+        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
+      ],
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "DEV Community",
+          "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a"
+        }
+      ]
+    },
+    {
+      "id": "story_live_52",
+      "category": "DEVELOPERS",
+      "headline": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World 🏛️",
+      "summary": "Almost every piece of software running on Earth today traces back to three people trying to solve the.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: DEV Community focuses on solving key constraints regarding the c trilogy: how dennis ritchie, bjarne stroustrup, and anders hejlsberg built the modern world 🏛️.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
+        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
+      ],
+      "published_at": "2026-11-10T10:12:31.410482+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "DEV Community",
+          "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp"
         }
       ]
     }
