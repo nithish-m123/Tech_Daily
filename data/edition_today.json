@@ -1,6 +1,6 @@
 {
-  "id": "edition_2026_11_14",
-  "date": "2026-11-14",
+  "id": "edition_2026_11_15",
+  "date": "2026-11-15",
   "title": "Tech Daily",
   "hot_topic": "SYSTEMS & AI ACCELERATION",
   "hot_topic_description": "Major cloud providers and open-source consortia announce architectural shifts toward dedicated silicon and low-latency inference pipelines.",
@@ -15,7 +15,7 @@
       "Technical Implementation: Hydrogen is now available globally in Google Search for all users, delivering more helpful, visual, and intuitive responses with improved model capabilities: Better understanding of intent: Search can now handle even more nuanced and complicated questions, quickly understanding what you need.",
       "Deployment & Impact: With deeper instruction following and tool calling, Search more precisely follows what you want and gives you relevant responses that address each part of your question."
     ],
-    "published_at": "2026-11-14T08:55:20.582437+05:30",
+    "published_at": "2026-11-15T08:24:15.580628+05:30",
     "importance": 9,
     "sources": [
       {
@@ -29,14 +29,14 @@
       "id": "story_live_2",
       "category": "AI & MACHINE LEARNING",
       "headline": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "summary": "Skip to main content Gemini Decisions API: Fast, calibrated multimodal decisions Innovation & AI Products & platforms Company news Feed Newsletter Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Cloud blog Back Products & platforms See all in Products & platforms Products Search Maps Chrome Google Health Google Workspace Learning & Education Shopping See all Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebook Googlebook See all Learn more: Google Ads & Commerce blog Waze blog Back Company news See all in Company news Outreach & initiatives Creating opportunity Safety & security Google.org Public policy Sustainability Health See all Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all Learn more: Google Security blog Innovation & AI Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Cloud blog Products & platforms Products & platforms See all in Products & platforms Products Search Maps Chrome Google Health Google Workspace Learning & Education Shopping See all Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebook Googlebook See all Learn more: Google Ads & Commerce blog Waze blog Company news Company news See all in Company news Outreach & initiatives Creating opportunity Safety & security Google.org Public policy Sustainability Health See all Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all Learn more: Google Security blog Feed Gemini Decisions API: Fast, calibrated multimodal decisions Share x.com Facebook LinkedIn Mail Copy link [] Preferences Global (English) Africa (English) Australia (English) Brasil (Português) Canada (English) Canada (Français) Česko (Čeština) Deutschland (Deutsch) España (Esp.",
-      "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
+      "summary": "Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Innovation & AI Technology Developer tools Gemini Decisions API: Fast, calibrated multimodal decisions Nov 11, 2026 5 min read Introducing the Gemini Decisions API, powered by our new Gemini Decision 1 model. Evaluate up to 1,000 yes/no, choice, and rubric-scoring questions in a fast, single pass across text, images, audio, video, and PDFs.",
+      "why_it_matters": "Min Choi Product Manager, Google DeepMind Felix Yu Principal Scientist, Google DeepMind Share Listen to article [[duration]] minutes Read AI-generated summary Today, we’re introducing the Gemini Decisions API, a new endpoint for fast, closed-set decisions powered by our new Gemini Decision 1 model (gemini-decision-1), available through the Gemini API in Google AI Studio. This marks a notable development for engineering teams working in ai & machine learning.",
       "key_points": [
-        "Problem & Context: Skip to main content Gemini Decisions API: Fast, calibrated multimodal decisions Innovation & AI Products & platforms Company news Feed Newsletter Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Cloud blog Back Products & platforms See all in Products & platforms Products Search Maps Chrome Google Health Google Workspace Learning & Education Shopping See all Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebook Googlebook See all Learn more: Google Ads & Commerce blog Waze blog Back Company news See all in Company news Outreach & initiatives Creating opportunity Safety & security Google.org Public policy Sustainability Health See all Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all Learn more: Google Security blog Innovation & AI Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Cloud blog Products & platforms Products & platforms See all in Products & platforms Products Search Maps Chrome Google Health Google Workspace Learning & Education Shopping See all Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebook Googlebook See all Learn more: Google Ads & Commerce blog Waze blog Company news Company news See all in Company news Outreach & initiatives Creating opportunity Safety & security Google.org Public policy Sustainability Health See all Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all Learn more: Google Security blog Feed Gemini Decisions API: Fast, calibrated multimodal decisions Share x.com Facebook LinkedIn Mail Copy link [] Preferences Global (English) Africa (English) Australia (English) Brasil (Português) Canada (English) Canada (Français) Česko (Čeština) Deutschland (Deutsch) España (Esp.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
-        "Deployment & Impact: Published by Google AI Blog with documentation and production rollout details."
+        "Problem & Context: Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Innovation & AI Technology Developer tools Gemini Decisions API: Fast, calibrated multimodal decisions Nov 11, 2026 5 min read Introducing the Gemini Decisions API, powered by our new Gemini Decision 1 model.",
+        "Technical Implementation: Min Choi Product Manager, Google DeepMind Felix Yu Principal Scientist, Google DeepMind Share Listen to article [[duration]] minutes Read AI-generated summary Today, we’re introducing the Gemini Decisions API, a new endpoint for fast, closed-set decisions powered by our new Gemini Decision 1 model (gemini-decision-1), available through the Gemini API in Google AI Studio.",
+        "Deployment & Impact: The Decisions API gives you purpose-built primitives for bounded choices like tool selection, policy checks, model routing, and context grading."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -56,7 +56,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -76,7 +76,7 @@
         "Technical Implementation: Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -96,7 +96,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -116,7 +116,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -136,7 +136,7 @@
         "Technical Implementation: It is one of three chip-security bills under consideration for inclusion in the Senate’s National Defense Authorization Act, each of which is drawing renewed attention after Nvidia CEO Jensen Huang’s resignation and reported affair with an alleged Chinese spy.",
         "Deployment & Impact: When the Chip Security Act was introduced, in May 2025, lawmakers said the technology to implement it existed, something Nvidia has not publicly confirmed."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -156,7 +156,7 @@
         "Technical Implementation: Concrete monolithic buildings loom along every major road, with names like Skybox and CloudHQ.",
         "Deployment & Impact: It’s accepted wisdom in Big Tech that the war against data centers must be about something bigger than just data centers themselves."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -169,14 +169,14 @@
       "id": "story_live_9",
       "category": "DEVELOPERS",
       "headline": "GitHub availability report: October 2026",
-      "summary": "Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app See what's new AI & ML Developer skills Engineering Enterprise software News & insights Open Source Security Home / News & insights / Company news GitHub availability report: October 2026 In October, we experienced eight incidents that resulted in degraded performance across GitHub services. Jakub Oleksy·@jakuboleksy November 12, 2026 | 15 minutes Share: We continue to share monthly updates on the work behind GitHub’s availability and reliability.",
-      "why_it_matters": "The short version of October: we added substantial independently scalable Azure capacity and removed several ways that failures could escalate. This marks a notable development for engineering teams working in developers.",
+      "summary": "Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app See what's new AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI.",
+      "why_it_matters": "GitHub Copilot Change how you work with GitHub Copilot. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app See what's new AI & ML Developer skills Engineering Enterprise software News & insights Open Source Security Home / News & insights / Company news GitHub availability report: October 2026 In October, we experienced eight incidents that resulted in degraded performance across GitHub services.",
-        "Technical Implementation: The short version of October: we added substantial independently scalable Azure capacity and removed several ways that failures could escalate.",
-        "Deployment & Impact: However, write outages, monitoring gaps during data migrations, and a regional network disruption reinforced the need for capacity growth to be paired with safer operations, stronger isolation, and validated regional recovery."
+        "Problem & Context: Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app See what's new AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry.",
+        "Technical Implementation: Generative AI Learn how to build with generative AI.",
+        "Deployment & Impact: How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience.Learn more Developer skills Developer skills Resources for developers to grow in their skills and careers."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -189,14 +189,14 @@
       "id": "story_live_10",
       "category": "DEVELOPERS",
       "headline": "Build once, run on any agent: A practical guide to agent skills",
-      "summary": "Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app See what's new AI & ML Developer skills Engineering Enterprise software News & insights Open Source Security Home / AI & ML / GitHub Copilot Build once, run on any agent: A practical guide to agent skills Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. Andrea Griffiths·@AndreaGriffiths11 November 12, 2026 | 6 minutes Share: How many times this week did you re-explain the same task to an agent? How many times did you ask your colleague with deep institutional knowledge how to solve a specific problem? That context shouldn’t be lost in a chat or locked in one person’s head.",
-      "why_it_matters": "Agent skills let you capture repeatable instructions so you and your agents can reuse them. This marks a notable development for engineering teams working in developers.",
+      "summary": "Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app See what's new AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI.",
+      "why_it_matters": "GitHub Copilot Change how you work with GitHub Copilot. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app See what's new AI & ML Developer skills Engineering Enterprise software News & insights Open Source Security Home / AI & ML / GitHub Copilot Build once, run on any agent: A practical guide to agent skills Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them.",
-        "Technical Implementation: An agent skill is a versioned directory centered on a SKILL.md file that describes when and how to do a repeatable task.",
-        "Deployment & Impact: You can share those instructions across agents, but the environment still needs to provide the tools, credentials, and permissions to carry them out."
+        "Problem & Context: Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app See what's new AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry.",
+        "Technical Implementation: Generative AI Learn how to build with generative AI.",
+        "Deployment & Impact: How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience.Learn more Developer skills Developer skills Resources for developers to grow in their skills and careers."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -216,7 +216,7 @@
         "Technical Implementation: But can they be trusted to verify that their own code actually works?.",
         "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -236,7 +236,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -256,7 +256,7 @@
         "Technical Implementation: Meanwhile, the pace of change across the software industry continues to accelerate, driven by shifting hardware, evolving security threats, and the rapid rise of AI-assisted development and agentic systems.",
         "Deployment & Impact: Increasingly, our investments serve a dual purpose : what helps human engineers write, understand, and maintain reliable Go code at scale also provides the guardrails and authoritative context that AI coding assistants and agents need to be effective."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -276,7 +276,7 @@
         "Technical Implementation: Go has included support for JSON in the standard library since well before Go 1.0.",
         "Deployment & Impact: We first wrote about support for JSON in Go more than 15 years ago! Over time, packages evolve with the needs of their users, and encoding/json is no exception."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -288,80 +288,80 @@
     {
       "id": "story_live_15",
       "category": "DEVELOPERS",
-      "headline": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-      "summary": "STARBASE, Texas—Starship lifted off right on schedule Friday from South Texas, making its 15th test flight in more than three years. The largely successful launch took place in the early evening; as the massive rocket rose into the atmosphere, the Sun sank toward the western horizon.",
-      "why_it_matters": "Conditions were ideal for the launch, with the atmospheric winds so calm the rocket’s white plume did not dissipate for many minutes. This marks a notable development for engineering teams working in developers.",
+      "headline": "With Starship catch, SpaceX still shows it can dazzle the world",
+      "summary": "STARBASE, Texas —The black and silver ship fell out of the sky, emerging from the cloud deck near the very end of its flight. Incongruously, the rocket flew horizontal until the last moment when three Raptor rocket engines ignited and it swooped into a vertical position.",
+      "why_it_matters": "Slowly, gently, haltingly, the Starship upper stage eased its way toward the waiting tower where two arms extended outward, awaiting expectantly. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: Ars Technica focuses on solving key constraints regarding starship flight 15 powers to orbit—setting up a possible catch on saturday.",
-        "Technical Implementation: The largely successful launch took place in the early evening; as the massive rocket rose into the atmosphere, the Sun sank toward the western horizon.",
-        "Deployment & Impact: Conditions were ideal for the launch, with the atmospheric winds so calm the rocket’s white plume did not dissipate for many minutes."
+        "Problem & Context: STARBASE, Texas —The black and silver ship fell out of the sky, emerging from the cloud deck near the very end of its flight.",
+        "Technical Implementation: SpaceX, nearly a quarter of a century after its founding, had just taken a hugely significant step toward developing and optimizing a massive, rapidly reusable rocket.",
+        "Deployment & Impact: Slowly, gently, haltingly, the Starship upper stage eased its way toward the waiting tower where two arms extended outward, awaiting expectantly."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
+          "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
         }
       ]
     },
     {
       "id": "story_live_16",
       "category": "DEVELOPERS",
-      "headline": "FAA has lifted its third-ever nationwide ground stop",
-      "summary": "The Federal Administration lifted its third-ever nationwide ground stop after several hours Friday evening. Domestic flights were cleared to begin taking off at 8:35 pm EST.",
-      "why_it_matters": "FAA Transportation Secretary Sean Duffy cautioned that, barring massive system updates, there will be \"more of these\" ahead. This marks a notable development for engineering teams working in developers.",
+      "headline": "James Webb telescope finds ice older than the star it orbits",
+      "summary": "Beta Pictoris is a young star, roughly 20 million years old, and located about 64 light-years away from Earth. It is surrounded by a vast disk of dust and rubble where planets are still forming—astronomers have already found three.",
+      "why_it_matters": "In a new Science study, a team led by Sarah Betti, an astronomer at the Space Telescope Science Institute in Baltimore, used the James Webb Space Telescope to look for ice in this disk. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: FAA Transportation Secretary Sean Duffy cautioned that, barring massive system updates, there will be \"more of these\" ahead.",
-        "Technical Implementation: \"Today's nationwide ground stop happened because our air traffic control system is operating on DECADES-OLD analog equipment that simply cannot compete with the demands of the 21st century,\" Duffy posted on X.",
-        "Deployment & Impact: FAA Transportation Secretary Sean Duffy cautioned that, barring massive system updates, there will be \"more of these\" ahead."
+        "Problem & Context: The water ice is glassy rather than crystalline, and it is mixed with carbon dioxide in roughly the same proportions we see in comets of our own Solar System.",
+        "Technical Implementation: Its disk was among the first ever imaged, back in 1984, and we see it almost exactly edge-on, which makes it a natural laboratory for studying how planetary systems grow.",
+        "Deployment & Impact: It's what astronomers call a debris disk, where the dust is constantly replenished by collisions among comets and planetesimals, small bodies that are the building blocks of planets."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
+          "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
         }
       ]
     },
     {
       "id": "story_live_17",
       "category": "DEVELOPERS",
-      "headline": "How Not to Build a Music Player",
-      "summary": "How Not to Build a Music Player announced by Lobste.rs.",
+      "headline": "Let Me Let You Own Your Data",
+      "summary": "Let Me Let You Own Your Data announced by Lobste.rs.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Lobste.rs focuses on solving key constraints regarding how not to build a music player.",
+        "Problem & Context: Lobste.rs focuses on solving key constraints regarding let me let you own your data.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Lobste.rs",
-          "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player"
+          "url": "https://www.willett.io/posts/data/"
         }
       ]
     },
     {
       "id": "story_live_18",
       "category": "DEVELOPERS",
-      "headline": "Terminal borders that don't cost a cell",
-      "summary": "Terminal borders that don't cost a cell announced by Lobste.rs.",
+      "headline": "What happened to 3com?",
+      "summary": "What happened to 3com? announced by Lobste.rs.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Lobste.rs focuses on solving key constraints regarding terminal borders that don't cost a cell.",
+        "Problem & Context: Lobste.rs focuses on solving key constraints regarding what happened to 3com?.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Lobste.rs",
-          "url": "https://www.joshka.net/cell-borders/"
+          "url": "https://dfarq.homeip.net/what-happened-to-3com/"
         }
       ]
     },
@@ -376,7 +376,7 @@
         "Technical Implementation: Meta’s Reality Labs builds products such as AI glasses.",
         "Deployment & Impact: Emulators provide us with a way to scale development and testing without relying on scarce physical hardware."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -389,14 +389,14 @@
       "id": "story_live_20",
       "category": "BIG TECH",
       "headline": "Intelligent Delivery: Making Every Unit of Compute Serve Better Ads",
-      "summary": "Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON NOVEMBER 11, 2026 TO ML Applications Intelligent Delivery: Making Every Unit of Compute Serve Better Ads By Zhaojun Zhang, Qinwei Zhu, Gang Li, Jianwei Xiao, Yanan Wang, Hongmei Li, Deepak Vijaywargi, Ke Pan, Li Yu Ads ranking models are growing toward LLM scale faster than the hardware to run them can keep up. An extra unit of compute has more impact on some ad requests, models, and chips than on others.",
+      "summary": "Skip to content Search this site Open Source Platforms Infrastructure Systems Physical Infrastructure Video Engineering & AR/VR Artificial Intelligence Watch Videos POSTED ON NOVEMBER 11, 2026 TO ML APPLICATIONS Intelligent Delivery: Making Every Unit of Compute Serve Better Ads By Zhaojun Zhang, Qinwei Zhu, Gang Li, Jianwei Xiao, Yanan Wang, Hongmei Li, Deepak Vijaywargi, Ke Pan, Li Yu Ads ranking models are growing toward LLM scale faster than the hardware to run them can keep up. An extra unit of compute has more impact on some ad requests, models, and chips than on others.",
       "why_it_matters": "The challenge is deciding where to allocate it to get the best outcome for the entire system. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON NOVEMBER 11, 2026 TO ML Applications Intelligent Delivery: Making Every Unit of Compute Serve Better Ads By Zhaojun Zhang, Qinwei Zhu, Gang Li, Jianwei Xiao, Yanan Wang, Hongmei Li, Deepak Vijaywargi, Ke Pan, Li Yu Ads ranking models are growing toward LLM scale faster than the hardware to run them can keep up.",
+        "Problem & Context: Skip to content Search this site Open Source Platforms Infrastructure Systems Physical Infrastructure Video Engineering & AR/VR Artificial Intelligence Watch Videos POSTED ON NOVEMBER 11, 2026 TO ML APPLICATIONS Intelligent Delivery: Making Every Unit of Compute Serve Better Ads By Zhaojun Zhang, Qinwei Zhu, Gang Li, Jianwei Xiao, Yanan Wang, Hongmei Li, Deepak Vijaywargi, Ke Pan, Li Yu Ads ranking models are growing toward LLM scale faster than the hardware to run them can keep up.",
         "Technical Implementation: An extra unit of compute has more impact on some ad requests, models, and chips than on others.",
         "Deployment & Impact: The challenge is deciding where to allocate it to get the best outcome for the entire system."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -416,7 +416,7 @@
         "Technical Implementation: Our current factuality checker feeds a reasoning model everything we know about a title (like metadata and text assets) and asks it to judge synopsis factuality according to a rigorous rubric.",
         "Deployment & Impact: There are two main limitations of this approach that we want to optimize: High cost of long-context reasoning calls: Each decision requires expensive, long-context model calls to reasoning models, which doesn’t scale well when we want to check multiple titles, episodes, languages, and style variants."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -436,7 +436,7 @@
         "Technical Implementation: Someone still needs to find the useful signal in several logs, decide whether the cause sits in their code or the platform, and determine whether to retry, reconfigure, or escalate.",
         "Deployment & Impact: Even a small share of difficult failures can consume engineering time, waste compute, and interrupt critical data pipelines."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -448,80 +448,80 @@
     {
       "id": "story_live_23",
       "category": "BIG TECH",
-      "headline": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "summary": "A view of an information board at the Chicago O'Hare International Airport, filled with waiting passengers on November 13, 2026. Photo by Jacek Boczarski/Anadolu via Getty Images) | Anadolu via Getty Images Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land.",
-      "why_it_matters": "The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage - out of an abundance of caution all flights have been halted. This marks a notable development for engineering teams working in big tech.",
+      "headline": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed ' chopstick ' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself.",
+      "why_it_matters": "SpaceX CEO Elon Musk said during the company's third-quarter earnings call that \"success is not guaranteed on these first flights, but I'd say it's more likely than not that this succeeds next flight.\" While not a complete success, in that the company was unable to recover the entire launch vehicle, it sti … Read the full story at The Verge. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: The Verge Tech focuses on solving key constraints regarding faa lifts nationwide ground stop that blocked takeoffs for hours.",
-        "Technical Implementation: Photo by Jacek Boczarski/Anadolu via Getty Images) | Anadolu via Getty Images Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land.",
-        "Deployment & Impact: The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage - out of an abundance of caution all flights have been halted."
+        "Problem & Context: The Verge Tech focuses on solving key constraints regarding watch spacex successfully execute the first ‘chopstick’ catch of starship.",
+        "Technical Implementation: The company has performed ' chopstick ' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself.",
+        "Deployment & Impact: SpaceX CEO Elon Musk said during the company's third-quarter earnings call that \"success is not guaranteed on these first flights, but I'd say it's more likely than not that this succeeds next flight.\" While not a complete success, in that the company was unable to recover the entire launch vehicle, it sti … Read the full story at The Verge."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Verge Tech",
-          "url": "https://www.theverge.com/news/1033489/faa-ground-stop"
+          "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
         }
       ]
     },
     {
       "id": "story_live_24",
       "category": "BIG TECH",
-      "headline": "Amazon has a plan to index the world’s online shopping data",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their product research on Reddit or Google, and make it more likely shoppers end up at Amazon even if they're searching for a product sold elsewhere.",
-      "why_it_matters": "The same goes for AI agents - if Amazon has the largest stockpile of shopping data, AI agents may rely on its index of products over others, so even people shopping with bots will end … Read the full story at The Verge. This marks a notable development for engineering teams working in big tech.",
+      "headline": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "summary": "For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering , in a video posted yesterday announcing Planeswalker , the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at the helm.",
+      "why_it_matters": "In 2024, Netflix announced it still planned to make a series based on the game, but it decided to rework it from the ground up. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters.",
-        "Technical Implementation: The same goes for AI agents - if Amazon has the largest stockpile of shopping data, AI agents may rely on its index of products over others, so even people shopping with bots will end … Read the full story at The Verge.",
-        "Deployment & Impact: The same goes for AI agents - if Amazon has the largest stockpile of shopping data, AI agents may rely on its index of products over others, so even people shopping with bots will end … Read the full story at The Verge."
+        "Problem & Context: The Verge Tech focuses on solving key constraints regarding magic: the gathering is getting a netflix animated series. for real this time.",
+        "Technical Implementation: An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at the helm.",
+        "Deployment & Impact: In 2024, Netflix announced it still planned to make a series based on the game, but it decided to rework it from the ground up."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Verge Tech",
-          "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+          "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series"
         }
       ]
     },
     {
       "id": "story_live_25",
       "category": "BIG TECH",
-      "headline": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
-      "summary": "Nvidia's board of directors has approached Arm chief executive Rene Haas as a potential successor to Jensen Huang, according to a report from the Financial Times that cites people familiar with the matter. Haas is among several candidates under consideration, although it remains unclear whether he will get a formal offer and/or agree to take the position.",
-      "why_it_matters": "Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible The search for Nvidia's next chief executive comes as the company undergoes a leadership transition following Jensen Huang's swift departure from the CEO position earlier this week. This marks a notable development for engineering teams working in big tech.",
+      "headline": "Wacky PC and gadget gift guide",
+      "summary": "The people you want to buy holiday gifts for probably have wishlists, but what happened to surprise and delight? Sometimes, you just have to choose something a bit out of left field to stuff a stocking or fill a gift box and watch as you see your friend or family member's eyes light up. So besides getting your loved ones everything they want, you can also get them a few fun items that surprise and delight.",
+      "why_it_matters": "Wacky, even weird, tech that may not be exactly what someone expected to receive, but will certainly make them think of you when they use it. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible The search for Nvidia's next chief executive comes as the company undergoes a leadership transition following Jensen Huang's swift departure from the CEO position earlier this week.",
-        "Technical Implementation: During his tenure as vice president at Nvidia, he was responsible for multiple projects, including notebook GPUs, Windows-on-Arm, and Tegra system-on-chips.",
-        "Deployment & Impact: Furthermore, Haas has experience with the development of consumer and data center CPUs as well as GPUs and GPU IP, a combination that is hard to find in the industry."
+        "Problem & Context: Here are some interesting and unusual gadgets for the PC builder or tech lover in your life: Ultra Slim External CD/DVD drive (8 in 1 USB 3.0 Hub): $35.99 SUIDECK's portable USB-connected optical and media reader peripheral also has USB HUB functionality.",
+        "Technical Implementation: So besides getting your loved ones everything they want, you can also get them a few fun items that surprise and delight.",
+        "Deployment & Impact: Wacky, even weird, tech that may not be exactly what someone expected to receive, but will certainly make them think of you when they use it."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void"
+          "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/wacky-pc-and-gadget-gift-guide-surprise-tech-lovers-with-10-different-options-like-wireless-power-buttons-dvd-burner-usb-hubs-and-clamp-on-pegboards"
         }
       ]
     },
     {
       "id": "story_live_26",
       "category": "BIG TECH",
-      "headline": "Keyboards and keyboard accessories under $100 — budget-friendly gifts for keyboard enthusiasts",
-      "summary": "Keyboards are one of the most important, if not the most important, PC peripherals. You use your keyboard constantly — it's the primary input source for just about everyone (there are a few exceptions).",
-      "why_it_matters": "And everyone deserves a keyboard that's a little nicer than the $5 board that was tossed in for free with your last PC purchase. This marks a notable development for engineering teams working in big tech.",
+      "headline": "Samsung's 1TB 990 SSD drops to 19 cents per GB amid the memory crisis — grab it for $40 off",
+      "summary": "Getting your hands on fast NVMe storage for your PC or laptop has become extremely challenging. That said, the Samsung 990 SSD is currently available at a discounted price of $189.99 , against its original list price of $229.99 on Amazon.",
+      "why_it_matters": "Although the $40 saving might not seem that impressive, deals on high-performance internal SSDs are becoming harder to come by amid the ongoing NAND and DRAM crisis. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: View Deal Aula F75: was $79.99 now $64.99 This compact 75% keyboard comes with Leobog Reaper switches, PBT keycaps, and a programmable knob.",
-        "Technical Implementation: You use your keyboard constantly — it's the primary input source for just about everyone (there are a few exceptions).",
-        "Deployment & Impact: And everyone deserves a keyboard that's a little nicer than the $5 board that was tossed in for free with your last PC purchase."
+        "Problem & Context: Although the $40 saving might not seem that impressive, deals on high-performance internal SSDs are becoming harder to come by amid the ongoing NAND and DRAM crisis.",
+        "Technical Implementation: It was introduced earlier this year with MSRPs of $269.99 for the 1TB model and $529.99 for the 2TB model.",
+        "Deployment & Impact: The 1TB model offers sequential read and write speeds of up to 7,150 MB/s and 6,450 MB/s, making it an excellent option for everyday computing, gaming, and handling large files."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/keyboards-and-keyboard-accessories-under-usd100-budget-friendly-gifts-for-keyboard-enthusiasts"
+          "url": "https://www.tomshardware.com/pc-components/samsungs-1tb-990-ssd-drops-to-19-cents-per-gb-amid-the-memory-crisis-grab-it-for-usd40-off"
         }
       ]
     },
@@ -529,14 +529,14 @@
       "id": "story_live_27",
       "category": "STARTUPS",
       "headline": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "TechCrunch Desktop Logo TechCrunch Mobile Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Search Submit Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us Image Credits:Heather Diehl / Getty Images Venture Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say Marina Temkin Dominic-Madori Davis 2:43 PM PST · November 13, 2026 It was the resignation heard across the world. Jensen Huang, Nvidia’s embattled CEO who co-founded and led the company for 33 years, had officially stepped down.",
+      "summary": "Skip to content TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: HEATHER DIEHL / GETTY IMAGES VENTURE Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say Marina Temkin Dominic-Madori Davis 2:43 PM PST · November 13, 2026 It was the resignation heard across the world. Jensen Huang, Nvidia’s embattled CEO who co-founded and led the company for 33 years, had officially stepped down.",
       "why_it_matters": "“It’s like a bomb went off,” one neocloud founder told TechCrunch when he first heard the news. This marks a notable development for engineering teams working in startups.",
       "key_points": [
-        "Problem & Context: TechCrunch Desktop Logo TechCrunch Mobile Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Search Submit Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us Image Credits:Heather Diehl / Getty Images Venture Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say Marina Temkin Dominic-Madori Davis 2:43 PM PST · November 13, 2026 It was the resignation heard across the world.",
+        "Problem & Context: Skip to content TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: HEATHER DIEHL / GETTY IMAGES VENTURE Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say Marina Temkin Dominic-Madori Davis 2:43 PM PST · November 13, 2026 It was the resignation heard across the world.",
         "Technical Implementation: “It’s like a bomb went off,” one neocloud founder told TechCrunch when he first heard the news.",
         "Deployment & Impact: “If that direction changes, it’ll be a big blow to so many young companies,” said Maria Davidson, founder of Relational Capital."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -549,14 +549,14 @@
       "id": "story_live_28",
       "category": "STARTUPS",
       "headline": "AI agent startup LangChain hits $3B valuation",
-      "summary": "Skip to content TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IN BRIEF Posted: 11:37 AM PST · November 13, 2026 IMAGE CREDITS: GETTY IMAGES Julie Bort AI agent startup LangChain hits $3B valuation Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday. That’s more than double its $1.25 billion valuation when it raised $125 million about a year ago, led by IVP.",
+      "summary": "TechCrunch Desktop Logo TechCrunch Mobile Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Search Submit Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us In Brief Posted: 11:37 AM PST · November 13, 2026 Image Credits:Getty Images Julie Bort AI agent startup LangChain hits $3B valuation Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday. That’s more than double its $1.25 billion valuation when it raised $125 million about a year ago, led by IVP.",
       "why_it_matters": "LangChain began in 2022 as a popular open source project that handled the kinds of tasks that early-stage LLMs found difficult, like searching the web, calling APIs, and interacting with databases. This marks a notable development for engineering teams working in startups.",
       "key_points": [
-        "Problem & Context: Skip to content TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IN BRIEF Posted: 11:37 AM PST · November 13, 2026 IMAGE CREDITS: GETTY IMAGES Julie Bort AI agent startup LangChain hits $3B valuation Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday.",
+        "Problem & Context: TechCrunch Desktop Logo TechCrunch Mobile Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Search Submit Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us In Brief Posted: 11:37 AM PST · November 13, 2026 Image Credits:Getty Images Julie Bort AI agent startup LangChain hits $3B valuation Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday.",
         "Technical Implementation: LangChain began in 2022 as a popular open source project that handled the kinds of tasks that early-stage LLMs found difficult, like searching the web, calling APIs, and interacting with databases.",
         "Deployment & Impact: With its open source roots, the startup says its agent creation and management software, LangSmith, is not trying to lock users into any particular model, cloud, or ecosystem, unlike the major clouds or frontier AI labs."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -569,14 +569,14 @@
       "id": "story_live_29",
       "category": "CYBERSECURITY",
       "headline": "Who Runs the Ransomware Group Qilin?",
-      "summary": "Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Who Runs the Ransomware Group Qilin? November 11, 2026 19 Comments The cybercrime group Qilin has emerged as the world’s most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St.",
+      "summary": "Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Who Runs the Ransomware Group Qilin? November 11, 2026 22 Comments The cybercrime group Qilin has emerged as the world’s most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St.",
       "why_it_matters": "Operating since September 2022, the Russia-based ransomware group Qilin is the currently the most industrious ransomware-as-a-service gang, according to a report (PDF) this month by the cybersecurity firm NCC Group (KrebsOnSecurity profiled the administrator of the second most active ransomware group — The Gentlemen — in June). This marks a notable development for engineering teams working in cybersecurity.",
       "key_points": [
         "Problem & Context: But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St.",
         "Technical Implementation: Operating since September 2022, the Russia-based ransomware group Qilin is the currently the most industrious ransomware-as-a-service gang, according to a report (PDF) this month by the cybersecurity firm NCC Group (KrebsOnSecurity profiled the administrator of the second most active ransomware group — The Gentlemen — in June).",
         "Deployment & Impact: Its members practice the “double extortion” model, stealing sensitive data before encrypting systems and threatening to publish the files online."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -589,14 +589,14 @@
       "id": "story_live_30",
       "category": "CYBERSECURITY",
       "headline": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-      "summary": "Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Microsoft Fixes Nearly 1,100 Security Vulnerabilities November 10, 2026 15 Comments Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month’s Patch Tuesday addresses 63 critical flaws — including a zero-day in Microsoft Outlook — and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
+      "summary": "Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Microsoft Fixes Nearly 1,100 Security Vulnerabilities November 10, 2026 16 Comments Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month’s Patch Tuesday addresses 63 critical flaws — including a zero-day in Microsoft Outlook — and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
       "why_it_matters": "November’s patch release from Redmond tackles 1,093 vulnerabilities, fixing 63 “critical” flaws that can be exploited to seize control over a Windows system with little or no help from users. This marks a notable development for engineering teams working in cybersecurity.",
       "key_points": [
-        "Problem & Context: Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Microsoft Fixes Nearly 1,100 Security Vulnerabilities November 10, 2026 15 Comments Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software.",
+        "Problem & Context: Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Microsoft Fixes Nearly 1,100 Security Vulnerabilities November 10, 2026 16 Comments Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software.",
         "Technical Implementation: This month’s Patch Tuesday addresses 63 critical flaws — including a zero-day in Microsoft Outlook — and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
         "Deployment & Impact: November’s patch release from Redmond tackles 1,093 vulnerabilities, fixing 63 “critical” flaws that can be exploited to seize control over a Windows system with little or no help from users."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -608,6 +608,26 @@
     {
       "id": "story_live_31",
       "category": "CYBERSECURITY",
+      "headline": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "summary": "Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters.",
+      "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
+      "key_points": [
+        "Problem & Context: Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.",
+        "Technical Implementation: The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters.",
+        "Deployment & Impact: Published by The Hacker News with documentation and production rollout details."
+      ],
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "importance": 7,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html"
+        }
+      ]
+    },
+    {
+      "id": "story_live_32",
+      "category": "CYBERSECURITY",
       "headline": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
       "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws.",
       "why_it_matters": "Full protection from this flaw also requires rebuilding any C-language extensions installed on the server. This marks a notable development for engineering teams working in cybersecurity.",
@@ -616,7 +636,7 @@
         "Technical Implementation: Updates released yesterday fix it, along with 51 other security flaws.",
         "Deployment & Impact: Full protection from this flaw also requires rebuilding any C-language extensions installed on the server."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -626,102 +646,82 @@
       ]
     },
     {
-      "id": "story_live_32",
-      "category": "CYBERSECURITY",
-      "headline": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-      "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs.",
-      "why_it_matters": "Both need control of the server's hypervisor, and Mior also needs control of the server's BIOS. This marks a notable development for engineering teams working in cybersecurity.",
-      "key_points": [
-        "Problem & Context: Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out.",
-        "Technical Implementation: One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs.",
-        "Deployment & Impact: Both need control of the server's hypervisor, and Mior also needs control of the server's BIOS."
-      ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
-      "importance": 7,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html"
-        }
-      ]
-    },
-    {
       "id": "story_live_33",
       "category": "CYBERSECURITY",
-      "headline": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-      "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks.",
+      "headline": "Cursor confirms security breach led to malicious Claude Code extension",
+      "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI.",
       "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: BleepingComputer focuses on solving key constraints regarding trezor confirms crypto-stealing implants in three wallets, releases fix.",
+        "Problem & Context: Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI.",
         "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
         "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/"
+          "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/"
         }
       ]
     },
     {
       "id": "story_live_34",
       "category": "CYBERSECURITY",
-      "headline": "German military drone operations disrupted by cyberattack",
-      "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [.].",
+      "headline": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "summary": "government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency.",
       "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [.].",
+        "Problem & Context: BleepingComputer focuses on solving key constraints regarding us disrupts north korean campaign behind $400 million crypto theft.",
         "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
         "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/"
+          "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/"
         }
       ]
     },
     {
       "id": "story_live_35",
       "category": "CLOUD",
-      "headline": "FAA lifts ground stop after hours-long delays snag travelers",
-      "summary": "Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Supercomputing OFFBEAT FAA lifts ground stop after hours-long delays snag travelers UPDATED Safety reasons and unspecified communications issue cited Thomas Claburn AI AND SOFTWARE REPORTER 27 Published Fri 13 Nov 2026 // 22:42 UTC Make us preferred on Google READ MORE Microsoft's massive M365 outage stretches past 27 hours as its fixes keep failing 19 hours ago Microsoft struggling to fix massive cloud outage that's taken down email and Intune 1 day ago United Airlines wants you to check in, not your chatbot 1 day ago Russian cloud Yandex says drone attacks on its datacenters caused data loss 2 days ago Canonical web services get stage fright ahead of Ubuntu Summit 2 days ago The US Federal Aviation Administration on Friday issued an advisory that prevented the takeoff of flights in US airspace for around five hours, creating chaos for travelers and airports. The stop was finally lifted around 8:30 PM Eastern Time, but only after thousands of flights were canceled or delayed, leaving travelers stranded.",
-      "why_it_matters": "The FAA has not yet confirmed a reason for the stop. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Microsoft's school email bill gives rivals something to smile about",
+      "summary": "The fallout from Microsoft's education price rises and service cuts continues as institutions weigh the prospect of bigger bills, and the Windows maker's rivals struggle not to pull \"I told you so\" faces. The main takeaways are that free student email and collaboration services are being retired, and storage entitlements are changing.",
+      "why_it_matters": "These changes generally apply at institutions' first renewal or extension on or after January 1, 2028. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Supercomputing OFFBEAT FAA lifts ground stop after hours-long delays snag travelers UPDATED Safety reasons and unspecified communications issue cited Thomas Claburn AI AND SOFTWARE REPORTER 27 Published Fri 13 Nov 2026 // 22:42 UTC Make us preferred on Google READ MORE Microsoft's massive M365 outage stretches past 27 hours as its fixes keep failing 19 hours ago Microsoft struggling to fix massive cloud outage that's taken down email and Intune 1 day ago United Airlines wants you to check in, not your chatbot 1 day ago Russian cloud Yandex says drone attacks on its datacenters caused data loss 2 days ago Canonical web services get stage fright ahead of Ubuntu Summit 2 days ago The US Federal Aviation Administration on Friday issued an advisory that prevented the takeoff of flights in US airspace for around five hours, creating chaos for travelers and airports.",
-        "Technical Implementation: The stop was finally lifted around 8:30 PM Eastern Time, but only after thousands of flights were canceled or delayed, leaving travelers stranded.",
-        "Deployment & Impact: The FAA has not yet confirmed a reason for the stop."
+        "Problem & Context: Michael Meeks, CEO of Collabora Productivity, told The Register: \"Free was the bait on the hook, and Microsoft spent years reeling in schools' email accounts, documents, identity management and classrooms onto its cloud.\" A poster on the edugeek.net forums commented: \"This was always goi.",
+        "Technical Implementation: The main takeaways are that free student email and collaboration services are being retired, and storage entitlements are changing.",
+        "Deployment & Impact: These changes generally apply at institutions' first renewal or extension on or after January 1, 2028."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Register",
-          "url": "https://www.theregister.com/offbeat/2026/11/13/faa-lifts-ground-stop-after-hours-long-delays-snag-travelers/5309912"
+          "url": "https://www.theregister.com/saas/2026/11/14/microsofts-school-email-bill-gives-rivals-something-to-smile-about/5309296"
         }
       ]
     },
     {
       "id": "story_live_36",
       "category": "CLOUD",
-      "headline": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer",
-      "summary": "US export controls are not stopping AI labs in China from using restricted Nvidia chips, according to a report from a former OpenAI engineer. Will DePue, who left the AI giant earlier this year to launch Unemployment Labs, an AI research consultancy, published forensic evidence showing that \"DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to Nvidia's Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that hardware to create their AI models.\" \"This sounds insane, but I discovered that almost every AI model carries a hidden signature of the GPU that trained it,\" said DePue in a social media post.",
-      "why_it_matters": "\"When a model is first set up, the starting values of its weights are laid out in a pattern that depends on the exact GPU. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Big Tech takes a beating as online safety experts accuse companies of doing bare minimum",
+      "summary": "Jump to main content Search TOPICS Security All Security Cyber-crime Patches Research CSO Off-Prem All Off-Prem Edge and IoT Channel PaaS and IaaS SaaS On-Prem All On-Prem Systems Storage Networks HPC Personal Tech Cx0 Public Sector Software All Software AI and ML Applications Databases DevOps OS Platforms Virtualization Offbeat All Offbeat Columnists Supercomputing BOFH Legal Site News About Us Special Features All Special Features SC 26 Supercomputing Month 2026 Nvidia GTC Berlin 2026 Cybersecurity Month 2026 VMware Explore 2026 Cloud Infrastructure Month 2026 HPE: AI Explainers Agentic AI The Future of the Datacenter AWS:Reinvent Nvidia GTC Computex 2026 AI Infrastructure Month 2026 The State of Storage 2026 RSA Conference Vendor Voice All Vendor Voice Modernizing Financial Services with FIS and AWS Barco Infinidat Everpure Rubrik Make it real with Capgemini and AWS Money Movement Hub ZTE Nutanix: Scale Kubernetes. AWS New Horizon Digicert Netscout Resources Intelligence Webinars & Events Newsletters Search Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Supercomputing REG AD security Big Tech takes a beating as online safety experts accuse companies of doing bare minimum Accessing banned content is as easy as whipping out a thesaurus, Parliament's Communications and Digital Committee hears Connor Jones Connor Jones Cybersecurity reporter Published sat 14 Nov 2026 // 08:18 UTC Make us preferred on Google READ MORE Crackdown on UK medical record snooping after staff reported sneaking 300+ times this year 1 day ago Google promises its new smart specs won't give creeps their ideal view 2 days ago Shipping giant Maersk probes 'IT security incident,' data theft 3 days ago Ring robots ready to patrol paranoids’ pads 4 days ago Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques 4 days ago Technology companies are doing just enough to show a degree of compliance with the UK's Online Safety Act, but are failing to meet the needs of the individuals and young victims the legislation exists to protect, experts say.",
+      "why_it_matters": "A panel of online safety pros assembled before Parliament's Communications and Digital Committee on Tuesday, taking aim at the likes of Google, Microsoft, Meta, and ByteDance for failing to act on important matters. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: Will DePue, who left the AI giant earlier this year to launch Unemployment Labs, an AI research consultancy, published forensic evidence showing that \"DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to Nvidia's Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that hardware to create their AI models.\" \"This sounds insane, but I discovered that almost every AI model carries a hidden signature of the GPU that trained it,\" said DePue in a social media post.",
-        "Technical Implementation: \"When a model is first set up, the starting values of its weights are laid out in a pattern that depends on the exact GPU.",
-        "Deployment & Impact: Each combination of GPU and seed number produces a unique pattern – a sort of fingerprint of the hardware used to create the model."
+        "Problem & Context: Jump to main content Search TOPICS Security All Security Cyber-crime Patches Research CSO Off-Prem All Off-Prem Edge and IoT Channel PaaS and IaaS SaaS On-Prem All On-Prem Systems Storage Networks HPC Personal Tech Cx0 Public Sector Software All Software AI and ML Applications Databases DevOps OS Platforms Virtualization Offbeat All Offbeat Columnists Supercomputing BOFH Legal Site News About Us Special Features All Special Features SC 26 Supercomputing Month 2026 Nvidia GTC Berlin 2026 Cybersecurity Month 2026 VMware Explore 2026 Cloud Infrastructure Month 2026 HPE: AI Explainers Agentic AI The Future of the Datacenter AWS:Reinvent Nvidia GTC Computex 2026 AI Infrastructure Month 2026 The State of Storage 2026 RSA Conference Vendor Voice All Vendor Voice Modernizing Financial Services with FIS and AWS Barco Infinidat Everpure Rubrik Make it real with Capgemini and AWS Money Movement Hub ZTE Nutanix: Scale Kubernetes.",
+        "Technical Implementation: AWS New Horizon Digicert Netscout Resources Intelligence Webinars & Events Newsletters Search Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Supercomputing REG AD security Big Tech takes a beating as online safety experts accuse companies of doing bare minimum Accessing banned content is as easy as whipping out a thesaurus, Parliament's Communications and Digital Committee hears Connor Jones Connor Jones Cybersecurity reporter Published sat 14 Nov 2026 // 08:18 UTC Make us preferred on Google READ MORE Crackdown on UK medical record snooping after staff reported sneaking 300+ times this year 1 day ago Google promises its new smart specs won't give creeps their ideal view 2 days ago Shipping giant Maersk probes 'IT security incident,' data theft 3 days ago Ring robots ready to patrol paranoids’ pads 4 days ago Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques 4 days ago Technology companies are doing just enough to show a degree of compliance with the UK's Online Safety Act, but are failing to meet the needs of the individuals and young victims the legislation exists to protect, experts say.",
+        "Deployment & Impact: A panel of online safety pros assembled before Parliament's Communications and Digital Committee on Tuesday, taking aim at the likes of Google, Microsoft, Meta, and ByteDance for failing to act on important matters."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Register",
-          "url": "https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891"
+          "url": "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302"
         }
       ]
     },
@@ -736,7 +736,7 @@
         "Technical Implementation: How it works You install the emulator, start it, and point your tools at the local endpoint.",
         "Deployment & Impact: You set environment variables so the AWS SDK talks to your laptop instead of AWS, and your application code stays unchanged."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -756,7 +756,7 @@
         "Technical Implementation: The new Amazon Bedrock AgentCore Runtime is a single field on the runtime you already have, and Web Answer is a tool you attach to a gateway you already run.",
         "Deployment & Impact: To opt in, you set platformVersion to V2 when you create or update a runtime."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -776,7 +776,7 @@
         "Technical Implementation: On every occasion, we mentioned our commitment to open sourcing it so that developers could run their own browser engine on their own Cloudflare accounts if they want to.",
         "Deployment & Impact: You can read the code, run it locally, change it, and deploy your own instance to Cloudflare Workers."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -796,7 +796,7 @@
         "Technical Implementation: Just a few weeks ago, ARTEX — an open source agentic penetration testing system that automates offensive security workflows — was the only framework available.",
         "Deployment & Impact: In just the last three days, we have seen over 50 framework families attempt to scan Cloudflare customers globally."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -816,7 +816,7 @@
         "Technical Implementation: Today, Microsoft and fal are helping developers find the right tools for their workloads.",
         "Deployment & Impact: We are excited to announce that Kling, LTX, and MiniMax video models are rolling out to in public preview in Microsoft Foundry through our new partnership with fal."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -836,7 +836,7 @@
         "Technical Implementation: This approach manages cost, performance, governance, and reliability as adoption grows.",
         "Deployment & Impact: Read the IDC InfoBrief Nearly 90% of organizations apply financial thresholds before approving AI initiatives."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -856,7 +856,7 @@
         "Technical Implementation: But as we near the ceiling of what we can build, there’s still plenty of room below, at the fundamental physical limits of computing.",
         "Deployment & Impact: On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom,” on how we might manipulate and control things on an extremely small scale."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -869,14 +869,14 @@
       "id": "story_live_44",
       "category": "TECHNOLOGY RESEARCH",
       "headline": "Understanding the thermal ceiling in portable power",
-      "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. It’s the connected device protecting itself.",
-      "why_it_matters": "As temperature rises during charging, a smartphone’s battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces battery capacity. This marks a notable development for engineering teams working in technology research.",
+      "summary": "SKIP TO CONTENT Menu MIT Technology Review Sign in SUBSCRIBE & SAVE 50% The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Menu MIT Technology Review Sign in SUBSCRIBE & SAVE 50% The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue SPONSORED COMPUTING Understanding the thermal ceiling in portable power Wireless charging performance is limited less by power delivery than by the physics of heat, and solving it requires rethinking the hardware. By Shuo Yang archive page September 9, 2026 Provided byAnker Plug a phone into a modern charger and the first 10 minutes are impressive.",
+      "why_it_matters": "It’s the connected device protecting itself. This marks a notable development for engineering teams working in technology research.",
       "key_points": [
-        "Problem & Context: As temperature rises during charging, a smartphone’s battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces battery capacity.",
-        "Technical Implementation: For anyone building products in the portable power category, this creates an uncomfortable gap between specification and experience.",
-        "Deployment & Impact: Convenience and thermal performance are working against each other by design."
+        "Problem & Context: SKIP TO CONTENT Menu MIT Technology Review Sign in SUBSCRIBE & SAVE 50% The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Menu MIT Technology Review Sign in SUBSCRIBE & SAVE 50% The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue SPONSORED COMPUTING Understanding the thermal ceiling in portable power Wireless charging performance is limited less by power delivery than by the physics of heat, and solving it requires rethinking the hardware.",
+        "Technical Implementation: As temperature rises during charging, a smartphone's battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces battery capacity.",
+        "Deployment & Impact: For anyone building products in the portable power category, this creates an uncomfortable gap between specification and experience."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
@@ -887,161 +887,121 @@
     },
     {
       "id": "story_live_45",
-      "category": "TECHNOLOGY RESEARCH",
-      "headline": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
-      "summary": "arXiv:2611.14544v1 Announce Type: new Abstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it is legal. This framing misses the errors that matter most.",
-      "why_it_matters": "A misread that yields an illegal move is loud. This marks a notable development for engineering teams working in technology research.",
+      "category": "STARTUPS",
+      "headline": "SpaceX catches the Starship to end Flight 15",
+      "summary": "Trending discussion on Hacker News with score of 797 points and 538 developer comments.",
+      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Two learned signals, CTC re-scoring against the recognizer's raw output and a Maia-style human-move prior, raise the correct fix's top-rank rate from 58.8% to 78.0% of the replacement decisions where it is a candidate, and hold without refitting on a later section.",
-        "Technical Implementation: The system runs entirely in the browser and is free, private, and offline-capable; alongside it we offer a three-way adjudication protocol for a domain where no single record is ground truth.",
-        "Deployment & Impact: A misread that yields an illegal move is loud."
+        "Problem & Context: Hacker News focuses on solving key constraints regarding spacex catches the starship to end flight 15.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
+        "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
-          "name": "arXiv CS AI",
-          "url": "https://arxiv.org/abs/2611.14544"
+          "name": "Hacker News",
+          "url": "https://www.spacex.com/launches/starship-flight-15"
         }
       ]
     },
     {
       "id": "story_live_46",
-      "category": "TECHNOLOGY RESEARCH",
-      "headline": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
-      "summary": "arXiv:2611.14654v1 Announce Type: new Abstract: Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off such a history decides what it says about those mistakes while their effects stay in the world. Prior work cleans the history at a fixed world, where showing a corrected step and saying it is done move together.",
-      "why_it_matters": "We ask whether the same correct content helps or hurts depending on how the history states it and what the world holds. This marks a notable development for engineering teams working in technology research.",
+      "category": "STARTUPS",
+      "headline": "Lovable apps expose passport details and more than 200K private messages",
+      "summary": "Trending discussion on Hacker News with score of 674 points and 281 developer comments.",
+      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: arXiv:2611.14654v1 Announce Type: new Abstract: Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off such a history decides what it says about those mistakes while their effects stay in the world.",
-        "Technical Implementation: We freeze an agent mid-task with its exact world state, edit the history or the world, and let a receiver model continue.",
-        "Deployment & Impact: The note raises recovery, the share of remaining targets the receiver gets right, from 51% under a matched neutral note to 66%."
+        "Problem & Context: Hacker News focuses on solving key constraints regarding lovable apps expose passport details and more than 200k private messages.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
+        "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
-          "name": "arXiv CS AI",
-          "url": "https://arxiv.org/abs/2611.14654"
+          "name": "Hacker News",
+          "url": "https://www.crissyfield.de/research/lovable-en/"
         }
       ]
     },
     {
       "id": "story_live_47",
       "category": "STARTUPS",
-      "headline": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
-      "summary": "Trending discussion on Hacker News with score of 33 points and 4 developer comments.",
+      "headline": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "summary": "Trending discussion on Hacker News with score of 119 points and 38 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding elephants found to be increasingly isolated leading to fractured social networks.",
+        "Problem & Context: Hacker News focuses on solving key constraints regarding how did woz write the apple 1 basic before building the computer?.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks"
+          "url": "https://retrocomputing.stackexchange.com/questions/17957"
         }
       ]
     },
     {
       "id": "story_live_48",
-      "category": "STARTUPS",
-      "headline": "FAA lifted National Ground Stop at 0119Z",
-      "summary": "Trending discussion on Hacker News with score of 186 points and 176 developer comments.",
-      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
+      "category": "DEVELOPERS",
+      "headline": "Avengers: Doomsday is 5 weeks away, so I built hexagon README badges. What are you building?",
+      "summary": "Marvel fans of DEV, show me your Doomsday-hype side projects. Mine is a tiny Vercel service that makes glowing, Avengers-themed hexagon badges.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding faa lifted national ground stop at 0119z.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
-        "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
+        "Problem & Context: DEV Community focuses on solving key constraints regarding avengers: doomsday is 5 weeks away, so i built hexagon readme badges. what are you building?.",
+        "Technical Implementation: Mine is a tiny Vercel service that makes glowing, Avengers-themed hexagon badges.",
+        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5"
+          "name": "DEV Community",
+          "url": "https://dev.to/amananandrai/avengers-doomsday-is-5-weeks-away-so-i-built-hexagon-readme-badges-what-are-you-building-32d6"
         }
       ]
     },
     {
       "id": "story_live_49",
-      "category": "STARTUPS",
-      "headline": "Ggml v1.0.0",
-      "summary": "Trending discussion on Hacker News with score of 14 points and 0 developer comments.",
-      "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
+      "category": "DEVELOPERS",
+      "headline": "Dash: An Endless Runner That Races Through Your City",
+      "summary": "Dash is a full-stack endless runner template in Java: levels that turn from 2D into 3D mid-run, runs built from real streets on a map, cheat-proof leaderboards, live races with voice chat, a level editor and an admin console.",
+      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding ggml v1.0.0.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
-        "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
+        "Problem & Context: DEV Community focuses on solving key constraints regarding dash: an endless runner that races through your city.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
+        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
+          "name": "DEV Community",
+          "url": "https://dev.to/codenameone/dash-an-endless-runner-that-races-through-your-city-57o7"
         }
       ]
     },
     {
       "id": "story_live_50",
       "category": "DEVELOPERS",
-      "headline": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
-      "summary": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,.",
+      "headline": "Devcon 8 Mumbai: Four Days at Ethereum's Biggest Builder Gathering",
+      "summary": "A little late in sharing this, but I wanted to capture all the details as best as I can.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: DEV Community focuses on solving key constraints regarding congrats to the hacktoberfest open-source ai challenge week 4: ghost in the machine winners!.",
+        "Problem & Context: DEV Community focuses on solving key constraints regarding devcon 8 mumbai: four days at ethereum's biggest builder gathering.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
       ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
+      "published_at": "2026-11-15T08:24:15.580628+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "DEV Community",
-          "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok"
-        }
-      ]
-    },
-    {
-      "id": "story_live_51",
-      "category": "DEVELOPERS",
-      "headline": "Dev Opportunity Radar #25: $120K+ Atlassian Hackathon, MLH Fellowship, and INSEAD AI Founder Sprint",
-      "summary": "TL;DR Welcome back to Dev Opportunity Radar! 💙 This is a weekly series where I share.",
-      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
-      "key_points": [
-        "Problem & Context: DEV Community focuses on solving key constraints regarding dev opportunity radar #25: $120k+ atlassian hackathon, mlh fellowship, and insead ai founder sprint.",
-        "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
-        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
-      ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
-      "importance": 7,
-      "sources": [
-        {
-          "name": "DEV Community",
-          "url": "https://dev.to/devengers/dev-opportunity-radar-25-120k-atlassian-hackathon-mlh-fellowship-and-insead-ai-founder-sprint-m96"
-        }
-      ]
-    },
-    {
-      "id": "story_live_52",
-      "category": "DEVELOPERS",
-      "headline": "Six Serving Engines on Four Accelerators: Gemma 4 E2B on an RTX 3050, a T4, an L4 and a TPU v5e",
-      "summary": "The same Gemma 4 E2B, prompts, load sweep and GSM8K and BFCL questions through the same serving engines on an 8 GB RTX 3050, a Tesla T4, an NVIDIA L4 and one TPU v5e chip. Answers hold on every chip; vLLM with its drafter leads on all three GPUs, and SGLang-JAX leads on the TPU.",
-      "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
-      "key_points": [
-        "Problem & Context: DEV Community focuses on solving key constraints regarding six serving engines on four accelerators: gemma 4 e2b on an rtx 3050, a t4, an l4 and a tpu v5e.",
-        "Technical Implementation: Answers hold on every chip; vLLM with its drafter leads on all three GPUs, and SGLang-JAX leads on the TPU.",
-        "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
-      ],
-      "published_at": "2026-11-14T08:55:20.582437+05:30",
-      "importance": 7,
-      "sources": [
-        {
-          "name": "DEV Community",
-          "url": "https://dev.to/gde/six-serving-engines-on-four-accelerators-gemma-4-e2b-on-an-rtx-3050-a-t4-an-l4-and-a-tpu-v5e-1a0e"
+          "url": "https://dev.to/yashksaini/devcon-8-mumbai-four-days-at-ethereums-biggest-builder-gathering-3jn"
         }
       ]
     }
