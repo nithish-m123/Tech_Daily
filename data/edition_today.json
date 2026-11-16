@@ -1,6 +1,6 @@
 {
-  "id": "edition_2026_11_15",
-  "date": "2026-11-15",
+  "id": "edition_2026_11_16",
+  "date": "2026-11-16",
   "title": "Tech Daily",
   "hot_topic": "SYSTEMS & AI ACCELERATION",
   "hot_topic_description": "Major cloud providers and open-source consortia announce architectural shifts toward dedicated silicon and low-latency inference pipelines.",
@@ -8,14 +8,14 @@
     "id": "story_live_1",
     "category": "AI & MACHINE LEARNING",
     "headline": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-    "summary": "Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Products & Platforms Products Search Google Search gets a major upgrade with Gemini 4 Hydrogen Nov 12, 2026 2 min read Robby Stein VP of Product, Google Search Share Listen to article [[duration]] minutes Read AI-generated summary Today, Google Search is bringing cutting-edge intelligence to everyone with Gemini 4 Hydrogen. This is the biggest model upgrade to Search yet.",
-    "why_it_matters": "Hydrogen is now available globally in Google Search for all users, delivering more helpful, visual, and intuitive responses with improved model capabilities: Better understanding of intent: Search can now handle even more nuanced and complicated questions, quickly understanding what you need. This marks a notable development for engineering teams working in ai & machine learning.",
+    "summary": "Skip to main content Google Search gets a major upgrade with Gemini 4 Hydrogen Innovation & AI Products & platforms Company news Feed Newsletter Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Cloud blog Back Products & platforms See all in Products & platforms Products Search Maps Chrome Google Health Google Workspace Learning & Education Shopping See all Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebook Googlebook See all Learn more: Google Ads & Commerce blog Waze blog Back Company news See all in Company news Outreach & initiatives Creating opportunity Safety & security Google.org Public policy Sustainability Health See all Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all Learn more: Google Security blog Innovation & AI Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Cloud blog Products & platforms Products & platforms See all in Products & platforms Products Search Maps Chrome Google Health Google Workspace Learning & Education Shopping See all Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebook Googlebook See all Learn more: Google Ads & Commerce blog Waze blog Company news Company news See all in Company news Outreach & initiatives Creating opportunity Safety & security Google.org Public policy Sustainability Health See all Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all Learn more: Google Security blog Feed Google Search gets a major upgrade with Gemini 4 Hydrogen Share x.com Facebook LinkedIn Mail Copy link [] Preferences Global (English) Africa (English) Australia (English) Brasil (Português) Canada (English) Canada (Français) Česko (Čeština) Deutschland (Deutsch) España (Español.",
+    "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
     "key_points": [
-      "Problem & Context: This is the biggest model upgrade to Search yet.",
-      "Technical Implementation: Hydrogen is now available globally in Google Search for all users, delivering more helpful, visual, and intuitive responses with improved model capabilities: Better understanding of intent: Search can now handle even more nuanced and complicated questions, quickly understanding what you need.",
-      "Deployment & Impact: With deeper instruction following and tool calling, Search more precisely follows what you want and gives you relevant responses that address each part of your question."
+      "Problem & Context: Skip to main content Google Search gets a major upgrade with Gemini 4 Hydrogen Innovation & AI Products & platforms Company news Feed Newsletter Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Cloud blog Back Products & platforms See all in Products & platforms Products Search Maps Chrome Google Health Google Workspace Learning & Education Shopping See all Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebook Googlebook See all Learn more: Google Ads & Commerce blog Waze blog Back Company news See all in Company news Outreach & initiatives Creating opportunity Safety & security Google.org Public policy Sustainability Health See all Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all Learn more: Google Security blog Innovation & AI Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Cloud blog Products & platforms Products & platforms See all in Products & platforms Products Search Maps Chrome Google Health Google Workspace Learning & Education Shopping See all Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebook Googlebook See all Learn more: Google Ads & Commerce blog Waze blog Company news Company news See all in Company news Outreach & initiatives Creating opportunity Safety & security Google.org Public policy Sustainability Health See all Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all Learn more: Google Security blog Feed Google Search gets a major upgrade with Gemini 4 Hydrogen Share x.com Facebook LinkedIn Mail Copy link [] Preferences Global (English) Africa (English) Australia (English) Brasil (Português) Canada (English) Canada (Français) Česko (Čeština) Deutschland (Deutsch) España (Español.",
+      "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
+      "Deployment & Impact: Published by Google AI Blog with documentation and production rollout details."
     ],
-    "published_at": "2026-11-15T08:24:15.580628+05:30",
+    "published_at": "2026-11-16T08:25:00.009298+05:30",
     "importance": 9,
     "sources": [
       {
@@ -36,7 +36,7 @@
         "Technical Implementation: Min Choi Product Manager, Google DeepMind Felix Yu Principal Scientist, Google DeepMind Share Listen to article [[duration]] minutes Read AI-generated summary Today, we’re introducing the Gemini Decisions API, a new endpoint for fast, closed-set decisions powered by our new Gemini Decision 1 model (gemini-decision-1), available through the Gemini API in Google AI Studio.",
         "Deployment & Impact: The Decisions API gives you purpose-built primitives for bounded choices like tool selection, policy checks, model routing, and context grading."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -48,40 +48,40 @@
     {
       "id": "story_live_3",
       "category": "AI & MACHINE LEARNING",
-      "headline": "Introducing ChatGPT Wallet",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "headline": "A step toward defining the Standard Model on a lattice",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
       "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+        "Problem & Context: Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "OpenAI News",
-          "url": "https://openai.com/index/introducing-chatgpt-wallet"
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model"
         }
       ]
     },
     {
       "id": "story_live_4",
       "category": "AI & MACHINE LEARNING",
-      "headline": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "headline": "Our new blog for science",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
       "why_it_matters": "Significantly impacts ai & machine learning workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-        "Technical Implementation: Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+        "Problem & Context: OpenAI News focuses on solving key constraints regarding our new blog for science.",
+        "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by OpenAI News with documentation and production rollout details."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "OpenAI News",
-          "url": "https://openai.com/business/customer-stories/shield"
+          "url": "https://openai.com/index/our-new-blog-for-science"
         }
       ]
     },
@@ -96,7 +96,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -116,7 +116,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Ai & Machine Learning.",
         "Deployment & Impact: Published by Hugging Face Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -136,7 +136,7 @@
         "Technical Implementation: It is one of three chip-security bills under consideration for inclusion in the Senate’s National Defense Authorization Act, each of which is drawing renewed attention after Nvidia CEO Jensen Huang’s resignation and reported affair with an alleged Chinese spy.",
         "Deployment & Impact: When the Chip Security Act was introduced, in May 2025, lawmakers said the technology to implement it existed, something Nvidia has not publicly confirmed."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -156,7 +156,7 @@
         "Technical Implementation: Concrete monolithic buildings loom along every major road, with names like Skybox and CloudHQ.",
         "Deployment & Impact: It’s accepted wisdom in Big Tech that the war against data centers must be about something bigger than just data centers themselves."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -176,7 +176,7 @@
         "Technical Implementation: Generative AI Learn how to build with generative AI.",
         "Deployment & Impact: How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience.Learn more Developer skills Developer skills Resources for developers to grow in their skills and careers."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -196,7 +196,7 @@
         "Technical Implementation: Generative AI Learn how to build with generative AI.",
         "Deployment & Impact: How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience.Learn more Developer skills Developer skills Resources for developers to grow in their skills and careers."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -216,7 +216,7 @@
         "Technical Implementation: But can they be trusted to verify that their own code actually works?.",
         "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -236,7 +236,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Stack Overflow Blog with documentation and production rollout details."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -256,7 +256,7 @@
         "Technical Implementation: Meanwhile, the pace of change across the software industry continues to accelerate, driven by shifting hardware, evolving security threats, and the rapid rise of AI-assisted development and agentic systems.",
         "Deployment & Impact: Increasingly, our investments serve a dual purpose : what helps human engineers write, understand, and maintain reliable Go code at scale also provides the guardrails and authoritative context that AI coding assistants and agents need to be effective."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -276,7 +276,7 @@
         "Technical Implementation: Go has included support for JSON in the standard library since well before Go 1.0.",
         "Deployment & Impact: We first wrote about support for JSON in Go more than 15 years ago! Over time, packages evolve with the needs of their users, and encoding/json is no exception."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -288,80 +288,80 @@
     {
       "id": "story_live_15",
       "category": "DEVELOPERS",
-      "headline": "With Starship catch, SpaceX still shows it can dazzle the world",
-      "summary": "STARBASE, Texas —The black and silver ship fell out of the sky, emerging from the cloud deck near the very end of its flight. Incongruously, the rocket flew horizontal until the last moment when three Raptor rocket engines ignited and it swooped into a vertical position.",
-      "why_it_matters": "Slowly, gently, haltingly, the Starship upper stage eased its way toward the waiting tower where two arms extended outward, awaiting expectantly. This marks a notable development for engineering teams working in developers.",
+      "headline": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "summary": "United Launch Alliance's Vulcan rocket and 40 Amazon Leo broadband satellites fell back to Earth minutes after liftoff Sunday, a crushing setback that will ripple across all sectors of the US space industry. The Vulcan rocket is on contract to launch roughly half of the US military's national security space missions in the next few years, and Sunday's mission was the first of 38 Vulcan launches booked by Amazon to build out its network of broadband Internet satellites aimed at competing with SpaceX's Starlink.",
+      "why_it_matters": "Sunday's failure is expected to ground the rocket for an indefinite period of time. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: STARBASE, Texas —The black and silver ship fell out of the sky, emerging from the cloud deck near the very end of its flight.",
-        "Technical Implementation: SpaceX, nearly a quarter of a century after its founding, had just taken a hugely significant step toward developing and optimizing a massive, rapidly reusable rocket.",
-        "Deployment & Impact: Slowly, gently, haltingly, the Starship upper stage eased its way toward the waiting tower where two arms extended outward, awaiting expectantly."
+        "Problem & Context: The Vulcan rocket is on contract to launch roughly half of the US military's national security space missions in the next few years, and Sunday's mission was the first of 38 Vulcan launches booked by Amazon to build out its network of broadband Internet satellites aimed at competing with SpaceX's Starlink.",
+        "Technical Implementation: The Vulcan rocket is on contract to launch roughly half of the US military's national security space missions in the next few years, and Sunday's mission was the first of 38 Vulcan launches booked by Amazon to build out its network of broadband Internet satellites aimed at competing with SpaceX's Starlink.",
+        "Deployment & Impact: Sunday's failure is expected to ground the rocket for an indefinite period of time."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+          "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
         }
       ]
     },
     {
       "id": "story_live_16",
       "category": "DEVELOPERS",
-      "headline": "James Webb telescope finds ice older than the star it orbits",
-      "summary": "Beta Pictoris is a young star, roughly 20 million years old, and located about 64 light-years away from Earth. It is surrounded by a vast disk of dust and rubble where planets are still forming—astronomers have already found three.",
-      "why_it_matters": "In a new Science study, a team led by Sarah Betti, an astronomer at the Space Telescope Science Institute in Baltimore, used the James Webb Space Telescope to look for ice in this disk. This marks a notable development for engineering teams working in developers.",
+      "headline": "How the world’s fires changed while humanity hit pause",
+      "summary": "Wildfires occur worldwide, and they can sometimes become serious threats to people's lives. A series of massive bushfires from 2019 to 2020 swept across southeastern Australia and destroyed thousands of homes.",
+      "why_it_matters": "Recently, the 2025 Los Angeles wildfires spread widely across the city, resulting in massive damage to local communities. This marks a notable development for engineering teams working in developers.",
       "key_points": [
-        "Problem & Context: The water ice is glassy rather than crystalline, and it is mixed with carbon dioxide in roughly the same proportions we see in comets of our own Solar System.",
-        "Technical Implementation: Its disk was among the first ever imaged, back in 1984, and we see it almost exactly edge-on, which makes it a natural laboratory for studying how planetary systems grow.",
-        "Deployment & Impact: It's what astronomers call a debris disk, where the dust is constantly replenished by collisions among comets and planetesimals, small bodies that are the building blocks of planets."
+        "Problem & Context: Data from the 2020 lockdowns suggest that lower human activity at this time had the net effect of lowering average fire activity.",
+        "Technical Implementation: A series of massive bushfires from 2019 to 2020 swept across southeastern Australia and destroyed thousands of homes.",
+        "Deployment & Impact: Recently, the 2025 Los Angeles wildfires spread widely across the city, resulting in massive damage to local communities."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
+          "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/"
         }
       ]
     },
     {
       "id": "story_live_17",
       "category": "DEVELOPERS",
-      "headline": "Let Me Let You Own Your Data",
-      "summary": "Let Me Let You Own Your Data announced by Lobste.rs.",
+      "headline": "A datetime library for Rust",
+      "summary": "A datetime library for Rust announced by Lobste.rs.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Lobste.rs focuses on solving key constraints regarding let me let you own your data.",
+        "Problem & Context: Lobste.rs focuses on solving key constraints regarding a datetime library for rust.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Lobste.rs",
-          "url": "https://www.willett.io/posts/data/"
+          "url": "https://burntsushi.net/jiff/"
         }
       ]
     },
     {
       "id": "story_live_18",
       "category": "DEVELOPERS",
-      "headline": "What happened to 3com?",
-      "summary": "What happened to 3com? announced by Lobste.rs.",
+      "headline": "Memory management in 40 major C projects, a survey",
+      "summary": "Memory management in 40 major C projects, a survey announced by Lobste.rs.",
       "why_it_matters": "Significantly impacts developers workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Lobste.rs focuses on solving key constraints regarding what happened to 3com?.",
+        "Problem & Context: Lobste.rs focuses on solving key constraints regarding memory management in 40 major c projects, a survey.",
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by Lobste.rs with documentation and production rollout details."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Lobste.rs",
-          "url": "https://dfarq.homeip.net/what-happened-to-3com/"
+          "url": "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html"
         }
       ]
     },
@@ -376,7 +376,7 @@
         "Technical Implementation: Meta’s Reality Labs builds products such as AI glasses.",
         "Deployment & Impact: Emulators provide us with a way to scale development and testing without relying on scarce physical hardware."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -389,14 +389,14 @@
       "id": "story_live_20",
       "category": "BIG TECH",
       "headline": "Intelligent Delivery: Making Every Unit of Compute Serve Better Ads",
-      "summary": "Skip to content Search this site Open Source Platforms Infrastructure Systems Physical Infrastructure Video Engineering & AR/VR Artificial Intelligence Watch Videos POSTED ON NOVEMBER 11, 2026 TO ML APPLICATIONS Intelligent Delivery: Making Every Unit of Compute Serve Better Ads By Zhaojun Zhang, Qinwei Zhu, Gang Li, Jianwei Xiao, Yanan Wang, Hongmei Li, Deepak Vijaywargi, Ke Pan, Li Yu Ads ranking models are growing toward LLM scale faster than the hardware to run them can keep up. An extra unit of compute has more impact on some ad requests, models, and chips than on others.",
+      "summary": "Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON NOVEMBER 11, 2026 TO ML Applications Intelligent Delivery: Making Every Unit of Compute Serve Better Ads By Zhaojun Zhang, Qinwei Zhu, Gang Li, Jianwei Xiao, Yanan Wang, Hongmei Li, Deepak Vijaywargi, Ke Pan, Li Yu Ads ranking models are growing toward LLM scale faster than the hardware to run them can keep up. An extra unit of compute has more impact on some ad requests, models, and chips than on others.",
       "why_it_matters": "The challenge is deciding where to allocate it to get the best outcome for the entire system. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Skip to content Search this site Open Source Platforms Infrastructure Systems Physical Infrastructure Video Engineering & AR/VR Artificial Intelligence Watch Videos POSTED ON NOVEMBER 11, 2026 TO ML APPLICATIONS Intelligent Delivery: Making Every Unit of Compute Serve Better Ads By Zhaojun Zhang, Qinwei Zhu, Gang Li, Jianwei Xiao, Yanan Wang, Hongmei Li, Deepak Vijaywargi, Ke Pan, Li Yu Ads ranking models are growing toward LLM scale faster than the hardware to run them can keep up.",
+        "Problem & Context: Skip to content Search this site Open Source Open Source Meta Open Source Platforms Android iOS Web Infrastructure Systems Core Infra Data Infrastructure DevInfra Production Engineering Security & Privacy Research Publications Physical Infrastructure Connectivity Data Center Engineering Networking & Traffic Research Publications Video Engineering & AR/VR Video Engineering Virtual Reality Research Publications Artificial Intelligence ML Applications AI Research Research Publications Watch Videos POSTED ON NOVEMBER 11, 2026 TO ML Applications Intelligent Delivery: Making Every Unit of Compute Serve Better Ads By Zhaojun Zhang, Qinwei Zhu, Gang Li, Jianwei Xiao, Yanan Wang, Hongmei Li, Deepak Vijaywargi, Ke Pan, Li Yu Ads ranking models are growing toward LLM scale faster than the hardware to run them can keep up.",
         "Technical Implementation: An extra unit of compute has more impact on some ad requests, models, and chips than on others.",
         "Deployment & Impact: The challenge is deciding where to allocate it to get the best outcome for the entire system."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -416,7 +416,7 @@
         "Technical Implementation: Our current factuality checker feeds a reasoning model everything we know about a title (like metadata and text assets) and asks it to judge synopsis factuality according to a rigorous rubric.",
         "Deployment & Impact: There are two main limitations of this approach that we want to optimize: High cost of long-context reasoning calls: Each decision requires expensive, long-context model calls to reasoning models, which doesn’t scale well when we want to check multiple titles, episodes, languages, and style variants."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -436,7 +436,7 @@
         "Technical Implementation: Someone still needs to find the useful signal in several logs, decide whether the cause sits in their code or the platform, and determine whether to retry, reconfigure, or escalate.",
         "Deployment & Impact: Even a small share of difficult failures can consume engineering time, waste compute, and interrupt critical data pipelines."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -448,120 +448,120 @@
     {
       "id": "story_live_23",
       "category": "BIG TECH",
-      "headline": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed ' chopstick ' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself.",
-      "why_it_matters": "SpaceX CEO Elon Musk said during the company's third-quarter earnings call that \"success is not guaranteed on these first flights, but I'd say it's more likely than not that this succeeds next flight.\" While not a complete success, in that the company was unable to recover the entire launch vehicle, it sti … Read the full story at The Verge. This marks a notable development for engineering teams working in big tech.",
+      "headline": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence , a clinical AI platform used by healthcare professionals that generates answers based on medical information from sources like The New England Journal of Medicine.",
+      "why_it_matters": "Participants will use a new iOS app to ask medical questions and then rate the responses based on criteria including accuracy, detail, and relevance. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: The Verge Tech focuses on solving key constraints regarding watch spacex successfully execute the first ‘chopstick’ catch of starship.",
-        "Technical Implementation: The company has performed ' chopstick ' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself.",
-        "Deployment & Impact: SpaceX CEO Elon Musk said during the company's third-quarter earnings call that \"success is not guaranteed on these first flights, but I'd say it's more likely than not that this succeeds next flight.\" While not a complete success, in that the company was unable to recover the entire launch vehicle, it sti … Read the full story at The Verge."
+        "Problem & Context: Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are.",
+        "Technical Implementation: The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence , a clinical AI platform used by healthcare professionals that generates answers based on medical information from sources like The New England Journal of Medicine.",
+        "Deployment & Impact: Participants will use a new iOS app to ask medical questions and then rate the responses based on criteria including accuracy, detail, and relevance."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Verge Tech",
-          "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
+          "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
         }
       ]
     },
     {
       "id": "story_live_24",
       "category": "BIG TECH",
-      "headline": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
-      "summary": "For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering , in a video posted yesterday announcing Planeswalker , the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at the helm.",
-      "why_it_matters": "In 2024, Netflix announced it still planned to make a series based on the game, but it decided to rework it from the ground up. This marks a notable development for engineering teams working in big tech.",
+      "headline": "Listen to this: Armand Hammer’s Snakes & Ladders",
+      "summary": "I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Snakes & Ladders ranks among their best.",
+      "why_it_matters": "It doesn't have the seamless throughline production-wise that their collabs with Alchemist ( Haram and Mercy ) do, but it's still clearly the singular vision of the two men at its center. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: The Verge Tech focuses on solving key constraints regarding magic: the gathering is getting a netflix animated series. for real this time.",
-        "Technical Implementation: An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at the helm.",
-        "Deployment & Impact: In 2024, Netflix announced it still planned to make a series based on the game, but it decided to rework it from the ground up."
+        "Problem & Context: The Verge Tech focuses on solving key constraints regarding listen to this: armand hammer’s snakes & ladders.",
+        "Technical Implementation: Billy Woods and Elucid rarely miss, though, and my initial reaction is that Snakes & Ladders ranks among their best.",
+        "Deployment & Impact: It doesn't have the seamless throughline production-wise that their collabs with Alchemist ( Haram and Mercy ) do, but it's still clearly the singular vision of the two men at its center."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Verge Tech",
-          "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series"
+          "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review"
         }
       ]
     },
     {
       "id": "story_live_25",
       "category": "BIG TECH",
-      "headline": "Wacky PC and gadget gift guide",
-      "summary": "The people you want to buy holiday gifts for probably have wishlists, but what happened to surprise and delight? Sometimes, you just have to choose something a bit out of left field to stuff a stocking or fill a gift box and watch as you see your friend or family member's eyes light up. So besides getting your loved ones everything they want, you can also get them a few fun items that surprise and delight.",
-      "why_it_matters": "Wacky, even weird, tech that may not be exactly what someone expected to receive, but will certainly make them think of you when they use it. This marks a notable development for engineering teams working in big tech.",
+      "headline": "30 must-have PC tool gifts for hobbyists and makers",
+      "summary": "This is Tom's Hardware, after all. While the AI boom has forced prices to go up and up, there's still a lot of fun to be had putting a build together.",
+      "why_it_matters": "Researching your parts, weighing up the pros and cons, then putting it all together. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Here are some interesting and unusual gadgets for the PC builder or tech lover in your life: Ultra Slim External CD/DVD drive (8 in 1 USB 3.0 Hub): $35.99 SUIDECK's portable USB-connected optical and media reader peripheral also has USB HUB functionality.",
-        "Technical Implementation: So besides getting your loved ones everything they want, you can also get them a few fun items that surprise and delight.",
-        "Deployment & Impact: Wacky, even weird, tech that may not be exactly what someone expected to receive, but will certainly make them think of you when they use it."
+        "Problem & Context: While the AI boom has forced prices to go up and up, there's still a lot of fun to be had putting a build together.",
+        "Technical Implementation: You'll need tools to build, but also to maintain, clean, and repair: your PC is going to need it all at some stage.",
+        "Deployment & Impact: I've built my own toolkit over the years."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/wacky-pc-and-gadget-gift-guide-surprise-tech-lovers-with-10-different-options-like-wireless-power-buttons-dvd-burner-usb-hubs-and-clamp-on-pegboards"
+          "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/30-must-have-pc-tool-gifts-for-hobbyists-and-makers-essential-bench-upgrades-for-enthusiasts-with-a-project-from-electric-screwdrivers-to-cordless-air-dusters"
         }
       ]
     },
     {
       "id": "story_live_26",
       "category": "BIG TECH",
-      "headline": "Samsung's 1TB 990 SSD drops to 19 cents per GB amid the memory crisis — grab it for $40 off",
-      "summary": "Getting your hands on fast NVMe storage for your PC or laptop has become extremely challenging. That said, the Samsung 990 SSD is currently available at a discounted price of $189.99 , against its original list price of $229.99 on Amazon.",
-      "why_it_matters": "Although the $40 saving might not seem that impressive, deals on high-performance internal SSDs are becoming harder to come by amid the ongoing NAND and DRAM crisis. This marks a notable development for engineering teams working in big tech.",
+      "headline": "Nvidia engineer leaves company over lack of transparency around Jensen Huang’s exit, details decision",
+      "summary": "Just days after Jensen Huang suddenly resigned from his position at Nvidia , an Nvidia Robot Research Engineer said that he would leave the company as well. But more than just showing support for the former CEO with a generic “I stand with Jensen” message, Darrel Dai laid out several reasons for the decision on X.",
+      "why_it_matters": "I’ve decided to leave NVIDIA. This marks a notable development for engineering teams working in big tech.",
       "key_points": [
-        "Problem & Context: Although the $40 saving might not seem that impressive, deals on high-performance internal SSDs are becoming harder to come by amid the ongoing NAND and DRAM crisis.",
-        "Technical Implementation: It was introduced earlier this year with MSRPs of $269.99 for the 1TB model and $529.99 for the 2TB model.",
-        "Deployment & Impact: The 1TB model offers sequential read and write speeds of up to 7,150 MB/s and 6,450 MB/s, making it an excellent option for everyday computing, gaming, and handling large files."
+        "Problem & Context: But more than just showing support for the former CEO with a generic “I stand with Jensen” message, Darrel Dai laid out several reasons for the decision on X.",
+        "Technical Implementation: Those decisions helped build the infrastructure that powers today’s AI.I have seen that same vision in physical AI: investing in robotics, sharing open-source tools and projects, and building computing platforms that bring AI into the physical world.",
+        "Deployment & Impact: This is the work I do every day—and a future I believe in.But what matters most to me is the culture he helped build.Engineers are encouraged to explore, take risks, and learn from mistakes."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/pc-components/samsungs-1tb-990-ssd-drops-to-19-cents-per-gb-amid-the-memory-crisis-grab-it-for-usd40-off"
+          "url": "https://www.tomshardware.com/tech-industry/robotics-engineer-leaves-nvidia-over-lack-of-transparency-around-jensen-huangs-exit-details-decision-joins-chorus-of-disgruntled-staff-as-petition-to-reinstate-former-ceo-passes-150-000-signatures"
         }
       ]
     },
     {
       "id": "story_live_27",
       "category": "STARTUPS",
-      "headline": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "Skip to content TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: HEATHER DIEHL / GETTY IMAGES VENTURE Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say Marina Temkin Dominic-Madori Davis 2:43 PM PST · November 13, 2026 It was the resignation heard across the world. Jensen Huang, Nvidia’s embattled CEO who co-founded and led the company for 33 years, had officially stepped down.",
-      "why_it_matters": "“It’s like a bomb went off,” one neocloud founder told TechCrunch when he first heard the news. This marks a notable development for engineering teams working in startups.",
+      "headline": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "summary": "TechCrunch Desktop Logo TechCrunch Mobile Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Search Submit Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us Image Credits:Bharat Semi AI Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market Jagmeet Singh 3:30 PM PST · November 15, 2026 Bharat Semi, an Indian semiconductor startup, has raised $24 million in seed funding to develop AI-enabled image sensors, as it seeks to win customers in the United States and elsewhere. The investment comes as the nearly five-year-old, pre-revenue startup says it has secured design wins with U.S.",
+      "why_it_matters": "defense technology company General Atomics and India’s Kaynes Semicon. This marks a notable development for engineering teams working in startups.",
       "key_points": [
-        "Problem & Context: Skip to content TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: HEATHER DIEHL / GETTY IMAGES VENTURE Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say Marina Temkin Dominic-Madori Davis 2:43 PM PST · November 13, 2026 It was the resignation heard across the world.",
-        "Technical Implementation: “It’s like a bomb went off,” one neocloud founder told TechCrunch when he first heard the news.",
-        "Deployment & Impact: “If that direction changes, it’ll be a big blow to so many young companies,” said Maria Davidson, founder of Relational Capital."
+        "Problem & Context: TechCrunch Desktop Logo TechCrunch Mobile Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Search Submit Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us Image Credits:Bharat Semi AI Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market Jagmeet Singh 3:30 PM PST · November 15, 2026 Bharat Semi, an Indian semiconductor startup, has raised $24 million in seed funding to develop AI-enabled image sensors, as it seeks to win customers in the United States and elsewhere.",
+        "Technical Implementation: India has committed billions of dollars to build up a domestic semiconductor industry, with a hope to become an alternative manufacturing hub as U.S.",
+        "Deployment & Impact: The New Delhi-based startup is developing programmable image sensors that combine image capture, processing, and AI capabilities on a single chip, reducing the need to send visual data to separate processors."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "TechCrunch Startups",
-          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
         }
       ]
     },
     {
       "id": "story_live_28",
       "category": "STARTUPS",
-      "headline": "AI agent startup LangChain hits $3B valuation",
-      "summary": "TechCrunch Desktop Logo TechCrunch Mobile Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Search Submit Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us In Brief Posted: 11:37 AM PST · November 13, 2026 Image Credits:Getty Images Julie Bort AI agent startup LangChain hits $3B valuation Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday. That’s more than double its $1.25 billion valuation when it raised $125 million about a year ago, led by IVP.",
-      "why_it_matters": "LangChain began in 2022 as a popular open source project that handled the kinds of tasks that early-stage LLMs found difficult, like searching the web, calling APIs, and interacting with databases. This marks a notable development for engineering teams working in startups.",
+      "headline": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "summary": "Skip to content TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: STUDIO 642 / GETTY IMAGES MEDIA & ENTERTAINMENT Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending Anthony Ha 10:29 AM PST · November 15, 2026 Here’s a big promise: A new Kickstarter campaign aims to usher in the “return of the human internet.” That’s the tagline of a crowdfunding campaign for The Phoenix Project, an initiative from the online culture and commentary magazine Flaming Hydra. If you back The Phoenix Project, you’re supporting three things — a one-off print magazine designed to celebrate “the values and fun of the early internet,” a new e-book service for libraries, and a newsletter subscription/archiving program that’s also designed for libraries.",
+      "why_it_matters": "To Flaming Hydra’s lead editor Maria Bustillos, these disparate projects are “basically all one thing,” tied together by the goal of “protecting freedom of information” and fulfilling the “promise of the early internet, where you’re making information available to as many people as possible, while still protecting the right of artists and authors to make a living.” Bustillos told me that these issues have been highlighted on Flaming Hydra itself, for example when Tal Levin wrote about finding countless AI-generated clones of his book on Amazon. This marks a notable development for engineering teams working in startups.",
       "key_points": [
-        "Problem & Context: TechCrunch Desktop Logo TechCrunch Mobile Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Search Submit Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us In Brief Posted: 11:37 AM PST · November 13, 2026 Image Credits:Getty Images Julie Bort AI agent startup LangChain hits $3B valuation Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday.",
-        "Technical Implementation: LangChain began in 2022 as a popular open source project that handled the kinds of tasks that early-stage LLMs found difficult, like searching the web, calling APIs, and interacting with databases.",
-        "Deployment & Impact: With its open source roots, the startup says its agent creation and management software, LangSmith, is not trying to lock users into any particular model, cloud, or ecosystem, unlike the major clouds or frontier AI labs."
+        "Problem & Context: Skip to content TechCrunch Desktop Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Site Search Toggle Mega Menu Toggle Topics Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture More from TechCrunch Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrunch Brand Studio Contact Us IMAGE CREDITS: STUDIO 642 / GETTY IMAGES MEDIA & ENTERTAINMENT Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending Anthony Ha 10:29 AM PST · November 15, 2026 Here’s a big promise: A new Kickstarter campaign aims to usher in the “return of the human internet.” That’s the tagline of a crowdfunding campaign for The Phoenix Project, an initiative from the online culture and commentary magazine Flaming Hydra.",
+        "Technical Implementation: If you back The Phoenix Project, you’re supporting three things — a one-off print magazine designed to celebrate “the values and fun of the early internet,” a new e-book service for libraries, and a newsletter subscription/archiving program that’s also designed for libraries.",
+        "Deployment & Impact: By “creating an ecosystem that is based in people working together, who are offering their stuff in a context that is controlled and doesn’t allow” others to create and sell AI-generated clones, Bustillos said Flaming Hydra is “part of the human project.” “AI is not this unstoppable force,” she added."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "TechCrunch Startups",
-          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+          "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/"
         }
       ]
     },
@@ -576,7 +576,7 @@
         "Technical Implementation: Operating since September 2022, the Russia-based ransomware group Qilin is the currently the most industrious ransomware-as-a-service gang, according to a report (PDF) this month by the cybersecurity firm NCC Group (KrebsOnSecurity profiled the administrator of the second most active ransomware group — The Gentlemen — in June).",
         "Deployment & Impact: Its members practice the “double extortion” model, stealing sensitive data before encrypting systems and threatening to publish the files online."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -589,14 +589,14 @@
       "id": "story_live_30",
       "category": "CYBERSECURITY",
       "headline": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-      "summary": "Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Microsoft Fixes Nearly 1,100 Security Vulnerabilities November 10, 2026 16 Comments Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month’s Patch Tuesday addresses 63 critical flaws — including a zero-day in Microsoft Outlook — and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
+      "summary": "Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Microsoft Fixes Nearly 1,100 Security Vulnerabilities November 10, 2026 19 Comments Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month’s Patch Tuesday addresses 63 critical flaws — including a zero-day in Microsoft Outlook — and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
       "why_it_matters": "November’s patch release from Redmond tackles 1,093 vulnerabilities, fixing 63 “critical” flaws that can be exploited to seize control over a Windows system with little or no help from users. This marks a notable development for engineering teams working in cybersecurity.",
       "key_points": [
-        "Problem & Context: Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Microsoft Fixes Nearly 1,100 Security Vulnerabilities November 10, 2026 16 Comments Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software.",
+        "Problem & Context: Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Microsoft Fixes Nearly 1,100 Security Vulnerabilities November 10, 2026 19 Comments Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software.",
         "Technical Implementation: This month’s Patch Tuesday addresses 63 critical flaws — including a zero-day in Microsoft Outlook — and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
         "Deployment & Impact: November’s patch release from Redmond tackles 1,093 vulnerabilities, fixing 63 “critical” flaws that can be exploited to seize control over a Windows system with little or no help from users."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -608,120 +608,120 @@
     {
       "id": "story_live_31",
       "category": "CYBERSECURITY",
-      "headline": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-      "summary": "Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters.",
-      "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
+      "headline": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+      "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and related metadata without their explicit consent.",
+      "why_it_matters": "The company has 60 days to. This marks a notable development for engineering teams working in cybersecurity.",
       "key_points": [
-        "Problem & Context: Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.",
-        "Technical Implementation: The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters.",
-        "Deployment & Impact: Published by The Hacker News with documentation and production rollout details."
+        "Problem & Context: Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post.",
+        "Technical Implementation: The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and related metadata without their explicit consent.",
+        "Deployment & Impact: The company has 60 days to."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html"
+          "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html"
         }
       ]
     },
     {
       "id": "story_live_32",
       "category": "CYBERSECURITY",
-      "headline": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-      "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws.",
-      "why_it_matters": "Full protection from this flaw also requires rebuilding any C-language extensions installed on the server. This marks a notable development for engineering teams working in cybersecurity.",
+      "headline": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update.",
+      "why_it_matters": "\"The key was exposed by Fireworks, and the attacker used it to copy data from a read-only. This marks a notable development for engineering teams working in cybersecurity.",
       "key_points": [
-        "Problem & Context: A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server.",
-        "Technical Implementation: Updates released yesterday fix it, along with 51 other security flaws.",
-        "Deployment & Impact: Full protection from this flaw also requires rebuilding any C-language extensions installed on the server."
+        "Problem & Context: The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI.",
+        "Technical Implementation: \"The key was exposed by Fireworks, and the attacker used it to copy data from a read-only.",
+        "Deployment & Impact: \"The key was exposed by Fireworks, and the attacker used it to copy data from a read-only."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html"
+          "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html"
         }
       ]
     },
     {
       "id": "story_live_33",
       "category": "CYBERSECURITY",
-      "headline": "Cursor confirms security breach led to malicious Claude Code extension",
-      "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI.",
+      "headline": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments.",
       "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI.",
+        "Problem & Context: BleepingComputer focuses on solving key constraints regarding fbi warns artex ai hacking tool is powering global cyberattacks.",
         "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
         "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/"
+          "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/"
         }
       ]
     },
     {
       "id": "story_live_34",
       "category": "CYBERSECURITY",
-      "headline": "US disrupts North Korean campaign behind $400 million crypto theft",
-      "summary": "government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency.",
+      "headline": "TSMC employee data breach linked to cloud provider",
+      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction.",
       "why_it_matters": "Significantly impacts cybersecurity workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: BleepingComputer focuses on solving key constraints regarding us disrupts north korean campaign behind $400 million crypto theft.",
+        "Problem & Context: Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction.",
         "Technical Implementation: Integrates specialized engineering patterns released for Cybersecurity.",
         "Deployment & Impact: Published by BleepingComputer with documentation and production rollout details."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/"
+          "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/"
         }
       ]
     },
     {
       "id": "story_live_35",
       "category": "CLOUD",
-      "headline": "Microsoft's school email bill gives rivals something to smile about",
-      "summary": "The fallout from Microsoft's education price rises and service cuts continues as institutions weigh the prospect of bigger bills, and the Windows maker's rivals struggle not to pull \"I told you so\" faces. The main takeaways are that free student email and collaboration services are being retired, and storage entitlements are changing.",
-      "why_it_matters": "These changes generally apply at institutions' first renewal or extension on or after January 1, 2028. This marks a notable development for engineering teams working in cloud.",
+      "headline": "Microsoft lifts Indian cloud prices by 15 percent, cuts costs in China",
+      "summary": "Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Supercomputing OFF-PREM Microsoft lifts Indian cloud prices by 15 percent, cuts costs in China ASIA IN BRIEF PLUS: SEGA Japan suffers outage and data leak; India bans dead battery exports; Alibaba chip unit to float; and more Simon Sharwood APAC EDITOR 0 Published Sun 15 Nov 2026 // 23:46 UTC Make us preferred on Google READ MORE Amazon loses first batch of broadband satellites launched on custom rocket now FAA blames ground stop on faulty copper wiring 2 days ago Microsoft services restored to all customers, company says it's 'deeply sorry' 2 days ago Alibaba's Qwen3.8 re-educated with a more Western worldview 3 days ago Microsoft struggling to fix massive cloud outage that's taken down email and Intune 3 days ago Microsoft has announced massive price rises for commercial cloud services in India and New Zealand, but a substantial reduction in China. The software giant sells its cloudy services in many local currencies, at an equivalent rate to the prices it charges in the USA.",
+      "why_it_matters": "As exchange rates shift, so do the prices Microsoft charges around the world. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: Michael Meeks, CEO of Collabora Productivity, told The Register: \"Free was the bait on the hook, and Microsoft spent years reeling in schools' email accounts, documents, identity management and classrooms onto its cloud.\" A poster on the edugeek.net forums commented: \"This was always goi.",
-        "Technical Implementation: The main takeaways are that free student email and collaboration services are being retired, and storage entitlements are changing.",
-        "Deployment & Impact: These changes generally apply at institutions' first renewal or extension on or after January 1, 2028."
+        "Problem & Context: Jump to main content Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Supercomputing OFF-PREM Microsoft lifts Indian cloud prices by 15 percent, cuts costs in China ASIA IN BRIEF PLUS: SEGA Japan suffers outage and data leak; India bans dead battery exports; Alibaba chip unit to float; and more Simon Sharwood APAC EDITOR 0 Published Sun 15 Nov 2026 // 23:46 UTC Make us preferred on Google READ MORE Amazon loses first batch of broadband satellites launched on custom rocket now FAA blames ground stop on faulty copper wiring 2 days ago Microsoft services restored to all customers, company says it's 'deeply sorry' 2 days ago Alibaba's Qwen3.8 re-educated with a more Western worldview 3 days ago Microsoft struggling to fix massive cloud outage that's taken down email and Intune 3 days ago Microsoft has announced massive price rises for commercial cloud services in India and New Zealand, but a substantial reduction in China.",
+        "Technical Implementation: The software giant sells its cloudy services in many local currencies, at an equivalent rate to the prices it charges in the USA.",
+        "Deployment & Impact: Microsoft last week announced the new charges that will come into effect from January 1, 2027, and the news isn’t pleasant for customers in India, who face an increase of 15.7 percent for cloud services and up to 20 percent for some on-prem offerings."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Register",
-          "url": "https://www.theregister.com/saas/2026/11/14/microsofts-school-email-bill-gives-rivals-something-to-smile-about/5309296"
+          "url": "https://www.theregister.com/off-prem/2026/11/15/microsoft-lifts-indian-cloud-prices-by-15-percent-cuts-costs-in-china/5309993"
         }
       ]
     },
     {
       "id": "story_live_36",
       "category": "CLOUD",
-      "headline": "Big Tech takes a beating as online safety experts accuse companies of doing bare minimum",
-      "summary": "Jump to main content Search TOPICS Security All Security Cyber-crime Patches Research CSO Off-Prem All Off-Prem Edge and IoT Channel PaaS and IaaS SaaS On-Prem All On-Prem Systems Storage Networks HPC Personal Tech Cx0 Public Sector Software All Software AI and ML Applications Databases DevOps OS Platforms Virtualization Offbeat All Offbeat Columnists Supercomputing BOFH Legal Site News About Us Special Features All Special Features SC 26 Supercomputing Month 2026 Nvidia GTC Berlin 2026 Cybersecurity Month 2026 VMware Explore 2026 Cloud Infrastructure Month 2026 HPE: AI Explainers Agentic AI The Future of the Datacenter AWS:Reinvent Nvidia GTC Computex 2026 AI Infrastructure Month 2026 The State of Storage 2026 RSA Conference Vendor Voice All Vendor Voice Modernizing Financial Services with FIS and AWS Barco Infinidat Everpure Rubrik Make it real with Capgemini and AWS Money Movement Hub ZTE Nutanix: Scale Kubernetes. AWS New Horizon Digicert Netscout Resources Intelligence Webinars & Events Newsletters Search Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Supercomputing REG AD security Big Tech takes a beating as online safety experts accuse companies of doing bare minimum Accessing banned content is as easy as whipping out a thesaurus, Parliament's Communications and Digital Committee hears Connor Jones Connor Jones Cybersecurity reporter Published sat 14 Nov 2026 // 08:18 UTC Make us preferred on Google READ MORE Crackdown on UK medical record snooping after staff reported sneaking 300+ times this year 1 day ago Google promises its new smart specs won't give creeps their ideal view 2 days ago Shipping giant Maersk probes 'IT security incident,' data theft 3 days ago Ring robots ready to patrol paranoids’ pads 4 days ago Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques 4 days ago Technology companies are doing just enough to show a degree of compliance with the UK's Online Safety Act, but are failing to meet the needs of the individuals and young victims the legislation exists to protect, experts say.",
-      "why_it_matters": "A panel of online safety pros assembled before Parliament's Communications and Digital Committee on Tuesday, taking aim at the likes of Google, Microsoft, Meta, and ByteDance for failing to act on important matters. This marks a notable development for engineering teams working in cloud.",
+      "headline": "LEO gets a birthday bash, 75 years after clocking in",
+      "summary": "Business computing turns 75 this month, and Cambridge's Centre for Computing History is throwing a party for LEO, the machine that helped start it all. The LEO@75 event takes place on Saturday, November 28, from 10am to 5pm, with film screenings, historical displays, and hands-on activities for children.",
+      "why_it_matters": "The Register has written about the Centre for Computing History a few times. This marks a notable development for engineering teams working in cloud.",
       "key_points": [
-        "Problem & Context: Jump to main content Search TOPICS Security All Security Cyber-crime Patches Research CSO Off-Prem All Off-Prem Edge and IoT Channel PaaS and IaaS SaaS On-Prem All On-Prem Systems Storage Networks HPC Personal Tech Cx0 Public Sector Software All Software AI and ML Applications Databases DevOps OS Platforms Virtualization Offbeat All Offbeat Columnists Supercomputing BOFH Legal Site News About Us Special Features All Special Features SC 26 Supercomputing Month 2026 Nvidia GTC Berlin 2026 Cybersecurity Month 2026 VMware Explore 2026 Cloud Infrastructure Month 2026 HPE: AI Explainers Agentic AI The Future of the Datacenter AWS:Reinvent Nvidia GTC Computex 2026 AI Infrastructure Month 2026 The State of Storage 2026 RSA Conference Vendor Voice All Vendor Voice Modernizing Financial Services with FIS and AWS Barco Infinidat Everpure Rubrik Make it real with Capgemini and AWS Money Movement Hub ZTE Nutanix: Scale Kubernetes.",
-        "Technical Implementation: AWS New Horizon Digicert Netscout Resources Intelligence Webinars & Events Newsletters Search Sign in AI Security Software Microsoft Developer Open Source BOFH Who, Me? On Call Supercomputing REG AD security Big Tech takes a beating as online safety experts accuse companies of doing bare minimum Accessing banned content is as easy as whipping out a thesaurus, Parliament's Communications and Digital Committee hears Connor Jones Connor Jones Cybersecurity reporter Published sat 14 Nov 2026 // 08:18 UTC Make us preferred on Google READ MORE Crackdown on UK medical record snooping after staff reported sneaking 300+ times this year 1 day ago Google promises its new smart specs won't give creeps their ideal view 2 days ago Shipping giant Maersk probes 'IT security incident,' data theft 3 days ago Ring robots ready to patrol paranoids’ pads 4 days ago Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques 4 days ago Technology companies are doing just enough to show a degree of compliance with the UK's Online Safety Act, but are failing to meet the needs of the individuals and young victims the legislation exists to protect, experts say.",
-        "Deployment & Impact: A panel of online safety pros assembled before Parliament's Communications and Digital Committee on Tuesday, taking aim at the likes of Google, Microsoft, Meta, and ByteDance for failing to act on important matters."
+        "Problem & Context: It's an interactive computer museum just off Coldhams Lane in Cambridge, and back in 2018 it won National Lottery funding to help it \"preserve, archive and digitise a range of LEO Computers artefacts, documents and personal memories.\" Admission supports the museum charity, with student and concession tickets at £10 and family tickets starting at £15.",
+        "Technical Implementation: The LEO@75 event takes place on Saturday, November 28, from 10am to 5pm, with film screenings, historical displays, and hands-on activities for children.",
+        "Deployment & Impact: The Register has written about the Centre for Computing History a few times."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "The Register",
-          "url": "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302"
+          "url": "https://www.theregister.com/offbeat/2026/11/15/leo-gets-a-birthday-bash-75-years-after-clocking-in/5308806"
         }
       ]
     },
@@ -736,7 +736,7 @@
         "Technical Implementation: How it works You install the emulator, start it, and point your tools at the local endpoint.",
         "Deployment & Impact: You set environment variables so the AWS SDK talks to your laptop instead of AWS, and your application code stays unchanged."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -756,7 +756,7 @@
         "Technical Implementation: The new Amazon Bedrock AgentCore Runtime is a single field on the runtime you already have, and Web Answer is a tool you attach to a gateway you already run.",
         "Deployment & Impact: To opt in, you set platformVersion to V2 when you create or update a runtime."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -776,7 +776,7 @@
         "Technical Implementation: On every occasion, we mentioned our commitment to open sourcing it so that developers could run their own browser engine on their own Cloudflare accounts if they want to.",
         "Deployment & Impact: You can read the code, run it locally, change it, and deploy your own instance to Cloudflare Workers."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -796,7 +796,7 @@
         "Technical Implementation: Just a few weeks ago, ARTEX — an open source agentic penetration testing system that automates offensive security workflows — was the only framework available.",
         "Deployment & Impact: In just the last three days, we have seen over 50 framework families attempt to scan Cloudflare customers globally."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -816,7 +816,7 @@
         "Technical Implementation: Today, Microsoft and fal are helping developers find the right tools for their workloads.",
         "Deployment & Impact: We are excited to announce that Kling, LTX, and MiniMax video models are rolling out to in public preview in Microsoft Foundry through our new partnership with fal."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -836,7 +836,7 @@
         "Technical Implementation: This approach manages cost, performance, governance, and reliability as adoption grows.",
         "Deployment & Impact: Read the IDC InfoBrief Nearly 90% of organizations apply financial thresholds before approving AI initiatives."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -849,14 +849,14 @@
       "id": "story_live_43",
       "category": "TECHNOLOGY RESEARCH",
       "headline": "How far can we push computing?",
-      "summary": "SKIP TO CONTENT Menu MIT Technology Review Sign in SUBSCRIBE & SAVE 50% The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Menu MIT Technology Review Sign in SUBSCRIBE & SAVE 50% The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue COMPUTING How far can we push computing? Nowadays big advances are made by scaling up—think more chips packed into ever-bigger data centers. But as we near the ceiling of what we can build, there’s still plenty of room below, at the fundamental physical limits of computing.",
-      "why_it_matters": "Richard Feynman speaks at CERN in Geneva, Switzerland, in 1965. This marks a notable development for engineering teams working in technology research.",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
+      "why_it_matters": "On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom,” on how we might manipulate and control things on an extremely small scale. This marks a notable development for engineering teams working in technology research.",
       "key_points": [
-        "Problem & Context: SKIP TO CONTENT Menu MIT Technology Review Sign in SUBSCRIBE & SAVE 50% The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Menu MIT Technology Review Sign in SUBSCRIBE & SAVE 50% The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue COMPUTING How far can we push computing? Nowadays big advances are made by scaling up—think more chips packed into ever-bigger data centers.",
-        "Technical Implementation: But as we near the ceiling of what we can build, there’s still plenty of room below, at the fundamental physical limits of computing.",
-        "Deployment & Impact: On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom,” on how we might manipulate and control things on an extremely small scale."
+        "Problem & Context: On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom,” on how we might manipulate and control things on an extremely small scale.",
+        "Technical Implementation: Biology already did versions of this (a living cell keeps its instructions in a wisp of DNA), so all of this was plainly permitted by the laws of physics.",
+        "Deployment & Impact: We simply had not built the tools yet."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -876,7 +876,7 @@
         "Technical Implementation: As temperature rises during charging, a smartphone's battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces battery capacity.",
         "Deployment & Impact: For anyone building products in the portable power category, this creates an uncomfortable gap between specification and experience."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -888,60 +888,60 @@
     {
       "id": "story_live_45",
       "category": "STARTUPS",
-      "headline": "SpaceX catches the Starship to end Flight 15",
-      "summary": "Trending discussion on Hacker News with score of 797 points and 538 developer comments.",
+      "headline": "Universal XSS in uBlock Origin from website-driven element picker",
+      "summary": "Trending discussion on Hacker News with score of 44 points and 3 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding spacex catches the starship to end flight 15.",
+        "Problem & Context: Hacker News focuses on solving key constraints regarding universal xss in ublock origin from website-driven element picker.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.spacex.com/launches/starship-flight-15"
+          "url": "https://iter.ca/post/ubo-uxss/"
         }
       ]
     },
     {
       "id": "story_live_46",
       "category": "STARTUPS",
-      "headline": "Lovable apps expose passport details and more than 200K private messages",
-      "summary": "Trending discussion on Hacker News with score of 674 points and 281 developer comments.",
+      "headline": "Old Bitly links are being hijacked",
+      "summary": "Trending discussion on Hacker News with score of 191 points and 100 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding lovable apps expose passport details and more than 200k private messages.",
+        "Problem & Context: Hacker News focuses on solving key constraints regarding old bitly links are being hijacked.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.crissyfield.de/research/lovable-en/"
+          "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/"
         }
       ]
     },
     {
       "id": "story_live_47",
       "category": "STARTUPS",
-      "headline": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "summary": "Trending discussion on Hacker News with score of 119 points and 38 developer comments.",
+      "headline": "Coles hit by a cybersecurity incident",
+      "summary": "Trending discussion on Hacker News with score of 48 points and 23 developer comments.",
       "why_it_matters": "Significantly impacts startups workflows, altering how developers deploy and maintain scalable software architectures.",
       "key_points": [
-        "Problem & Context: Hacker News focuses on solving key constraints regarding how did woz write the apple 1 basic before building the computer?.",
+        "Problem & Context: Hacker News focuses on solving key constraints regarding coles hit by a cybersecurity incident.",
         "Technical Implementation: Integrates specialized engineering patterns released for Startups.",
         "Deployment & Impact: Published by Hacker News with documentation and production rollout details."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://retrocomputing.stackexchange.com/questions/17957"
+          "url": "https://www.colesgroup.com.au/updates/"
         }
       ]
     },
@@ -956,7 +956,7 @@
         "Technical Implementation: Mine is a tiny Vercel service that makes glowing, Avengers-themed hexagon badges.",
         "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -976,7 +976,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
@@ -996,7 +996,7 @@
         "Technical Implementation: Integrates specialized engineering patterns released for Developers.",
         "Deployment & Impact: Published by DEV Community with documentation and production rollout details."
       ],
-      "published_at": "2026-11-15T08:24:15.580628+05:30",
+      "published_at": "2026-11-16T08:25:00.009298+05:30",
       "importance": 7,
       "sources": [
         {
